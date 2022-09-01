@@ -24,6 +24,8 @@
 
 - 要求学生清晰明确：他们必须能够看见自己的进步。
 
+刻意练习提升能力：“后天技能和工作能力，在经过特定的刻意练习后，可以得到进步和改善；伴随着循序渐进的练习，一段时间之后，它们最终将会提升到专家的水平。”（Eticsson and Pool，2016，p.100)
+
 ## 参考文献
 
 Ericsson, K. A., Krampe, R. T., & Tesch-Römer, C. (1993). The role of deliberate practice in the acquisition of expert performance. *Psychological Review*, *100*(3), 363. [Ericsson et al - The Role of Deliberate Practice in the Acquisition of Expert Performance](https://notes.andymatuschak.org/z6xWa5QDyUmvuDqZ9Z7sANrfjf8sLoJ7BnspW)

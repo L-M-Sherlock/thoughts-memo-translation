@@ -94,4 +94,40 @@
 
 ## 丛林法则与信仰
 
+如果[零和博弈理论](https://en.wikipedia.org/wiki/Game_theory)你不太通晓，试图回忆下[Rudyard Kipling](https://en.wikipedia.org/wiki/Rudyard_Kipling).写的[The Jungle Book](https://en.wikipedia.org/wiki/The_Jungle_Book)吧(暂未注入Markdown)
+
+ Wolfpack Creed的定规性角色在宗教历史中饱有回声。一个宗教要好好存活，控制好教徒是至关重要的。(暂未注入Markdown)
+
+## 霸凌之父母策略
+
+怎样的养育方式有助于孩子在霸凌的世界生存？[Raymond Moore](https://supermemo.guru/wiki/Raymond_Moore) 可能会愿意[孩子和父母一起成长到8至10岁](https://supermemo.guru/wiki/Raymond_Moore:_On_early_institutionalization) (暂未注入Markdown)
+
+保护型策略也许会让有社会困难的孩子最后难以对付欺凌。(暂未注入Markdown)
+
+我相信一些金子般平衡的策略也许会带来最好的效果。保护策略亦有助于确保不受阻碍的大脑成长。(暂未注入Markdown)
+
+似乎可控的对欺凌的暴露有助于良好和健康的适应。这和暴露在细菌和[急性压力](https://supermemo.guru/wiki/Stress_resilience)，低温等条件下没啥区别。(暂未注入Markdown)
+
+### 在霸凌中存活的故事
+
+我喜欢看到孩子们在没有监督的情况下自由地在运动场或者街区绿道公园玩耍的情景。身体越年轻，心灵越无畏。他们很容易发展出一些行为的潜在源头，诸如欺凌。(暂未注入Markdown)
+
+### 非干扰的监督
+
+我偶然充当一个不干扰的“监督者”形象。当我看到这些孩子们打闹的时候，我不仅仅对他们说「仃下来，回家！」，这样是徒劳的。这让冲突并未解决(暂未注入Markdown)
+
+### 为成人世界做准备
+
+大多数读者会否认2016年川普在总统选举上做出来的那些极端行为。饶是如此，他就是个典型的欺凌派人格，试图反对一切不认可的意见。(暂未注入Markdown)
+
+我相信欺凌（在某些情况下）是好的，也许它可以用作教育工具，但其需要一定的监管方能在社会背景下采用。
+
+为了预防校园霸凌，我们需要减少冲突滋生的土壤，增加包容空间，让逃跑成为可能，允许跨龄段结合，增加成人孩子比例，(暂未注入Markdown)
+
+受Peter Gray（彼得 · 格雷）有关[民主学校](https://supermemo.guru/wiki/Democratic_school)经验启发，我看到了[为孩童自由之解药](https://supermemo.guru/wiki/Gray:_Solution_to_bullying).。
+
+## 社会化：暴力困境
+
+暴力的作用在现代社会日益递减。家长们应该将他们的孩子暴露于暴力之下吗（仿佛他们在学校里接受过的那样）？(暂未注入Markdown)
+
 **6 岁的甘地**

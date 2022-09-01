@@ -1,4 +1,4 @@
-# 十五条宣言：引发教育革命
+# 第十五条宣言：启动教育革命
 
 原文：[Manifesto 15: Triggering the Education Revolution | Psychology Today](https://www.psychologytoday.com/us/blog/freedom-learn/201501/manifesto-15-triggering-the-education-revolution)
 

@@ -1,4 +1,4 @@
-# 参与喜欢和渴望的神经回路
+# 喜欢和渴望所涉及的神经回路
 
 原文：https://supermemo.guru/wiki/Neural_circuits_involved_in_liking_and_wanting
 
