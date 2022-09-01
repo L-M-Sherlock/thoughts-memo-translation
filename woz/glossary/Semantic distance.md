@@ -1,0 +1,7 @@
+# 语义距离
+
+原文：[Semantic distance - supermemo.guru](https://supermemo.guru/wiki/Semantic_distance)
+
+**语义距离**是一种度量，它基于**[语义网络](https://supermemo.guru/wiki/Semantic_network)**中分割一对节点的边数所定义。在[这个网站](https://supermemo.guru/wiki/SuperMemo_Guru)，**语义距离**不严格地用来指代**知识之间的差距**，即分割两个现实描述[模型](https://supermemo.guru/wiki/Model)（或两个知识集合）的知识数量。例如，一个学生对万有引力的理解很差，老师试图提升他/她对行星运动的理解，此时学生头脑中的太阳系模型和老师头脑中的模型之间的语义距离就很大。渐进学习的目的是将学习过程划分为小的增量，每次学习中，知识的一小部分都将现有知识的语义网络向前推进了一小步。渐进的方式使学习变得简单而有趣，它最终能覆盖的语义距离几乎没有限制。在[被动式的学校教育](https://supermemo.guru/wiki/Passive_schooling)过程中，**语义距离**往往过大，这导致了[解码失败罚反馈](https://supermemo.guru/wiki/Decoding_failure_penalty)，构成了[学校惩罚](https://supermemo.guru/wiki/School_drive)的一个重要组成部分，破坏了[学习的乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)。而在[自由学习](https://supermemo.guru/wiki/Free_learning)中，在[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的导向下，渐进方法是自然的。自由渐进学习总是[语义学习](https://supermemo.guru/wiki/Semantic_learning)，并以短**语义距离**推进为基础，这有助于优化在知识空间中的学习轨迹。这种导向性、渐进性的方法。使其更容易在语义网络中找到最短的路径（也就是以最小成本学习，并获得高[连贯性](https://supermemo.guru/wiki/Coherence)和高[适用性](https://supermemo.guru/wiki/Applicability)的收益）。
+
+在[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)中，对**语义距离**的一个粗略衡量是[条目](https://supermemo.guru/wiki/Item)数量。条目数量也可以用来量化学习目标，这也可以用从起点到完成学习任务所需要穿越的**语义距离**来看待。例如，[高级英语](https://supermemo.guru/wiki/Advanced_English)有多达 40,000 多个条目，并这可以看作是衡量初学者和经常写作的英语母语者之间的**语义距离**。很明显，这样的距离不可能在一节英语课上完成（见：[在一个月内的 13 年学校](https://supermemo.guru/wiki/13_years_of_school_in_a_month)）。

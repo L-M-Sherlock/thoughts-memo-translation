@@ -1,0 +1,13 @@
+# 不适的时间压力往往会毁掉创造性工作
+
+原文：[Inappropriate time pressures often harm creative work (andymatuschak.org)](https://notes.andymatuschak.org/zv3oHi3CgUz3yjrKceuSznBQXYQeEWVW7KW)
+
+[约束往往会带来创造力](https://notes.andymatuschak.org/zfsf2tFq4u5TuCgCMyWgFhwrTSMofHby1ae)，但是，当约束的性质与手头的工作完全不兼容时，就另当别论了。例如, when you’re not what direction to head next in a design, “Crazy Eights” can help: fold a piece of paper into eight parts, then spend one minute sketching an idea into each part. Great! If you’ve got momentum on a project, setting a timeline can help you make better trade-offs, satisfice into “done”, and sometimes even focus. But if you’re trying to finish up a major creative project before some deadline, and you find yourself in a state that’s incompatible with the deadline, then that time pressure isn’t going to provide helpful focus: it’s going to make you feel like a failure ([Scarcity mindset](https://notes.andymatuschak.org/znutNAv4ejW7nWwtzCnXQfAbbK8jS8DeAC3)) and make the work even worse.
+
+这是[在创造性工作中执着于产出往往弄巧成拙](https://notes.andymatuschak.org/zWhZZuWVtFXsPNL8Ph3po7R8BEDztTSsN1X)的特例。另一个也相关的笔记：[深度研究需要比科技行业更慢的节奏](https://notes.andymatuschak.org/zhY2FQgMFwzqH7FKB8bnMvNGng9jmKtYshbu)
+
+## 统计书的故事
+
+这里有一个有关我的经历的实打实的呃故事。我正在制造一个有关新设计的大型演示视频的途中。 I’d previously set myself the goal of finishing the video by the end of the month. At the start of the week, I sketched out what I’d need to do to make that happen. It looked just barely possible, but everything needed to go perfectly all week to make it happen.
+
+在最后一周的周二晚上，我逐渐熟练读完了该统计读本，我试图去适应该视频。The sections I’d previously prepared wouldn’t work with the script after all; I needed to use a later chapter. So I flipped to the later chapter and started looking for a passage I could adapt. This is where the trouble started. Because I was in a hurry, I wasn’t really *reading* the textbook; I was just pattern matching for something that would solve my problem. I didn’t give myself enough time to really understand what was being said, so nothing seemed to match. I’d get harried and flip to the next section, which I’d understand even less well. But I didn’t really understand that this was what was happening—I thought I just needed to keep searching for the right spot. After somehow burning 90 minutes of flailing without any real progress, I finally realized that I needed to stop and actually read the textbook. I did that, and after 30 minutes I had what I needed.

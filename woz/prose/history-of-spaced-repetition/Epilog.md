@@ -1,0 +1,3 @@
+# 后记
+
+[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)[诞生于 1985 年 7 月 31 日](https://supermemo.guru/wiki/The_birthday_of_spaced_repetition:_July_31,_1985)。当下高达[数亿](https://supermemo.guru/wiki/Exponential_growth_of_the_popularity_of_Algorithm_SM-2)学生在使用间隔重复。我开始动笔时，这两个事实不为我所知。虽有此篇文字描绘间隔重复的来龙去脉，但这段往事可能仍然会在人类历史长河中默默无闻。我谨为未来的网络考古学家撰写此文，以便其描绘真实图景。不过展望不远的未来，智能机器[运转如飞](https://supermemo.guru/wiki/Artificial_intelligence_needs_to_sleep) ，而审其现状，或可寻得微毫一脉，溯源第二千年之末，波兰小城波兹南中，一人跌撞踉跄开新河？
