@@ -38,6 +38,8 @@
 
 - [大脑是完美的适应装置](https://supermemo.guru/wiki/Brain_is_a_perfectly_adaptable_device) * 在自由的条件下，大脑发育得最好
 
+- [将创造力与 ADHD 混淆](https://supermemo.guru/wiki/Confusing_creativity_with_ADHD) * 有创造力的孩子都很狂野
+
 ## 记忆板块
 
 - [遗忘曲线](https://supermemo.guru/wiki/Forgetting_curve) *

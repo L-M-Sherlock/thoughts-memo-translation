@@ -8,12 +8,12 @@
 
 ------
 
-*引用的摘录出自以下[参考资料](https://supermemo.guru/wiki/References)：*
+引用的摘录出自以下[参考资料](https://supermemo.guru/wiki/References)：
 
 标题：**快乐感知与大脑**
 
-作者：Irving Biederman和 Edward A. Vessel
+作者：Irving Biederman 和 Edward A. Vessel
 
-链接： https://www.jstor.org/stable/27858773
+链接：https://www.jstor.org/stable/27858773
 
-反向链接： [学习的乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)
+反向链接：[学习的乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)

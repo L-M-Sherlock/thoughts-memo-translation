@@ -10,4 +10,6 @@
 
 Drucker, P. F. (1999). Knowledge-Worker Productivity: The Biggest Challenge. *California Management Review*, *41*(2), 17.
 
+> 对知识工作者生产率的研究才刚刚开始。在公元 2000 年的今天，我们对知识工作者生产率的研究，与我们在一个世纪以前，对体力劳动者生产率的研究差不多。
+
 Matuschak, A. (2019, December). *Taking knowledge work seriously*. Presented at the Stripe Convergence, San Francisco.

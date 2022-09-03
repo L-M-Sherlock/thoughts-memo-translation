@@ -1,4 +1,4 @@
-# 表扬在学习中的破坏力
+# 表扬如何毁掉学习
 
 原文：[Destructive impact of praise in learning - supermemo.guru](https://supermemo.guru/wiki/Destructive_impact_of_praise_in_learning)
 
@@ -6,9 +6,9 @@
 
 ## 重塑大脑连接
 
-学校的主要罪过之一是学习奖励系统的腐化。在健康的学习中，大脑天然地从学习的效果中得到奖励。在[学校教育](https://supermemo.guru/wiki/Schooling)中，一系列[虚假奖励](https://supermemo.guru/wiki/School_drive)被用来弥补[学习内驱力](https://supermemo.guru/wiki/Learn_drive)系统中奖励匮乏。学校制度越严格，假奖励的效率就越低。最后，需要采用惩罚和管束制度来催促后续的学习。学习效率不断下降，而对学校教育的满意度也[不断下降](https://supermemo.guru/wiki/Why_kids_hate_school)。
+学校的主要罪过之一是对「学习奖励系统」的腐蚀。在健康的学习中，大脑天然地从学习的效果中得到奖励。在[学校教育](https://supermemo.guru/wiki/Schooling)中，[学习内驱力](https://supermemo.guru/wiki/Learn_drive)系统无法产生奖励，因此学校必须炮制一系列[虚假奖励](https://supermemo.guru/wiki/School_drive)来弥补。学校制度越严格，假奖励的效率就越低。最后，学校只得建立惩罚和管束制度，来保证学生不停止学习。学校教育中，学习效率不断滑坡，而满意度也[不断下降](https://supermemo.guru/wiki/Why_kids_hate_school)。
 
-对一个刚刚解决了一道难题的快乐孩子说「干得好！」并没有什么错。然而，在极端的情况下，我们可以通过提供孩子们可能渴望的表扬来让他们[记住一些毫无意义的东西](https://supermemo.guru/wiki/Asemantic_learning)。一个健康的孩子应该不受这种操纵的影响，然而，很多孩子如此渴望得到认可，以至于他们愿意记住任何东西，只是为了从大人那里得到奖励。这是大脑灾难性演化的第一步。奖励影响[知识估值网络](https://supermemo.guru/wiki/Knowledge_valuation_network)的输出。作为[网络战争](https://supermemo.guru/wiki/War_of_the_networks)的结果，大脑逐渐失去了从糟粕中筛选[适用知识](https://supermemo.guru/wiki/Applicable_knowledge)的能力，而这些糟粕只需要被记住。经过多年的学校教育，我们可能会使大脑状态良好，随时准备按要求[填满](https://supermemo.guru/wiki/Cram)任何传入的信息。如果这样做有困难，大脑也会为[毒性记忆](https://supermemo.guru/wiki/Toxic_memories)、焦虑和长期的[抑郁](https://supermemo.guru/wiki/Learned_helplessness)做好准备。
+对于刚刚解决了一道难题的快乐孩子说「干得好！」并没有什么错。然而，在极端的情况下，我们可以通过提供孩子们可能渴望的表扬来让他们[记住一些毫无意义的东西](https://supermemo.guru/wiki/Asemantic_learning)。一个健康的孩子应该不受这种操纵的影响，然而，很多孩子如此渴望得到认可，以至于他们愿意记住任何东西，只是为了从大人那里得到奖励。这是大脑灾难性演化的第一步。奖励影响[知识估值网络](https://supermemo.guru/wiki/Knowledge_valuation_network)的输出。作为[网络战争](https://supermemo.guru/wiki/War_of_the_networks)的结果，大脑逐渐失去了从糟粕中筛选[适用知识](https://supermemo.guru/wiki/Applicable_knowledge)的能力，而这些糟粕只需要被记住。经过多年的学校教育，我们可能会使大脑状态良好，随时准备按要求[填满](https://supermemo.guru/wiki/Cram)任何传入的信息。如果这样做有困难，大脑也会为[毒性记忆](https://supermemo.guru/wiki/Toxic_memories)、焦虑和长期的[抑郁](https://supermemo.guru/wiki/Learned_helplessness)做好准备。
 
 假奖励导致假学习。虚假的生活造就不幸的社会。
 

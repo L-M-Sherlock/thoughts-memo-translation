@@ -6,11 +6,11 @@
 
 ## 超凡脱俗的远见者
 
-1993 年，[Seymour Papert](https://supermemo.guru/wiki/Seymour_Papert) 为《连线》杂志写了一篇文章，其中他描述新兴媒体会引发教育产生什么样的预期变化。他的预测很有远见，尽管他用"网"一字指的是知识之网(web of knowledge)。当时万维网刚满两岁，仅仅包含了 500 台服务器，为世人所不知。
+1993 年，[Seymour Papert](https://supermemo.guru/wiki/Seymour_Papert) 为《连线》杂志写了一篇文章，其中他描述新兴媒体会引发教育产生什么样的预期变化。他的预测很有远见，尽管他用「网」一字指的是知识之网（web of knowledge）。当时万维网刚满两岁，仅仅包含了 500 台服务器，为世人所不知。
 
 ## 学校教育的问题
 
-Papert 对教育问题的诊断，就像对四分之一个世纪后的[学校教育问题](https://supermemo.guru/wiki/Problem_of_schooling)的总结。Papert 的补救措施与十年后的[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)有许多相似之处。Papert 的推理与[我]的(https://supermemo.guru/wiki/Piotr_Wozniak)相似：首先需要看到[高效学习](https://supermemo.guru/wiki/Free_learning)的样子，然后再与[学校教育的现实](https://supermemo.guru/wiki/Prussian_Education_System)进行比较。结论是不可避免的：**学校的效率低得可怕，而且往往是有害的**！
+Papert 对教育问题的诊断，就像对四分之一个世纪后的[学校教育问题](https://supermemo.guru/wiki/Problem_of_schooling)的总结。Papert 的补救措施与十年后的[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)有许多相似之处。Papert 的推理与[我](https://supermemo.guru/wiki/Piotr_Wozniak)的相似：首先需要看到[高效学习](https://supermemo.guru/wiki/Free_learning)的样子，然后再与[学校教育的现实](https://supermemo.guru/wiki/Prussian_Education_System)进行比较。结论是不可避免的：**学校的效率低得可怕，而且往往是有害的**！
 
 ## 自由学习的力量
 
@@ -54,21 +54,21 @@ Papert 预测了[电子游戏](https://supermemo.guru/wiki/Videogames)、VR 和 
 
 ## 长颈鹿是如何睡觉的？
 
-[Papert](https://supermemo.guru/wiki/Papert)举了一个例子：一个4岁的孩子在健康的[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的驱动下。她问了一个问题*"长颈鹿是怎么睡觉的？"*。为了回答这个孩子的问题，帕珀特继续用他图书馆里的一摞书来研究长颈鹿的睡眠。他把自己的树枝状探索性学习过程描绘成一个模型，即儿童在未来使用[现代学习技术](https://supermemo.guru/wiki/Incremental_reading)访问网络时将会经历什么（即他所说的[知识机器](https://supermemo.guru/wiki/Knowledge_Machine)）。
+[Papert](https://supermemo.guru/wiki/Papert) 举了一个例子：一个4岁的孩子在健康的[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的驱动下。她问了一个问题「长颈鹿是怎么睡觉的？」。为了回答这个孩子的问题，Papert 继续用他图书馆里的一摞书来研究长颈鹿的睡眠。他把自己的树枝状探索性学习过程描绘成一个模型，即儿童在未来使用[现代学习技术](https://supermemo.guru/wiki/Incremental_reading)访问网络时将会经历什么（即他所说的[知识机器](https://supermemo.guru/wiki/Knowledge_Machine)）。
 
-> 我的活动遵循一种模式，很容易让人联想到一个正在玩耍的孩子。我获得的知识不是我在书本上读到的命题的集合，而是在我的思维以非线性方式在这里和那里跳动时形成的直觉[连接]网（https://supermemo.guru/wiki/Semantic_framework）。
+> 我的活动遵循一种模式，很容易让人联想到一个正在玩耍的孩子。我获得的知识不是我在书本上读到的命题的集合，而是在我的思维以非线性方式在这里和那里跳动时形成的直觉[连接](https://supermemo.guru/wiki/Semantic_framework)。
 
-帕珀特只需要一个例子。我每天都会看到几十次类似的例子。这是[自由学习](https://supermemo.guru/wiki/Free_learning)的常态（特别是在[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)）。
+Papert 只需要一个例子。我每天都会看到几十次类似的例子。这是[自由学习](https://supermemo.guru/wiki/Free_learning)的常态（特别是在[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)）。
 
-在帕珀特的文章发表26年后，当我问及长颈鹿的睡眠问题时，谷歌是这样告诉我的（搜索时间低于500毫秒，2019年9月3日）：
+在 Papert 特的文章发表 26 年后，当我问及长颈鹿的睡眠问题时，谷歌是这样告诉我的（搜索时间低于 500 毫秒，2019 年 9 月 3 日）：
 
 [![How do giraffes sleep.png](https://supermemo.guru/images/thumb/9/9f/How_do_giraffes_sleep.png/600px-How_do_giraffes_sleep.png)](https://supermemo.guru/wiki/File:How_do_giraffes_sleep.png)
 
-> ***图：**1993年，[Seymour Papert](https://supermemo.guru/wiki/Seymour_Papert)预言，新媒体（网络）将改变儿童的学习方式。他指出，[旧的教育系统](https://supermemo.guru/wiki/Prussian_education_system)将崩溃。他的设想启发了[渐进式阅读](https://supermemo.guru/wiki/Incremental_reading)等人。他用一个4岁孩子想知道长颈鹿如何睡觉的例子来说明他的想法（见：帕珀特有远见地呼吁抛弃过时的信条（1993））*。
+> *图：1993年，[Seymour Papert](https://supermemo.guru/wiki/Seymour_Papert) 预言，新媒体（网络）将改变儿童的学习方式。他指出，[旧的教育系统](https://supermemo.guru/wiki/Prussian_education_system)将崩溃。他的设想启发了[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)等发明。他用一个 4 岁孩子想知道长颈鹿如何睡觉的例子来说明他的想法（见：帕珀特有远见地呼吁抛弃过时的信条（1993））。
 
 ------
 
-*引用的摘录来自以下[参考资料](https://supermemo.guru/wiki/References)：*
+引用的摘录来自以下[参考资料](https://supermemo.guru/wiki/References)：
 
 标题：**过时的技能组合：3Rs —— 媒体时代的知识与字识**
 

@@ -116,7 +116,7 @@
 
 ### 群体社会化理论
 
-在一篇开创性的文章中，「[发展的群体社会化理论](https://supermemo.guru/wiki/Harris:_Parental_influence_is_on_the_decline)」，Judith Rich Harris 系统性地证明，父母对儿童的影响微乎其微，同龄人群体主导着发展。家长们知道这个问题，并为之惋惜。Raymond Moore 将其称为[同伴传染](https://supermemo.guru/wiki/Social_groups_in_socialization#Peer_dependence)，并寻求保护年轻的孩子免受不良影响。群体社会化理论并不普遍。孩子们确实发展了有利于同龄人群体的[行为系统](https://supermemo.guru/wiki/Behavioral_system)。在现代社会，研究证实父母的影响被[日托](https://supermemo.guru/wiki/Daycare_misery)和[学校教育](https://supermemo.guru/wiki/Problem_of_Schooling)大大削弱了。在极端情况下，共同的家庭环境在教育和人格发展中不再起作用。如果谈话的唯一话题是学校的表现和家庭作业，父母的[学习熵](https://supermemo.guru/wiki/Learntropy)可能会下降到接近零。
+在一篇开创性的文章《[发展的群体社会化理论](https://supermemo.guru/wiki/Harris:_Parental_influence_is_on_the_decline)》中，Judith Rich Harris 系统性地证明，父母对儿童的影响微乎其微，同龄人群体主导着发展。父母知道这个问题，并为之惋惜。Raymond Moore 将其称为[同伴传染](https://supermemo.guru/wiki/Social_groups_in_socialization#Peer_dependence)，并寻求保护年轻的孩子免受不良影响。群体社会化理论并不普遍。孩子们确实发展了有利于同龄人群体的[行为系统](https://supermemo.guru/wiki/Behavioral_system)。在现代社会，研究证实父母的影响被[日托](https://supermemo.guru/wiki/Daycare_misery)和[学校教育](https://supermemo.guru/wiki/Problem_of_Schooling)大大削弱了。在极端情况下，共同的家庭环境在教育和人格发展中不再起作用。如果谈话的唯一话题是学校的表现和家庭作业，父母的[学习熵](https://supermemo.guru/wiki/Learntropy)可能会下降到接近零。
 
 Harris 认为，增加对同伴的依赖是有好处的，因为它形成了对成人世界现实的更自然的介绍。然而，好处需要与其他有利于大脑发展的因素相平衡，这些因素最终有助于适应所有社会环境。这些因素包括[慢性压力](https://supermemo.guru/wiki/Stress_resilience)、[学习熵](https://supermemo.guru/wiki/Learntropy)等。与多样化有利于学习一样，这种自然的增量也有利于学习，即来自遗传倾向的学习的强化。动物研究表明，基因对社会化的进程有着强大的影响。自然增益倾向于加速大脑发育，从长远来看，这可以提高社会智力。
 
@@ -144,7 +144,7 @@ Diane Baumrind 将养育方式分为[专制型、放任型和权威型](https://
 
 任何孩子的这套规则都可以用一句话来概括：照顾好这个世界。衍生的规则集最好由一个成熟的大脑来阐述。这就是为什么我相信成年人的接触对社会化是至关重要的。它不需要与父母接触。任何成熟的大脑都能做到。根据群体社会化理论的原则，成人接触必须发生在一个有利的[行为系统](https://supermemo.guru/wiki/Behavioral_system)，在那里规则不会限制关系。接触必须由儿童自己的[学习内驱力](https://supermemo.guru/wiki/Learn_drive)驱动。
 
-我同意[Peter Gray（彼得 · 格雷）](https://supermemo.guru/wiki/Peter_Gray)的观点，即[民主学校](https://supermemo.guru/wiki/Democratic_school)提供了一个完美的社会化温床：自由探索，年龄混合和能力混合的同龄人，以及少量不干涉的非独裁成年人的混合。
+我同意 [Peter Gray（彼得 · 格雷）](https://supermemo.guru/wiki/Peter_Gray)的观点，即[民主学校](https://supermemo.guru/wiki/Democratic_school)提供了一个完美的社会化温床：自由探索，年龄混合和能力混合的同龄人，以及少量不干涉的非独裁成年人的混合。
 
 ## 高和低的社会技能
 
@@ -170,7 +170,7 @@ David Mills 有一句很好的话：「孩子们不会通过与其他孩子互�
 
 受 Bronfenbrenner 研究的启发，Raymond Moore 认为，学校教育应该从 8-10 岁开始。用他的话说「[**早期的机构教育是一种最普遍的虐待儿童的形式**](https://supermemo.guru/wiki/Raymond_Moore:_On_early_institutionalization)」。
 
-Moore 的立场的一个很好的代表是[这个采访](https://youtu.be/XLl5joMjOyQ)（例如 20:06）。
+[这个采访](https://youtu.be/XLl5joMjOyQ)很好地代表了 Moore 的立场（例如 20:06）。
 
 Moore 说得很对，晚入学的孩子有可能迅速赶上那些从小就接受严格学校教育的同龄人。更有甚者，他自己妻子的补习阅读课程让他相信，被迫早读的孩子以后最有可能需要补习课程。Moore 是对的，孩子们可以在社会和学术平台上迎头赶上。Moore 是对的，那些自由奔跑的孩子随后可以超越他们的同龄人，理由是他们受严格的时间表对大脑发育和个性的影响较小。他引用的研究表明，「恢复」的速度是惊人的。这是有道理的，但这不需要是最佳的。
 
@@ -234,7 +234,7 @@ Moore 的诊断在某种程度上符合我自己的情况。有不寻常的「�
 
 如果把你和一些随机的人关在一个房间里，你会喜欢什么人数？大多数人选择 6 至 12 人的团体，提供的理由是：大的数字令人生畏，但低的数字提供的人的互动选择不多。现在你有了自己喜欢的人数，你是否希望房间里配备一扇门（例如，从社会上的尴尬或恐吓的情况下休息一下）？几乎所有的人都喜欢有出口的选项，这也是自由的一种表现。这也是基于这样的理解：离开往往是最简单和无压力的解决方法。学校的问题是，门通常是关着的，受害情况很严重。
 
-开放系统中的同质团体的动态本质有其教育价值。它有更广泛的经验和更广泛的交流，有更多的同行在不同规模的组合中。虽然整合程度较低，但在一个开放系统中，如果双方都有兴趣发展更紧密的关系，几乎没有内在的障碍来阻止进一步的整合。在一个开放的系统中，兴趣、激情和性格的匹配更加自然，从理论上讲，这可以导致更稳定的关系。这自然被系统的流动性所抵消。环境越是流动，就越难发展长期的友谊。
+开放系统中的同质群体的动态本质有其教育价值。它有更广泛的经验和更广泛的交流，有更多的同行在不同规模的组合中。虽然整合程度较低，但在一个开放系统中，如果双方都有兴趣发展更紧密的关系，几乎没有内在的障碍来阻止进一步的整合。在一个开放的系统中，兴趣、激情和性格的匹配更加自然，从理论上讲，这可以导致更稳定的关系。这自然被系统的流动性所抵消。环境越是流动，就越难发展长期的友谊。
 
 在一个开放的系统中，年龄混合是有益的，也是更明显的，而学校教育的结果是更大的同龄人互动，因为在年龄隔离的教室里，同龄人的关系自然放大了。年龄混合具有深刻的教育价值。开放式系统对儿童发展的启发性要大得多。
 

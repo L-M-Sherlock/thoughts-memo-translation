@@ -16,6 +16,10 @@ Source: Pixabay Free Image
 
 一个很悲伤的事实是，这个世界上有很多人把大多数时间放在了他们知道并不会对社会有利的事情之上 (see Graeber, 2013)。It leads to such [cynicism](https://www.psychologytoday.com/us/basics/pessimism) that people begin to stop even thinking that jobs are supposed to benefit society. We have the spectacle of politicians on both sides of the aisle fighting to keep munitions plants open in their states, to preserve the jobs, even when the military itself says the weapons the plant is building are no longer useful. And we have politicians and pundits arguing that fossil fuel mining and carbon spewing factories should be maintained for the sake of the jobs, let [the environment](https://www.psychologytoday.com/us/basics/environment) be damned.
 
+什么是工作？
+
+所以，与其如此努力地维持工作，我们为什么不解决分配问题，减少工作，并允许自己玩耍呢？
+
 好问题。
 
 \--------

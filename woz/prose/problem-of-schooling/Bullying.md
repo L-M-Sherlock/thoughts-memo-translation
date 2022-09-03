@@ -40,7 +40,7 @@
 
 ## 霸凌假说: 先天 vs. 后天
 
-1954年，诺贝尔奖得主[威廉·戈尔丁](https://en.wikipedia.org/wiki/William_Golding)因为他的[《蝇王》](https://en.wikipedia.org/wiki/Lord_of_the_Flies)给孩子带来了坏名声。戈尔丁不是心理学家，他的小说暗示孩子在没有成年人监督的情况下会陷入野蛮混乱。一直以来，坏名声对孩子纠缠不休。[阅读小说会让你成为一个更好的人吗？](https://supermemo.guru/wiki/Does_reading_fiction_make_you_a_better_person%3F)如果小说有误导呢？当我们观察7-10岁的孩子在没有监督的情况下互动时，我们可能很容易先入为主，重蹈覆辙。
+1954年，诺贝尔奖得主[威廉·戈尔丁](https://en.wikipedia.org/wiki/William_Golding)因为他的[《蝇王》](https://en.wikipedia.org/wiki/Lord_of_the_Flies)给孩子带来了坏名声。戈尔丁不是心理学家，他的小说暗示孩子在没有成年人监督的情况下会陷入野蛮混乱。一直以来，坏名声对孩子纠缠不休。[阅读小说会让你成为一个更好的人吗？](https://supermemo.guru/wiki/Does_reading_fiction_make_you_a_better_person%3F)如果小说有误导呢？要是有机会在无人看管的情况下，观察7-10岁孩子互动，我们很可能先入为主，重蹈覆辙。
 
 为了挽救孩子的声誉，心理学家[彼得 · 格雷](https://supermemo.guru/wiki/peter_gray)采取了相反的理想主义立场。例如：[民主学校](https://supermemo.guru/wiki/democratic_school)，作为年辈混合的群体，形成了一个天然保护罩，有效防止霸凌。格雷还坚信，在狩猎采集社群，霸凌很少发生，虽然对于不同文化，可能情况不同。并非所有社群共享一套习俗和规则。物质匮乏时，他们可能就不会像在小康条件下那样安分了。现代社会，霸凌主要发生在现代学校，搞霸凌的，则局限在小范围年龄群体。它也发生在监狱或办公室，但是，在学校时期，这坏习惯就早早埋下祸根。
 
@@ -48,7 +48,7 @@
 
 只要看看那在操场上孤零零的小孩，霸凌的机制就显而易见。这个可怜的异类，一旦遇到组织良好、井井有条的团体后，早晚都会被霸凌。爆发点往往琐碎：一些麻烦，或是一点分歧。但是，一旦霸凌开始，孩子们便近乎本能地展露自己的狼性，如狼群一般穷追猛打，受害者则毫无反击之力。这种现象基于正反馈回路，就像多米诺骨牌。于是乎，狼群会专注持续地霸凌，而忽略其他「娱乐」。
 
-一个巨大的认可急需被完成，这有关所有我知道的在幼儿园或是小学的孩子。What Raymond Moore bemourns as *[social contagion](https://supermemo.guru/wiki/Moore:_Socialization_myth)*, and Peter Gray calls a departure from natural hunter-gatherer harmony, may actually be a result of age-selected grouping of kids at all levels of schooling. Our inner predispositions towards bullying get amplified at school or in the kindergarten. A homeschooler thrown into such environments can quickly become a victim if given no way out. This speaks badly of socialization at school, however, it also says a lot about socialization without schooling, which may be great for an idealized society of the future, except we have not built one yet.
+首先要划清一个界限，我知道的大部分孩子都在学校。Raymond Moore 所痛斥的*[同伴传染](https://supermemo.guru/wiki/Moore:_Socialization_myth)*，以及Peter Gray（彼得 · 格雷）提及的非自然现象：狩猎-采集者和谐，实际上都是学校分年龄段管理的后果。在学校或幼儿园，我们的内在霸凌倾向被放大。原来在家里学，现在被抛在这种环境，这种孩子如果不能想法子自保，很快就会被迫害。这说明学校的社会化很糟糕，不过，没有学校教育的社会化，也因此受到启发。这对未来的理想化社会来说可能很好，亟待我们去建设。
 
 在最后，便如我接下来要说的那样，欺凌的祸根既不是养育也不是天生导致的，而是来源于零和博弈理论(暂未注入Markdown)
 
@@ -130,4 +130,40 @@
 
 暴力的作用在现代社会日益递减。家长们应该将他们的孩子暴露于暴力之下吗（仿佛他们在学校里接受过的那样）？(暂未注入Markdown)
 
+一些父母鼓励自己的孩子在被欺凌后以牙还牙。他们否认[有关避免暴力和冲突的普适原则](https://www.psychologytoday.com/blog/resilience-bullying/201205/principle-number-six-turn-the-other-cheek).这个小册子给出的良方乃是用于告诫学校权威。(暂未注入Markdown)
+
+如果和平主义是一个普适的容易长期获胜策略，俺们也就不会有战争了。人生如戏，难觅简单答案。
+
+### 惩罚坏蛋
+
+惩罚欺凌行为和霸凌者往往是一个反击的重要动机。然而，这也是一个[零和博弈理论](https://en.wikipedia.org/wiki/Game_theory)的议程。(暂未注入Markdown)
+
+### 攻击技巧
+
+在现代社会中打斗技巧的价值不断减低。发展MMA训练的技巧可能更安全和普适。
+
+### 自信心
+
+打斗技巧会带来社会自信心。带上一根呼啸八方无可匹敌的武棍看起来真是太好了。
+
+### 有关伦理的考虑
+
+有关恪守自身不被外物所影响的的基督式解决方案也有诸多问题。它也许会导致对道德至高的崇拜。可能会导致内在约束。(暂未注入Markdown)
+
+### 有关现实生活的问题
+
+当我问孩子们他们在一些情景下的暴力行为，答案的聚合和接踵而来的问题是络绎不绝的。当我问父母的时候，(暂未注入Markdown)
+
+### 真知灼见
+
+我觉得最终的方案乃是采用一定的值得信任的成人辅助性监视，并仅仅是用于制订决策而非干涉。(暂未注入Markdown)
+
+有监视的欺凌比（1）无监视的欺凌（比如在学校里的）和（2）完全和欺凌隔绝的生活（比如在家上学）要好些。有监视的欺凌是一种可控的社会化训练。
+
+#### 从一个孩子那里学得的经验
+
+我接受过很多社会化，且太多数是坏的。当我看到一个欺凌的行为，我的血涌沸腾，内心渴望拔刀相助。(暂未注入Markdown)
+
 **6 岁的甘地**
+
+Oski如今6岁了。他没有上幼儿园并打算下一年才去上学。(暂未注入Markdown)
