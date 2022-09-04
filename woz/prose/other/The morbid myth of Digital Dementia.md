@@ -1,4 +1,4 @@
-# 数码痴呆症的病态迷思
+# 数码痴呆症的病态谬误
 
 原文：[The morbid myth of Digital Dementia - supermemo.guru](https://supermemo.guru/wiki/The_morbid_myth_of_Digital_Dementia)
 
@@ -108,7 +108,7 @@ Spitzer 关于**数码痴呆症**的模因具有很大的病毒性。孩子们�
 
 个人轶事。[为什么使用轶事？](https://supermemo.guru/wiki/Why_use_anecdotes%3F)
 
-在新千年的最初几年，一个关于 Uberman 睡眠的迷思开始在网上流传。很快，它通过劫持 Stampi 博士使用的术语[多相睡眠](https://supermemo.guru/wiki/Polyphasic_sleep)而变异。这种思想病毒非常有力，因为它似乎为学生的普遍睡眠问题提供了一个解决方案。2005 年，我写了一篇[谴责多相睡眠的幽默文章](https://super-memory.com/articles/polyphasic.htm)，认为非常有害。令我高兴的是，我收到了大量的感谢信，让我知道我能够阻止许多年轻人尝试多相睡眠。渐渐地，这个神话开始消失了。在写这些文字的时候（2019 年 9 月 11 日），我发现这个词本身在 2016 年从[维基百科的独活](https://en.wikipedia.org/wiki/Biphasic_and_polyphasic_sleep)中消失了。这是一个重大胜利，也是对群众智慧的平反！以类似的方式，我希望**数码痴呆症**这个词将很快加入顺势疗法或精神运动学的行列。让我们把对谷歌的恐惧委托给一小部分顽固的阴谋论者。不要让孩子们被剥夺了网络的祝福
+在新千年的最初几年，一个关于 Uberman 睡眠的谬误开始在网上流传。很快，它通过劫持 Stampi 博士使用的术语[多相睡眠](https://supermemo.guru/wiki/Polyphasic_sleep)而变异。这种思想病毒非常有力，因为它似乎为学生的普遍睡眠问题提供了一个解决方案。2005 年，我写了一篇[谴责多相睡眠的幽默文章](https://super-memory.com/articles/polyphasic.htm)，认为非常有害。令我高兴的是，我收到了大量的感谢信，让我知道我能够阻止许多年轻人尝试多相睡眠。渐渐地，这个神话开始消失了。在写这些文字的时候（2019 年 9 月 11 日），我发现这个词本身在 2016 年从[维基百科的独活](https://en.wikipedia.org/wiki/Biphasic_and_polyphasic_sleep)中消失了。这是一个重大胜利，也是对群众智慧的平反！以类似的方式，我希望**数码痴呆症**这个词将很快加入顺势疗法或精神运动学的行列。让我们把对谷歌的恐惧委托给一小部分顽固的阴谋论者。不要让孩子们被剥夺了网络的祝福
 
 ## 结论
 

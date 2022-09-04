@@ -6,4 +6,6 @@
 
 ## 教师活在鱼缸里
 
+- [学习的基本规律](https://supermemo.guru/wiki/Fundamental_Law_of_Learning)
+
 ------
