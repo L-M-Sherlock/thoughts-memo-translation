@@ -120,11 +120,11 @@ Branwen, G. (2009). Spaced Repetition for Efficient Learning. Retrieved December
 
 - [助记媒介](https://notes.andymatuschak.org/z4rRX3qwSSJRsEkdXKwH2shamgHNeRthrMLiF)
 
-  - 「助记媒介*」会在线性叙述的文章中嵌入了[间隔重复记忆系统](https://notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)。在过去，尽管[间隔重复记忆系统让记忆成为一种选择](https://notes.andymatuschak.org/z4bR1HVvDUhMXDm5SJB4Tiw4xGbrm9AfXWgbc)，但上手此类系统却困难重重。「助记媒介」是为了解决其中很多问题而设计的。（*译注：「助记媒介」是 Andy 推广的一系列实验性质、内嵌 SRS 卡片的介质，如文章 ）
+  - 「助记媒介*」会在线性叙述的文章中嵌入[间隔重复记忆系统](https://notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)。在过去，尽管[间隔重复记忆系统让记忆成为一种选择](https://notes.andymatuschak.org/z4bR1HVvDUhMXDm5SJB4Tiw4xGbrm9AfXWgbc)，但上手此类系统却困难重重。「助记媒介」是为了解决其中很多问题而设计的。（*译注：「助记媒介」是 Andy 推广的一系列实验性质、内嵌 SRS 卡片的介质，如文章 ）
 
-- [可使用间隔重复系统对注意力进行编程](https://notes.andymatuschak.org/z2gqazXUkf9qyFjMQg4W3dw6yegnAJszvDywN)
+- [可使用间隔重复记忆系统对注意力进行规划](https://notes.andymatuschak.org/z2gqazXUkf9qyFjMQg4W3dw6yegnAJszvDywN)
 
-  - [间隔重复记忆系统让记忆成为一种选择](https://notes.andymatuschak.org/z4bR1HVvDUhMXDm5SJB4Tiw4xGbrm9AfXWgbc)，但交由计算机处理时间安排的价值，更在于动态地安排和选择要复习的问题。从某种意义上说，[间隔重复记忆系统](https://notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)的功效来自于它**编程注意力**的能力（[可编程的注意力](https://notes.andymatuschak.org/zJrfPCbY7GcpV9asEc8NTVzXTAV4TvRFMuY6)）。不如把它想成「大脑的{cron}」（注：cron 是类 Unix 操作系统下的定期任务管理系统。）
+  - [间隔重复记忆系统让记忆成为一种选择](https://notes.andymatuschak.org/z4bR1HVvDUhMXDm5SJB4Tiw4xGbrm9AfXWgbc)，但将时间安排交由计算机处理的价值，更在于动态地安排和选择要复习的问题。从某种意义上说，[间隔重复记忆系统](https://notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)的功效来自于它**规划注意力**的能力（[可规划的注意力](https://notes.andymatuschak.org/zJrfPCbY7GcpV9asEc8NTVzXTAV4TvRFMuY6)）。不如把它想成「大脑的{cron}」（注：cron 是类 Unix 操作系统下的定期任务管理系统。）
 
 - [间隔效应](https://notes.andymatuschak.org/z5oCe7JTrkYfmb6SHE4n5HxisE7PdwS6nmXEw)
 
@@ -144,15 +144,15 @@ Branwen, G. (2009). Spaced Repetition for Efficient Learning. Retrieved December
 
 - [Quizlet](https://notes.andymatuschak.org/z4erShe1C2qB39z4r8yDox1FuM2ZhRJxxTXbN)
 
-  - Quizlet 是一款商业[间隔重复记忆系统](https://notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)。
+  - Quizlet 是一款商业的[间隔重复记忆系统](https://notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)。
 
 - [精细编码](https://notes.andymatuschak.org/z3ZTBNhJddpewTBgbKAFy2cnSMBiJRpMZWsfB)
 
-  - 一些[间隔重复记忆系统](https://notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)的用户会特意写出卡片，以促进精细编码。Karpicke 和 Smith 的实验（2012）表明，与只进行提取练习相比，这样做的好处并不大。相关文章： [提取练习似乎是一种比精细编码更有效的学习活动](https://notes.andymatuschak.org/z6z7GhYwjvT6eYbBDQgUbmcshywmskqnVs3Y6)。
+  - 一些[间隔重复记忆系统](https://notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)的用户会特意写出卡片，以促进精细编码。Karpicke 和 Smith 的实验（2012）表明，与单纯的提取练习相比，这样做不会使好处明显增大。相关文章： [提取练习似乎是一种比精细编码更有效的学习活动](https://notes.andymatuschak.org/z6z7GhYwjvT6eYbBDQgUbmcshywmskqnVs3Y6)。
 
 - [间隔重复记忆系统让记忆成为一种选择](https://notes.andymatuschak.org/z4bR1HVvDUhMXDm5SJB4Tiw4xGbrm9AfXWgbc)
 
-  - 使用[间隔重复记忆系统](https://notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)的一个迷人的结果是，它们使记忆成为一种选择。一旦你采用了一种记忆实践，如果你想记住某件事，你可以简单地使它发生：只要花点时间写一个关于它的问题。在接下来的几个星期里，你会把它持久地编码到长期记忆中，而这只需要花你累计几分钟的时间：[间隔重复记忆系统非常高效](https://notes.andymatuschak.org/z5rVJfPsyCU3pHBbhwef9DNR5fohTHCQFJWir)。因此，这些系统不仅让记忆成为一种选择，而且也让这种选择的风险非常低：[间隔重复系统中选择去记忆某项内容的行为有如轻松的手势](https://notes.andymatuschak.org/z2vBgMKvhXq9yM4wMR3uuQVsqJRarfbfbEoWr)。
+  - 使用[间隔重复记忆系统](https://notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)的一个迷人的结果是，它们使记忆成为一种选择。一旦你采用了一种记忆实践，如果你想记住某件事，你可以简单地使它发生：只要花点时间写一个关于它的问题。在接下来的几个星期里，你会把它持久地编码到长期记忆中，而这只需要花你累计几分钟的时间：[间隔重复记忆系统非常高效](https://notes.andymatuschak.org/z5rVJfPsyCU3pHBbhwef9DNR5fohTHCQFJWir)。因此，这些系统不仅让记忆成为一种选择，而且也让这种选择的风险非常低：[间隔重复系统中选择去记忆某项内容的行为有如轻松的姿势](https://notes.andymatuschak.org/z2vBgMKvhXq9yM4wMR3uuQVsqJRarfbfbEoWr)。
 
 - [写好间隔重复的记忆卡片很难](https://notes.andymatuschak.org/z3ntJ7w9C3uapYp1m3gy2EK6PN788guzEoUNN)
 

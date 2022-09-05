@@ -10,11 +10,11 @@
 
 Source: Pixabay Free Image
 
-1930年，英国经济学家约翰·梅纳德·凯恩斯预测道，截至本世纪末，每人每周平均工作时长大概会是 15 小时。从 20 世纪初开始，自动化已经淘汰了很多职位，因此凯恩斯预测，自动化浪潮会不断加速，最终人们只需要付出很少的体力或精神劳动，就能享受美好生活。凯恩斯关于自动化趋势的预测是正确的。现在的机械、计算机、机器人能飞速解决非常耗费人力的工作，并且这种趋势仍在高歌猛进。但是他关于工作时间减少的说法并没有实现。
+1930 年，英国经济学家约翰·梅纳德·凯恩斯预测道，截至本世纪末，每人每周平均工作时长大概会是 15 小时。从 20 世纪初开始，自动化已经淘汰了很多职位，因此凯恩斯预测，自动化浪潮会不断加速，最终人们只需要付出很少的体力或精神劳动，就能享受美好生活。凯恩斯关于自动化趋势的预测是正确的。现在的机械、计算机、机器人能飞速解决非常耗费人力的工作，并且这种趋势仍在高歌猛进。但是他关于工作时间减少的说法并没有实现。
 
 机器虽然淘汰了老职位，但是新职位也不断出现。[...]
 
-一个很悲伤的事实是，这个世界上有很多人把大多数时间放在了他们知道并不会对社会有利的事情之上 (see Graeber, 2013)。It leads to such [cynicism](https://www.psychologytoday.com/us/basics/pessimism) that people begin to stop even thinking that jobs are supposed to benefit society. We have the spectacle of politicians on both sides of the aisle fighting to keep munitions plants open in their states, to preserve the jobs, even when the military itself says the weapons the plant is building are no longer useful. And we have politicians and pundits arguing that fossil fuel mining and carbon spewing factories should be maintained for the sake of the jobs, let [the environment](https://www.psychologytoday.com/us/basics/environment) be damned.
+一个很悲伤的事实是，这个世界上有很多人把大多数时间放在了他们知道并不会对社会有利的事情之上（见 Graeber, 2013）。It leads to such [cynicism](https://www.psychologytoday.com/us/basics/pessimism) that people begin to stop even thinking that jobs are supposed to benefit society. We have the spectacle of politicians on both sides of the aisle fighting to keep munitions plants open in their states, to preserve the jobs, even when the military itself says the weapons the plant is building are no longer useful. And we have politicians and pundits arguing that fossil fuel mining and carbon spewing factories should be maintained for the sake of the jobs, let [the environment](https://www.psychologytoday.com/us/basics/environment) be damned.
 
 什么是工作？
 

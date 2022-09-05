@@ -1,8 +1,8 @@
-# 电子阅读中的连续滚动不自觉地破坏了对象的永久性
+# 电子阅读中的连续滚动不自觉地破坏了对象的持续性
 
 原文：[Continuous-scroll digital reading uncomfortably disrupts object permanence (andymatuschak.org)](https://notes.andymatuschak.org/z6cxCDMXRWBritiSgzs4cdKd737H5U9XLBaFr)
 
-在网络上阅读无休止的长篇文章是很痛苦的，这些文章会不断滚动。我总是把我的电子书阅读器设置为翻页，而不是连续滚动。一个关键的原因似乎是，连续滚动的互动破坏了物体的永久性。
+在网络上阅读无休止的长篇文章是很痛苦的，这些文章会不断滚动。我总是把我的电子书阅读器设置为翻页，而不是连续滚动。其中一个关键的原因是：连续滚动的互动似乎破坏了文章的持续性。
 
 当我阅读一本实体书时，如果我发现自己迷路了，我可以向后翻几页，把我的手指放在当前的阅读位置。[LiquidText](https://notes.andymatuschak.org/z2fGXCnKwFV1jDmKsp15wkbV5WHSnLpy52Mq)的解决方案在向前翻阅以了解书的结构时可能已经足够了，但在向后翻阅时就没有那么大的帮助了，因为我在这个操作中还使用了页面的离散物理布局：例如，我可能依稀记得我正在寻找的句子是在朝右的一页，在底部，等等。
 
