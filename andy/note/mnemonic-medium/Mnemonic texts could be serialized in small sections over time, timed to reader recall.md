@@ -16,7 +16,7 @@
 
 [Execute Program](https://notes.andymatuschak.org/z2LGZ8cXBcQMP7YuAHbeVyCSLZoiMXvQNKCok) 实现了这些概念中的前三个，它肯定会创造出相当有策划感的体验：
 
-1. [Execute Program的课程假定对以前的材料有牢固的记忆](https://notes.andymatuschak.org/z6KuKVKD8st5c9esCGVtBihTE9iGg9TsX4xe6)
+1. [Execute Program 的课程假定对以前的材料有牢固的记忆](https://notes.andymatuschak.org/z6KuKVKD8st5c9esCGVtBihTE9iGg9TsX4xe6)
 
 2. [Execute Program 的课程相当短](https://notes.andymatuschak.org/z5sJuuRv2X1ZeGYPMC8xhyNcQFecBxS1VTuxk)
 

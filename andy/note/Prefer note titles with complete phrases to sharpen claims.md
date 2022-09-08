@@ -10,7 +10,7 @@
 
 这一策略的几个常见例外：
 
-- 我只在定义核心术语术语时使用名词或名词短语（其他笔记一般围绕这些术语展开）。例子：[可执行战略](https://notes.andymatuschak.org/z53fk5XwrsnueNDDCq6WNe2VbPhrDGQmmVgNS), [设赋体验](https://notes.andymatuschak.org/z3KASfpz5AmNmqM2m517Jbs1EvXrLN7NkeYWH), [赋能环境](https://notes.andymatuschak.org/z3DaBP4vN1dutjUgrk3jbEeNxScccvDCxDgXe)
+- 我只在定义核心术语术语时使用名词或名词短语（其他笔记一般围绕这些术语展开）。例子：[可执行战略](https://notes.andymatuschak.org/z53fk5XwrsnueNDDCq6WNe2VbPhrDGQmmVgNS), [情景体验](https://notes.andymatuschak.org/z3KASfpz5AmNmqM2m517Jbs1EvXrLN7NkeYWH), [赋能环境](https://notes.andymatuschak.org/z3DaBP4vN1dutjUgrk3jbEeNxScccvDCxDgXe)
 
 - 提纲式笔记（见[在写作时预先拟好提纲](https://notes.andymatuschak.org/z2uXyfV67dnWLUKg1iDbsrHk3DGjtNWTxSTah)）如[§笔记写作系统](https://notes.andymatuschak.org/zhmLXArqiCMDr9Q13ViqN3hh3SmrKzjQxWAr)
 

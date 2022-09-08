@@ -2,7 +2,7 @@
 
 原文：[Concept handles, after Alexander (andymatuschak.org)](https://notes.andymatuschak.org/z5vA4vw86DKNq22xt6pRWhumeRmSzwV6hxRHE)
 
-「概念抓手」是令人难忘的名词短语，代表一个内涵复杂（通常是抽象的）的主题。比如「囚徒困境」、「奥弗顿之窗」、「信仰的信仰 」等等。在我自己的写作中，例子包括[赋能环境](https://notes.andymatuschak.org/z3DaBP4vN1dutjUgrk3jbEeNxScccvDCxDgXe)，[设赋体验](https://notes.andymatuschak.org/z3KASfpz5AmNmqM2m517Jbs1EvXrLN7NkeYWH)，等等。「概念抓手」是自己的一个概念抓手，由 [Scott Alexander](https://notes.andymatuschak.org/z6y6cuKoEnMAJ25ad1fFPqcB3DW1T5jeG9XNu) 创造的。
+「概念抓手」是令人难忘的名词短语，代表一个内涵复杂（通常是抽象的）的主题。比如「囚徒困境」、「奥弗顿之窗」、「信仰的信仰 」等等。在我自己的写作中，例子包括[赋能环境](https://notes.andymatuschak.org/z3DaBP4vN1dutjUgrk3jbEeNxScccvDCxDgXe)，[情景体验](https://notes.andymatuschak.org/z3KASfpz5AmNmqM2m517Jbs1EvXrLN7NkeYWH)，等等。「概念抓手」是自己的一个概念抓手，由 [Scott Alexander](https://notes.andymatuschak.org/z6y6cuKoEnMAJ25ad1fFPqcB3DW1T5jeG9XNu) 创造的。
 
 成功的概念抓手让模糊的想法更清晰。很多人对这些想法有些大概的理解，但没办法指明，更不要说讨论了。给这种模糊的概念起一个清晰、响亮的名字，能够开启了更多对话与思想的可能。Per Alexander：
 
@@ -18,7 +18,7 @@
 
 问：举一个概念抓手的例子？
 
-答：(囚徒困境，设赋体验，等等。)
+答：(囚徒困境，情景体验，等等。)
 
 问：从网络化智能的角度解释为什么概念抓手很重要？
 

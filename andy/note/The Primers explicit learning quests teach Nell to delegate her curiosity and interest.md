@@ -8,7 +8,7 @@
 
 这就是为何[《指南》不是一个可行的赋能环境](https://notes.andymatuschak.org/z4WNFDsAy4sqT8eU9VUfKwW1gdSL4UGB4mbyG)的一个重要原因。内尔一生中大部分时间都在追求《指南》为她设定的目标。当《指南》明确的学习任务结束，内尔在智力上的本领可能仍不健全，能动性也较薄弱。
 
-相比之下：[包含智力发现的设赋体验可以培养内尔的好奇心和兴趣（值得商榷）](https://notes.andymatuschak.org/z5JsBWmh9haqMm6pJ3H7WxKJ832AgyVZsQAwY)。
+相比之下：[包含智力发现的情景体验可以培养内尔的好奇心和兴趣（值得商榷）](https://notes.andymatuschak.org/z5JsBWmh9haqMm6pJ3H7WxKJ832AgyVZsQAwY)。
 
 ------
 

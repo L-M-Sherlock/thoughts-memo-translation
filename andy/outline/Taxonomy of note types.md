@@ -26,7 +26,7 @@
 
     - 将许多其他笔记概括抽象的笔记，例如[教育游戏是注定失败的创造赋能环境的方法](https://notes.andymatuschak.org/z7wPt3dxX5hp6LK3PLUBTJXxk7kAhMuh8UDck)，[在电脑上阅读文本令人不快](https://notes.andymatuschak.org/z7yjjydTNu3bujTeFc7Hey1iFbz513SnN6oss)
 
-    - 个人的专业术语，如[设赋体验](https://notes.andymatuschak.org/z3KASfpz5AmNmqM2m517Jbs1EvXrLN7NkeYWH)
+    - 个人的专业术语，如[情景体验](https://notes.andymatuschak.org/z3KASfpz5AmNmqM2m517Jbs1EvXrLN7NkeYWH)
 
 - 「纲要笔记」，例如[§赋能环境、游戏和入门指南](https://notes.andymatuschak.org/z244xx3kMf1v8UnkZKUwQBAwBsHLpUgN4YhsG)
 

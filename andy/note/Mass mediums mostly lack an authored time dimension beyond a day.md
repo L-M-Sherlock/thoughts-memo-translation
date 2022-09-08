@@ -2,7 +2,7 @@
 
 原文：[Mass mediums mostly lack an authored time dimension beyond a day (andymatuschak.org)](https://notes.andymatuschak.org/z7JZswHPm99BbpTnb7NcP9Rnp8Bs6jsM3zjdv)
 
-电影制作人、作曲家和剧作家，这类创作者会为他们的作品精心创制时间维度。停顿之所以饱含深意、冲突之所以慢热，渐速音之所以急促，是因为观众随着时间推移而逐步体验如此。这些媒介表达的体验在几个小时之内逐步发展——但几天、几个月、几年呢？文化机构经常在这些时间尺度上创制体验（例如多年的宗教成长仪式），但大众媒体很少这样做。这道限制是很不幸的：大众媒介赋予作者巨大的影响力。（参见[设赋经验很难分发](https://notes.andymatuschak.org/z2K87JksHrc9UDQR2PoTxXeRNdJA1Wo9N8Au2)）
+电影制作人、作曲家和剧作家，这类创作者会为他们的作品精心创制时间维度。停顿之所以饱含深意、冲突之所以慢热，渐速音之所以急促，是因为观众随着时间推移而逐步体验如此。这些媒介表达的体验在几个小时之内逐步发展——但几天、几个月、几年呢？文化机构经常在这些时间尺度上创制体验（例如多年的宗教成长仪式），但大众媒体很少这样做。这道限制是很不幸的：大众媒介赋予作者巨大的影响力。（参见[情景体验很难分发](https://notes.andymatuschak.org/z2K87JksHrc9UDQR2PoTxXeRNdJA1Wo9N8Au2)）
 
 这个前景就是我所说的[穿越时间的文本](https://notes.andymatuschak.org/z73hGbYFm7bjV3yYwK29MvbBZEcwK6kWyduqV)。
 

@@ -1,8 +1,8 @@
-# 设赋体验可以创造出与作者目标的强烈个人联系
+# 情景体验可以创造出与作者目标的强烈个人联系
 
 原文：[Enacted experiences can create intense personal connection to authored targets (andymatuschak.org)](https://notes.andymatuschak.org/z6rE2jCvARneUxogtFCTMafzJvYEKWFgb51c2)
 
-[设赋体验](https://notes.andymatuschak.org/z3KASfpz5AmNmqM2m517Jbs1EvXrLN7NkeYWH)的创造者可以诱导强烈的个人联系到他们所创造的特定体验。一个重要的结果是：[设赋体验增强了叙述的力量](https://notes.andymatuschak.org/zhZFC1LFDwAcsgJAdaKEDnSHyrf1bR954Ssb)。
+[情景体验](https://notes.andymatuschak.org/z3KASfpz5AmNmqM2m517Jbs1EvXrLN7NkeYWH)的创造者可以诱导强烈的个人联系到他们所创造的特定体验。一个重要的结果是：[情景体验增强了叙述的力量](https://notes.andymatuschak.org/zhZFC1LFDwAcsgJAdaKEDnSHyrf1bR954Ssb)。
 
 例如，在《征途》中，玩家除了向前走上山外，几乎什么也不能做。他们穿越的环境顺序是精心设计的，以便大多数玩家体验情感英雄的旅程，在重生和神性超越中达到高潮。这不是一种被动的体验：玩家与角色一起迈出了每一步。所以这个角色的提升感受特别深。
 

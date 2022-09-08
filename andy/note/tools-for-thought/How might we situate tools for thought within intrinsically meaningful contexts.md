@@ -8,4 +8,4 @@
 
 如果抽象文章可以带入社会环境中，使其具备意义，会怎么样？[连接散文和其相关的 Twitter 对话](https://notes.andymatuschak.org/z3PkZ6TRKEML864KDanxdNfzigmERKtTXppx9)
 
-如果 「学习环境」被内在地嵌入其使用环境中会怎样？例如 [The Primer++ 被嵌入到一个领域中，通过设赋体验引导参与](https://notes.andymatuschak.org/z62M2Kdje6rnm6qHaQ5LSsNbc6FBNcmppbg1P)
+如果 「学习环境」被内在地嵌入其使用环境中会怎样？例如 [The Primer++ 被嵌入到一个领域中，通过情景体验引导参与](https://notes.andymatuschak.org/z62M2Kdje6rnm6qHaQ5LSsNbc6FBNcmppbg1P)

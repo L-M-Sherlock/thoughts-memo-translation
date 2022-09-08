@@ -1,34 +1,34 @@
-# “欧洲弃子”
+# “欧洲弃儿”
 
 原文：[European outcasts - supermemo.guru](https://supermemo.guru/wiki/European_outcasts)
 
 ## 耻辱堂
 
-德国和瑞典站在欧盟的耻辱堂里。这些国家禁止[家庭教育](https://supermemo.guru/wiki/Homeschooling)。对孩子来说最好的学习形式是非法的。被社会工作者和警察入侵家庭的恐怖故事不胜枚举。只要看看芬兰就够了，尽管芬兰的学校制度很好，但对家庭教育的兴趣却很低。随着文化的转变，对学习科学的理解，这一禁令将被推翻。在这之前，许多孩子将被剥夺他们成长的最佳选择。
+德国和瑞典是欧盟的耻辱。这些国家禁止[在家上学](https://supermemo.guru/wiki/Homeschooling)。对孩子来说最好的学习形式是非法的。被社会工作者和警察入侵家庭的恐怖故事不胜枚举。只要看看芬兰就够了，尽管芬兰的学校制度很好，但对在家上学的兴趣却很低。随着文化的转变，对学习科学的理解，这一禁令将被推翻。在这之前，许多孩子将被剥夺他们成长的最佳选择。
 
 来自[柏林宣言（2012）](https://ghex.world/advocacy/declarations/berlin-declaration/)的话语符合本文的背景：
 
-> 我们谴责那些禁止家庭教育并允许通过过度或强制性的罚款、威胁父母监护权和实施刑事制裁来迫害家庭教育家庭的国家的政策。
+> 我们谴责那些禁止在家上学并允许通过过度或强制性的罚款、威胁父母监护权和实施刑事制裁来迫害在家上学家庭的国家的政策。
 
-至于芬兰，我想知道他们的学校系统是不是为了培养温顺和顺从的人口（见：[芬兰学校悖论](https://supermemo.guru/wiki/Finnish_school_paradox)）。一个红旗标志是，芬兰仍然用[征兵](https://supermemo.guru/wiki/Conscription)来扰乱年轻人的生活。当2013年一项关于废除这一概念的公民倡议未能得到足够的支持时，我想知道在芬兰是否没有足够的愤怒的年轻人来改变现状？也许所有这些健康的愤怒都被学校教育逐渐熄灭了？比尔-盖茨可以把所有的青春献给微软，而莱纳斯-托瓦尔兹却不得不为服兵役浪费11个月，这公平吗？这11个月可能改变了历史。在[SuperMemo](https://supermemo.guru/wiki/SuperMemo)的前一年，波兰军队试图抓住我的脖子。如果他们成功了，1987年以后出现的[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)应用程序将沦为一张彩票。
+至于芬兰，我想知道他们的学校系统是不是为了培养温顺且服从的民众（见：[芬兰学校悖论](https://supermemo.guru/wiki/Finnish_school_paradox)）。一个警示标志是，芬兰仍然用[征兵](https://supermemo.guru/wiki/Conscription)来扰乱年轻人的生活。当 2013 年一项关于废除这一概念的公民倡议未能得到足够的支持时，我想知道在芬兰是否没有足够的愤怒的年轻人来改变现状？也许所有这些健康的愤怒都被学校教育逐渐熄灭了？比尔•盖茨可以把所有的青春献给微软，而Linus Torvalds 却不得不为服兵役浪费 11 个月，这公平吗？这 11 个月可能改变了历史。在 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 的前一年，波兰军队试图抓住我的脖子。如果他们成功了，1987 年以后出现的[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)应用程序将沦为一张彩票。
 
 ## 谁想禁止家庭教育？
 
-在提到家庭教育时，社会主义者、进步人士、无神论者、多元文化主义者、女权主义者、瑞典文化和德国文化之间有一些思想上的碰撞。女权主义者利用学校教育来解放妇女。无神论者希望能杀死宗教。平等主义者和社会主义者希望能“平等”地教育孩子。瑞典人喜欢学校的社会功能。德国人喜欢[纳粹式秩序](https://en.wiktionary.org/wiki/Ordnung)和普鲁士式的纪律。
+在提到在家上学时，社会主义者、进步人士、无神论者、多元文化主义者、女权主义者、瑞典文化和德国文化之间有一些思想上的碰撞。女权主义者利用学校教育来解放妇女。无神论者希望能杀死宗教。平等主义者和社会主义者希望能“平等”地教育孩子。瑞典人喜欢学校的社会功能。德国人喜欢[纳粹式秩序](https://en.wiktionary.org/wiki/Ordnung)和普鲁士式的纪律。
 
 教育方面的法律规定是控制他人思想的愿望的体现
 
-关于对法律控制的胃口的例子，见：[美国对家庭教育的推定禁令（Elizabeth Bartholet）](https://supermemo.guru/wiki/Elizabeth_Bartholet:_ignorant_attack_on_homeschooling)
+关于对法律控制的胃口的例子，见：[美国对在家上学的推定禁令（Elizabeth Bartholet）](https://supermemo.guru/wiki/Elizabeth_Bartholet:_ignorant_attack_on_homeschooling)
 
 ## 共同因素
 
 这两个国家在移民潮中都相当欢迎。然而，当涉及到教养问题时，他们的好心却变冷了。非基督徒或非欧洲人的父母几乎没有选择，只能早早地把孩子送到日托所，开始「融合」和「社会化」的过程。这在表面上看是对劳动力和年轻血液的热烈欢迎，而对外国文化的影响仍然是封闭的。
 
-这些国家很好地说明了[学校教育的自我延续的文化反馈循环](https://supermemo.guru/wiki/Phone_book)。[强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling)使人们很难看到[自由学习](https://supermemo.guru/wiki/Free_learning)的好处。社会认为，「学校是好的」，更多的学校是更好的。这为[数字痴呆症](https://supermemo.guru/wiki/Digital_Dementia)等教育谬误提供了丰富的素材。一个普通的德国孩子英语很差，对[家庭教育](https://supermemo.guru/wiki/Homeschooling)等概念没有什么概念，更不用说[非学校教育](https://supermemo.guru/wiki/Unschooling)或[民主学校](https://supermemo.guru/wiki/Democratic_school)。一个普通的德国或瑞典公民非常相信，由于学校社会化的价值迷思，学校是必要的。
+这些国家很好地说明了[学校教育的自我延续的文化反馈循环](https://supermemo.guru/wiki/Phone_book)。[强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling)使人们很难看到[自由学习](https://supermemo.guru/wiki/Free_learning)的好处。社会认为，「学校是好的」，更多的学校是更好的。这为[数字痴呆症](https://supermemo.guru/wiki/Digital_Dementia)等教育谬误提供了丰富的素材。普通的德国孩子英语很差，对[在家上学](https://supermemo.guru/wiki/Homeschooling)等概念没有什么概念，更不用说[非学校教育](https://supermemo.guru/wiki/Unschooling)或[民主学校](https://supermemo.guru/wiki/Democratic_school)。普通的德国或瑞典公民非常相信，由于学校社会化的价值谬误，学校是必要的。
 
 ## Jan Björklund
 
-[Jan Björklund](https://en.wikipedia.org/wiki/Jan_Björklund)（1962 年 4 月生）是瑞典[禁止家庭教育](https://supermemo.guru/wiki/Ban_on_homeschooling)的幕后黑手。作为 2007 至 2014 年的教育部长，他推行了广泛的、有争议的改革。他将瑞典学生的成绩下降归咎于社会民主党人。尽管 Björklund 是一个名义上的自由主义政党的领导人，但他却犯下了教育领域最不自由的罪行：他禁止家庭教育。
+[Jan Björklund](https://en.wikipedia.org/wiki/Jan_Björklund)（1962 年 4 月生）是瑞典[禁止在家上学](https://supermemo.guru/wiki/Ban_on_homeschooling)的幕后黑手。作为 2007 至 2014 年的教育部长，他推行了广泛的、有争议的改革。他将瑞典学生的成绩下降归咎于社会民主党人。尽管 Björklund 是一个名义上的自由主义政党的领导人，但他却犯下了教育领域最不自由的罪行：他禁止在家上学。
 
 Björklund 自己的全部教育都是在军事学习机构进行的。他升至少校军衔，对军事问题的了解远远多于对教育的了解。作为他专制性格的体现，他的大部分想法都具有纪律性，这是很恰当的。新法律规定可以没收孩子的手机。这让我想起了[我最差的老师](https://supermemo.guru/wiki/My_worst_teacher)没收我心爱的动物园明信片的那一天，是多么的伤感。这让人想起了监狱，而不是学校。在 Björklund 的思维中，我再次听到了 20 世纪 20 年代和 30 年代的回声，普鲁士式的纪律、兵役、同质化的思维，以及被剥夺了所有个人创造力迹象的一致性。在一个典型的纪律性无知的表现中，Björklund 把[民主学校](https://supermemo.guru/wiki/Democratic_school)比作由病人管理的医院。病人比医生更了解一些事情：他们能感觉到自己的疼痛，他们往往更了解自己的疾病史，他们知道自己的习惯和喜好，最重要的是，他们通常比世界上任何其他人都更关心自己的健康。然而，学生已经被进化配备了最好的学习指导系统：[学习内驱力](https://supermemo.guru/wiki/Learn_drive)（见：[学习内驱力的最优化](https://supermemo.guru/wiki/Optimality_of_the_learn_drive)。学生更清楚，学习材料的哪些部分符合他们长期记忆中储存的知识的[语义结构](https://supermemo.guru/wiki/Semantic_network)。教师对个人的大脑没有洞察力，只能遵守国家[课程](https://supermemo.guru/wiki/Curriculum)规定的时间表。这种学习模式完全符合比约克伦德对学校应该完成的任务的军国主义观点。当瑞典遭受「[PISA](https://supermemo.guru/wiki/PISA)」时，Björklund 会遵循一个典型的军事处方：教师权威、课堂纪律、更多评分、更早评估。Björklund 想通过大规模的重新国有化来终止瑞典的自由学校实验[[1]](http://www.thelocal.se/20140210/sweden-failed-in-decentralizing-schools-report)。如果我想为瑞典建立一支新的拿破仑军队，我会选择 Björklund 来管理教育系统。
 
@@ -50,7 +50,7 @@ Björklund 自己的全部教育都是在军事学习机构进行的。他升至
 
 ## 对比
 
-最近的冠状病毒疫情那些研究知识如何影响政策的人提供了一个奇妙的研究场所。在对病毒的了解有限，而对群体免疫的最佳途径的了解却迟迟没有渗入的时候，领导人、议会、州、市和省采取的政策就像粉笔和奶酪一样不同。政策的变化对新知识的流入和个人意见的变化都很敏感。在波兰，我们有一个可笑的两周禁止进入森林和（空）海滩的禁令。它像一例糟糕的流感一样来了又走了。很明显，这是政府的一记重拳（或者说是国家的免疫力）。在这个混乱的时代，领导人决定国家的结果。无知决定了谁的生命和谁的死亡。
+最近的新冠疫情那些研究知识如何影响政策的人提供了一个奇妙的研究场所。在对病毒的了解有限，而对群体免疫的最佳途径的了解却迟迟没有渗入的时候，领导人、议会、州、市和省采取的政策就像粉笔和奶酪一样不同。政策的变化对新知识的流入和个人意见的变化都很敏感。在波兰，我们有一个可笑的两周禁止进入森林和（空）海滩的禁令。它像一例糟糕的流感一样来了又走了。很明显，这是政府的一记重拳（或者说是国家的免疫力）。在这个混乱的时代，领导人决定国家的结果。无知决定了谁的生命和谁的死亡。
 
 我喜欢 [David Katz](https://youtu.be/Lze-rMYLf2E) 关于解决危机的立场。当我被警察从我通常的慢跑路线上转移到一条风景优美的废弃小路，经过树林时，我也得出了完全相同的结论（2020 年 4 月 9 日）。为了社会的最佳利益，我应该感染病毒（假设我不会死）。自然，这不会发生在空旷的树林里的寒风中，而这是我真正保持健康的最佳场所。
 

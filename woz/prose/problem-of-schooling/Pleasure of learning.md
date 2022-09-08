@@ -192,7 +192,9 @@ Robinson 的课程在可预测性和意外性之间找到了很好的平衡。
 
 #### 共同通货模型
 
-[Knowledge valuation知识估值](https://supermemo.guru/wiki/Knowledge_valuation)]和决策中，我们需要一言堂。冗余可以用来恢复估值系统，但必须服从[Concept neuron概念神经元](https://supermemo.guru/wiki/Concept_neuron)]的决策。同时存在两个拍板定案的，并不现实，这好比说某人一边吃饭，一边拿叉子刺自己眼睛，极为荒谬。不过，相互竞争的神经力可能导致这种场景，但通常是因为偶然的计算错误。
+ [知识评估](https://supermemo.guru/wiki/Knowledge_valuation)]的网状特质表明使用了皮质源。事实上，大多数研究人员似乎倾向于相信，整个估值系统可能[集中在眶额皮质](https://supermemo.guru/wiki/Orbitofrontal_cortex_as_the_supreme_reward_processor)，其抽象程度向前部区域不断增加。有很多模型和假说，围绕单独子系统如何影响估值而展开，例如（共同通证、共同尺度、躯体标记、按内容评价、多成分评价、认知-动机界面、平行评价、定位主义与建构主义模型等）。在**共同通证模型**中，所有来自于子集的评估都被整合，并传递「想要」或「喜欢」的最终讯息。例如，（1）眶额皮质内侧 (Mofc）以基于知识的评估，也许会和（2）伏隔核 (NA) 的奖励预期值、（3）脑岛内的食物评估信息结合起来，从而影响下一餐餐馆的选择。
+
+[知识估值](https://supermemo.guru/wiki/Knowledge_valuation)和决策中，我们需要一言堂。冗余可以用来恢复估值系统，但必须服从[概念神经元](https://supermemo.guru/wiki/Concept_neuron)的决策。同时存在两个拍板定案的，并不现实，这好比说某人一边吃饭，一边拿叉子刺自己眼睛，极为荒谬。不过，相互竞争的神经力量可能导致这种场景，但通常是因为偶然的计算错误。
 
 #### 知识估值的涌现
 

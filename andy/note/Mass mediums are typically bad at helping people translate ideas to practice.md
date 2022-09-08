@@ -8,7 +8,7 @@
 
 [MOOC](https://notes.andymatuschak.org/z2F3NLudCKZWYq2crjEbGDuYRy7DA7dcsjAG)试图解决这个问题，但基本上失败了。这值得我们更多地反思一下原因。
 
-一个潜在的解决方案是[设赋体验作为一种大众媒介具有难以置信的潜力](https://notes.andymatuschak.org/z6oXuXLZ7Wq1eBqskyfph2wz9gjohQUKSBFzx)。可能也有其他方案。
+一个潜在的解决方案是[情景体验作为一种大众媒介具有难以置信的潜力](https://notes.andymatuschak.org/z6oXuXLZ7Wq1eBqskyfph2wz9gjohQUKSBFzx)。可能也有其他方案。
 
 ------
 

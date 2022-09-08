@@ -1,4 +1,4 @@
-# 在数字阅读中，平行阅读大多是不可能的
+# 在电子阅读中，平行阅读大多是不可能的
 
 原文：[Parallel reading is mostly impossible in digital reading (andymatuschak.org)](https://notes.andymatuschak.org/z8KaXwxWaMdUbhKa3RC2zN8ZB36gfvWcoWmwR)
 
@@ -6,4 +6,4 @@
 
 在其他方面，这加剧了[物理剪切和粘贴是一种涉及非正式中间状态的平行行为](https://notes.andymatuschak.org/z6VMTBKqURcGfZa7Kj24U8wqTCS4vXukuCizB)。
 
-相关的。[在数字阅读时保持多种阅读姿势是很困难的](https://notes.andymatuschak.org/z7ZNevNutwN3wT5hTRLUipssHBNbxUWSyDHrr)
+相关笔记：[进行电子阅读时，很难保持多个阅读位置](https://notes.andymatuschak.org/z7ZNevNutwN3wT5hTRLUipssHBNbxUWSyDHrr)

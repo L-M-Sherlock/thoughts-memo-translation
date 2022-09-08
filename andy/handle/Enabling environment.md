@@ -52,4 +52,4 @@
 
   - （这里的许多现有环境，如 SICP 和大多数可执行的笔记本 （译者注：如 Jupyter, Pluto），与被赋能的行动发生的地方相互影响很弱，这大大限制了它们的力量）
 
-  - （这里有动态的[认知脚手架](https://notes.andymatuschak.org/z8ZWYXFwXV38qiCgRx7zf2ySy9WCxWvcizNVr)、[设赋体验放大了叙述的力量](https://notes.andymatuschak.org/zhZFC1LFDwAcsgJAdaKEDnSHyrf1bR954Ssb)和其他一些 Primer 设计元素的机会）
+  - （这里有动态的[认知脚手架](https://notes.andymatuschak.org/z8ZWYXFwXV38qiCgRx7zf2ySy9WCxWvcizNVr)、[情景体验放大了叙述的力量](https://notes.andymatuschak.org/zhZFC1LFDwAcsgJAdaKEDnSHyrf1bR954Ssb)和其他一些 Primer 设计元素的机会）

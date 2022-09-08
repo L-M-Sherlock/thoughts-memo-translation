@@ -4,11 +4,11 @@
 
 ## 对 SuperMemo Guru 的批评
 
-我收到了对我文章的严厉批评：[将创造力与 ADHD 混淆](https://supermemo.guru/wiki/Confusing_creativity_with_ADHD)。批评来自一位 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 曾经的用户，他患有 ADHD，对他来说，医疗干预是一种幸福。以下是批评的内容：*"[你关于 ADHD 的文章错得离谱，应该被删除](http://supermemopedia.com/wiki/Your_article_about_ADHD_is_outrageously_wrong_and_should_be_deleted) "*。
+我曾收到针对我文章的严厉批评：[ADHD将创造力与 ADHD 混淆](https://supermemo.guru/wiki/Confusing_creativity_with_ADHD)。这些批评来自一位曾经使用过 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 的用户，他饱受 ADHD折磨，对他来说，医疗干预可以称得上一种幸福。以下是批评的具体内容：*"[你关于 ADHD 的文章大错特错，应该被删除](http://supermemopedia.com/wiki/Your_article_about_ADHD_is_outrageously_wrong_and_should_be_deleted) "*。
 
 下面，我将尝试解释，ADHD 的标签囊括了整个谱系的表面下的原因，而且用于 ADHD 分类的症状可能包括一些健康人脑的高度受欢迎的特性的衍生物。
 
-整个误解的根本原因是在没有深入挖掘其神经病理学的情况下对一种疾病进行划分的问题。ADHD 定义的模糊性催生了整个行业，将孩子们引向一条狭窄的、在学校表现良好的道路。影响这一行业的力量是如此之多和复杂，以至于这一现象不容易在一篇短文中得到模拟和解释。真正的受害者是存在的。[创造力](https://supermemo.guru/wiki/Creativity)导致类似于注意缺陷的症状。大药厂推广利他林。许多教师想要更多的利他林。父母受到诱惑使用利他林。健康的学生使用利他林来提高考试成绩。诊断率在上升。心理健康正处于下降趋势。这些力量和趋势中的许多都有好的和坏的方面。这就是为什么我的原创文章不能被解读为*ADHD不存在*（文中有一个医学共识的链接）。它不能被理解为*利他林应该被禁止*。它不能被理解为*全球妄想与幻觉综合症*的说法。简单来说，有创造力的孩子不应该被老师（或家长）的抱怨所困扰，应该对药物持谨慎态度，并从寻找简单的补救措施开始，如良好的睡眠和运动。
+引发整个误解的根本原因是仅描述疾病而没有深入研究其神经病理学原理。 ADHD 的定义的模糊性使整个行业都会引导孩子走上一条在学校做出良好表现的狭窄道路。影响该行业的力量如此多样复杂，这种现象不能在短小的篇幅中轻易地加以模拟和解释。但真正的受害者是存在的。[创造力](https://supermemo.guru/wiki/Creativity)导致类似于 ADHD 的症状。大型制药公司推广利他林。一些教师对利他林有更多的需求。一些父母被引诱使用利他林。一些健康的学生使用利他林来提高测试成绩。 ADHD 的确诊率在上升。但整体的心理健康水平在下降。这些力量和趋势各有其好坏。这就是为什么我的原创文章不能被解读为* ADHD 不存在*（文中有一个关于目前医学共识的链接）。它不能被理解为*利他林应该被禁止*。也不能被理解为*全球性的妄想与幻觉综合症*。简单来说，我的观点是,富有创造力的孩子不应被老师（或父母）的抱怨所困扰，他们应该对药物持谨慎态度，并从寻找简单的补救措施开始，比如保持良好的睡眠和运动。
 
 在我整理我的言论之前，一些好心人来为我辩护。那篇辩护文章值得一读，因为它带有一些[我没有想到的有趣的观点](http://supermemopedia.com/wiki/Talk:Your_article_about_ADHD_is_outrageously_wrong_and_should_be_deleted)。
 

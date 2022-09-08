@@ -8,4 +8,4 @@
 
 叙事通过提供解释、可能的影响和与作者的联系来促进情感交流。随着时间的推移，阅读者会建立他们自己对该主题的情感，但为其提供脚手架也是有帮助的。
 
-另见：[设赋体验增强了叙述的力量](https://notes.andymatuschak.org/zhZFC1LFDwAcsgJAdaKEDnSHyrf1bR954Ssb)
+另见：[情景体验增强了叙述的力量](https://notes.andymatuschak.org/zhZFC1LFDwAcsgJAdaKEDnSHyrf1bR954Ssb)

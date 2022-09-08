@@ -14,8 +14,8 @@
 
 [元认知支持作为认知脚手架](https://notes.andymatuschak.org/z4qFtxPZi21DKoLruHcmsocee1YnZy9JMArb6)：因为游戏是动态媒介，所以它们也能够为元认知提供动态支持。特别是，[游戏帮助玩家评估他们正在发展的技能](https://notes.andymatuschak.org/z2tZBJUtAasH3bGxHaEpFdP5zjjiWwqDsFxEM)和[游戏帮助玩家制定和调整计划](https://notes.andymatuschak.org/z7mU6RxxzJ9FZBCcgbYQsv9nExuK3xVm635Ks)。
 
-## 游戏充满了设赋体验
+## 游戏充满了情景体验
 
-游戏是一种[设赋体验](https://notes.andymatuschak.org/z3KASfpz5AmNmqM2m517Jbs1EvXrLN7NkeYWH)，所以在 [Braid](https://notes.andymatuschak.org/z2VMiTLJCUhbtxyWXwBxevCtdzJyoHpptHoH) 这样的游戏中（不像在幼稚的[教育游戏](https://notes.andymatuschak.org/z5YBATDEy9pSqzTgNhH6MhGqgkG8mAF7QTLK5)中），玩家感觉不到他们正在被「教导」。在情感上，他们的体验是他们正在构建自己的理解，这可能是非常令人满意的。另请参阅[设赋体验可以创造出与作者目标的强烈个人联系](https://notes.andymatuschak.org/z6rE2jCvARneUxogtFCTMafzJvYEKWFgb51c2)。
+游戏是一种[情景体验](https://notes.andymatuschak.org/z3KASfpz5AmNmqM2m517Jbs1EvXrLN7NkeYWH)，所以在 [Braid](https://notes.andymatuschak.org/z2VMiTLJCUhbtxyWXwBxevCtdzJyoHpptHoH) 这样的游戏中（不像在幼稚的[教育游戏](https://notes.andymatuschak.org/z5YBATDEy9pSqzTgNhH6MhGqgkG8mAF7QTLK5)中），玩家感觉不到他们正在被「教导」。在情感上，他们的体验是他们正在构建自己的理解，这可能是非常令人满意的。另请参阅[情景体验可以创造出与作者目标的强烈个人联系](https://notes.andymatuschak.org/z6rE2jCvARneUxogtFCTMafzJvYEKWFgb51c2)。
 
-另见[教育游戏试图通过设赋体验进行教学](https://notes.andymatuschak.org/z5xCoFBNqoFjNHsWcsP4GbSPKqAG3dNzR6SXC)。
+另见[教育游戏试图通过情景体验进行教学](https://notes.andymatuschak.org/z5xCoFBNqoFjNHsWcsP4GbSPKqAG3dNzR6SXC)。

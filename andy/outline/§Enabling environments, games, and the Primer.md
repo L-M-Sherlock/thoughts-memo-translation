@@ -26,19 +26,19 @@
 
     - [有效的系统设计需要从真刀真枪的情境中汲取洞见](https://notes.andymatuschak.org/z3H98n8DGZmu8XArqHZVsckyWvbTe8wK4kAt2)
 
-  - 当然，YC 并非传统意义上的「上课」—— 并非将内容强加于你。你在 YC 的环境下的体验，源自你自主行动的自然反馈。YC 是一个[设赋体验](https://notes.andymatuschak.org/z3KASfpz5AmNmqM2m517Jbs1EvXrLN7NkeYWH)。
+  - 当然，YC 并非传统意义上的「上课」—— 并非将内容强加于你。你在 YC 的环境下的体验，源自你自主行动的自然反馈。YC 是一个[情景体验](https://notes.andymatuschak.org/z3KASfpz5AmNmqM2m517Jbs1EvXrLN7NkeYWH)。
 
-    - 即使作为创始人的你不清楚自己正做的是什么（[赋能环境中的新手往往不能做赋能的事情](https://notes.andymatuschak.org/z3XsSKarN8i3pV4WjPiJ7pVGG6akRVQvU7ngK)），但 YC 系统给了你足够的支持，让你在这个紧张的环境中真实地参与并磨练技能；[设赋体验可以引导人们积极参与到赋能环境中](https://notes.andymatuschak.org/z2FDTR2NfpW1AtA4SAETevmKC2uDGEHfKrbhG)
+    - 即使作为创始人的你不清楚自己正做的是什么（[赋能环境中的新手往往不能做赋能的事情](https://notes.andymatuschak.org/z3XsSKarN8i3pV4WjPiJ7pVGG6akRVQvU7ngK)），但 YC 系统给了你足够的支持，让你在这个紧张的环境中真实地参与并磨练技能；[情景体验可以引导人们积极参与到赋能环境中](https://notes.andymatuschak.org/z2FDTR2NfpW1AtA4SAETevmKC2uDGEHfKrbhG)
 
-  - 但这些体验并非不可复现的意外。YC 的课程经过精心的**创制**，某种程度上就像一本书的创制。[设赋体验可以创造出与作者目标的强烈个人联系](https://notes.andymatuschak.org/z6rE2jCvARneUxogtFCTMafzJvYEKWFgb51c2)；[设赋体验放大了叙述的力量](https://notes.andymatuschak.org/zhZFC1LFDwAcsgJAdaKEDnSHyrf1bR954Ssb)。
+  - 但这些体验并非不可复现的意外。YC 的课程经过精心的**创制**，某种程度上就像一本书的创制。[情景体验可以创造出与作者目标的强烈个人联系](https://notes.andymatuschak.org/z6rE2jCvARneUxogtFCTMafzJvYEKWFgb51c2)；[情景体验放大了叙述的力量](https://notes.andymatuschak.org/zhZFC1LFDwAcsgJAdaKEDnSHyrf1bR954Ssb)。
 
-- 遗憾的是，[设赋体验很难创作](https://notes.andymatuschak.org/z2Moj6uUj8hJ11dDMbrHsF58BMmxe6p48rsvv)且[设赋体验很难满足所有人的胃口](https://notes.andymatuschak.org/z2K87JksHrc9UDQR2PoTxXeRNdJA1Wo9N8Au2)。
+- 遗憾的是，[情景体验很难创作](https://notes.andymatuschak.org/z2Moj6uUj8hJ11dDMbrHsF58BMmxe6p48rsvv)且[情景体验很难满足所有人的胃口](https://notes.andymatuschak.org/z2K87JksHrc9UDQR2PoTxXeRNdJA1Wo9N8Au2)。
 
-  - 但仍有光明的未来：[设赋体验作为一种大众媒介具有难以置信的潜力](https://notes.andymatuschak.org/z6oXuXLZ7Wq1eBqskyfph2wz9gjohQUKSBFzx)
+  - 但仍有光明的未来：[情景体验作为一种大众媒介具有难以置信的潜力](https://notes.andymatuschak.org/z6oXuXLZ7Wq1eBqskyfph2wz9gjohQUKSBFzx)
 
 - 这方面，最好的现有技术的实例，是电视游戏的设计。
 
-  - （关于游戏和设赋体验的一些要点说明在[设赋体验](https://notes.andymatuschak.org/z3KASfpz5AmNmqM2m517Jbs1EvXrLN7NkeYWH)中；需要重构）
+  - （关于游戏和情景体验的一些要点说明在[情景体验](https://notes.andymatuschak.org/z3KASfpz5AmNmqM2m517Jbs1EvXrLN7NkeYWH)中；需要重构）
 
   - 情感体验和叙事的展开是玩家行动的结果
 
@@ -50,7 +50,7 @@
 
 - 这就是教育游戏所犯的核心错误
 
-  - [教育游戏试图通过设赋体验进行教学](https://notes.andymatuschak.org/z5xCoFBNqoFjNHsWcsP4GbSPKqAG3dNzR6SXC)
+  - [教育游戏试图通过情景体验进行教学](https://notes.andymatuschak.org/z5xCoFBNqoFjNHsWcsP4GbSPKqAG3dNzR6SXC)
 
   - [教育游戏对于创造赋能环境是注定失败的方法](https://notes.andymatuschak.org/z7wPt3dxX5hp6LK3PLUBTJXxk7kAhMuh8UDck)
 
@@ -72,7 +72,7 @@
 
     - Primer是关于真正重要的事情（[Primer的目标是培养有创造力的、颠覆性的年轻人](https://notes.andymatuschak.org/zvMhuE5FyXVfspgazybETDJwHrYPVxN2Cere)，即使Nell不知道（[Nell不知道也不认同Primer的目标](https://notes.andymatuschak.org/z6mg4iibFwrKipuEYQvBuA9cxnjvZ2vG2QgQ9)）。
 
-    - Primer 中的活动更接近于真实的赋能环境[设赋体验可以引导人们积极参与到赋能环境中](https://notes.andymatuschak.org/z2FDTR2NfpW1AtA4SAETevmKC2uDGEHfKrbhG)
+    - Primer 中的活动更接近于真实的赋能环境[情景体验可以引导人们积极参与到赋能环境中](https://notes.andymatuschak.org/z2FDTR2NfpW1AtA4SAETevmKC2uDGEHfKrbhG)
 
     - 它可以在专家环境下连续进行，而不是留下什么东西（[《入门》是内尔余生的一个大 "入职 "经历](https://notes.andymatuschak.org/z2JYDtbKyaxf2nhicZTCGEScUcYLjZuda4vY8)
 

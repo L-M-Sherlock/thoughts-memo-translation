@@ -36,7 +36,7 @@
 
 一个著名的[辍学者](https://supermemo.guru/wiki/School_dropouts)，比尔·盖茨，在小学时每得一个优就能得到 25 美分的奖励。然而，[他的成绩一直很糟糕，而且一直落后于他的姐姐，直到八年级时她对男孩产生兴趣](http://tech-insider.org/windows/research/1994/07.html)。我们经常可以看到这种情况：**糟糕的学校成绩并不是伟大的成就的绊脚石。**
 
-平均而言，独创性和创造力在学校受到压制。并且，那些循规蹈矩的学生更有可能获得好成绩。这可能导致「GPA 成瘾」，这可能有利于[死记硬背](https://supermemo.guru/wiki/Cramming)而不是真正的学习，即来自激情和[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的学习。
+一般来说，学校会压制独创性与创新能力。然而，那些循规蹈矩的学生更容易获得好成绩。这会导致学生「GPA 成瘾」，使得他们更倾向于[死记硬背](https://supermemo.guru/wiki/Cramming)而非真正地学习，即由学习激情和[学习内驱力](https://supermemo.guru/wiki/Learn_drive)主导的学习。
 
 有时，优秀的学生会取得优异的成绩，但在这过程中会付出代价。我在下面列出几个案例。
 
@@ -50,11 +50,11 @@
 
 在我们的讨论中，我发现 Daniel 对[学校教育](https://supermemo.guru/wiki/Schooling)施加的自由限制表现出相当程度的容忍。这些限制往往会产生顺从的态度。所有的学校教育都起源于培养社会中的守旧派成员。他们已经在极权主义制度中得到完善，以满足极权主义的需要。Daniel 甚至抛出了对成年人进行三角学等科目的义务教育的想法。
 
-Daniel 在技能和知识方面得到了完美的训练，他现在终于可以在诺贝尔奖的工作中运用了。然而，在这个过程中，他可能失去了（1）[**不计其数的时间**](https://supermemo.guru/wiki/Gray:_Self-education_carries_a_high_cost_in_time)，他可能把这些时间用于自己的探索，以及（2）在**[自学](https://supermemo.guru/wiki/Self-learning)**、**自我激励**和**自律方面的一些好习惯。也许甚至在[自信心](https://en.wikipedia.org/wiki/Self-confidence)方面？
+Daniel 在技能和专业知识方面已经炉火纯青，他现在终于可以运用这些知识去追求诺贝尔奖了。然而，在这个过程中，他可能失去了（1）[**不计其数的时间**](https://supermemo.guru/wiki/Gray:_Self-education_carries_a_high_cost_in_time)，他可能把这些时间用于自己的探索，以及（2）在**[自学](https://supermemo.guru/wiki/Self-learning)**、**自我激励**和**自律方面的一些好习惯。也许甚至在[自信心](https://en.wikipedia.org/wiki/Self-confidence)方面？
 
-时间成本听起来并不坏，直到人们意识到，那些早期的伟大科学发现大多来自于数小时和数年的修补、研究、探索和头脑风暴（往往只与自己有关）。从理论上讲，人们可能会把 Daniel 缺乏早熟的诺贝尔奖证书的原因归咎于学校教育！他从未得到过机会。他总是忙于学校的日常工作。
+只有当人们意识到，那些早期的伟大科学发现大多来自于数小时和数年的修补、研究、探索和头脑风暴（研究者往往是单枪匹马），他们才会觉得花费时间不像听上去那么糟糕。从理论上讲，人们可能会把 Daniel 没有早早获得诺贝尔奖证书的原因归咎于学校教育！他从未得到过机会。他总是忙于学校的日常工作。
 
-即使在今天，守旧习惯的代价也可能影响他。然而，习惯中的损害似乎是可以逆转的。没有人天生就对工作、生产力、探索等有完美的态度。自律的基础是我们每天采用的一套微观规则。请看[下面的个人轶事](https://supermemo.guru/wiki/Dangers_of_being_a_Straight_A_student#Micro-rules_in_productivity)的粉色部分，了解我是如何制定自己的一套微观规则的。
+直到今天，他也许还在为循规蹈矩的习惯付出代价。然而，习惯上的缺陷看起来是可以逆转的。没有人天生就对工作、生产力、探索等有完美的态度。自律建立在我们每天采用的微规则之上。请看处于红色部分中的[下面一则个人轶事](https://supermemo.guru/wiki/Dangers_of_being_a_Straight_A_student#Micro-rules_in_productivity)，了解我是如何制定自己的一套微规则的。
 
 好在 Daniel 现在已经为他的诺贝尔成就做好了充分准备。我告诉他，永远不要带着遗憾回头看。这些会成为一个自我实现的预言。我在这本[书](https://supermemo.guru/wiki/Problem_of_Schooling)中的一个主要论点是，晚来的成就可能会更好。
 

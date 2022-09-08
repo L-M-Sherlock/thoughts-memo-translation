@@ -4,7 +4,7 @@
 
 一些环境的核心活动从根本上说是主动的；大部分的体验是通过参与者投入精力创造出来的。我将其称为**参与性环境**。
 
-参与式环境可能是有意创制的，也可能不是。媒体环境几乎都是有意创制的，但许多社会和自然环境却不是。在创制的参与式环境中的部分体验可能是一种[设赋体验](https://notes.andymatuschak.org/z3KASfpz5AmNmqM2m517Jbs1EvXrLN7NkeYWH)。
+参与式环境可能是有意创制的，也可能不是。媒体环境几乎都是有意创制的，但许多社会和自然环境却不是。在创制的参与式环境中的部分体验可能是一种[情景体验](https://notes.andymatuschak.org/z3KASfpz5AmNmqM2m517Jbs1EvXrLN7NkeYWH)。
 
 [参与式环境支持学习](https://notes.andymatuschak.org/z56HX9kF6fRMoRQfT6VhZN9ehnrrLDAq8FEFP)
 
