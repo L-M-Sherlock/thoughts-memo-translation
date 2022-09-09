@@ -4,6 +4,8 @@
 
 根据我自己的实践：
 
+- 换到工作 40 分钟，休息 5 分钟（注：称为 45 分钟番茄钟） (https://notes.andymatuschak.org/z2An8A72dXYUn5Z5HhLHJ7kC9H9SwRVH2HbM)
+
   - 好嘞，早上要做 6 个 45 分钟番茄钟
 
   - 工作 8 小时就是 12 个番茄钟

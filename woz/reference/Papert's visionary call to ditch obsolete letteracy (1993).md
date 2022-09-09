@@ -6,7 +6,7 @@
 
 ## 超凡脱俗的远见者
 
-1993 年，[Seymour Papert](https://supermemo.guru/wiki/Seymour_Papert) 为《连线》杂志写了一篇文章，其中他描述新兴媒体会引发教育产生什么样的预期变化。他的预测很有远见，尽管他用「网」一字指的是知识之网（web of knowledge）。当时万维网刚满两岁，仅仅包含了 500 台服务器，为世人所不知。
+1993 年，[Seymour Papert](https://supermemo.guru/wiki/Seymour_Papert) 为《连线》杂志写了一篇文章，其中他描述了新兴媒体将会引发的教育变革。他的预测很有远见，尽管他用「网」一字指的是知识之网（web of knowledge）。当时万维网刚满两岁，仅仅包含了 500 台服务器，为世人所不知。
 
 ## 学校教育的问题
 
