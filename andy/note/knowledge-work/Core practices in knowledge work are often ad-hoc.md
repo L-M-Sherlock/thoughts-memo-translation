@@ -1,4 +1,4 @@
-# 知识工作的核心实践往往是临时性的
+# 知识工作的核心实践往往是临场发挥的
 
 原文：[Core practices in knowledge work are often ad-hoc (andymatuschak.org)](https://notes.andymatuschak.org/Core_practices_in_knowledge_work_are_often_ad-hoc)
 
@@ -6,6 +6,6 @@
 
 这种工作方式高度依赖于实践者和环境，因此知识工作者很难共享和构建关于这些实践的知识。
 
-没有一致的立足点，知识型员工很难评估和发展与这些核心任务相关的绩效。[运动员和音乐家比知识工作者更严格地追求基本技能的精湛性](https://notes.andymatuschak.org/z4qhD8UwNAmJDdJUC36BUGp5PEUfgfzZXvkhB)
+没有一致的立足点，知识型员工很难评估和发展与这些核心任务相关的表现。[运动员和音乐家比知识工作者更严格地追求基本技能的精湛性](https://notes.andymatuschak.org/z4qhD8UwNAmJDdJUC36BUGp5PEUfgfzZXvkhB)
 
 因为没有系统地考虑这些过程，知识工作者通常不会组织这些任务的输出，以至于随着时间的推移，它们无法积累成更有价值的东西（与此相反，[知识工作应能聚沙成塔](https://notes.andymatuschak.org/z6UDDkom8Aifg6mLdjT1sPtbMBweCmpyTwmJT)）。

@@ -8,11 +8,11 @@
 
   - [知识工作](https://notes.andymatuschak.org/z2eKzbL5nwQrm8Zr26rtaLHXyKHREr3tm5HbY)简史（对经济增长的助益，等等）
 
-  - [管理科学从企业和管理者角度出发考虑知识工作，而不是个人层面的知识工作](https://notes.andymatuschak.org/z5XsZe6JcodTxYY772Jt3rV68VWfW8xdsqKjx)
+  - [管理科学在考虑知识工作时从企业和管理者角度出发，而非个人层面](https://notes.andymatuschak.org/z5XsZe6JcodTxYY772Jt3rV68VWfW8xdsqKjx)
 
   - [我们不知道如何衡量知识工作者的生产力](https://notes.andymatuschak.org/z12T3AuuQ51Q3hkyKfvLYakzBRLyaXFk13ATM)
 
-- [核心知识工作往往是临时而为的](https://notes.andymatuschak.org/z7z6uFero1JXyANDsq7P4RzeUemPWrHD7Ejmn)
+- [知识工作的核心实践往往是临场发挥的](https://notes.andymatuschak.org/z7z6uFero1JXyANDsq7P4RzeUemPWrHD7Ejmn)
 
 - [知识工作应能聚沙成塔](https://notes.andymatuschak.org/z6UDDkom8Aifg6mLdjT1sPtbMBweCmpyTwmJT)
 
