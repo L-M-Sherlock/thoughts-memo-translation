@@ -8,4 +8,8 @@
 
 **答**：「1543 年」
 
+**条目**可以是有一个答案的简单问题，或者[完形填空](https://supermemo.guru/wiki/Cloze_deletion)，或拼写测试，或更一般的刺激-反应对。[SuperMemo for Windows] 中的**条目**以[蓝色 L 板图标](https://help.supermemo.org/wiki/Building_the_knowledge_tree)表示。
+
+其他应用中的别名：**卡片**、**问题**等。
+
 本[词汇表](https://supermemo.guru/wiki/Glossary)条目用于解释 [SuperMemo](https://supermemo.guru/wiki/SuperMemo_Guru)，一位自 [1987](https://supermemo.guru/wiki/History_of_spaced_repetition_(print)) 年以来的[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)软件先驱。

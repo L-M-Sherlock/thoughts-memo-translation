@@ -10,11 +10,11 @@
 
   - 《[地图，领土和元理性](https://metarationality.com/maps-and-territory)》作者：[David Chapman](https://notes.andymatuschak.org/z29Uv6CnK2xSy3nivekQwMMXW2jwzd4yQWbN)
 
-  - 《[普朗克是对的吗？老化对科学家生产力的影响](https://nintil.com/age-and-science/)》作者：[Jose Luis Ricon Fernandez de la Puente](https://notes.andymatuschak.org/zAxicVEnF4ZKani8m5LXHYRDDvrZctBvWYV)
+  - 《[普朗克是对的吗？衰老对科学家生产力的影响](https://nintil.com/age-and-science/)》作者：[Jose Luis Ricon Fernandez de la Puente](https://notes.andymatuschak.org/zAxicVEnF4ZKani8m5LXHYRDDvrZctBvWYV)
 
-  - （XXX 的本科生微观经济学课程，私有）
+  - （XXX 的本科微观经济学课程，私有）
 
-  - （XXX 本科生线性电路理论课程，私有）
+  - （XXX 本科线性电路理论课程，私有）
 
 - 使用其他人创建的系统：
 

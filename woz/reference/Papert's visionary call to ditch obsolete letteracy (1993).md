@@ -14,7 +14,7 @@ Papert 对教育问题的诊断，就像对四分之一个世纪后的[学校教
 
 ## 自由学习的力量
 
-Papert 用自己的语言为在 [SuperMemo Guru](https://supermemo.guru/wiki/SuperMemo_Guru) 上提出的几个重要论文作了序：
+Papert 用自己话为 [SuperMemo Guru](https://supermemo.guru/wiki/SuperMemo_Guru) 上的几篇重要论文作了序：
 
 - [学习内驱力](https://supermemo.guru/wiki/Learn_drive)在学校受到抑制
 
@@ -26,7 +26,7 @@ Papert 用自己的语言为在 [SuperMemo Guru](https://supermemo.guru/wiki/Sup
 
 - 学校实行错误的 3R 崇拜（见：[无语义课程](https://supermemo.guru/wiki/Asemantic_curriculum))
 
-- 学校偏向于「字识（letteracy）」，抑制了思想的[多样性](https://supermemo.guru/wiki/Diversity)。
+- 学校偏爱「字识（letteracy）」，抑制了思想的[多样性](https://supermemo.guru/wiki/Diversity)。
 
 - 未来的教育将基于[知识机器](https://supermemo.guru/wiki/Knowledge_Machine)的概念，它启发了[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)
 
@@ -38,13 +38,13 @@ Papert 用自己的语言为在 [SuperMemo Guru](https://supermemo.guru/wiki/Sup
 
 > 将学校教育与 3R（阅读、写作和算术）相提并论的老话，可能是教育变革的最顽固障碍。这些「基础知识」的核心作用从未被讨论过；它被认为是明显的。因此，教育政策制定者没有认识到新技术最重要的后果。
 
-## 新媒体
+## 新媒介
 
 Papert 预测了[电子游戏](https://supermemo.guru/wiki/Videogames)、VR 和 YouTube 的影响（比其诞生早 12 年）：
 
 > 将阅读从其在学校课程中的特权地位降级，只是[知识机器](https://supermemo.guru/wiki/Knowledge_Machine)的众多后果之一。一个在这种机器提供的自由探索中成长起来的孩子，不会静静地坐在今天大多数学校提供的标准[课程](https://supermemo.guru/wiki/Curriculum)中。孩子们已经被学校的缓慢和他们在电子游戏和电视中体验到的更刺激的节奏之间的对比弄得越来越烦躁。但是，当他们可以自由地进入非洲的动物或古希腊的战争的虚拟现实时，这种不安只是一个苍白的先兆。
 
-我在*莫尔斯密码星球*的比喻中描述了儿童不可避免的反叛，以及成人世界不可避免的抵抗：[学校信条的隧道视野]（https://supermemo.guru/wiki/Tunnel_vision_of_school_letteracy）。
+我在*莫尔斯密码星球*的比喻中描述了儿童不可避免的反叛，以及成人世界不可避免的抵抗：[学校字识（letteracy）的隧道视野](https://supermemo.guru/wiki/Tunnel_vision_of_school_letteracy)。
 
 ## 被动学校教育的倾覆
 

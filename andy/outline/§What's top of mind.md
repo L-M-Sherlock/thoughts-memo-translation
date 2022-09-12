@@ -1,8 +1,8 @@
-# §心智的首要部分
+# §最关心的事情
 
 原文：[§What’s top of mind (andymatuschak.org)](https://notes.andymatuschak.org/zUw5PuD8op9oq8kHvni6sug6eRTNtR9Wqma)
 
-有点像[/now page](https://sivers.org/nowff)，但时间范围更广，而且专注于我所想的事情。
+有点像 [/now page](https://sivers.org/nowff)，但时间范围更广，而且专注于我所想的事情。
 
 - 通过 [Orbit](https://notes.andymatuschak.org/z72ioKyd4X48WndtAsfkhnKwsD8o5PaaT384o) 扩展和理解[助记媒介](https://notes.andymatuschak.org/z4rRX3qwSSJRsEkdXKwH2shamgHNeRthrMLiF)
 
@@ -22,6 +22,6 @@
 
   - [知识工作很少涉及刻意练习](https://notes.andymatuschak.org/z5BMvN7tZr8wxZdfFHgjvV9Em5HzXPCboardR)
 
-  - [§认真对待知识工作（Stripe convergence talk, 2019-12-12）](https://notes.andymatuschak.org/z5opHsGrNmCib7YQfLv6XbYURzZgZmx4Mrh5y)
+  - [§严肃研究知识工作（Stripe 融合讨论，2019-12-12）](https://notes.andymatuschak.org/z5opHsGrNmCib7YQfLv6XbYURzZgZmx4Mrh5y)
 
 - [我们如何将思想工具置于有内在意义的背景中？](https://notes.andymatuschak.org/zKQs1fYnn4uzdws1KZc9pxkT3NUHastcMYq)

@@ -20,7 +20,7 @@
 
 教学的出现是双刃剑。近段时间，我们大多把教学看作是一件好事，其目的是为了启迪新生代。然而，教学最初也被用作一种剥削的工具。宗教领袖需要顺从的群众。经文原应开启民智，但往往被简化为极简的信条，作为灌输服从的咒语来诵读。君主需要顺从的士兵，他们可以组成军团，像战场上的棋子一样被摆弄。极权主义政府致力于将大众组织成一台完美的生产机器。个人的目标将屈从于执政党或独裁者的目标。[强制教育](https://supermemo.guru/wiki/Compulsory_schooling)系统也不例外。它以其最好的意图，建立基本的信条和强制性的[课程](https://supermemo.guru/wiki/Curriculum)来塑造个人的思想。几乎所有的国家都规定必须了解和尊重国歌和国旗。这种强制灌输的副作用各不相同。它不是对自己国家的健康热爱，而是可能导致侵略性的民族主义。它也可能适得其反（见：[我不再是一个爱国者](https://supermemo.guru/wiki/I_stopped_being_a_patriot)）。
 
-就像独裁者习惯于相信自己无所不知一样，教师也是如此。他们的一片好心，加上一种优越感，使他们觉得自己是肩负使命的重要领导人。他们是注定要照顾无助的羊群的牧羊人。他们可能不会用语言表达，甚至意识不到这个事实。这种条件反射可能没有被注意到，是年轻和年长的大脑之间[概念化](https://supermemo.guru/wiki/Conceptualization)水平差异的必然结果。此外，[语义距离](https://supermemo.guru/wiki/Semantic_distance)和[知识的诅咒](https://supermemo.guru/wiki/Curse_of_knowledge)增加了（教师的）阴谋神经元，促使教师朝着感觉自己很重要和无所不能的方向发展。当教师开始享受权力地位时，受影响的是学生和他们的适应能力。
+就像独裁者习惯于相信自己无所不知一样，教师也是如此。他们的一片好心，加上一种优越感，使他们觉得自己是肩负使命的重要领袖。他们是注定要照顾无助羊群的牧羊人。他们可能不会用语言表达，甚至意识不到这个事实。这种条件反射可能没有被注意到，是年轻和年长的大脑之间[概念化](https://supermemo.guru/wiki/Conceptualization)水平差异的必然结果。此外，[语义距离](https://supermemo.guru/wiki/Semantic_distance)和[知识的诅咒](https://supermemo.guru/wiki/Curse_of_knowledge)增加了（教师的）阴谋神经元，促使教师朝着感觉自己很重要和无所不能的方向发展。当教师开始享受权力地位时，受影响的是学生和他们的适应能力。
 
 教学在其起源和神经机制中都带有征服的色彩
 
@@ -28,13 +28,13 @@
 
 当今学校是多种影响的产物。除了他们的崇高目标外，这些影响还包括那种征服的原始恶意。所有这些影响都凝固在一套体系中，这套体系仍然充斥在最具善意的头脑中（见：[让古老的学校系统保持活力的谬误](https://supermemo.guru/wiki/Mythology_that_keeps_the_archaic_school_system_alive)）。我认识几十个老师，我不知道有哪一个可以指责他们居心不良，脾气不好，或者对孩子的爱不够。可悲的是，我认识的样本有所偏差。孩子们告诉我关于糟糕老师的恐怖故事。然而，我只知道他们故事的一个侧面。糟糕的「老师」不愿意和我说话。是不是因为我走在他们的缺点旁边？还是在良好的心态和准备交谈之间存在着关联？
 
-大脑作为完美的适应装置的故事又绕了一圈。一组关于大脑和学校教育的关键谬误围绕着大脑需要被编程的想法。矛盾的是，我们利用我们完美的适应性设备，将适应性用于限制我们个人和集体智力的目的（见：[学校破坏智力](https://supermemo.guru/wiki/School_undermines_intelligence)）。我们把西方世界的整个学校系统变成了一个磨难，在一个让人联想到[奴隶制](https://supermemo.guru/wiki/Slavery)的系统中研磨学生的大脑。我们把学生磨成一群顺从的不快乐的人，他们的生存、自学和自助能力都很有限。这种自我延续的悲剧来自于对[学习内驱力的优化](https://supermemo.guru/wiki/Optimality_of_the_learn_drive)的缺乏了解。如果学习是不愉快的，它必然是有害的。所有好的学习都是愉悦的，而所有愉悦的学习都是好的。这就是从神经科学的简单真理中得出的[学习的基本规律](https://supermemo.guru/wiki/Fundamental_law_of_learning)。在实践中，这意味着只有儿童或学生才有能力在学习中做出最佳选择。教师可以建议、激起、协助或启发。然而，**教师不得要求**。每当[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的指导被上面的命令推翻时，指导的力量就会在[网络的战争](https://supermemo.guru/wiki/War_of_the_networks)中被压制。巴甫洛夫已经研究过网络之间的竞争，卢里亚也描述过。我们知道，它可以导致持续一生的损害。我们知道[孩子们讨厌学校](https://supermemo.guru/wiki/Kids_hate_school)，而这种讨厌主要是基于对[学习内驱力]的压制(https://supermemo.guru/wiki/Learn_drive)。这对智力、心理健康、社会生活、甚至政治生活都有灾难性的影响。最后，不健康行为的浪潮在社会结构中跳动，交叉、干扰和叠加，就像浴缸中的肥皂水一样。通过压制自然的[对学习的爱](https://supermemo.guru/wiki/Love_of_learning)，我们对社会健康和[智力](https://supermemo.guru/wiki/Intelligence)造成了持久而广泛的损害。
+大脑作为完美的适应装置的故事又绕了一圈。一组关于大脑和学校教育的关键谬误的中心是，大脑需要被编程。矛盾的是，我们利用我们完美的适应装置，将适应性用于限制我们个人和集体的智力（见：[学校破坏智力](https://supermemo.guru/wiki/School_undermines_intelligence)）。我们把西方世界的整个学校系统变成了磨难，在一个让人联想到[奴隶制](https://supermemo.guru/wiki/Slavery)的系统中折磨学生的大脑。我们把学生折磨成一群顺从且苦闷的人，他们的生存、自学和自助能力都受到限制。这种自我延续的悲剧来自于对[学习内驱力的优化](https://supermemo.guru/wiki/Optimality_of_the_learn_drive)缺乏了解。如果学习是不愉悦的，它必然是有害的。所有好的学习都是愉悦的，而所有愉悦的学习都是好的。这就是从神经科学的简单真理中得出的[学习的基本规律](https://supermemo.guru/wiki/Fundamental_law_of_learning)。在实践中，这意味着只有儿童或学生才有能力在学习中做出最佳选择。教师可以建议、激起、协助或启发。然而，**教师不得强求**。每当[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的引导被上面的命令推翻时，引导的力量就会在[网络的战争](https://supermemo.guru/wiki/War_of_the_networks)中被压制。巴甫洛夫已经研究过网络之间的竞争，Luria 也描述过。我们知道，它可以导致持续一生的损害。我们知道[孩子们讨厌学校](https://supermemo.guru/wiki/Kids_hate_school)，而这种讨厌主要源于对[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的压制。这对智力、心理健康、社会生活、甚至政治生活都有灾难性的影响。最后，不健康行为的浪潮在社会结构中跳动，交叉、干扰和叠加，就像浴缸中的肥皂水一样。通过压制自然的[对学习的爱](https://supermemo.guru/wiki/Love_of_learning)，我们对社会健康和[智力](https://supermemo.guru/wiki/Intelligence)造成了持久而广泛的损害。
 
-强制学校教育破坏了大脑的适应能力，这是由于[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)是[对胁迫的最佳适应](https://supermemo.guru/wiki/Missile_metaphor)形式
+强制学校教育破坏了大脑的适应能力，这是因为[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)是[对胁迫的最佳适应](https://supermemo.guru/wiki/Missile_metaphor)方式
 
 [![Curiosity, creativity and learned helplessness in a worm.png](https://supermemo.guru/images/thumb/e/ed/Curiosity%2C_creativity_and_learned_helplessness_in_a_worm.png/300px-Curiosity%2C_creativity_and_learned_helplessness_in_a_worm.png)](https://supermemo.guru/wiki/File:Curiosity,_creativity_and_learned_helplessness_in_a_worm.png)
 
-> 图：秀丽隐杆线虫的神经系统仅由 302 个神经元组成。然而，这足以实现一种探索性的算法，让人联想到人类的好奇心、创造力和问题的解决。当蠕虫发现一片食物时，它将探索它。然而，偶尔它也会出人意料地朝一个随机的方向冲去，寻找新的斑块（细菌）。类似的算法可以在其他动物身上找到，然而，人类的[学习内驱力]（https://supermemo.guru/wiki/Learn_drive）要复杂得多。它是基于[知识估值](https://supermemo.guru/wiki/Knowledge_valuation)，探索性的休息是为[学习熵](https://supermemo.guru/wiki/Learntropy)下降到远低于预期值的时期保留的。人类的创造力也是以知识为基础的，而在温暖的环境中，其唯一的方面是随机选择一个方向。对于蠕虫来说，一片新的细菌是一个问题的解决，而对于人类来说，它可能是一个改造火星的新想法。值得一提的是，在原始动物中诱导[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)（标记为「学校」）的隐喻工具，反而只会有驱动习得的形式。尽管如此，小虫子可能提出了一个令人信服的说明，比智能导弹的类比要普适得多，也可能与原始神经系统有关。更多关于学习内驱力的普遍性，见：https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4635443/
+> 图：秀丽隐杆线虫的神经系统仅由 302 个神经元组成。然而，这足以实现一种探索算法，让人联想到人类的好奇心、创造力和问题的解决。当蠕虫发现一片食物时，它将探索它。然而，偶尔它也会出人意料地朝一个随机的方向冲去，寻找新的斑块（细菌）。类似的算法可以在其他动物身上找到，然而，人类的[学习内驱力](https://supermemo.guru/wiki/Learn_drive)要复杂得多。它是基于[知识估值](https://supermemo.guru/wiki/Knowledge_valuation)，探索性的休息是为[学习熵](https://supermemo.guru/wiki/Learntropy)下降到远低于预期值的时期保留的。人类的创造力也是以知识为基础的，而在温暖的环境中，其唯一的方面是随机选择一个方向。对于蠕虫来说，一片新的细菌是一个问题的解决，而对于人类来说，它可能是一个改造火星的新想法。值得一提的是，在原始动物中诱导[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)（标记为「学校」）的隐喻工具，反而只会有驱动习得的形式。尽管如此，小虫子可能提出了一个令人信服的说明，比智能导弹的类比要普适得多，也可能与原始神经系统有关。更多关于学习内驱力的普遍性，见：https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4635443/
 
 ## 干预的危害
 
@@ -68,7 +68,7 @@ Dev 的情况由于他的气管有问题而变得更糟，这使他毫无抵抗�
 
 ## 神经多样性
 
-民主学校为孩子们提供了自由。他们有一种不可思议的能力，能消除大量的学习和行为问题。他们吹嘘说，在其毕业生中没有 [ADHD](https://supermemo.guru/wiki/ADHD) 或[阅读障碍](https://supermemo.guru/wiki/Dyslexia)。我并不感到惊讶。整个儿童精神病学似乎是以确保学校的正常表现为目标。
+民主学校为孩子们提供了自由。他们有一种不可思议的能力，能消除大量学习和行为问题。他们吹嘘说，在其毕业生中没有 [ADHD](https://supermemo.guru/wiki/ADHD) 或[阅读障碍](https://supermemo.guru/wiki/Dyslexia)。我并不感到惊讶。整个儿童精神病学似乎是以确保学校的正常表现为目标。
 
 我毫不怀疑，一所民主学校可以改变我一个朋友的生活。他患有精神分裂症。我不知道他的精神分裂症是如何开始的，甚至不知道他的精神分裂症是否是真的有病。我不会声称学校的自由可能会治愈一个有机的问题。然而，一所民主的学校可以为最不寻常的神经多样性案例找到合适的人选。所有的魔法都可以归结为**大脑的完美适应性**。
 
@@ -84,7 +84,7 @@ Dev 的情况由于他的气管有问题而变得更糟，这使他毫无抵抗�
 
 教师强制记忆乘法表的努力可能会导致数学焦虑，这种焦虑会随着新的数学领域的连续问题在几年内不断积累。而[无语义学习](https://supermemo.guru/wiki/Asemantic_learning)的问题通过自由的手段毫不费力地解决了。在自由的条件下，对[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的依赖使我们有可能利用[知识达尔文主义](https://supermemo.guru/wiki/Knowledge_darwinism)。如果知识碎片无法找到它们的[语义框架](https://supermemo.guru/wiki/Semantic_framework)，一个人可能会被留下一个终身无知的缺口。但无知的危险性远远小于对学习的厌恶。正是[学习的乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)确保我们通过不断修补技能和知识的弱点来度过一生。在生活中，无助的个人才是脆弱的。如果没有持续的适应来支撑，大学学位是没有保证的。[无语义学习](https://supermemo.guru/wiki/Asemantic_learning)和[胁迫学习](https://supermemo.guru/wiki/Coercive_learning)弊大于利。它们应该被剥夺被称为「学习」的尊严。对于在学校里进行的无意识或强制性的事实吞咽形式，我使用一个更合适的术语：[死记硬背](https://supermemo.guru/wiki/Cramming)。
 
-[非学校教育者](https://supermemo.guru/wiki/Unschooling)最大的财富是他们的[对学习的热爱](https://supermemo.guru/wiki/Pleasure_of_learning)。在他们的头脑中，没有任何无知的残余能逃过一劫
+[非学校教育者](https://supermemo.guru/wiki/Unschooling)最大的财富是他们[对学习的热爱](https://supermemo.guru/wiki/Pleasure_of_learning)。在他们的头脑中，没有任何无知的残余能逃过一劫。
 
 ## 被破坏的概念化
 
@@ -162,4 +162,4 @@ Wolfram 的科学对小孩子来说本来就有吸引力。他的图表很吸引
 
 - 关于大脑适应性的明显主张被一套巩固和延续学校系统的迷思所阻挠（见：[使古老的学校系统保持活力的迷思](https://supermemo.guru/wiki/Mythology_that_keeps_the_archaic_school_system_alive)）。
 
-- 学校教育系统的诞生，部分是源于征服他人的愿望。孩子们经常把学校比作监狱，把学校教育比作奴隶制。[强制学校教育必须结束](https://supermemo.guru/wiki/Compulsory_schooling_must_end)
+- 学校教育系统的诞生，部分源于征服他人的欲望。孩子们经常把学校比作监狱，把学校教育比作奴隶制。[强制学校教育必须结束](https://supermemo.guru/wiki/Compulsory_schooling_must_end)
