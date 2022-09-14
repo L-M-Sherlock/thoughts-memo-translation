@@ -40,4 +40,12 @@
 
 通过去年发布 Orbit，我学到了很重要的一点：按最初的设计，助记媒介在大部分阅读情境下不好用。读者需要更多控制权。如果我能迭代更快，制作的是用后即扔的原型，只跟少数精心挑选的作者合作，我本应更快获知这点。实现比设计更坚实——这样可不好。
 
+所有这些都是可笑的设计入门问题。是的傻瓜，你应该制作一些粗略的原型，测试它们，扔掉它们。在实际工作中，我很难将这一点与在严肃背景下探索系统的愿望相调和。这个月的原型设计让我学会了，在工作中去追求更多的轻盈与律动感。我想找到回避那些感觉像「基础设施」的元素的方法。如果这意味着我需要站在那里，一边看着你工作一边支撑挡土墙，或许也不错。
+
+### **一些惊喜的发现**
+
+![img](https://c10.patreonusercontent.com/4/patreon-media/p/post/68479856/090294853ce942458c32b986907f7533/eyJ3Ijo4MjB9/1.png?token-time=1657929600&token-hash=tulbGCePKN8C6dYTOJltIUWggo25bHtHnTjsA1k-1eQ%3D)
+
+![img](https://c10.patreonusercontent.com/4/patreon-media/p/post/68479856/3085dab677304693a821ab98889ac3c3/e30%3D/1.png?token-time=1657929600&token-hash=mDp8NktDxyNwCpEHCJUv1BjL5lWC8D8lAu_UVLi4sTg%3D)
+
 ————————

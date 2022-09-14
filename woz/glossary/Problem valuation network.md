@@ -8,7 +8,7 @@
 
 详见：[如何解决任何问题？](https://supermemo.guru/wiki/How_to_solve_any_problem%3F)
 
-本[术语](https://supermemo.guru/wiki/Glossary)条目用于解释《[我永远不会送我的孩子去学校](https://supermemo.guru/wiki/Problem_of_Schooling)》（2017）作者：[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)
+本[术语表](https://supermemo.guru/wiki/Glossary)条目用于解释《[我永远不会送我的孩子去学校](https://supermemo.guru/wiki/Problem_of_Schooling)》（2017）作者：[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)
 
 [![Problem valuation optimum for problem difficulty](https://supermemo.guru/images/thumb/8/84/Problem_valuation.jpg/500px-Problem_valuation.jpg)](https://supermemo.guru/wiki/File:Problem_valuation.jpg)
 

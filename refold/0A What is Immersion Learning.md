@@ -1,4 +1,4 @@
-# 0A：什么是沉浸式语言学习？\n\n原文：https://refold.la/simplified/stage-0/a/what-is-immersion
+# 0A：什么是沉浸式语言学习？
 
 大多数语言老师教你如何记住单词和语法，然后把两者结合起来造句。这种学习方式叫做「技能培养」法。
 

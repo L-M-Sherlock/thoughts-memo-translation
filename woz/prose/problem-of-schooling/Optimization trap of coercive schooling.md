@@ -1,4 +1,4 @@
-# 胁迫性学校教育的优化陷阱
+# 强制学校教育的优化陷阱
 
 原文：[Optimization trap of coercive schooling - supermemo.guru](https://supermemo.guru/wiki/Optimization_trap_of_coercive_schooling)
 
@@ -10,7 +10,7 @@
 
 尽管胁迫有种种荒谬之处，但世界各地都在采用胁迫，它很猖獗，而且不断滋生一些崇拜者。
 
-唯一的希望在于普通人能够理解的简单的思想和学习模式。在我参与学生罢课的过程中（[Wiosna Uczniow 2022](https://supermemo.guru/wiki/Wiosna_Uczniow_2022)），我与无数的教师和家长交谈，胁迫的神话像一座堡垒一样静止不动。它是一个无知的堡垒。[学校谬误](https://supermemo.guru/wiki/School_mythology)的顽固性使我得出结论，进化的方向是错误的，我们需要一场革命。我们需要一场学生的叛乱，并得到这个星球上所有聪明人的支持，特别是关心我们的父母和开明的老师。
+唯一的希望在于普通人能够理解的简单的思想和学习模式。在我参与学生罢课的过程中（[2022 学生之春](https://supermemo.guru/wiki/Wiosna_Uczniow_2022)），我与无数的教师和家长交谈，胁迫的谬误像一座堡垒一样静止不动。它是一个无知的堡垒。[学校谬误](https://supermemo.guru/wiki/School_mythology)的顽固性使我得出结论，进化的方向是错误的，我们需要一场革命。我们需要一场学生的叛乱，并得到这个星球上所有聪明人的支持，特别是关心我们的父母和开明的老师。
 
 见：[学校改革：进化还是革命？](https://supermemo.guru/wiki/School_Reform:_Evolution_or_Revolution%3F)
 
@@ -38,11 +38,11 @@
 
 [![Harm of coercion in learning.png](https://supermemo.guru/images/thumb/c/cc/Harm_of_coercion_in_learning.png/800px-Harm_of_coercion_in_learning.png)](https://supermemo.guru/wiki/File:Harm_of_coercion_in_learning.png)
 
-> ***图：***
+> 图：
 
 >
 
-> - 基于[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的**自然学习显示为红色
+> - 基于[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的**自然学习**显示为红色
 
 > - **基于学校惩罚和奖励的强制性学习**显示为蓝色
 

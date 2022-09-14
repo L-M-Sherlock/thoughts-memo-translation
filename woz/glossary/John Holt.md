@@ -14,7 +14,7 @@ Holt 讲道，成年人很烦孩子，毫无同情心：
 
 > 所有的精力和愚蠢，所有的好奇心、问题、谈话，所有这些激烈的激情、无法释怀的悲伤、无节制的快乐，对许多人来说似乎是一种需要忍受的麻烦，或者一种需要被治愈的疾病。对我来说，他们是国家的资产，是无价之宝，对我们的健康和生存来说，比任何石油或铀或其他你能想到的事物都更重要。
 
-本[glossary](https://supermemo.guru/wiki/Glossary)条目用于解释 "*[我永远不会送我的孩子去学校](https://supermemo.guru/wiki/Problem_of_Schooling)*"(2017) 作者：[Piotr Woźniak](https://supermemo.guru/wiki/Piotr_Wozniak)
+本[术语表](https://supermemo.guru/wiki/Glossary)条目用于解释《[我永远不会送我的孩子去学校](https://supermemo.guru/wiki/Problem_of_Schooling)》（2017）作者：[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)
 
 欲了解更多，请参阅：
 
