@@ -184,7 +184,7 @@ Robert Sapolsky 博士经常引用的研究表明，我们可能对其他事物�
 
 把像阿道夫-希特勒这样的人当作先天性的病态而加以否定，是极其危险的。这是一种非常流行的街头观点。**「希特勒只是一个精神病患者 」**。实际上，他是一个极端激进化的案例。现代社会似乎已经发展出更好的机制来应对这种发展轨迹。然而，会有更多像[安德斯-布雷维克]（https://en.wikipedia.org/wiki/Anders_Behring_Breivik）这样的案例。其中一个人可能最终上台。矛盾的是，斯堪的纳维亚国家以其 "现代 "的社会主义养育方式，面临着特别的风险。孩子们需要自由，[开放的行为空间](https://supermemo.guru/wiki/Optimization_of_behavioral_spaces_in_development)，以及相关的急性压力，导致[压力复原力](https://supermemo.guru/wiki/Stress_resilience)。虐待儿童是最糟糕的风险因素之一，然而，庇护孩子远离现实世界也可能是危险的，特别是当它与一剂专制的养育方式相结合，或与破坏依恋关系的非专制方式相结合时。专制的保姆式国家的保护伞也同样危险。刺激[Barnevernet](https://en.wikipedia.org/wiki/Norwegian_Child_Welfare_Services)采取行动的父母违法行为清单，就像一个基于古老行为假设的[婴儿管理](https://supermemo.guru/wiki/Baby_management)的经典案例。Robert E. Larzelere博士的研究表明，我们甚至应该对[禁止打屁股](https://www.researchgate.net/publication/275649144_Swedish_Trends_in_Criminal_Assaults_against_Minors_since_Banning_Spanking_1981-2010)持谨慎态度。旨在设计一个完美的孩子的努力可能会催生更多的布雷维克人。
 
-通过制度化的方式设计儿童发展，具有很高的激进化风险
+通过体制化的方式设计儿童发展，具有很高的激进化风险
 
 正如[禁止家庭教育](https://supermemo.guru/wiki/Ban_on_homeschooling)中所解释的那样，本土恐怖主义通常源于奖励制度的破坏，而这种破坏是由虐待儿童、专制父母、严格的学校教育、认为不公正、失去自由等因素造成的。驱使偏差行为的不是宗教或意识形态。它是缺乏通常分配给健康社会群体的所有成员的奖励。驱使孩子们吸毒的机制也可能使他们成为新 「宗教」的皈依者。
 
@@ -236,6 +236,6 @@ Robert Sapolsky 博士经常引用的研究表明，我们可能对其他事物�
 
 - Caleb Cain 的故事是一个通过学习来进化心智的精彩记录案例
 
-- 最不被重视的激进化原因是虐待儿童、[婴儿管理](https://supermemo.guru/wiki/Baby_management)、制度化、[学校教育](https://supermemo.guru/wiki/Schooling)和其他限制自由的行为。
+- 最不被重视的激进化原因是虐待儿童、[婴儿管理](https://supermemo.guru/wiki/Baby_management)、体制化、[学校教育](https://supermemo.guru/wiki/Schooling)和其他限制自由的行为。
 
 - 为防止激进化，需要用爱喂养孩子，提供[自由学习](https://supermemo.guru/wiki/Free_learning)，打击歧视，并确保从摇篮到坟墓的个人自由。

@@ -50,4 +50,4 @@
 
 - [参与对预期结果估值的大脑中枢：伏隔核和 VTA](https://supermemo.guru/wiki/Brain_centers_involved_in_valuation_of_anticipated_outcomes:_nucleus_accumbens_and_VTA)
 
-- [杏仁体可能参与奖励新奇的输入](https://supermemo.guru/wiki/Amygdala_may_be_involved_in_rewarding_novel_input)
+- [杏仁体可能参与奖励新奇输入的功能](https://supermemo.guru/wiki/Amygdala_may_be_involved_in_rewarding_novel_input)
