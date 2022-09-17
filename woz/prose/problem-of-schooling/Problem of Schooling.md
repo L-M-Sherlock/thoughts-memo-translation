@@ -26,6 +26,8 @@
 
 - [学习的乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)：优质的学习永远是快乐的
 
+- [知道的乐趣](https://supermemo.guru/wiki/Pleasure_of_knowing) * 知道东西是令人愉快的
+
 - [交流的乐趣](https://supermemo.guru/wiki/Pleasure_of_communication) * 交流自己的想法是快乐的
 
 - [Biederman 模型](https://supermemo.guru/wiki/Biederman_model)：在优质的学习中，乐趣是如何产生的
@@ -38,7 +40,17 @@
 
 - [大脑是完美的适应装置](https://supermemo.guru/wiki/Brain_is_a_perfectly_adaptable_device) * 在自由的条件下，大脑发育得最好
 
+- [婴儿管理](https://supermemo.guru/wiki/Baby_management)：事无巨细地管理孩子的生活对智力有害
+
+- [幼儿园的苦难](https://supermemo.guru/wiki/Daycare_misery)：将婴儿与母亲分开的负面影响
+
+- [抗压力韧性](https://supermemo.guru/wiki/Stress_resilience)：急性压力可能有助于韧性，而慢性压力是脑细胞杀手
+
 - [将创造力与 ADHD 混淆](https://supermemo.guru/wiki/Confusing_creativity_with_ADHD) * 有创造力的孩子都很狂野
+
+- [早熟悖论](https://supermemo.guru/wiki/Precocity_paradox) * 发育迟缓可能是好消息
+
+- [学习中的反馈](https://supermemo.guru/wiki/Feedback_in_learning) * 高质量的反馈决定了复杂任务的高质量学习
 
 ## 记忆板块
 

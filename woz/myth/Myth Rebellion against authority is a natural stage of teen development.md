@@ -2,15 +2,15 @@
 
 原文：[Myth: Rebellion against authority is a natural stage of teen development - supermemo.guru](https://supermemo.guru/wiki/Myth:_Rebellion_against_authority_is_a_natural_stage_of_teen_development)
 
-## 谬误
+## 谬误：
 
 在青春期，青少年的情绪不稳定，对整个世界产生反感。
 
-## 事实
+## 事实：
 
-「叛逆期」可能是[强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling)雕琢出来的副产品。
+「叛逆期」可能是[强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling)雕刻出来的副产品。
 
-支配个人对世界的态度的最重要过程是[概念化](https://supermemo.guru/wiki/Conceptualization)过程，它决定了大脑的结构，以及[概念网络](https://supermemo.guru/wiki/Concept_network)的拓扑结构。这个过程的终生进展似乎没有显示出一个“有利于反叛的特定阶段"。在青春期的时候，可能会发生一些荷尔蒙、神经和情感的动荡。这不是一个反叛的阶段。在最坏的情况下，一定程度的混乱可能是由暂时加速的概念化的破坏性影响引起的。
+支配个人对世界态度的最重要过程是[概念化](https://supermemo.guru/wiki/Conceptualization)过程，它决定了大脑的结构，以及[概念网络](https://supermemo.guru/wiki/Concept_network)的拓扑结构。这个持续终生的过程似乎没有显示出会有一个“倾向于反叛的特定阶段"。在青春期的时候，可能会发生一些荷尔蒙、神经和情感的动荡。但这不是一个反叛的阶段。在最坏的情况下，青春期暂时加速的概念化会有破坏性影响，引起一定程度的无序混乱。
 
 然而，有一些外部因素可能会产生反叛阶段的幻觉。主要的力量是[强制学校教育]（https://supermemo.guru/wiki/Compulsory_schooling）。一方面，有一种反叛的力量，逐渐增加学习的负担和成人世界的要求。青春期的到来可能与转入中学的时间相吻合（如[社会化的封闭系统](https://supermemo.guru/wiki/Closed_systems_of_socialization)中解释的那样）。叛逆的力量被逐渐发展的[习得性无助]（https://supermemo.guru/wiki/Learned_helplessness）所抑制。如果 "缓缓进入顺从的成人期"的过程足够缓慢，可能就不会有反叛。只有无助感，在青春期可能有戏剧性的后果，如自杀。
 

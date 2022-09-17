@@ -1,4 +1,4 @@
-# 在电脑上阅读文本是令人不快的
+# 在电脑上阅读文本令人不快
 
 原文：[Reading texts on computers is unpleasant (andymatuschak.org)](https://notes.andymatuschak.org/z7yjjydTNu3bujTeFc7Hey1iFbz513SnN6oss)
 
