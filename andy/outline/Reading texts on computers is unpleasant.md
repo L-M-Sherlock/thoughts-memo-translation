@@ -10,10 +10,10 @@
 
 - [平行阅读在电子阅读中大多是不可能的](https://notes.andymatuschak.org/z8KaXwxWaMdUbhKa3RC2zN8ZB36gfvWcoWmwR)
 
-- [很少有电子阅读环境支持边缘注解](https://notes.andymatuschak.org/z4Hk27FK5Q9QiwKZGktJ7uMjkYj7SMs8RJGVR)
+- [很少有电子阅读环境支持旁注](https://notes.andymatuschak.org/z4Hk27FK5Q9QiwKZGktJ7uMjkYj7SMs8RJGVR)
 
 - [电子批注过于形式化](https://notes.andymatuschak.org/z6eF7M2XP2YqefAFS4rTXKqSLZCGXkj9NBWe7)
 
-- [手机亮度将计算机限制在室内](https://notes.andymatuschak.org/z7b7UyNrbU2chF5wehyKRvh3ABrFeHXiD5d4t)
+- [背光显示器限制计算机只能在室内使用](https://notes.andymatuschak.org/z7b7UyNrbU2chF5wehyKRvh3ABrFeHXiD5d4t)
 
 这是一个重要的问题，因为[要采用电子化应对大规模数字化新媒体的文本阅读](https://notes.andymatuschak.org/z4ANG1DVEjkbEwkhbeKtMYRGYbHGUW3mcc9aA)。

@@ -1,4 +1,4 @@
-# 学校的奴隶制即将结束
+# 学校奴隶制即将结束
 
 原文：https://supermemo.guru/wiki/School_slavery_will_end_soon
 
@@ -6,11 +6,11 @@
 
 ## 为什么学校如此落后？
 
-*Ryan Jacobs* 提出了问题 (见 [原话](https://supermemopedia.com/wiki/Do_you_believe_that_your_ideas_will_ever_be_applied_to_school_systems%3F))
+*Ryan Jacobs* 提问（见[原话](https://supermemopedia.com/wiki/Do_you_believe_that_your_ideas_will_ever_be_applied_to_school_systems%3F)）
 
-常问问题。[什么是常见问题？](https://supermemo.guru/wiki/What_are_FAQs%3F)
+常见问题。[什么是常见问题？](https://supermemo.guru/wiki/What_are_FAQs%3F)
 
-你相信你的想法可能有一天会被学校采用吗？毋庸置疑，你有些绝妙想法。 不过，它们有多实用？要是它们真这么棒，为什么早没有在全世界的学校流行起来？事实上，在未来很长一段时间，改革都不大可能。我对 [间隔重复](https://supermemo.guru/wiki/Spaced_repetition) and [自由学习](https://supermemo.guru/wiki/Free_learning)的诉求，就是显著例子。
+你相信你的想法可能有一天会被学校采用吗？毋庸置疑，你有些绝妙想法。 不过，它们有多实用？要是它们真这么棒，为什么早没有在全世界的学校流行起来？事实上，在未来很长一段时间，改革都不大可能。我对 [间隔重复](https://supermemo.guru/wiki/Spaced_repetition)和[自由学习](https://supermemo.guru/wiki/Free_learning)的诉求，就是显著例子。
 
 ## 强制学校教育必将倾覆
 

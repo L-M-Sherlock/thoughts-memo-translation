@@ -20,7 +20,7 @@
 
 导致（1）**斯多葛式的心灵**或（2）**无助的心灵**的条件反射可以用[网络战争](https://supermemo.guru/wiki/Model)的[概念](https://supermemo.guru/wiki/Concept)来[模拟](https://supermemo.guru/wiki/War_of_the_networks)。因此，它可能从（1）容易被解除学习到（2）不可逆转（在突触或神经元严重丧失的情况下）。
 
-很难说压制负面情绪是否可能诱发[网络战争](https://supermemo.guru/wiki/War_of_the_networks)的有害副作用。我们应该始终警惕对自然情感状态的干扰。表达愤怒可能有许多积极的影响。它可能会激发对目标的追求。偶尔表达悲伤也可能是一种宣泄。
+很难说压制负面情绪是否可能诱发[网络战争](https://supermemo.guru/wiki/War_of_the_networks)的有害副作用。我们应该始终警惕自然情感状态的干涉。表达愤怒可能有许多积极的影响，如激发人对目标的追求，偶尔表达悲伤也可能是一种宣泄。
 
 ## 斯多葛主义的技艺
 
