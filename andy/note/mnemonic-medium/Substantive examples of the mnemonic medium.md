@@ -16,11 +16,11 @@
 
   - （XXX 本科线性电路理论课程，私有）
 
-- 使用其他人创建的系统：
+- 基于别人建立的系统：
 
   - 《[曙光指南](https://dawnguide.com/home)》作者：Mispy（定制实现）
 
-  - [Soren Bjornstad](https://notes.andymatuschak.org/zzfor7LXCY9JBRjFmMaeLw5zV69GM2dSDQA)的即将出版的 TiddlyWiki 图书（以 TiddlyWiki 为中心的新实现）
+  - [Soren Bjornstad](https://notes.andymatuschak.org/zzfor7LXCY9JBRjFmMaeLw5zV69GM2dSDQA) 即将出版的 TiddlyWiki 图书（以 TiddlyWiki 为中心的新实现）
 
   - 《[Think Saver](https://notes.andymatuschak.org/zBM4qbJhN1XA4wBpDCj2fonXiz4sgQFe4YR)》
 

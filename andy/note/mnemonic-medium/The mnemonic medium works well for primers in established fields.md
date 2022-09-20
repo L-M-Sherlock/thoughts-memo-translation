@@ -2,13 +2,13 @@
 
 原文：[The mnemonic medium works well for primers in established fields (andymatuschak.org)](https://notes.andymatuschak.org/zY1nxKoZCJmCd6EpMxzWHwmCyiQUG7nX17Z)
 
-最开始学习一个主题的时候是一个特别宝贵的时间来增加他们的学习，特别是他们的记忆力：例如[间隔重复记忆系统可以缩短科目学习中不愉快的早期阶段](https://notes.andymatuschak.org/z36hoKonZMF93rY34goQhyFLfnTfHmSwBzNYs)。
+初学某一领域时是一个特别宝贵的时间来增强他们的学习，特别是他们的记忆力：例如[间隔重复记忆系统可以缩短科目学习中不愉快的早期阶段](https://notes.andymatuschak.org/z36hoKonZMF93rY34goQhyFLfnTfHmSwBzNYs)。
 
-[助记媒介](https://notes.andymatuschak.org/z4rRX3qwSSJRsEkdXKwH2shamgHNeRthrMLiF)特别适合于此背景，因为[最初的助记媒介在前提上隐含着专制](https://notes.andymatuschak.org/z2SaePptX2K1sudevrMYrjaqP7ZBRLs82iSv)：它假定您想要尊重作者在该主题上的权威并记住每张卡片。这一假设对于入门读物来说是不成比例的，因为读者可能对这个主题没有太多的想法或先入为主的想法。
+[助记媒介](https://notes.andymatuschak.org/z4rRX3qwSSJRsEkdXKwH2shamgHNeRthrMLiF)特别适合于此场景，因为[最初的助记媒介在前提上隐含着专制](https://notes.andymatuschak.org/z2SaePptX2K1sudevrMYrjaqP7ZBRLs82iSv)：它假定您想要尊重作者在该主题上的权威并记住每张卡片。这一假设对于入门读物来说是极有可能的，因为读者可能对这个主题没有太多的想法或先入为主的想法。
 
 我认为同样重要的是，入门读物要涵盖一个成熟的领域，这样它的目录就不会有太多争议或作者的特质。当这个领域不是很成熟的时候，读者会更有可能猜测作者对什么是重要的选择。
 
-我认为这些原因是[量子国度](https://notes.andymatuschak.org/z2fBHADWa93EZTuNzuww7V3Vi587ZyZ4FHTHm)运行相对较好的部分原因。
+我认为这些原因一定程度上解释了为什么[量子国度](https://notes.andymatuschak.org/z2fBHADWa93EZTuNzuww7V3Vi587ZyZ4FHTHm)的效果相对较好。
 
 ------
 
