@@ -64,7 +64,7 @@
 
 与其被小事纠缠几个小时，不如对着一头公牛，迎难而上，受点伤，流点血，让这一切硬碰硬，但要让它快速结束，有一个决心：无论输赢。这样你就可以把[慢性压力](https://supermemo.guru/wiki/Chronic_stress)转化为[急性压力](https://supermemo.guru/wiki/Acute_stress)，甚至可能转化为[良性压力](https://supermemo.guru/wiki/Eustress) 。拳击比赛结束后，会有一段短暂的欣喜。虽然慢性压力是一个臭名昭著的大脑破坏者，会破坏你的防御系统，但[急性压力](https://supermemo.guru/wiki/Acute_stress)可能会变成健康的，特别是当你战胜它后。
 
-举个例子，想象一下你有个讨厌的老板，他无法赏识你的工作。但有一些困扰了你几天、几周或几个月重要的信息要传达，与其把宝贵的早晨浪费在思考问题上，不如用愉快的学习（如关于自信的学习）给自己充电，然后安排场大对峙。如果你有个计划，你可以有礼貌，面带微笑，态度坚决地与老板沟通，让他给你充分放权，让你勇敢去闯证明自己。
+举个例子，想象一下你有个讨厌的老板，他无法赏识你的工作。但有一些困扰了你几天、几周或几个月重要的信息要传达。与其把宝贵的早晨浪费在思考问题上，不如用愉快的学习（如关于自信的学习）给自己充电，然后安排场大对峙。如果你有个计划，你可以有礼貌，面带微笑，态度坚决地与老板沟通，让他给你充分放权，让你勇敢去闯证明自己。
 
 把问题聚成一堆并解决它是生活中的一个进步。徘徊数周对大脑不利，对你幸福生活的前景也很糟糕。减少压力的公式是：（1）将压力源封装为[良性压力](https://supermemo.guru/wiki/Eustress)，（2）将压力源增加为[急性压力](https://supermemo.guru/wiki/Acute_stress)，以及（3）通过[部署压力阀](https://supermemo.guru/wiki/Using_stress_valves_to_prevent_chronic_stress)防止[急性压力](https://supermemo.guru/wiki/Acute_stress)变成[慢性压力](https://supermemo.guru/wiki/Chronic_stress)。
 
