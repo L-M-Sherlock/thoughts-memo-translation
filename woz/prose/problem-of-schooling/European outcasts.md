@@ -1,4 +1,4 @@
-# “欧洲弃儿”
+# 欧洲之耻
 
 原文：[European outcasts - supermemo.guru](https://supermemo.guru/wiki/European_outcasts)
 
@@ -16,7 +16,7 @@
 
 在提到在家上学时，社会主义者、进步人士、无神论者、多元文化主义者、女权主义者、瑞典文化和德国文化之间有一些思想上的碰撞。女权主义者利用学校教育来解放妇女。无神论者希望能杀死宗教。平等主义者和社会主义者希望能“平等”地教育孩子。瑞典人喜欢学校的社会功能。德国人喜欢[纳粹式秩序](https://en.wiktionary.org/wiki/Ordnung)和普鲁士式的纪律。
 
-教育方面的法律规定是控制他人思想的愿望的体现
+教育方面的法律规定是控制他人思想的愿望体现
 
 关于对法律控制的胃口的例子，见：[美国对在家上学的推定禁令（Elizabeth Bartholet）](https://supermemo.guru/wiki/Elizabeth_Bartholet:_ignorant_attack_on_homeschooling)
 

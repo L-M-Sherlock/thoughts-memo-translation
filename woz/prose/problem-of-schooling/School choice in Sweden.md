@@ -8,27 +8,27 @@
 
 全世界的教育系统都不尽如人意，因为全世界都在限制自由。根据定义，自由是[自由学习](https://supermemo.guru/wiki/Free_learning)的根基。所有形式的强迫都会影响学习效率、损害幸福和心理健康。自由不仅在于学生的选择权。教育自由的含义更加广泛，父母、教师、教育企业家、校长、主管，所有参与教育的主体，都应能自由地决策。只有使学生不自由的东西，才要限制其自由。从这个意义上说，目前的层级应该被翻转。现在部长限制督导的自由，督导则限制校长，校长限制教师，教师则限了学生。理想状况应当完全颠倒过来。教师应为学生的意愿而服务，校长为教师的意愿而服务，股东为校长的意愿而服务。
 
-[Milton Friedman](https://en.wikipedia.org/wiki/Milton_Friedman) 以[择校](https://supermemo.guru/wiki/School_choice)的形式，将市场的力量推广到思想市场。在我对[教育大改革](https://supermemo.guru/wiki/Grand_Education_Reform)的思索中，[择校](https://supermemo.guru/wiki/School_choice)是社会在文化上转型——[普鲁士教育模式](https://supermemo.guru/wiki/Prussian_Model_of_Education)变为[自由学习](https://supermemo.guru/wiki/Free_learning)的必要进化基础。只有自由选择能让孩子、父母和教育者看到[自由学习](https://supermemo.guru/wiki/Free_learning)如何最优地融入社会结构。一旦选择变得自由，我们将看到孩子是喜欢学校、在家上学、非学校教育，还是喜欢在更小的时候将这些教育形式与游戏或工作交织在一起。
+[Milton Friedman](https://en.wikipedia.org/wiki/Milton_Friedman) 以[择校](https://supermemo.guru/wiki/School_choice)的形式，将经济市场的力量推广到思想市场。在我对[教育大改革](https://supermemo.guru/wiki/Grand_Education_Reform)的思索中，[择校](https://supermemo.guru/wiki/School_choice)是社会在文化上转型——[普鲁士教育模式](https://supermemo.guru/wiki/Prussian_Model_of_Education)变为[自由学习](https://supermemo.guru/wiki/Free_learning)——的必要进化基础。只有自由选择能让孩子、父母和教育者看到[自由学习](https://supermemo.guru/wiki/Free_learning)如何最优地融入社会结构。一旦选择变得自由，我们将看到孩子是喜欢学校、在家上学、非学校教育，还是喜欢在更小的时候将这些教育形式与游戏或工作交织在一起。
 
 如今，Friedman 所主张的进化机会因对[择校制度](https://supermemo.guru/wiki/School_choice)的批评而受阻。让我们考虑一下瑞典的案例，瑞典在 1992 年尝试实施择校制度，而现在经常被用作失败的例子。这种「失败」源自执行上的错误和评估上的错误。
 
 执行上的错误主要来自对自由的限制。例如，瑞典因[禁止在家上学](https://supermemo.guru/wiki/Ban_on_homeschooling)而臭名昭著。如果学生不能自由地自主学习，那么他们就是制度的奴隶。这违反了自由择校的原则。
 
-评估上的错误涉及缺乏良好的教育成就衡量标准。成绩或[标准化测试](https://supermemo.guru/wiki/Standardized_testing)只会让评估无效。正如我在讨论智商（IQ）的文章中（见：[智商（IQ）对于衡量智力是低劣的标准](https://supermemo.guru/wiki/IQ_is_a_dismal_measure_of_intelligence)）所主张的那样，我们无法有效地衡量[非学校教育](https://supermemo.guru/wiki/Unschooling)的进展。唯一有效的标准是根据自己的需要对自己的评估。[学习内驱力的优化](https://supermemo.guru/wiki/Optimality_of_the_learn_drive)确保非学校教育对整个社会有益。这一事实在很大程度上仍然超出了今天大多数教育工作者的理解。简而言之，在不了解大脑、神经网络、[概念化](https://supermemo.guru/wiki/Conceptualization)过程、系统论和信息论的情况下，一个人需要用强大的系统直觉来支撑自己的推理，以掌握社会集体智力的进化和[多样性](https://supermemo.guru/wiki/Diversity)的力量。
+评估上的错误涉及缺乏良好的教育成就衡量标准。成绩或[标准化测试](https://supermemo.guru/wiki/Standardized_testing)只会让评估无效。正如我在讨论智商（IQ）的文章中（见：[智商（IQ）对于衡量智力是低劣的标准](https://supermemo.guru/wiki/IQ_is_a_dismal_measure_of_intelligence)）所主张的那样，我们无法有效地衡量[非学校教育](https://supermemo.guru/wiki/Unschooling)的进展。唯一有效的标准是根据自己的需要对自己评估。[学习内驱力的优化](https://supermemo.guru/wiki/Optimality_of_the_learn_drive)确保非学校教育对整个社会有益。这一事实在很大程度上仍然超出了今天大多数教育工作者的理解。简而言之，在不了解大脑、神经网络、[概念化](https://supermemo.guru/wiki/Conceptualization)过程、系统论和信息论的情况下，一个人需要用强大的系统直觉来支撑自己的推理，以掌握社会集体智力的进化和[多样性](https://supermemo.guru/wiki/Diversity)的力量。
 
-在这篇短文中，我以瑞典为例，解说对教育优化过程理解不足将如何导致极其错误的结论，从而破坏了[择校制度](https://supermemo.guru/wiki/School_choice)在世界范围内的进一步推广。
+在这篇短文中，我以瑞典为例，解说对教育优化过程理解不足将如何得出极其错误的结论，从而破坏了[择校制度](https://supermemo.guru/wiki/School_choice)在世界范围内的进一步推广。
 
-对神经科学的不了解破坏了择校制度的推广。
+对神经科学的无知破坏了择校制度的推广。
 
 ## 择校制度在瑞典的失败
 
-在[教育大改革](https://supermemo.guru/wiki/Grand_Education_Reform)中，我支持 Friedman 的[择校制度](https://supermemo.guru/wiki/School_choice)的价值。70% 的经合组织国家在其教育系统中使用学券或学费税收抵免（[来源](https://www.edchoice.org/blog/school-voucher-systems-across-globe-make-case-school-choice-u-s/)）。推广择校制度有多难？瑞典就是个活生生的例子。有些人甚至利用瑞典来宣称 Friedman 错了（[来源](http://www.nationalreview.com/agenda/383304/sweden-has-education-crisis-it-wasnt-caused-school-choice-tino-sanandaji)）。1992 年，瑞典引入了择校制度的一种变体。这一决定来自社会民主党人。当一位伟大的经济学家想出一个需要大量良好数学直觉才能使其可行的模型时，你最好不要将该模型留在政客手中，他们会修修补补，改变一两件事，扰乱有效的控制机制，并产生一个不稳定的体系，尽管潜在的假设是正确的，但它可能会崩溃。要修改一个好系统，不能影响其优化过程。哪怕是一个微小的低效之处，也可能在长期内膨胀，最终导致系统崩溃。再加上保守派和社会民主党势力之间经常发生的相互指责的摇摆，令人惊讶的是，瑞典的制度仍然被认为很稳固。在被 [PISA](https://supermemo.guru/wiki/PISA) 打击后的惊醒中，Jan Björklund 少校考虑将整个系统重新国有化（[来源](http://www.thelocal.se/20140210/sweden-failed-in-decentralizing-schools-report)）。这将需要另一篇文章来讨论瑞典与 Friedman 模式的所有背离。在本文中，最重要的是注意到[在家上学](https://supermemo.guru/wiki/Homeschooling)在瑞典是非法的（参见：[禁止在家上学](https://supermemo.guru/wiki/Ban_on_homeschooling)）。Björklund 少校也参与了这一禁令。我看到了[自由学习](https://supermemo.guru/wiki/Free_learning)和[在家上学](https://supermemo.guru/wiki/Homeschooling)的光明前景。如果缺少这一必要的选项，[择校制度](https://supermemo.guru/wiki/school_choice)不过是徒有虚名罢了。
+在[教育大改革](https://supermemo.guru/wiki/Grand_Education_Reform)中，我论证了 Friedman 提出的[择校制度](https://supermemo.guru/wiki/School_choice)的价值。70% 的经合组织国家在其教育系统中使用学券或学费税收抵免（[来源](https://www.edchoice.org/blog/school-voucher-systems-across-globe-make-case-school-choice-u-s/)）。推广择校制度有多难？瑞典就是个活生生的例子。有些人甚至利用瑞典来宣称 Friedman 错了（[来源](http://www.nationalreview.com/agenda/383304/sweden-has-education-crisis-it-wasnt-caused-school-choice-tino-sanandaji)）。1992 年，瑞典引入了择校制度的一种变体。这一决定来自社会民主党人。当一位伟大的经济学家想出一个需要大量良好数学直觉才能使其可行的模型时，你最好不要将该模型留在政客手中，他们会修修补补，改变一两件事，扰乱有效的控制机制，并产生一个不稳定的体系，尽管潜在的假设是正确的，但它可能会崩溃。要修改一个好系统，不能影响其优化过程。哪怕是一个微小的低效之处，也可能在长期内膨胀，最终导致系统崩溃。再加上保守派和社会民主党势力之间经常发生的相互指责的摇摆，令人惊讶的是，瑞典的制度仍然被认为很稳固。在被 [PISA](https://supermemo.guru/wiki/PISA) 打击后的惊醒中，Jan Björklund 少校考虑将整个系统重新国有化（[来源](http://www.thelocal.se/20140210/sweden-failed-in-decentralizing-schools-report)）。这将需要另一篇文章来讨论瑞典与 Friedman 模式的所有背离。在本文中，最重要的是请注意[在家上学](https://supermemo.guru/wiki/Homeschooling)在瑞典是非法的（参见：[禁止在家上学](https://supermemo.guru/wiki/Ban_on_homeschooling)）。Björklund 少校也参与了这一禁令。我看到了[自由学习](https://supermemo.guru/wiki/Free_learning)和[在家上学](https://supermemo.guru/wiki/Homeschooling)的光明前景。如果缺少这一必要的选项，[择校制度](https://supermemo.guru/wiki/school_choice)不过是徒有虚名罢了。
 
 尽管人们对美妙的北欧福利国家抱有种种幻想，但瑞典的学生属于欧洲最不自由的儿童。他们无法[在家上学](https://supermemo.guru/wiki/Homeschool)。
 
 ## 选择受限
 
-瑞典的择校制度变体让私立学校无法使用学费来发展自己的计划。一旦他们通过学券获得公共资金，就不能收额外的私人费用。在某些情况下，学生的选择受到地理的限制。随着人们转向在线教育，这种情况应该会减少。一些法规已经下放到地方一级，从进化的角度来看，这似乎是个好主意，然而，在一个以国家法规为基础的文化中，地方解决方案实际上可能进一步限制选择。许多瑞典人认为择校制度是「利润的私有化和损失的社会化」。尽管私立学校的数量在不断增加，但很难看出教育创新如何在这样的文化和政治环境中取得成功。
+瑞典的择校制度变体让私立学校无法收取学费来发展自己的计划。一旦他们通过学券获得公共资金，就不能收额外的私人费用。在某些情况下，学生的选择受到地理限制。随着人们转向在线教育，这种情况应该会减少。一些法规已经下放到地方一级，从进化的角度来看，这似乎是个好主意，然而，在一个以国家法规为基础的文化中，地方解决方案实际上可能进一步限制选择。许多瑞典人认为择校制度是「利润的私有化和损失的社会化」。尽管私立学校的数量在不断增加，但很难看出教育创新如何在这样的文化和政治环境中取得成功。
 
 Ray Fisman 在《Slate》杂志上撰文指出[瑞典的择校制度灾难](https://www.slate.com/articles/news_and_politics/the_dismal_science/2014/07/sweden_school_choice_the_country_s_disastrous_experiment_with_milton_friedman.html)：
 
@@ -38,7 +38,7 @@ Ray Fisman 在《Slate》杂志上撰文指出[瑞典的择校制度灾难](http
 
 许多教育家、经济学家和社会学家抱怨教育领域的市场化改革。它们往往会导致种族隔离和社会分层。在奉行平等主义的瑞典，这些声音尤其响亮。一些学者甚至担心瑞典分裂。经合组织对此表示关注，并提出了改进建议。研究证实，瑞典的种族隔离略有增加（[来源](https://www.econstor.eu/handle/10419/129385)、[PDF](https://www.ifau.se/globalassets/pdf/se/2015/wp2015-08-school-choice-and-segregation.pdf)），但瑞典仍然位于中低程度的种族隔离类别。有一些简单的系统有助于降低不平等。例如，智利实施了一种加权代金券制度，使社会经济上处于不利地位的学生受益（2008 年）。
 
-平等很棒，只要它不是通过把领先者拉低到平均水平来实现。瑞典学校的不平等现象被归咎于择校制度。不平等确实在增长。最好的学生总是会涌向最好的学校。这是好事。
+平等很棒，只要别通过把领先者拉低到平均水平来实现。瑞典学校的不平等现象被归咎于择校制度。不平等确实在增长。最好的学生总是会涌向最好的学校。这是好事。
 
 我们不能逃避这一事实，即有些孩子有更好的家庭环境，更渴望努力工作，或能更好地控制他们的情绪。同样，我们也不能掩盖这样一事实，即一些孩子，主要由于糟糕的起点（译注：如原生家庭），在学校或生活中总体上表现不佳。不平等有许多消极印象，但消除不平等不该以强制或放慢天才发展速度的方式。帮助落后者是唯一可接受的促进平等的办法。同样，不能浪费。把大部分教育投资花在落后学生的最底层并不明智。
 
@@ -80,7 +80,7 @@ Gabriel Heller Sahlgren 为 EdChoice.org 写道（[来源](https://www.edchoice.
 
 个人轶事：[为什么使用轶事？](https://supermemo.guru/wiki/Why_use_anecdotes%3F)
 
-我在 1976 年参加了化学奥赛，在 1979 至 1980 年内参加了生物奥赛。在第二次比赛我的成绩下滑了。而两次竞争的激烈程度大抵相当，但我学习得更努力了，而且实际上我的学习方法也提升了不少。只有纸面上的成绩下降了，没有赢得比赛。但是，我学习的知识更有价值，是第一次竞赛难以媲美的。两次比赛的主要差别是，在我第一次参加化学竞赛时，我有老师带领学习一份课标。三年后，我的兴趣更加成熟，我主攻生物化学，忽略了几乎所有其他的生物领域，只在考试前瞄了几眼。另一方面，我的学习在质量上有了飞跃。我学习非常进阶的材料，学了更多内容，理解更深刻，而我的激情前所未有地高涨。如果有人用考试结果来观察，他会说我大不如前。这段充满激情的[自主学习](https://supermemo.guru/wiki/Self-learning)也许会改变我人生中两三场考试的结果。然而，这段学习经历对我人生事业的影响更加显著，但也难以衡量，其成果可能要延后半个世纪才能显现。
+我在 1976 年参加了化学奥赛，在 1979 至 1980 年内参加了生物奥赛。在第二次比赛我的成绩下滑了。而两次竞争的激烈程度大抵相当，但我学习得更努力了，而且实际上我的学习方法也提升了不少。只有纸面上的成绩下降了，没有赢得比赛。但是，我学习的知识更有价值，这是第一次竞赛难以媲美的。两次比赛的主要差别是，在我第一次参加化学竞赛时，我有老师带领学习一份[课标](https://supermemo.guru/wiki/Curriculum)。三年后，我的兴趣更加成熟，我主攻生物化学，忽略了几乎所有其他的生物领域，只在考试前瞄了几眼。另一方面，我的学习在质量上有了飞跃。我学习非常进阶的材料，学了更多内容，理解更深刻，而我的激情前所未有地高涨。如果有人用考试结果来观察，他会说我大不如前。这段充满激情的[自主学习](https://supermemo.guru/wiki/Self-learning)也许会改变我人生中两三场考试的结果。然而，这段学习经历对我人生事业的影响更加显著，但也难以衡量，其成果可能要延后半个世纪才能显现。
 
 ## 北欧的失败
 
@@ -98,16 +98,20 @@ Gabriel Heller Sahlgren 为 EdChoice.org 写道（[来源](https://www.edchoice.
 
 ## 短期优化
 
+有数十份经济报告试图分析择校制度对教育的影响，而所有报告都为如何有效衡量结果的问题而苦苦挣扎。膨胀的分数难堪大用。标准化考试扭曲现实。生产力和收入带来了滞后和关于教育总体目标的质疑。所有这些努力都是至关重要和必要的，然而，它们应该不会对改革的选择产生什么影响。如果我们在学习能力、创造力、独立性、解决问题、情绪控制、社交能力等方面优化个体大脑发展的系统，我们几乎肯定会确保 30-50 年后的良好结果。我在 [SuperMemo Guru](https://supermemo.guru/wiki/SuperMemo_Guru) 上提出了所有必要的成分。为了测量精度而进行弹道修正是一种非常不可靠的策略。这可以用一个比喻来解释：
+
 比喻。[为什么使用比喻？](https://supermemo.guru/wiki/Why_use_metaphors%3F)
 
-想象你要驾车完成一趟长途旅行。你会走上几公里就测量一些车辆性能指标，然后思考要不要换个更好的雨刮吗？不。你会买最好的车，专注于一路向前。这就是用比喻说明了面向大脑优化与面向短期成果优化的区别。驾车时，只有遇到重大问题你才会停下来重新优化。教育优化中，自由选择方法和学习主题是关键。自主学习，偶尔出于需要而选择辅导，会在未来大行其道。让大脑处在没有外部干扰的环境，那么未来一定会很明亮
+想象你要驾车完成一趟长途旅行。你会走上几公里就测量一些车辆性能指标，然后思考要不要换个更好的雨刮吗？不。你会买最好的车，专注于一路向前。我用这个比喻，说明面向大脑优化与面向短期成果优化的区别。驾车时，只有遇到重大问题你才会停下来重新优化。教育优化中，自由选择方法和学习主题是关键。自主学习，偶尔出于需要而选择辅导，会在未来大行其道。让大脑处在没有外部干扰的环境，那么未来一定会很明亮
 
 学生的[学习内驱力](https://supermemo.guru/wiki/Learn_drive)为短期优化提供了最佳标准。测试和成绩只会带来有害的结果。
 
 胁迫是[学校教育问题](https://supermemo.guru/wiki/School_problem)的核心。孩子需要自主决策。择校制度使之可能。我们可以在自由的条件下逐步发展教育系统。我预测，[自由学习](https://supermemo.guru/wiki/Free_learning)最终将主导一切，并与支持团队合作、社交、职业培训、体育培训等的设施相结合。只有当我们完全解放儿童，并帮助父母协助儿童分配可用资源（以民主的方式）时，这种进化才有所成效。
 
-择校制度是必不可少的，它就像企业的自由规划一样显然。
+择校制度是不可或缺的，它就像企业规划自身发展道路的自由一样显然。
 
 ## 结论
+
+瑞典采纳了[择校制度](https://supermemo.guru/wiki/school_choice)的好理念，但提供了错误的执行方案。分析者采用了错误的工具来分析瑞典的进步，并提供了错误的诊断。因此，这个黄金理念正在被腐蚀，并被用作对抗自身的武器。自由在教育中至关重要。思想的自由市场是文化向最佳教育演变的必要条件。寻求补救的最简单措施是将自由选择接受教育的权利视为基本人权。[强制学校教育必须结束](https://supermemo.guru/wiki/compulsory_schooling_must_end )。也许 [2022 学生之春](https://supermemo.guru/wiki/student_spring_2022)会有所作为。
 
 强制学校教育是对人权的侵犯。所有改革都必须从恢复学生的尊严开始。

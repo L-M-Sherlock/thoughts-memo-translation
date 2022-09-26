@@ -8,9 +8,9 @@
 
 多年来，我一直称赞芬兰的学校系统是世界上最好的学校之一。今天，我怀疑它可能是一匹披着羊皮的狼。与一位年轻的芬兰学生的频繁用邮件交流后，我才有了新想法。这想法让我看到了潜伏在芬兰系统中的许多威胁。我在[这个网站](https://supermemo.guru/wiki/This_site)上发出了警告后，收到了更多来自芬兰的邮件，我的假设不断获得了证据。
 
-主要想法在这：
+本文的主要观点是：
 
-芬兰的学校系统非常好。它不痛不痒地教育着顺从的民众。它煮熟了青蛙，但从未杀死青蛙。
+芬兰的学校系统非常好。它不痛不痒地教育着顺从的民众。它煮青蛙，但从未杀死青蛙。
 
 ## 芬兰教育的优良品质
 
@@ -24,7 +24,7 @@
 
 - 试图现代化、细化[课程](https://supermemo.guru/wiki/Curriculum)（例如[脱离草书](https://www.bbc.com/news/blogs-news-from-elsewhere-30146160)）
 
-- 高度重视**[PBL 学习法](https://supermemo.guru/wiki/Project-based_learning)**
+- 高度重视 **[PBL 学习法](https://supermemo.guru/wiki/Project-based_learning)**
 
 - 高度强调个性化
 
@@ -32,35 +32,35 @@
 
 - 少做作业
 
-- 学习压力较小
+- 成绩压力较小
 
 - 不以成绩分组
 
 - 不用评级
 
-- 尊重游戏和创造力
+- 尊重玩耍和创造力
 
-- 高度竞争、专业和受尊重的教师群体
+- 竞争力十足、专业、备受尊重的教师群体
 
 - 免学费教育
 
-- 「在家上幼儿园」的理念
+- 「家庭日托」理念
 
 - 来自国家的良好保护和资助
 
 ## 限制自由
 
-任何扮演工厂流水线角色的教育系统都不可能不存在使其无法运作的缺陷。芬兰的系统可能是最好的之一，但它离[自由学习](https://supermemo.guru/wiki/Free_learning)的理想还很远。这里有一些原因：
+任何流水线教育系统都必然存在致命缺陷。芬兰教育系统可能是最好的之一，但它离[自由学习](https://supermemo.guru/wiki/Free_learning)的理想还很远。这里有一些原因：
 
-- 它仍然是强制性的，任何基于强制的制度都不可能实施[自由学习](https://supermemo.guru/wiki/Free_learning)（见：[强制学校教育必须结束](https://supermemo.guru/wiki/Compulsory_schooling_must_end)）
+- 它仍然是强制性的，任何基于强制的制度都不可能实现[自由学习](https://supermemo.guru/wiki/Free_learning)（见：[强制学校教育必须结束](https://supermemo.guru/wiki/Compulsory_schooling_must_end)）
 
-- 凡是在理论上或纸面上可行的，往往很难在现实生活中实施。许多芬兰教育家坚持认为，学习必须是有趣的。然而，在现实生活中，它往往不是这样的（见：[学习的乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)）
+- 凡是在理论上或纸面上可行的，往往很难在现实生活中实施。许多芬兰教育家坚持认为，学习必须是有趣的。然而，在现实生活中，往往并非如此（见：[学习的乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)）
 
 - 标准化考试可能受到批评，然而，学生仍然面临着决定他们未来的考试压力。这使得[死记硬背](https://supermemo.guru/wiki/Cramming)不可避免。
 
 - 芬兰人可以吹嘘早上 9 点开始上学，但对许多青少年来说，即使是中午也可能很早（见：[DSPS](https://supermemo.guru/wiki/DSPS)）。由于芬兰绵延在纬度 60-67，实际上可能已经被推到了他们高尚的主张。在接近北极的地方，要保持健康的[昼夜循环](https://supermemo.guru/wiki/Circadian_cycle)要难得多。我很同情——我在上午 9 点的早些时候写下这些文字，在一年中最长的一天里仍然感觉很早。此外，我已经过了青少年时期
 
-- 如果有[课程](https://supermemo.guru/wiki/Curriculum)设定的目标，[自由学习](https://supermemo.guru/wiki/Free_learning)就不可能。只有[非学校教育](https://supermemo.guru/wiki/Unschooling)或[民主学校](https://supermemo.guru/wiki/Democratic_school)才能提供摆脱教育目标压力的自由。
+- 如果[课标](https://supermemo.guru/wiki/Curriculum)设定的学习目标还存在，[自由学习](https://supermemo.guru/wiki/Free_learning)就不可能。只有[非学校教育](https://supermemo.guru/wiki/Unschooling)或[民主学校](https://supermemo.guru/wiki/Democratic_school)才能摆脱教育目标压力，提供自由。
 
 - 早期教育不是强制性的，但由于文化原因，它被广泛采用，因为人们相信[日托](https://supermemo.guru/wiki/Daycare)是有益的（甚至对 8 个月大的婴儿），也相信早期学业指导是有益的（例如早期阅读）。
 
@@ -78,7 +78,7 @@
 
 逃学的学生会被拘留。教师对学校和社区进行监督，以避免未经授权的缺席。**屡次逃学可能会导致家长受罚，比如：失去监护权**。
 
-换句话说，芬兰的学校系统是一只披着假羊皮的恶狼。该系统的友好性是一个谎言。只要你乖乖受诫，它便慈爱有加。这有点像糟糕的父母常说的那句：「只要你听话，我就爱你」！
+换句话说，芬兰的学校系统是一只披着假羊皮的恶狼。该系统的友善是个谎言。只要你乖乖受诫，它便慈爱有加。这有点像糟糕的父母常说的那句：「只要你听话，我就爱你！」
 
 芬兰学生很少感到被幕后的大棒威胁，这令人咋舌。法律要求的义务，他们当作天经地义，刻苦学习多年，却不觉头脑被强权规训。
 
