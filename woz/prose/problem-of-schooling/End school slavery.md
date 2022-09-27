@@ -4,7 +4,7 @@
 
 ## 教育自由
 
-奴隶制令人憎恶。学校不是奴隶圈养场。真正的奴隶制仍然存在于世，必须斩草除根。然而，当我们就[教育解放宣言](https://supermemo.guru/wiki/Declaration_of_Educational_Emancipation)的措辞进行辩论时，我们最终决定采用一个夸张的比喻。[Tom Durrie](https://supermemo.guru/wiki/Tom_Durrie) 自 20 世纪 60 年代以来一直与[强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling)作斗争！在 90 岁的时候，他的耐心已经消失。虽说，他曾是那场辩论的中流砥柱。我们需要撼动所有家长和教育工作者，他们那昏昏欲睡的魂灵仍在幻想[普鲁士教育模式](https://supermemo.guru/wiki/Prussian_Model_of_Education)会继续高歌猛进，走向某种美好未来。[强制学校教育必须结束！](https://supermemo.guru/wiki/Compulsory_schooling_must_end)任何教育改革都当包含教育自由，这是最基本的。在任何国家的议会中，只要有一个法案，明天就可以颁布自由了。一旦如此，学校的强制教育将像多米诺骨牌一样倒下。
+奴隶制令人憎恶。学校不应该是奴隶圈养场。这种真正的现存于世的奴隶制，必须被斩草除根。无论如何，就[教育解放宣言](https://supermemo.guru/wiki/Declaration_of_Educational_Emancipation)发表意见时，我们最终决定要采用一种激烈的言辞。[Tom Durrie](https://supermemo.guru/wiki/Tom_Durrie) 自 20 世纪 60 年代以来从来没有停止过与[强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling)作斗争！很遗憾的是，在 90 岁的时候，他的耐心已经消磨殆尽了。他曾是那场讨论的中流砥柱。但我们依然需要觉醒所有——“昏昏欲睡的魂灵仍在幻想[普鲁士教育模式](https://supermemo.guru/wiki/Prussian_Model_of_Education)会继续高歌猛进，走向某种美好未来”——的家长和教育工作者。[强制学校教育必须结束！](https://supermemo.guru/wiki/Compulsory_schooling_must_end)任何教育改革中，自由式的教育都是最基本的。在任何国家的议会中，只需要一个法案，自由明天就会到来。这样，学校的强制教育就将像多米诺骨牌一样倒下。
 
 ## 抗争
 

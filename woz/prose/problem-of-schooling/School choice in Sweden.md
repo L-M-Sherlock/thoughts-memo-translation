@@ -10,11 +10,11 @@
 
 [Milton Friedman](https://en.wikipedia.org/wiki/Milton_Friedman) 以[择校](https://supermemo.guru/wiki/School_choice)的形式，将经济市场的力量推广到思想市场。在我对[教育大改革](https://supermemo.guru/wiki/Grand_Education_Reform)的思索中，[择校](https://supermemo.guru/wiki/School_choice)是社会在文化上转型——[普鲁士教育模式](https://supermemo.guru/wiki/Prussian_Model_of_Education)变为[自由学习](https://supermemo.guru/wiki/Free_learning)——的必要进化基础。只有自由选择能让孩子、父母和教育者看到[自由学习](https://supermemo.guru/wiki/Free_learning)如何最优地融入社会结构。一旦选择变得自由，我们将看到孩子是喜欢学校、在家上学、非学校教育，还是喜欢在更小的时候将这些教育形式与游戏或工作交织在一起。
 
-如今，Friedman 所主张的进化机会因对[择校制度](https://supermemo.guru/wiki/School_choice)的批评而受阻。让我们考虑一下瑞典的案例，瑞典在 1992 年尝试实施择校制度，而现在经常被用作失败的例子。这种「失败」源自执行上的错误和评估上的错误。
+如今，Friedman 所主张的进化机会因批评[择校制度](https://supermemo.guru/wiki/School_choice)而受到阻碍。让我们想想瑞典，这个国家曾在 1992 年尝试实施择校制度，而现在常常被用作成一个失败的案例。这种「失败」源自执行和评估上的不合理。
 
 执行上的错误主要来自对自由的限制。例如，瑞典因[禁止在家上学](https://supermemo.guru/wiki/Ban_on_homeschooling)而臭名昭著。如果学生不能自由地自主学习，那么他们就是制度的奴隶。这违反了自由择校的原则。
 
-评估上的错误涉及缺乏良好的教育成就衡量标准。成绩或[标准化测试](https://supermemo.guru/wiki/Standardized_testing)只会让评估无效。正如我在讨论智商（IQ）的文章中（见：[智商（IQ）对于衡量智力是低劣的标准](https://supermemo.guru/wiki/IQ_is_a_dismal_measure_of_intelligence)）所主张的那样，我们无法有效地衡量[非学校教育](https://supermemo.guru/wiki/Unschooling)的进展。唯一有效的标准是根据自己的需要对自己评估。[学习内驱力的优化](https://supermemo.guru/wiki/Optimality_of_the_learn_drive)确保非学校教育对整个社会有益。这一事实在很大程度上仍然超出了今天大多数教育工作者的理解。简而言之，在不了解大脑、神经网络、[概念化](https://supermemo.guru/wiki/Conceptualization)过程、系统论和信息论的情况下，一个人需要用强大的系统直觉来支撑自己的推理，以掌握社会集体智力的进化和[多样性](https://supermemo.guru/wiki/Diversity)的力量。
+评估上的错误包括缺乏良好的“教育成就”衡量标准。成绩或[标准化测试](https://supermemo.guru/wiki/Standardized_testing)只会让评估无效。正如我在讨论智商（IQ）的文章中（见：[智商（IQ）对于衡量智力是低劣的标准](https://supermemo.guru/wiki/IQ_is_a_dismal_measure_of_intelligence)）所主张的那样，我们无法有效地衡量[非学校教育](https://supermemo.guru/wiki/Unschooling)的进展。唯一有效的标准是根据自己的需要对自己进行评估。[学习内驱力的优化](https://supermemo.guru/wiki/Optimality_of_the_learn_drive)确保非学校教育对整个社会有益。这实际上很大程度上仍然超出了今天大多数教育工作者的理解。简而言之，在不了解大脑、神经网络、[概念化](https://supermemo.guru/wiki/Conceptualization)过程、系统论和信息论的情况下，一个人需要用强大的系统直觉来支撑自己的推理，以掌握社会集体智力的进化和[多样性](https://supermemo.guru/wiki/Diversity)的力量。
 
 在这篇短文中，我以瑞典为例，解说对教育优化过程理解不足将如何得出极其错误的结论，从而破坏了[择校制度](https://supermemo.guru/wiki/School_choice)在世界范围内的进一步推广。
 
