@@ -64,7 +64,7 @@ Plan 的神奇力量主要来自于**将人类的生产力需求与[昼夜节律
 
 - 易于管理[情绪不好的一天](https://supermemo.guru/wiki/Planning_a_perfect_productive_day_without_stress#Imperfect_days)
 
-- 轻松实现完美的增量驱动：重复性的日程安排使你容易养成很多小习惯
+- 轻松实现完美的渐进驱动：重复性的日程安排使你容易养成很多小习惯
 
 - 良好的进展能培养人们的热情
 

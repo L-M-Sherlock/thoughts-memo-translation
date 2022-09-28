@@ -10,9 +10,9 @@
 
 十五条宣言之四
 
-John Moravec 是一位世界公民，他将教育视为全球化和未来新的。他是Education Futures LLC的创始人，也是 *Knowmad Society*一书的著者，更是Invisible Learning计划的合作发起人，(暂未注入Markdown) I’ve met him on three occasions: Once in Germany, when we worked together on an advisory committee to help a new democratic school start up in Munich, and twice in the Netherlands in support of democratic education in Europe.
+John Moravec 是世界公民，他将教育视为全球化和未来新的。他是Education Futures LLC的创始人，也是 *Knowmad Society*一书的著者，更是Invisible Learning计划的合作发起人，(暂未注入Markdown)  我与他有三次会面：一次在德国，帮助慕尼黑一所民主学校开办，我们都是咨询委员会的成员；在荷兰两次，共同支持欧洲的民主教育。
 
-在2015年的第一天，正值许多人在新年之夕复苏的时候，Joht发来了一个文件，有着简单的名字——“十五条宣言”。We are at a time in history that is ripe for worldwide rethinking of, and rapid change in, education. Manifesto 15 can help promote that.
+在2015年的第一天，正值许多人在新年之夕复苏的时候，Joht发来了一个文件，名字很简单——“十五条宣言”。
 
 宣言的副标题乃是——「让学习进化」。进化，无论是生物上或是文化上的，都可以以两种方式发生。一种发源于已有系统中的渐进式改变，一种是来源于新系统中涌现并占据的新的利基， and thereby replace, the old ones. As I’ve argued [elsewhere](https://www.psychologytoday.com/us/blog/freedom-learn/201108/is-real-educational-reform-possible-if-so-how), I think the latter is how education must change and is already changing. Our current system of education is a dinosaur, unable to adapt.
 
