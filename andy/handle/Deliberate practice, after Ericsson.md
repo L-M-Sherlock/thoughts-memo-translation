@@ -6,23 +6,23 @@
 
 「刻意练习」（Ericsson et al, 1993）描述如下：
 
-- 大量努力，高积极性的活动…
+- 需要大量努力，高积极性的活动…
 
 - …以提高表现为具体目标
 
-  - [典型的工作和表现环境不能构成刻意练习](https://notes.andymatuschak.org/z3n21KMcMZtfT5wmLi1V5ovzZoyqhciQowRXm)
+  - [典型的工作和表现环境不符合刻意练习的要求](https://notes.andymatuschak.org/z3n21KMcMZtfT5wmLi1V5ovzZoyqhciQowRXm)
 
 - … 为目标精心设计（并持续更新）
 
-  - [专业教练促进有效的刻意练习](https://notes.andymatuschak.org/z4cA6LFAy67tx7eG3TrvBpNmpMpYGW7n7K98U)
+  - [专业的教练会促进有效的刻意练习](https://notes.andymatuschak.org/z4cA6LFAy67tx7eG3TrvBpNmpMpYGW7n7K98U)
 
 ------
 
 - 刻意练习不总是令人愉悦；它在提高表现上有用，但本质上却非激励。
 
-- 因为刻意练习需要高强度的努力，学生们每日只能练习一定的时间，他们需要一个机会来定期彻底恢复精力。
+- 因为刻意练习需要高强度的努力，学生们每日只能练习一定的时间，并且他们需要定期彻底地恢复精力。
 
-- 对学生的要求清晰明确：他们必须能够看见自己的进步。
+- （反馈）对学生而言是清晰的：他们必须能够看见自己的进步。
 
 - 刻意练习提升能力：「后天技能和工作能力，在经过特定的刻意练习后，可以得到进步和改善；伴随着循序渐进的练习，一段时间之后，它们最终将会提升到专家的水平。」（Eticsson and Pool，2016，p.100）
 
