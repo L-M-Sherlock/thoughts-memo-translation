@@ -8,7 +8,7 @@
 
 在大脑中，**概念**可以由[概念细胞](https://supermemo.guru/wiki/Concept_cell)表示（在理想情况下），或者由[概念网络](https://supermemo.guru/wiki/Concept_network)中的激活模式表示（例如在学习和[泛化](https://supermemo.guru/wiki/Generalization)的早期阶段）。
 
-大脑[概念细胞](https://supermemo.guru/wiki/Concept_cell)的激活可能会在脑海中产生相关的想法。[一系列的激活](https://supermemo.guru/wiki/Spreading_activation)提供了**心理计算**（推理）的机制。参见：[如何解决任何问题？](https://supermemo.guru/wiki/How_to_solve_any_problem%3F)
+[概念细胞](https://supermemo.guru/wiki/Concept_cell)的激活可能使大脑产生联想。[一系列的激活](https://supermemo.guru/wiki/Spreading_activation)提供了**心理计算**（推理）的机制。参见：[如何解决任何问题？](https://supermemo.guru/wiki/How_to_solve_any_problem%3F)
 
 欲了解**概念**在大脑中的作用，请参见：[概念网络](https://supermemo.guru/wiki/Concept_network)。
 

@@ -10,7 +10,7 @@
 
 3. 学习者为回答的准确性[评分](https://supermemo.guru/wiki/Grade)
 
-术语**回顾**还可以指在[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)中对文本的一部分进行被动阅读的行为。
+术语**回顾**还可以指在[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)中对文本片段进行被动阅读的行为。
 
 参见：[SuperMemo 中的重复循环](http://help.supermemo.org/wiki/Learn)
 

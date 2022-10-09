@@ -2,11 +2,11 @@
 
 原文：[Abstractness - supermemo.guru](https://supermemo.guru/wiki/Abstractness)
 
-**抽象性**是知识的一种属性，通过剥离细节，使知识易于在大量的背景下使用。例如，力的公式：**F=ma** [适用](https://supermemo.guru/wiki/Applicability)于内燃机、结构工程等方面。它也适用于跳远和拳击。 
+**抽象性**是知识的一种属性，通过剥离细节，使知识易于在大量不同场景下使用。例如，力的公式：**F=ma** [适用](https://supermemo.guru/wiki/Applicability)于内燃机、结构工程等方面。它也适用于跳远和拳击。 
 
-**抽象性**与特定领域无关，因为它只表达了与细节的分离。知识的**[适用性](https://supermemo.guru/wiki/Applicability)**可能会因其**抽象性**而提升，但它与特定领域有关。这意味着抽象的知识可能在一个领域适用，而在另一个领域则不适用。例如，力的公式是高度抽象的，但它可能很难在艺术绘画中运用。
+**抽象性**与特定领域无关，因为它只表达了与细节的分离。知识的**[适用性](https://supermemo.guru/wiki/Applicability)**可能会因其**抽象性**而提升，但它与特定领域有关。这意味着抽象的知识可能在一个领域适用，而在另一个领域则不适用。例如，力的公式高度抽象，但可能很难在艺术绘画中运用。
 
-**抽象性**是**适用性**的基础。**抽象知识**是在**[泛化](https://supermemo.guru/wiki/Generalization)**的过程中从事实/细节中衍生出来的，构成了[人类智慧](https://supermemo.guru/wiki/Human_intelligence)的基础。
+**抽象性**是**适用性**的基础。**抽象知识**是在**[泛化](https://supermemo.guru/wiki/Generalization)**的过程中从事实/细节中衍生出来的，它构成了[人类智慧](https://supermemo.guru/wiki/Human_intelligence)的基础。
 
 更多信息请见：[抽象知识](https://supermemo.guru/wiki/Abstract_knowledge)
 

@@ -16,6 +16,8 @@ Source: Pixabay Free Image
 
 一个很悲伤的事实是，这个世界上有很多人把大多数时间放在了他们知道并不会对社会有利的事情之上（见 Graeber, 2013）。It leads to such [cynicism](https://www.psychologytoday.com/us/basics/pessimism) that people begin to stop even thinking that jobs are supposed to benefit society. We have the spectacle of politicians on both sides of the aisle fighting to keep munitions plants open in their states, to preserve the jobs, even when the military itself says the weapons the plant is building are no longer useful. And we have politicians and pundits arguing that fossil fuel mining and carbon spewing factories should be maintained for the sake of the jobs, let [the environment](https://www.psychologytoday.com/us/basics/environment) be damned.
 
+真正的问题一定是经济问题。我们已经探索出如何减少生产我们需要和实际想要的东西所需的工作量，但除了每周四十个小时（或者更长）的工作所获工资，我们仍未想出如何分配这些资源。事实上，技术将越来越多的财富集中到越来越少人口比例中，这加剧了分配问题。此外，作为工业革命的一项遗产，我们有着这样的文化风气，认为人们为他们所得到的东西而工作。因此，除了交换工作之外，我们对任何通过其他方式分享财富的严肃计划都讳莫如深。
+
 什么是工作？
 
 所以，与其如此努力地维持工作，我们为什么不解决分配问题，减少工作，并允许自己玩耍呢？
