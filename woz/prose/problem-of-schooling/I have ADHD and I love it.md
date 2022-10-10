@@ -14,21 +14,21 @@
 
 ## “加倍下注”：关键论点
 
-[对我的文章的批评](http://supermemopedia.com/wiki/Your_article_about_ADHD_is_outrageously_wrong_and_should_be_deleted)包含大量不准确的事实。对我的文章也有错误的归因。很多时候，一个小小的混淆，例如**「减轻 」**和**「治愈 」**之间的混淆，就会导致重大误解。我不会讨论所有这些问题。网络上充满了错误的信息，包括关于 ADHD 的错误信息。纠正别人的错误是一项艰难的工作。
+[对我的文章的批评](http://supermemopedia.com/wiki/Your_article_about_ADHD_is_outrageously_wrong_and_should_be_deleted)包含大量不准确的事实。对我的文章也有错误的归因。很多时候，一个小小的混淆，例如**「减轻 」**和**「治愈 」**之间的混淆，就会导致重大误解。我不会讨论所有这些问题。网络上充满了错误的信息，包括关于 ADHD 的错误信息。纠正别人的错误是西西弗式的努力。
 
-然而，批评实际上是 ADHD 的一种非常健康的表现。它是曲折前行的，它基于困惑，涉及大量的误解，然而，其中也包含了它的最佳价值。它显示了一个走弯路的创造性的大脑是如何工作的，以及干扰如何导致灵感。
+然而，批评实际上是对于ADHD 的一种非常健康的表达。它是曲折前行的，它基于困惑，也包含了大量的误解，然而，这也体现了它的最佳价值。它显示了一个会走弯路的创造性的大脑是如何工作的，以及干扰如何促进灵感产生。
 
 这里我只谈与我的文本有关的关键点。我再次断言：
 
 - 有创造力的人常常为集中注意力而挣扎。在一个健康的人身上，创造力和注意力之间的竞争可以很容易地得到控制
 
-- 学生的创造力往往会使他们被贴上捣乱的标签，这可能会增加 ADHD 误诊的机会[link]
+- 学生的创造力往往会使他们被贴上捣乱的标签，这可能会增加 ADHD 误诊的几率[link]
 
-- 有创造力的孩子被用利他林药物治疗的风险正增加
+- 有创造力的孩子处于更高的被用利他林药物治疗的风险中
 
-- 认知负担过重（例如在学校）可能会表现出 ADHD 的症状
+- 认知超负荷的表现（例如在学校）可能与 ADHD 的症状相似
 
-- 培养[创造力](https://supermemo.guru/wiki/Creativity)是教育的关键目标之一。[自由学习](https://supermemo.guru/wiki/Free_learning)是可以提高创造力的最佳工具之一。[强制学习](https://supermemo.guru/wiki/Coercive_learning)是众所周知的创造力的破坏者。强迫性对创造力的影响是我们应该在全球范围内用[自由学习](https://supermemo.guru/wiki/Free_learning)取代强制性学习的主要原因之一。
+- 培养[创造力](https://supermemo.guru/wiki/Creativity)是教育的关键目标之一。[自由学习](https://supermemo.guru/wiki/Free_learning)是可以提高创造力的最佳工具之一。而[强制学习](https://supermemo.guru/wiki/Coercive_learning)是众所周知的创造力破坏者。这种强制对创造力的影响是我们应该在全球范围内用[自由学习](https://supermemo.guru/wiki/Free_learning)取代强制性学习的主要原因之一。
 
 - [强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling)对儿童的心理健康有很大的损害。在未来，教育将以[自由学习](https://supermemo.guru/wiki/Free_learning)为基础。几十年后，我们将以惊讶或蔑视的眼光看待强制学校教育的概念（就像我们今天看待奴隶制一样）（见：[强制学校教育必须结束](https://supermemo.guru/wiki/Compulsory_schooling_must_end)
 
