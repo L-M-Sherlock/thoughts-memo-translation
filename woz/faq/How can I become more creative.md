@@ -14,9 +14,9 @@ David O. 问：如何提升我的创造力？
 
 提升创造力需要达成下列条件：
 
-- 改变大脑生理机能，需要改良用脑习惯，并坚持数月乃至数年
+- 改变大脑生理机能，需要养成更好的用脑习惯，并坚持数月乃至数年
 
-- 坚持对知识库的长期修正，这是创造的基石
+- 长期调整知识库，这是创造的基石
 
 - 置身于有保障的创造环境
 
@@ -30,15 +30,15 @@ David O. 问：如何提升我的创造力？
 
 ## 大脑健康
 
-在开始之前，请参阅我的[Genius checklist](https://supermemo.guru/wiki/Genius_checklist)，确保为大脑提供一个健康的工作环境。简单的事情比如[sleep deprivation](https://supermemo.guru/wiki/Sleep_deprivation)或[stress](https://supermemo.guru/wiki/Stress)很容易破坏你的进步。如果没有合适的条件，即便努力工作，你也会退步。健康的大脑是必不可少的，这在理论上很容易实现。然而，当你生活在充满诱惑和压力的现代西方生活方式中时，拥有一个健康大脑的目标可能难以企及。
+在开始之前，请参阅我的[天才清单](https://supermemo.guru/wiki/Genius_checklist)，确保为大脑提供一个健康的工作环境。简单的事情比如[睡眠剥夺](https://supermemo.guru/wiki/Sleep_deprivation)或[压力](https://supermemo.guru/wiki/Stress)很容易破坏你的进步。如果没有合适的条件，即便努力工作，你也会退步。健康的大脑是必不可少的，这在理论上很容易实现。然而，当你生活在充满诱惑和压力的现代西方生活方式中时，拥有一个健康大脑的目标可能难以企及。
 
 ## 创造力小技巧
 
-你可以选择许多创造力专家建议的技巧，但你不大可能一夜之间成为创意天才。你可以在维基百科上随机跳转，希望找到一个创造性的联系，但这只是需求海洋中的一小滴。
+你可以采取许多创造力专家建议的技巧，但你不大可能一夜之间成为创意天才。你可以在维基百科上随机跳转，希望找到一个创造性的联系，但这只是需求海洋中的一小滴。
 
 各种创造力小技巧都可能有点用，但对于真刀真枪的创造活动没什么意义。若要取得重大的创造突破，你需要一个健康的，具备丰富[正确类型知识](https://supermemo.guru/wiki/Abstract_knowledge)的大脑。大脑的健康与能力可随时间逐步提高，但这个过程很缓慢，比不了健身房里练肌肉，无法很快炫耀给别人看。
 
-主要障碍之一是创造力必须来自内在[an inner need](https://supermemo.guru/wiki/Intrinsic_motivation). 这就像[learn drive](https://supermemo.guru/wiki/Learn_drive)随着[free learning]的发展(https://supermemo.guru/wiki/Free_learning)和[withers at school](https://supermemo.guru/wiki/Schools_suppress_the_learn_drive). 你不能强求创造力。你借以[extrinsically](https://supermemo.guru/wiki/Extrinsic_motivation)点燃创造之火. 你不可能突然变得更有创造力。然而，如果你多年来一直系统地工作，你会变得更有创造力。这个简短的文本提供了一个方法概要。
+主要障碍之一是创造力必须来自[内在需要](https://supermemo.guru/wiki/Intrinsic_motivation)。这就像[学习内驱力](https://supermemo.guru/wiki/Learn_drive)随着[自由学习]的发展(https://supermemo.guru/wiki/Free_learning)和[withers at school](https://supermemo.guru/wiki/Schools_suppress_the_learn_drive). 你不能强求创造力。你借以[外在](https://supermemo.guru/wiki/Extrinsic_motivation)点燃创造之火. 你不可能突然变得更有创造力。然而，如果你多年来一直系统地工作，你会变得更有创造力。这个简短的文本提供了一个方法概要。
 
 ## 知识的力量
 
@@ -54,29 +54,29 @@ David O. 问：如何提升我的创造力？
 
 这里有一个简单的程序供你执行。这会很有帮助。它有多大效果取决于你的努力。我按“影响因素”对列表进行了排序，即首先要做的是有很大作用的简单任务：
 
-- 好好睡觉。如果你睡眠不规律，或者睡醒后精神萎靡，你就要开始训练[自由调配的睡眠](https://supermemo.guru/wiki/Free_running_sleep)。如果这招不行，阅读[好好睡眠](https://supermemo.guru/wiki/Good_sleep)。
+- 好好睡觉。如果你睡眠不规律，或者睡醒后精神萎靡，你就要开始训练[自由运作的睡眠](https://supermemo.guru/wiki/Free_running_sleep)。如果这招不行，阅读《[好睡眠](https://supermemo.guru/wiki/Good_sleep)》。
 
 - 消除、避免或减轻压力。压力会把你的注意力从你要解决的核心问题上转移开。人们可以在最后期限前匆忙解决问题，但在压力下他们很少有创造性。抑郁可能会削弱所有的创造力（梵高的例子带有误导性）
 
-- 每天早上安排大块时间用于创造性工作，断绝一切干扰
+- 每天早上安排大块时间用于创造性工作，断绝**一切**干扰
 
-- 早上一杯咖啡能提升你在早上的创造力。不要之后喝咖啡，如果你觉得有必要喝咖啡，你更应该改善睡眠。
+- 早上一杯咖啡能提升你在早上的创造力。不要在之后喝咖啡，如果你觉得有必要喝咖啡，你更应该改善睡眠。
 
 - 开始终生学习。每天都要学习新知识，特别是与你所要解决的问题有关的知识。学习新知识的意义不只是扩展知识，更是创造过程的必须要素。参见：[知识在创造性问题解决中的作用](https://supermemo.guru/wiki/Knowledge_in_creative_problem_solving)
 
 - 遵从[自然创造力周期](https://supermemo.guru/wiki/Natural_creativity_cycle)，在合适时机安排不受干扰的创意时间。
 
--[set goals](https://supermemo.guru/wiki/Setting_goals_can_change_your_life)能帮助你集中注意力（见[知识估值网络](https://supermemo.guru/wiki/Knowledge_valuation_network)如何为[学习内驱力](https://supermemo.guru/wiki/Learn_drive)和[creativity](https://supermemo.guru/wiki/Creativity))提供动力）
+-[设定目标](https://supermemo.guru/wiki/Setting_goals_can_change_your_life)能帮助你集中注意力（见[知识估值网络](https://supermemo.guru/wiki/Knowledge_valuation_network)如何为[学习内驱力](https://supermemo.guru/wiki/Learn_drive)和[创造力](https://supermemo.guru/wiki/Creativity))提供动力）
 
 - 开始每日锻炼。锻炼对大脑健康有益，同时也让你从技术的牢笼中解开，花一点时间纯粹地思考
 
--当陷入创造性瓶颈时，使用[neural creativity](https://supermemo.guru/wiki/Neural_creativity)，作为你的终极独创性工具
+-当陷入创造性瓶颈时，使用[神经创造力](https://supermemo.guru/wiki/Neural_creativity)，作为你的终极独创性工具
 
-- 当陷入创造困境时，使用[头脑风暴](https://supermemo.guru/wiki/Brainstorming)或[增量头脑风暴](http://super-memory.com/help/e-mail.htm)以利用他人的智慧
+- 当陷入创造困境时，使用[头脑风暴](https://supermemo.guru/wiki/Brainstorming)或[渐进头脑风暴](http://super-memory.com/help/e-mail.htm)以利用他人的智慧
 
 - 借助[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)来学习更多知识，释放更多创造力
 
-这些工具在[如何解决所有问题？](https://supermemo.guru/wiki/How_to_solve_any_problem%3F)一文中有详细描述
+这些工具在《[如何解决所有问题？](https://supermemo.guru/wiki/How_to_solve_any_problem%3F)》一文中有详细描述
 
 ## 神经创造力
 
