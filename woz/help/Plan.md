@@ -130,17 +130,17 @@
 
 - 00:25 - 睡眠
 
-上述文件可以直接导入到你的日记中，为你的表现提供每日记录。请注意，没有一项活动的时间是按计划进行的（100%）。括号中的数字表示实际长度（**ActLen**字段），与最佳时间（**OptLen**字段）相比，用于该活动的时间百分比。还请注意，由于比最佳时间（00:15）晚睡了 10 分钟，比计划晚睡了 25 分钟（00:25 而不是00:00），这一天的总时间增加到 17.17 小时。
+上述文件可以直接导入到你的日记中，为你的表现提供每日记录。请注意，没有一项活动的时间是按计划进行的（100%）。括号中的数字表示实际长度（**ActLen**字段）与最佳时间（**OptLen**字段）相比，用于该活动的时间百分比。还请注意，由于比最佳时间（00:15）晚睡了 10 分钟，比计划晚睡了 25 分钟（00:25 而不是00:00），这一天的总时间增加到 17.17 小时。
 
-## 报警
+## 闹钟
 
-在当前活动结束前不久，警报会响起。你可以停止闹钟，或者通过输入闹钟再次响起之前的分钟数来进行休眠。
+在当前活动结束前不久，闹钟会响起。你可以选择停止闹钟，或者输入再次发出警报需要的分钟数，从而使其休眠。
 
-[！[SuperMemo。在离活动结束还有整整两分钟的时候，增量写下SuperMemo FAQ条目（在 23:39:48）](https://help.supermemo.org/images/thumb/9/9c/Alarm.jpg/800px-Alarm.jpg)](https://help.supermemo.org/wiki/File:Alarm.jpg)
+[![SuperMemo: Incremental writing of a SuperMemo FAQ entry with exactly two minutes left until the activity comes to an end (at 23:39:48)](https://help.supermemo.org/images/thumb/9/9c/Alarm.jpg/800px-Alarm.jpg)](https://help.supermemo.org/wiki/File:Alarm.jpg)
 
-如果你关闭计算机或直接退出 SuperMemo，警报就不会响起。如果你想退出 SuperMemo，但仍然保持闹钟，可以用**[窗口](https://help.supermemo.org/wiki/Window_menu) : [隐藏SuperMemo](https://help.supermemo.org/wiki/Window_menu#Hide_SuperMemo)** (**Shift+Ctrl+G**)将 SuperMemo 发送到通知区（以前称为系统托盘或状态区）。你可以通过把鼠标移到通知区的SuperMemo图标上，看到距离下一次闹钟的剩余时间。要把 SuperMemo 带出通知区（俗称系统托盘），点击 Windows桌面上或该区域的图标。你也可以用它的 Windows 快捷方式把 SuperMemo 带回来（如果你已经创建了一个）。
+如果你关闭计算机或直接退出 SuperMemo，警报就不会响起。如果你想退出 SuperMemo，但仍希望使用闹钟，可以用**[窗口](https://help.supermemo.org/wiki/Window_menu) : [隐藏SuperMemo](https://help.supermemo.org/wiki/Window_menu#Hide_SuperMemo)** (**Shift+Ctrl+G**)将 SuperMemo 发送到通知区（以前称为系统托盘或状态区）。你可以通过把鼠标移到通知区的SuperMemo图标上，看到距离下一次闹钟的剩余时间。要把 SuperMemo 带出通知区（俗称系统托盘），恢复正常界面，只需点击 Windows桌面上或该区域的图标。你也可以用 Windows 快捷方式把 SuperMemo 带回正常界面（如果你已经创建了一个）。
 
-当闹钟开启时，它会播放你选择的声音文件（使用**菜单：闹钟：选择音乐**来改变文件）。
+当闹钟开启时，它会播放你选择的音频文件（使用**菜单：闹钟：选择音乐**来改变文件）。
 
 ## 时间表分析
 

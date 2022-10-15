@@ -6,7 +6,7 @@
 
 David O. 问：如何提升我的创造力？
 
-本[常见问题](https://supermemo.guru/wiki/FAQs)是对 [Piotr Wozniak](https://supermemo.guru/wiki/Piotr_Wozniak) 撰写的《[我永远不会送我的孩子去学校](https://supermemo.guru/wiki/Problem_of_Schooling)》中的内容的扩充(2017)
+本[常见问题](https://supermemo.guru/wiki/FAQs)对[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)（2017）撰写的《[我永远不会送我的孩子去学校](https://supermemo.guru/wiki/Problem_of_Schooling)》的内容进行了扩展。
 
 ## 提升创造力需要时间
 

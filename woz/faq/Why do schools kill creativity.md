@@ -2,7 +2,7 @@
 
 原文：[Why do schools kill creativity? - supermemo.guru](https://supermemo.guru/wiki/Why_do_schools_kill_creativity%3F)
 
-本[常见问题(FAQ)](https://supermemo.guru/wiki/FAQs)对[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)（2017）撰写的《[我永远不会送我的孩子去学校](https://supermemo.guru/wiki/Problem_of_Schooling)》的内容进行了扩展
+本[常见问题](https://supermemo.guru/wiki/FAQs)对[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)（2017）撰写的《[我永远不会送我的孩子去学校](https://supermemo.guru/wiki/Problem_of_Schooling)》的内容进行了扩展
 
 常见问题。[什么是常见问题？](https://supermemo.guru/wiki/What_are_FAQs%3F)
 

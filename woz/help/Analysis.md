@@ -4,7 +4,7 @@
 
 在SuperMemo中点击**[工具](https://help.supermemo.org/wiki/Toolkit_menu)：[统计](https://help.supermemo.org/wiki/Toolkit_menu#Statistics)：分析**(*Shift+Alt+A*)，SuperMemo 提供了图表，说明当前打开的[集合](https://help.supermemo.org/wiki/Glossary:Collection)中学习进度。
 
-除了**分析之外，SuperMemo还提供了其他多种[分析工具](https://help.supermemo.org/wiki/Theory)。
+除了**分析**之外，SuperMemo还提供了其他多种[分析工具](https://help.supermemo.org/wiki/Theory)。
 
 ## 使用
 
