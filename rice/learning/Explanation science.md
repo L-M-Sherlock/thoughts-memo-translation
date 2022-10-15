@@ -6,7 +6,7 @@
 
 我认为这篇文章（诚然，是我写的）很好地说明了我用「解释学」表示的范畴：[https://learning.subwiki.org/wiki/Examples\_in\_mathematics](https://learning.subwiki.org/wiki/Examples_in_mathematics)。这篇文章深入考察了「例子」这个概念，并提出了一套分类法。这样一来，如果有人在写数学解释材料，他就可以用这套方法，保证解释里完整具备四种例子。
 
-[对比其他教学法](https://wiki.issarice.com/wiki/Comparison_of_pedagogical_scenes)，解释学的观点是，解释一项技能，我们能提高这项技能的水平，并发现更多新技术。
+[对比其他教学法](https://wiki.issarice.com/wiki/Comparison_of_pedagogical_scenes)，解释学的观点是，解释是一项技能，我们能提高这项技能的水平，并发现更多新技术。
 
 ## 参见
 
