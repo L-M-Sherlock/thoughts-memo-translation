@@ -18,7 +18,7 @@
 
 - 认真对待知识工作
 
-  - [运动员和音乐家比知识工作者更严格地追求基本技能的精湛性] (https://notes.andymatuschak.org/z4qhD8UwNAmJDdJUC36BUGp5PEUfgfzZXvkhB)
+  - [运动员和音乐家比知识工作者更严格地追求基本技能的精湛性](https://notes.andymatuschak.org/z4qhD8UwNAmJDdJUC36BUGp5PEUfgfzZXvkhB)
 
   - [知识工作很少涉及刻意练习](https://notes.andymatuschak.org/z5BMvN7tZr8wxZdfFHgjvV9Em5HzXPCboardR)
 

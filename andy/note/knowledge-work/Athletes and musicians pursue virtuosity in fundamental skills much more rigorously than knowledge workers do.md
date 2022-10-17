@@ -8,7 +8,7 @@
 
 知识工作者像运动员一样热衷追求基础技能的提升，这种说法的意味是什么？
 
-- 本·富兰克林练习写作的方法，是找一篇他认为有说服力的文章，用自己的话重写一遍，途中不看原文。完成之后，他会比较原文和自己文章在语言上有何不同。 （[本杰明·富兰克林自传, 第 17 页](https://www.gutenberg.org/files/148/148-h/148-h.htm)）
+- 本·富兰克林练习写作的方法，是找一篇他认为有说服力的文章，用自己的话重写一遍，途中不看原文。完成之后，他会比较原文和自己文章在语言上有何不同。 （[本杰明·富兰克林自传，第 17 页](https://www.gutenberg.org/files/148/148-h/148-h.htm)）
 
 - [Susan Sontag](https://notes.andymatuschak.org/z37xs8Tw2m5gyeeBEYbxY6kkYQXq2PYfjxaam) 7/5/72 (As Consciousness Is Harnessed to Flesh: Journals and Notebooks, 1964-1980)
 
