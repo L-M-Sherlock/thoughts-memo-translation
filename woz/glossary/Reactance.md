@@ -36,7 +36,7 @@
 
 儿童应能梦想，应能追求幼稚的激情，其中有未来伟大想法的种子
 
-本[术语](https://supermemo.guru/wiki/Glossary)条目用于解释《[我永远不会送我的孩子去学校](https://supermemo.guru/wiki/Problem_of_Schooling)》(2017) 作者：[Piotr Wozniak](https://supermemo.guru/wiki/Piotr_Wozniak)
+本[术语表](https://supermemo.guru/wiki/Glossary)条目用于解释《[我永远不会送我的孩子去学校](https://supermemo.guru/wiki/Problem_of_Schooling)》（2017）作者：[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)
 
 [![Learn drive vs. School drive](https://supermemo.guru/images/thumb/2/27/Neural_competition_between_the_learn_drive_and_the_system_of_rewards_at_school.png/500px-Neural_competition_between_the_learn_drive_and_the_system_of_rewards_at_school.png)](https://supermemo.guru/wiki/File:Neural_competition_between_the_learn_drive_and_the_system_of_rewards_at_school.png)
 
