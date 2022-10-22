@@ -12,7 +12,7 @@
 
 3. 向读者建议何时阅读下一章，或是在章节列表里呈现，等着读者阅读，或是主动推送通知给读者。也许可以对后续章节施加限制，只有阅读完必须的章节才可以阅读本章。
 
-4. 写作时考虑更长的阅读时间轴。如果作者知道，读者读完第一章后，要等待两个月才能读第五章，作者与读者之间的关系可能发生很大改变。([大众媒介大多缺乏超过一天的创制时间维度](https://notes.andymatuschak.org/z7JZswHPm99BbpTnb7NcP9Rnp8Bs6jsM3zjdv))
+4. 写作时考虑更长的阅读时间轴。如果作者知道，读者读完第一章后，要等待两个月才能读第五章，作者与读者之间的关系可能发生很大改变。（[大众媒介大多缺乏超过一天的创制时间维度](https://notes.andymatuschak.org/z7JZswHPm99BbpTnb7NcP9Rnp8Bs6jsM3zjdv)）
 
 [Execute Program](https://notes.andymatuschak.org/z2LGZ8cXBcQMP7YuAHbeVyCSLZoiMXvQNKCok) 实现了这些概念中的前三个，其体验也很有策划感：
 

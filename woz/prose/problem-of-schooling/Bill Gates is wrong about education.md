@@ -1,8 +1,8 @@
 # 比尔·盖茨对教育的看法是错误的
 
-[比尔盖茨对教育观点错误](https://supermemo.guru/wiki/Bill_Gates_is_wrong_about_education)
+原文：[Bill Gates is wrong about education - supermemo.guru](https://supermemo.guru/wiki/Bill_Gates_is_wrong_about_education)
 
-这段文字是《[我永远不会送我的孩子上学](https://supermemo.guru/wiki/Problem_of_Schooling)》其中的一部分，作者是[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)（2017）
+这段文字是《[我永远不会送我的孩子上学](https://supermemo.guru/wiki/Problem_of_Schooling)》的一部分，作者是[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)（2017）
 
 ## 比尔·盖茨是我的英雄
 
@@ -95,3 +95,43 @@
 盖茨喜欢一个关于晶体学的在线讲座，但遗憾的是，困惑导致人们辍学。他认为“*社会结构和支持*”是坚持下去所需要的。我认为我们最好把重点放在[学习熵](https://supermemo.guru/wiki/Learntropy)上。 盖茨的想法是过时的。 在未来的教育中，将有比尔的晶体学和 5 岁儿童的晶体学。 后者不会更糟，同样科学，同样迷人。 我们不希望“*社会结构*”把孩子推下去。 我们希望“*[知识结构](https://supermemo.guru/wiki/20_rules)*”符合孩子的认知能力特别是她目前的知识状况。
 
 只有基于强大[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的自然学习过程，和强烈的[激情](https://supermemo.guru/wiki/Passion_and_memory) 才能培养出伟大的个体。这就是我们如何培养出伟大的教师，以及未来的比尔·盖茨。
+
+我的公式更简单。这不是数十亿美元的投资，也不是伟大的管理。优秀教育的关键在于大脑!我们所需要的只是释放潜能的一点自由！
+
+比尔应该从努力教自己的孩子中得到最大的线索。 他说：“*[教学很难！](https://supermemo.guru/wiki/Bill_Gates:_Teaching_is_hard) 你需要不同的技能:积极的强化，让学生不感到无聊，以某种方式吸引他们的注意力。我更擅长教授大学水平的课程*”。
+
+在此，他应该回想起一条适用于所有未受教育损害的健康大脑的古老格言:“*我爱学习，但我讨厌被教*”。对于像比尔这样博览成书的成年人来说，不读书或不讲课似乎是一件很困难的事，这时很容易忘记这个道理。比尔·盖茨的大脑充满了知识，任何“学习材料”都不会引起不舒服、坐立不安或做白日梦。他很喜欢晶体学的课程，不明白为什么别人一遇到理解障碍就轻易放弃。在健康的学习中，放弃，或者更确切地说是推迟和重新集中精力应该是常态。孩子们不应该用头撞坚硬材料的砖墙。任何能让他们进行下一步的材料都是好的和可取的。比尔希望这种“*专注、目标导向的大学模式*”能够移植到年轻人的大脑中，而 [学习内驱力](https://supermemo.guru/wiki/Learn_drive) 则依靠 [年轻时零碎的前置知识](https://supermemo.guru/wiki/Knowledge_crystal)。几乎所有成年人都希望看到孩子们快速进入“*大学模式*”。
+
+**几乎所有的成年人都持以成人为中心的观点，这可能是现代教育中最伟大的戏剧之一。**
+
+由于大脑的发育方式，我们无法记得自己小时候的大脑是如何工作的!我们需要依靠科学来[解释](https://supermemo.guru/wiki/How_baby_brain_does_not_work)我们成年后的自我!
+
+盖茨在互联网革命中出奇地晚，在教育革命中似乎也出奇地晚。但他的天赋会帮助他改正错误。他有权投资、过度投资或不当投资他的资源。昂贵的课程有许多长期的好处。此外，到目前为止，世界上已经有了很多好的成就。
+
+比尔·盖茨在[我的计划](https://supermemo.guru/wiki/Education_Reform)中有一席之地。自由和[学习内驱力](https://supermemo.guru/wiki/Learn_drive)不适合所有人吗。我们还需要为每一个需要帮助的人提供一个[工厂式学校](http://en.wikipedia.org/wiki/Factory_model_school)的管理系统。对于政府和慈善家来说，这是一个很好的领域。
+
+## 给所有教育慈善家的信息
+
+不要在工业化国家投资教育。这带来的投资回报微乎其微。投资把网络带给世界各个角落的所有孩子。这将改变这个星球！
+
+## 摘要：比尔·盖茨错了
+
+- 以成人为中心的观点是现代教育失败的原因之一
+
+- 没有被送到 [日托所](https://supermemo.guru/wiki/Daycare_misery) 的健康童年是伟大的根源
+
+- [Neil deGrasse Tyson](https://en.wikipedia.org/wiki/Neil_deGrasse_Tyson) 帮助孩子们对科学产生兴趣的最佳方法是：“*[别再烦他们了！](https://supermemo.guru /wiki/Tyson:_to_get_kids_into_science,_get_out_of_their_way)*”。
+
+- [童年产生的激情](https://supermemo.guru/wiki/Passion_and_memory) 会改变生活
+
+- 终身不懈地追求源自[年轻激情]的目标（https://supermemo.guru/wiki/Passion_and_memory）是成功的可靠公式
+
+- 大量生产伟大的教师并不比大量生产天才容易
+
+- 在开发过程中，欢迎鼓舞人心的导师在 [推动区](https://supermemo.guru/wiki/Push_zone) 内进行轨迹微调
+
+- 在学校里，恶作剧、反叛和不服从是自由的表现，可能会促进更好的学习
+
+- 资助孩子上大学和资助孩子不上大学是一样的。欢迎所有对青年的支持
+
+- 从大学退学可能是一件好事

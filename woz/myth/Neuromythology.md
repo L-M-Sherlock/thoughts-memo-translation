@@ -8,35 +8,35 @@
 
 ## 速破谬误
 
-关于大脑的谬误和误解简直罄竹难书。本站有[谬误](https://supermemo.guru/wiki/Myths)栏目，处理那些隐晦阴险的误解，内容非常丰富。然而，谬误仍然多到穷尽一生也处理不完。有些谬误太过荒谬，只消几句话便能打发掉。许多谬误愚蠢到对它们的反驳也有些蠢。本文力求简洁幽默，不免少些科学精确性。
+关于大脑的谬误和误解简直罄竹难书。本站有[谬误](https://supermemo.guru/wiki/Myths)栏目，处理那些隐晦阴险的误解，内容非常丰富。然而，谬误仍然多到穷尽一生也处理不完。有些谬误太过荒诞，只消几句话便能打发掉。许多谬误愚蠢到对它们的反驳也有些蠢。本文力求简洁幽默，不免少些科学精确性。
 
 ## 反面典型：Manfred Spitzer
 
-建立这个网页的根本动机是[Manfred Spitzer](https://supermemo.guru/wiki/Manfred_Spitzer)博士的一系列讲座，他因反对数字技术而臭名昭著，也创造了[数字痴呆症](https://supermemo.guru/wiki/Digital_Dementia)一词。Spitzer非常受认为学校比[教育自由](https://supermemo.guru/wiki/Educational_freedom)更重要的家长认可。他发表演讲有一种迷人的特朗普式风格：什么都是最坏的，最好的或最伟大的（或*“最春的”*（原文如此！））。据Spitzer说，所有儿童的最大威胁就是数字技术，因为它破坏了对 "世界上最好的东西 "：**学校**，的热情。Spitzer 来自欧洲儿童教育权利最有限的国家之一，这并非巧合。德国社会的纪律性很强，但学习自由很少。[在家上学]（https://supermemo.guru/wiki/Homeschooling）在德国是非法的。
+建立这个网页的根本动机是[Manfred Spitzer](https://supermemo.guru/wiki/Manfred_Spitzer)博士的一系列讲座，他因反对数字技术而臭名昭著，同时也是[数字痴呆症](https://supermemo.guru/wiki/Digital_Dementia)一词的创始人。Spitzer 非常受认为学校比[教育自由](https://supermemo.guru/wiki/Educational_freedom)更重要的家长认可。他发表演讲充斥着迷人的特朗普式风格：什么都是最坏的，最好的或最伟大的（或「最春的」（原文如此！））。据 Spitzer 说，所有儿童的最大威胁就是数字技术，因为它破坏了对「世界上最好的东西」——学校——的热情。Spitzer 来自欧洲儿童教育权利最有限的国家之一，这并非巧合。德国社会的纪律性很强，而学习自由很少。[在家上学]（https://supermemo.guru/wiki/Homeschooling）在德国是非法的。
 
 Spitzer的主张特别诱人，因为他是一名 "神经精神病学 "教授，并在他的讲座中时而支持好想法，如锻炼、人际关系、面对面的互动、家庭、孙辈、户外活动、自然的价值等等，我们都本能地知道这些观点是对的。
 
 ## 对技术的恐惧
 
-神经谬误学家为家长提供了大量错误的指导，使儿童无法获得现代世界的教育中最大的好处。尽管Spitzer自己很明白他夸大恐慌的犬儒把戏，但现存的对技术的恐惧是真实的。[Danny Greenberg](https://supermemo.guru/wiki/Danny_Greenberg)解释得很好：儿童没有这些恐惧。这些恐惧产生于成年人的头脑中，因为他们自己也受过严格的学校教育。参见格林伯格的出色诊断：[驱逐恐惧](https://sudburyvalley.org/essays/banishing-fear-new-look-two-decades-later)
+神经谬误学家为家长提供了大量错误的指导，剥夺了儿童获得现代世界最大的教育福利的机会。尽管 Spitzer 自己很明白他夸大恐慌的犬儒把戏，但现存的对技术的恐惧是真实的。[Danny Greenberg](https://supermemo.guru/wiki/Danny_Greenberg)解释得很好：儿童没有这些恐惧。这些恐惧产生于成年人的头脑中，因为他们自己也受过严格的学校教育。参见 Greenberg 出色的判断：[驱逐恐惧](https://sudburyvalley.org/essays/banishing-fear-new-look-two-decades-later)
 
 ## 论好的教育者
 
-Spitzer绝不是教育者。他浑身散发着无所不知的教师爷的气息。Spitzer不是像[John Holt](https://supermemo.guru/wiki/John_Holt)那样与儿童交谈。在文字中，你可以立即看出人们思路和情感的不同。Holt 用爱、同情心和真正的好奇心与孩子们交谈。Spitzer则是以权威的姿态对所有人说话。Spitzer 和 Holt 的区别有点像特朗普和拜登的区别。拜登以同理心倾听人们的心声。Holt爱孩子。特朗普只爱自己。
+Spitzer 绝不是教育者。他浑身散发着无所不知的教师爷的气息。Spitzer 不是像[John Holt](https://supermemo.guru/wiki/John_Holt)那样与儿童交谈。在文字中，你可以立即看出人们思路和情感的不同。Holt 用爱、同情心和真正的好奇心与孩子们交谈。Spitzer 则是以权威的姿态对所有人说话。Spitzer 和 Holt 的区别有点像特朗普和拜登的区别。拜登以同理心倾听人们的心声。Holt 爱孩子。特朗普只爱自己。
 
 # 有关神经的谬误
 
 ## 谬误：数码技术导致癌症
 
-Manfred Spitzer 正确指出，如果数字技术引起压力，它们就会导致癌症。 但是这个关联如此模糊和复杂，以至于如果要在是否应该使用互联网的讨论中提癌症，而我自己只关心学校教育的危害，我就可以说**学校导致癌症**（[来源](https://www.handelsblatt.com/english/digital-doomsayer-raging-against-the-machines/23507388.html?ticket=ST-12116324-B3yCuWM1nbAyEGJ7RSPi-ap3)）。 毕竟，众所周知的事实是新鲜空气比室内生活更有利健康，还有处于封闭空间中对罹患癌症的影响。 如果坐在教室里，患癌症的风险高于在户外（无污染的空气中）玩耍。
+Manfred Spitzer 正确指出，如果数字技术引起压力，它就会导致癌症。 但是这个关联实属模糊和费解，在互联网的背景下提到癌症，我也有理由把自己对学校教育危害的痴迷添油加醋成**学校导致癌症**。（[来源](https://www.handelsblatt.com/english/digital-doomsayer-raging-against-the-machines/23507388.html?ticket=ST-12116324-B3yCuWM1nbAyEGJ7RSPi-ap3)）。 毕竟，众所周知的事实是新鲜空气比室内生活更有利健康，还有处于封闭空间中对罹患癌症的影响。 如果坐在教室里，你患癌症的风险高于在户外（无污染的空气中）玩耍。
 
 ## 谬误：如果你18岁还头脑空空，就没有未来
 
-[Manfred Spitzer](https://supermemo.guru/wiki/Manfred_Spitzer) 相信学校教育。 他认为应该用人生的前18年勤奋学习。 他声称，如果低效地地度过前 18 年，余生注定失败。 这错在两个方面。**(1)**学校内外**孩子们一直在学习**： 减少孩子学习的最有效方法是把她铐在黑暗的地牢里。强迫孩子们坐在长椅上听无趣的讲座也很糟糕。 **(2) 成人终身保有学习能力**。 支持终身学习的最佳武器是[学习内驱力](https://supermemo.guru/wiki/Learn_drive)。 自相矛盾的是，大多数人由于在学校的[强制学习](https://supermemo.guru/wiki/Coercive_learning)而失去学习内驱力。
+[Manfred Spitzer](https://supermemo.guru/wiki/Manfred_Spitzer) 相信学校教育。 他认为应该用人生的前18年勤奋学习。 他声称，如果低效地地度过前 18 年，余生注定失败。 这错在两个方面。**(1)孩子们一直在学习**，无论学校内外。 减少孩子学习的最有效方法是把她铐在黑暗的地牢里。强迫孩子们坐在长椅上听无趣的讲座也很糟糕。 **(2) 成人终身保有学习能力**。 支持终身学习的最佳利器是[学习内驱力](https://supermemo.guru/wiki/Learn_drive)。 自相矛盾的是，大多数人由于在学校的[强制学习](https://supermemo.guru/wiki/Coercive_learning)而失去学习内驱力。
 
 ## 谬误：在学校使用 Google 是最糟的
 
-[Manfred Spitzer](https://supermemo.guru/wiki/Manfred_Spitzer) 说：*“如果你真的想了解什么，不要Google，去看报纸”*。 我目前对[间歇性禁食](https://supermemo.guru/wiki/Optimum_diet)及其与[昼夜周期](https://supermemo.guru/wiki/Circadian_cycle)的关系感兴趣，我想知道应该读哪份 “报纸”？
+[Manfred Spitzer](https://supermemo.guru/wiki/Manfred_Spitzer) 说：「如果你真的想了解什么，不要用谷歌，去看报纸」。 我目前对[间歇性禁食](https://supermemo.guru/wiki/Optimum_diet)及其与[昼夜周期](https://supermemo.guru/wiki/Circadian_cycle)的关系感兴趣，我想知道应该读哪份「报纸」？
 
 ## 谬误：超链接使人难以专注于文本
 
@@ -44,11 +44,11 @@ Manfred Spitzer 正确指出，如果数字技术引起压力，它们就会导�
 
 ## 谬误：数码技术导致近视
 
-近视是由“近世”生活引起的。 书籍和平板电脑一样糟糕。 说“教育导致近视”更准确。 然而，实际上这可以由数字技术挽救（例如把图像投影在在远处的平面上）。 参见：[眼镜的危害](https://supermemo.guru/wiki/Harm_of_eyeglasses)。
+近视是由「近世」生活引起的。 书籍和平板电脑一样糟糕。 说「教育导致近视」更准确。 然而，实际上这可以由数字技术挽救（例如把图像投影在在远处的平面上）。 参见：[眼镜的危害](https://supermemo.guru/wiki/Harm_of_eyeglasses)。
 
 ## 谬误：送小孩 iPad 是虐童
 
-iPad 为教育提供了一系列令人难以置信的选择，让人能够愉快地学习。 对于自由的孩子来说，iPad 是一份很棒的教育礼物。 根据 Spitzer 的定义，未经孩子同意就提前送孩子上学，更[接近于虐待儿童](https://supermemo.guru/wiki/Gray:_School_is_prison)。 任何虐待都不会让孩子快乐。 孩子看到哪个更可能笑出来：iPad 还是学校？
+iPad 为教育提供了一系列不可思议的选择，让人能够愉快地学习。 对于自由的孩子来说，iPad 是一份很棒的教育礼物。 根据 Spitzer 的定义，未经孩子同意就提前送孩子上学，更[接近于虐待儿童](https://supermemo.guru/wiki/Gray:_School_is_prison)。 任何虐待都不会让孩子快乐。 孩子看到哪个更可能笑出来：iPad 还是学校？
 
 ## 谬误：桌上放智能手机会降低智商
 
@@ -78,7 +78,7 @@ Spitzer声称父母不应该购买 PlayStation 作为礼物，因为这会导致
 
 [Manfred Spitzer](https://supermemo.guru/wiki/Manfred_Spitzer) 说*“买电子儿童图书教孩子阅读是最糟的。电子书里按一个按钮就能自动朗读！”* 实际上，可卡因或海洛因对阅读能力的危害比电子书更大。如果孩子读纸质书时旁边没有人给他念，他就宁可不读，但如果是电脑读出文本，他们就能跟着阅读。输入有意义是学习阅读的基础。 当成人不在时，电子书可以帮助孩子阅读，甚至比成人更合适。孩子们喜欢掌控自己。想不靠教师，没有不快地学习阅读，[视频游戏](https://supermemo.guru/wiki/Videogames)是现代最好的工具。 这可以通过研究和儿童自己的意见得到证实。 教师不再是必要的。
 
-## 误区：数字扫盲只需要 5 分钟
+## 误区：数码扫盲只需要 5 分钟
 
 [Manfred Spitzer](https://supermemo.guru/wiki/Manfred_Spitzer) 声称 18 岁的孩子可以在几分钟内具备数字素养：只需 *“点击鼠标浏览网页”*。 实际上，网络世界景观之丰富从不为人所知。 网络世界一生也探索不完，而“媒体素养”可以与元认知技能相提并论，同样需要终生培养。 要掌握的工具和技巧似乎无穷无尽。 善用知识、怀疑主义、电子社会认知、网络礼仪、溯源知识、了解网络威胁、写博客、使用网上银行、电子支付、通信等，不胜枚举。 Spitzer 可能是对的：数字世界的新手[面对超链接洪流可能会不知所措](https://supermemo.guru/wiki/Neuromythology#Myth:_Hyperlinks_make_it_hard_to_focus_on_the_text)
 
@@ -97,3 +97,77 @@ Victoria Dunckley 博士声称，她神奇地治愈了许多神秘患上*电子�
 ## 谬误：没法用电子设备学语言
 
 一个荷兰人告诉Spitzer他的英语是玩电脑游戏学的，Manfred像特朗普一样打发他：*“小孩子不可能用电脑学会外语”*。 他还说，还不如交一个会说这种语言的女朋友。 我的书面英语也是用电脑学的，还有我的大多数英语还可以的年轻朋友。 其中包括喜欢 YouTube 和电脑游戏的“小孩子”们。 至于女朋友，我想起一位尼日利亚女士，激励我学英语。 然而她还有别的兴趣。电脑比人要求更少。 碰上好日子，还可以通过屏幕与远方的女朋友见面。
+
+##谬误：在课堂上使用手机的孩子学不好
+
+手机能帮助学习更多知识。孩子们可以观看由表现更好的人进行的同样的讲座，而不是枯燥的老师。 (只要教师不破坏这种学习动力)
+
+##谬误：谷歌让你变笨
+
+Nicholas Carr 说「谷歌让你变笨」。事实上，「谷歌让我们更聪明(https://supermemo.guru/wiki/Proof:_Internet_makes_us_smarter)」。那些无脑听从 Carr 或 Spitzer 的人，其变得比一般人更愚蠢的风险要大得多。
+
+##谬误：互联网的发展是全球性问题
+
+互联网是继印刷术等的发明之后，人类最伟大的技术福音。 当 Spitzer 把爱和激情与成瘾混为一谈时，他犯了精神病学家的第一个严重错误：把新的行为当作病态的，即使它们对「病人」有益。 见：[预防成瘾的奖励多样性](https://supermemo.guru/wiki/Reward_diversity_in_preventing_addictions)
+
+##谬误：iPad 阻碍了认知发展
+
+Spitzer 说「iPad没有质感，阻碍了认知发展」。这就相当于声称书籍抑制了欣赏日落的能力。在玩过iPad之后，孩子可以在帮妈妈剥土豆的同时随心所欲地接触质感。
+
+##谬误：平板电脑涉及的操作重复且无用。
+
+书法这项活动很有趣，用十个手指打字也是如此。平板电脑游戏涉及到所有可以想象到的复杂的2D动作，并转化为3D空间。 更先进的游戏系统涉及整个身体的三维空间。很快，数字技术将为技能发展和改善提供最好的程序性训练。在10-15年后，如果没有数字辅助的程序性训练，将很难成为最好的网球运动员。
+
+##谬误：数字媒体导致数字失忆症
+
+数字失忆症这个词可能是[数码痴呆症](https://supermemo.guru/wiki/Digital_Dementia)的变种。由[Manfred Spitzer](https://supermemo.guru/wiki/Manfred_Spitzer).「发明」。参见 [数字痴呆症的病态谬误](https://supermemo.guru/wiki/The_morbid_myth_of_Digital_Dementia)
+
+##谬误：数字媒体导致了信息处理的错误
+
+[Manfred Spitzer](https://supermemo.guru/wiki/Manfred_Spitzer)声称数字媒体具有内在的缺陷，导致很难或不可能有正确的信息处理。网络上有关神经谬误的内容太过费解，很难知道这种说法到底是什么意思。指的是深度阅读、数码痴呆症、注意力问题、不堪重负、上瘾吗？ 我的主张正好相反：如果你想最大限度地提高学习效率。请使用[渐进阅读](https://supermemo.guru/wiki/Incremental_reading) (which by definition is digital)（它的原理就是基于数码的）
+
+##谬误：读书比上网更好
+
+教师喜欢书本。他们向学生提供线性指令。成功被学校驯化的孩子也可能喜欢线性指令，因为它不需要任何智力开销。 一个真正的探索者喜欢探索知识的世界。网络是探索的最佳媒介。书籍也很重要，它们最好用[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)（即用数码方式）来处理。
+
+##谬误：纸张比屏幕更好
+
+[Manfred Spitzer](https://supermemo.guru/wiki/Manfred_Spitzer)说从屏幕上阅读比在纸上阅读效率低。人们打印PDF文件，而不会扫描一本书在屏幕上阅读。实际上，对于学习和研究来说屏幕有很大优势。使用它可以缩放字体，翻译文本，搜索到关键词以及很容易地找到超链接。只有傻瓜才会认为纸张更有优势。至于扫描一本书，这确实很少见，因为大多数书已经被专业地扫描过了。
+
+##谬误：数字失忆症已经影响到全世界
+
+痴呆症的谬误已经影响到所有不专业的媒体，他们不检查消息来源就人云亦云，没有一丝批判性思维。
+
+##谬误：学校教育是最好的学习
+
+[Manfred Spitzer](https://supermemo.guru/wiki/Manfred_Spitzer) 说成为终身学习者的最好方法是尽可能多地在学校学习。事实上，成为终身学习者的最佳方式是在学校的摧残中保留[对学习的热爱](https://supermemo.guru/wiki/Pleasure_of_learning) 。
+
+##谬误：谷歌破坏了教师的地位
+
+任何好老师都不应该害怕谷歌。孩子们喜欢与回答困难问题的智者互动。有说明3知识的儿童最清楚哪些问题是很难用谷歌回答的，哪些问题最好与有智慧的成年人、同龄人或更小的孩子互动讨论。谷歌帮助重新定义了教师的角色。参见：[我们需要教师吗？](https://supermemo.guru/wiki/Do_we_need_teachers%3F)
+
+##谬误：学校确保最快的学习
+
+Spitzer 说：「快速学习基于知识 」，「知识是你从学校得到的东西」。他还说「你在18岁时就已经为谷歌做好了准备 」。事实上，最好的知识是通过[自学](https://supermemo.guru/wiki/Self-learning)获得的。学校试图在别人创建的时间表上给你知识。谷歌则在你需要时给你知识（甚至在4岁时）（参见：[字识](https://supermemo.guru/wiki/Letteracy)）。我一生都在为 「快速学习」而努力。这就是我成为学校批评者的原因。在学校施行的唯一快速学习是[死记硬背](https://supermemo.guru/wiki/Cramming)的考试。随之而来的是更快的[遗忘](https://supermemo.guru/wiki/Forgetting)
+
+#谬误：学校的问题逐渐消失
+
+随着孩子们长大，学校里的问题往往会减少。Spitzer 说这其实是因为孩子们变得成熟。实际上，学校里最强大的驯服因素是[习得性无助](https://supermemo.guru/wiki/Learned_helplessness). 这使孩子们有面临抑郁症的风险
+
+ ##谬误：脸书让你的大脑如吸了可卡因一样
+
+[Manfred Spitzer](https://supermemo.guru/wiki/Manfred_Spitzer) 将脸书用户的大脑比作一个可卡因上瘾者在注射毒品后戒断的大脑，这种比喻实际上是相当准确的。脸书和毒品都会激活奖励中心。最大的不同在于它可能很难与麻醉药物的奖励相对抗。然而，自然奖励是一件好事。奖励中心的进化是为了奖励那些有利于生存的行为。所有形式的学习，包括从脸书上学习，都应该是愉悦且健康的。有可能通过脸书产生[可变奖励](https://supermemo.guru/wiki/Variable_reward) 或惩罚，这可能导致轻度上瘾。然而，所有形式的学习都有这种可能性。这取决于用户如何明智地对待学习和脸书。
+
+##谬误：依赖互联网是危险的
+
+Spitzer 建议我们不应过分依赖互联网，因为一旦网络被切断，就很难重新适应。所有的技术都是如此，我们的高度依赖性往往证明了它是高度有用的。没有电也会很难生活，然而，很少有人练习生火的艺术，以防他们在夜间被剥夺了电灯。甚至蜡烛作为一种备用系统也逐渐不再流行。
+
+##谬误：我们要保护孩子抵制虚假信息
+
+[Manfred Spitzer](https://supermemo.guru/wiki/Manfred_Spitzer) 声称大脑没有 "虚假信息检测器"。因此，它很容易受到与科学观点不一致的信息的影响。这就是为什么 Spitzer 认为[谷歌让你变傻](https://supermemo.guru/wiki/Google_makes_you_stupid)  并应在青少年时期禁止，就像禁止持枪或驾驶汽车一样。
+
+这一主张可能解释了为什么 Spitzer 的教义如此语无伦次。他显然对大脑处理难懂的知识的方式有[成功被学校驯化的](https://supermemo.guru/wiki/Well-schooled)解释。如果有一项研究陈述了一个只言片语的看法，Spitzer 就觉得完全可以把它作为一个科学真理来宣布。真有你的！
+
+当我们想弄清关于这个世界的真相时，我们应该寻求共识性的知识，如果它不令人满意，或者它特别重要，我们应该从所有可以想到的来源寻求灵感，包括那些基本上不可靠的来源。我们不需要虚假探测器，因为知识往往会通过它的[一致性](https://supermemo.guru/wiki/Consistency)来验证自己。隔阂需要用新的创议来填补，而这些创议在发现矛盾的时候往往会受到质疑。建立的模型可能是错误的，但错误的模型也有价值（参见：[错误模型的价值](https://supermemo.guru/wiki/Value_of_wrong_models)）。
+
+Spitzer 认为（1）对虚假信息最好的防御是知识，（2）知识基础的最好来源是学校。如果是这样，Spitzer 证明了自己的错误，因为我坚持认为他的主张明显是错误的。如果我的观点源于我基于薄弱的怀疑主义的可悲无知，[26年的学校教育](https://supermemo.guru/wiki/My_qualifications) 没有起到作用

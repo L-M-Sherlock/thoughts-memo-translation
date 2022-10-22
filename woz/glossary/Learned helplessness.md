@@ -2,29 +2,29 @@
 
 原文：[Learned helplessness - supermemo.guru](https://supermemo.guru/wiki/Learned_helplessness)
 
-**习得性无助**是一种大脑放弃抵抗痛苦体验的状态。**习得性无助**由在克服痛苦体验上不断失败所导致，即使成功的障碍已经被清除，它也会持续数月甚至数年。在[本网站](https://supermemo.guru/wiki/this_site)，[学校教育](https://supermemo.guru/wiki/schooling)的内容中经常提及**习得性无助**。当儿童从小就被剥夺自由时，他们往往会屈从于自己的命运。这增加了抑郁和成瘾的几率。这也是极大地抑制了[学习内驱力](https://supermemo.guru/wiki/learn_drive)。因此，从长远来看，[儿童憎恨学校](https://supermemo.guru/wiki/Why_kids_hate_school)，并变得无助。伤害程度将取决于糟糕经历的时间和严重程度。理论上，[学习内驱力](https://supermemo.guru/wiki/Learn_drive)可以恢复这种伤害，并驱动幸福的成年生活。然而，伤害可能会很深，需要数年时间才能恢复，这在现实中往往会失败。
+**习得性无助**是一种大脑放弃抵抗痛苦体验的状态。**习得性无助**由在克服痛苦体验上不断失败所导致，即使成功的障碍已经被清除，它也会持续数月甚至数年。在[本网站](https://supermemo.guru/wiki/this_site)，[学校教育](https://supermemo.guru/wiki/schooling)的内容中经常提及**习得性无助**。当儿童从小就被剥夺自由时，他们往往会屈从于自己的命运。这增加了抑郁和成瘾的几率。这也是极大地抑制了[学习内驱力](https://supermemo.guru/wiki/learn_drive)。因此，从长远来看，[儿童憎恨学校](https://supermemo.guru/wiki/Why_kids_hate_school)，并变得无助。伤害程度将取决于糟糕经历的持续时间和严重程度。理论上，[学习内驱力](https://supermemo.guru/wiki/Learn_drive)可以治愈这种伤害，并驱动幸福的成年生活。然而，伤害可能会很深，需要数年时间才能治愈，这在现实中往往会失败。
 
 本[术语表](https://supermemo.guru/wiki/Glossary)条目用于解释《[我永远不会送我的孩子去学校](https://supermemo.guru/wiki/Problem_of_Schooling)》（2017）作者：[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)
 
 欲了解更多，请参阅：
 
-- [神经网络战争](https://supermemo.guru/wiki/War_of_the_networks)：产生**习得性无助**的伤害机制。
+- [神经网络战争](https://supermemo.guru/wiki/War_of_the_networks)：产生**习得性无助**的伤害机制
 
 - [不可逆的适应不良](https://supermemo.guru/wiki/Irreversible_maladaptability)：为什么**习得性无助**难以逆转。
 
 - [学校如何抑制学习内驱力](https://supermemo.guru/wiki/Schools_suppress_the_learn_drive)
 
-- [将创造力与 ADHD 混淆](https://supermemo.guru/wiki/Confusing_creativity_with_ADHD)：学校如何打着对抗 ADHD 的幌子对抗创造力。
+- [将创造力与 ADHD 混淆](https://supermemo.guru/wiki/Confusing_creativity_with_ADHD)：学校如何打着对抗 ADHD 的幌子对抗创造力
 
 - [成为优等生的风险](https://supermemo.guru/wiki/Dangers_of_being_a_Straight_A_student)：好成绩可能会带来长远的麻烦
 
 - [婴儿管理](https://supermemo.guru/wiki/Baby_management)：婴儿床上引发无助的过程（哭着要喝奶，在幼儿园哭等）
 
-- [婴儿睡眠](https://supermemo.guru/wiki/Baby_sleep): 没有人陪伴睡眠的"睡得好"的婴儿们能够自我安慰, 这无疑是习得性无助的早期表达
+- [婴儿睡眠](https://supermemo.guru/wiki/Baby_sleep)：无人陪睡的所谓「睡得好」的婴儿会自我安慰，这无疑是习得性无助的早期体现
 
-- [学校让学生沾染上的 100+ 恶习](https://supermemo.guru/wiki/100_bad_habits_learned_at_school)：限制自由所导致无助和数十种相关习惯的机制。
+- [学校让学生沾染上的 100+ 恶习](https://supermemo.guru/wiki/100_bad_habits_learned_at_school)：限制自由所导致无助和数十种相关习惯的机制
 
-- [预防成瘾的奖励多样性](https://supermemo.guru/wiki/Reward_diversity_in_preventing_addictions)：无助导致抑郁和成瘾的机制。
+- [预防成瘾的奖励多样性](https://supermemo.guru/wiki/Reward_diversity_in_preventing_addictions)：无助导致抑郁和成瘾的机制
 
 - [习得性无助的 Wikipedia 词条](https://en.wikipedia.org/wiki/Learned_helplessness)
 

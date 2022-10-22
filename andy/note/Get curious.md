@@ -12,6 +12,6 @@
 
 - [Research as Understanding - Kanjun Qiu](https://notes.andymatuschak.org/zWJKM8bUDs74L6neciZJUFtYtcxehW37CXc)
 
-> 学校教给我们的那种死记硬背的科学过程——从一个问题开始，产生假设，用实验测试，得出结论——是一个很好的工具，但它没有抓住最重要的元素：{实际上想知道问题的答案}！
+> 学校教给我们的那种死记硬背的科学过程——从一个问题开始，产生假设，用实验测试，得出结论——是一个很好的工具，但它没有抓住最重要的元素：{真的想知道问题的答案}！
 
 - [专注的软件开发工作是自我否定的](https://notes.andymatuschak.org/z5XqtTcnfBVUBRVFjxY2S1MqAAJDpE2ffyuZZ)

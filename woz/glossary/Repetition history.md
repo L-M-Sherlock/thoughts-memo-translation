@@ -2,7 +2,7 @@
 
 原文：[Repetition history - supermemo.guru](https://supermemo.guru/wiki/Repetition_history)
 
-**重复历史**是对在[间隔复习](https://supermemo.guru/wiki/Spaced_repetition)过程中的[重复](https://supermemo.guru/wiki/Repetition)的记录。每个重复历史中最少包括：（1）重复日期（2）复习的[评分](https://supermemo.guru/wiki/Grade)。而 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 则会额外记录一些数据（例如用于[睡眠研究]((https://supermemo.guru/wiki/SleepChart)的重复的确切时间）
+**重复历史**是对在[间隔复习](https://supermemo.guru/wiki/Spaced_repetition)过程中的[重复](https://supermemo.guru/wiki/Repetition)的记录。每个重复历史中最少包括：（1）重复日期（2）复习的[评分](https://supermemo.guru/wiki/Grade)。而 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 则会额外记录一些数据（例如用于[睡眠研究](https://supermemo.guru/wiki/SleepChart)的重复的确切时间）
 
 本[术语表](https://supermemo.guru/wiki/Glossary)条目用于解释 [SuperMemo](https://supermemo.guru/wiki/SuperMemo_Guru)，一位自 [1987](https://supermemo.guru/wiki/History_of_spaced_repetition_(print)) 年以来的[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)软件先驱。
 

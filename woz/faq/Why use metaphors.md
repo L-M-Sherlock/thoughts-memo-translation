@@ -6,14 +6,38 @@
 
 ## 比喻的价值
 
-比喻并不能取代模型或者证明，它只是可选的，比喻能够帮助人们理解系统科学、控制论，最优化理论等等的概念
+**比喻并不能取代模型或者证明**，它只是可选的。比喻能够帮助人们理解系统科学、控制论、最优化理论等相关概念。
 
-例如，许多人相信孩子一定会游戏或者其他小的嗜好上浪费时间。自主学习可以学的更加全面，全面性形成的过程可能需要1~30年，它来自于模因科学中的知识融合理论，这种现象的根源是学习决策由学习内驱力决定并确定了知识树的成长方向理论的进化
+例如，许多人相信任由其自由发挥的话，孩子们一定会在[电子游戏](https://supermemo.guru/wiki/Videogames) 或者其他小嗜好上浪费时间。但要知道[自主学习](https://supermemo.guru/wiki/Free_learning)实际上可以获取全方位的知识，全面性知识形成的过程可能需要 1~30 年，它来自于模因科学中的知识融合理论。这种现象的根源是一个演化过程，其中由[学习内驱力](https://supermemo.guru/wiki/Learn_drive) 驱动产生的学习策略，确定了[知识树](https://supermemo.guru/wiki/Knowledge_tree) 的成长方向。
+
+如同学习决策塑造知识树一样，商业决策也塑造市场。大多数人都熟悉经济的运作方式。这就是为什么把学校系统比作共产主义系统的比喻可能比大量的脑科学以及信息科学更有说服力，从而引发共鸣 (见：[现代学校教育就像苏联经济](https://supermemo.guru/wiki/Modern_schooling_is_like_Soviet_economy))。
+
+我不能确定我的比喻是否有效，然而，我希望至少不会有危害。如果你察觉到了风险，[请告诉我](https://supermemo.guru/wiki/Let_me_know)。如果你理解我的文字，你可以安全地略过这些比喻。
+
+##比喻示例
+
+一些比喻的例子：
 
 - [现代学校教育就像苏联经济](https://supermemo.guru/wiki/Modern_schooling_is_like_Soviet_economy)
 
+- [导弹的比喻解释了为什么学校会压制智力](https://supermemo.guru/wiki/Missile_metaphor)
+
+-[心理计算如同登山](https://supermemo.guru/wiki/How_to_solve_any_problem%3F#Creative_disruption)
+
 - [知识结晶比喻](https://supermemo.guru/wiki/Knowledge_crystallization#Crystallization_metaphor)
+
+- [教学爬山类比](https://supermemo.guru/wiki/Mountain_climb_metaphor_of_schooling)
 
 - [学习的拼图游戏比喻](https://supermemo.guru/wiki/Jigsaw_puzzle_metaphor)
 
+-[课堂ADHD的笼中小狗比喻](https://supermemo.guru/wiki/Would_you_have_a_heart_to_cage_a_puppy%3F)
+
 - [教育就像树木生长](https://supermemo.guru/wiki/Optimization_of_education#The_tree_metaphor)
+
+-[睡眠中神经最优解的磁盘和内存比喻](https://supermemo.guru/wiki/Why_do_we_sleep%3F#Disk_and_RAM_metaphor)
+
+- [Borbely睡眠模型的时钟和沙漏比喻] (https://supermemo.guru/wiki/Two_components_of_sleep#Clock_and_Hourglass_metaphor)
+
+- [阿尔茨海默氏症的电话总机比喻](https://supermemo.guru/wiki/How_schools_can_contribute_to_Alzheimer's_disease#Switchboard_metaphor)
+
+[Alex Giorev](https://supermemo.guru/wiki/Alex_Giorev)通过用《我的世界》来比拟，提出了一个整洁的学习过程模型。他的比喻对年轻人了解大脑很有帮助，同时对那些认为电脑游戏是浪费时间的成年人也应该有帮助。最重要的是，这个比喻说明了为什么[义务教育](https://supermemo.guru/wiki/Compulsory_schooling)永远不会成功。见：[关于学校教育的《我的世界》比喻] (https://supermemo.guru/wiki/Minecraft_metaphor_of_schooling)

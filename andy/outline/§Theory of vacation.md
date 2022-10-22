@@ -10,11 +10,11 @@
 
   - [度假时的FOMO扰乱了轻松感](https://notes.andymatuschak.org/zmMWBjaYFa4DKp4gNGcYPR3vARQqbHXnpAbG)
 
-    - [例行公事促进休假时的休息](https://notes.andymatuschak.org/z67c6Sr1vXA21znNMSf8Djtz3i5afZu3fVj3g)
+    - [例行公事促进休假时的轻松感](https://notes.andymatuschak.org/z67c6Sr1vXA21znNMSf8Djtz3i5afZu3fVj3g)
 
-    - [默认无聊的食物选择会扰乱度假时的FOMO](https://notes.andymatuschak.org/z28yicPiHLvSNRiHRhs7UpNMfucLXc1sar7W7)
+    - [默认的无聊的食物选择会扰乱度假时的FOMO](https://notes.andymatuschak.org/z28yicPiHLvSNRiHRhs7UpNMfucLXc1sar7W7)
 
-  - [协调抑制了休假时的轻松感](https://notes.andymatuschak.org/z2piwmJHEb5fidgp4Y6hdmJkdXk4FvSxWTXMw)
+  - [协调性抑制了休假时的轻松感](https://notes.andymatuschak.org/z2piwmJHEb5fidgp4Y6hdmJkdXk4FvSxWTXMw)
 
 - [阅读静修会既能放松身心，又能提高工作效率](https://notes.andymatuschak.org/z2quCjVMbJCQLJer87bS7Y6xQJkCa3mqEHBJy)
 

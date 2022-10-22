@@ -34,11 +34,11 @@ David O. 问：如何提升我的创造力？
 
 ## 创造力小技巧
 
-你可以采取许多创造力专家建议的技巧，但你不大可能一夜之间成为创意天才。你可以在维基百科上随机跳转，希望找到一个创造性的联系，但这只是需求海洋中的一小滴。
+你可以采取许多创造力专家建议的技巧，但你不大可能一夜之间成为创意天才。你可以在维基百科上随机跳转，希望找到富有创意的联系，但对于提升创造力，这只是沧海一粟。
 
-各种创造力小技巧都可能有点用，但对于真刀真枪的创造活动没什么意义。若要取得重大的创造突破，你需要一个健康的，具备丰富[正确类型知识](https://supermemo.guru/wiki/Abstract_knowledge)的大脑。大脑的健康与能力可随时间逐步提高，但这个过程很缓慢，比不了健身房里练肌肉，无法很快炫耀给别人看。
+各种创造力小技巧都可能有点用，但对于真刀真枪的创造活动很难起作用。若要取得重大的创造突破，你需要大脑保持健康，且具备丰富的[类型正确的知识](https://supermemo.guru/wiki/Abstract_knowledge)的。大脑的健康与能力可随时间逐步提高，但这个过程很缓慢，比不了健身房里练肌肉，无法很快炫耀给别人看。
 
-主要障碍之一是创造力必须来自[内在需要](https://supermemo.guru/wiki/Intrinsic_motivation)。这就像[学习内驱力](https://supermemo.guru/wiki/Learn_drive)随着[自由学习]的发展(https://supermemo.guru/wiki/Free_learning)和[withers at school](https://supermemo.guru/wiki/Schools_suppress_the_learn_drive). 你不能强求创造力。你借以[外在](https://supermemo.guru/wiki/Extrinsic_motivation)点燃创造之火. 你不可能突然变得更有创造力。然而，如果你多年来一直系统地工作，你会变得更有创造力。这个简短的文本提供了一个方法概要。
+提升创造力的主要障碍之一，是创造力必须来自[内在需要](https://supermemo.guru/wiki/Intrinsic_motivation)。这就像[学习内驱力](https://supermemo.guru/wiki/Learn_drive)随着[自由学习]而发展(https://supermemo.guru/wiki/Free_learning)，[在学校里枯萎](https://supermemo.guru/wiki/Schools_suppress_the_learn_drive)一样。 你不能强求创造力。你借以[外在](https://supermemo.guru/wiki/Extrinsic_motivation)点燃创造之火。你不可能突然变得更有创造力。然而，如果你多年来一直系统地工作，你会变得更有创造力。这个简短的文本提供了一个方法概要。
 
 ## 知识的力量
 
@@ -66,7 +66,7 @@ David O. 问：如何提升我的创造力？
 
 - 遵从[自然创造力周期](https://supermemo.guru/wiki/Natural_creativity_cycle)，在合适时机安排不受干扰的创意时间。
 
--[设定目标](https://supermemo.guru/wiki/Setting_goals_can_change_your_life)能帮助你集中注意力（见[知识估值网络](https://supermemo.guru/wiki/Knowledge_valuation_network)如何为[学习内驱力](https://supermemo.guru/wiki/Learn_drive)和[创造力](https://supermemo.guru/wiki/Creativity))提供动力）
+- [设定目标](https://supermemo.guru/wiki/Setting_goals_can_change_your_life)能帮助你集中注意力（见[知识估值网络](https://supermemo.guru/wiki/Knowledge_valuation_network)如何为[学习内驱力](https://supermemo.guru/wiki/Learn_drive)和[创造力](https://supermemo.guru/wiki/Creativity))提供动力）
 
 - 开始每日锻炼。锻炼对大脑健康有益，同时也让你从技术的牢笼中解开，花一点时间纯粹地思考
 

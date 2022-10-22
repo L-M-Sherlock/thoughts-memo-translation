@@ -4,7 +4,7 @@
 
 - 《[量子国度](https://quantum.country/)》
 
-- 使用 [Orbit](https://notes.andymatuschak.org/z72ioKyd4X48WndtAsfkhnKwsD8o5PaaT384o) 编写的：
+- 使用 [Orbit](https://notes.andymatuschak.org/z72ioKyd4X48WndtAsfkhnKwsD8o5PaaT384o) 编写：
 
   - 《[如何写好出好卡片](https://andymatuschak.org/prompts/)》作者：我
 
@@ -28,6 +28,6 @@
 
 ## 更远的地方
 
-[Execute Program](https://notes.andymatuschak.org/z2LGZ8cXBcQMP7YuAHbeVyCSLZoiMXvQNKCok) 是相关的，因为它是一个带有嵌入间隔重复功能的交流媒介的例子，但它与其他这些东西的区别比它们彼此之间的差别要大得多。
+[Execute Program](https://notes.andymatuschak.org/z2LGZ8cXBcQMP7YuAHbeVyCSLZoiMXvQNKCok) 与此有关，因为它也是一个带有嵌入间隔重复功能的交流媒介的例子，但是它与其他媒介之间的区别要比其他媒介之间的区别大得多。
 
 [Chessable MoveTrainer](https://notes.andymatuschak.org/z8MgFD7B7QRqqGZXsJqeGpm5PJhroPwb6BW2V) 同样是一种集成的教学媒介和间隔重复系统，改编自国际象棋训练文本。
