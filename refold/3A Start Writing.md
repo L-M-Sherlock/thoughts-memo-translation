@@ -1,8 +1,8 @@
 # 3A: 开始写作
 
-在 [阶段 0 ](https://refold.la/simplified/stage-0/a/what-is-immersion#How-Does-Acquisition-Work),我们提到沉浸学习是如何习得语言直觉的。直觉将帮助你自我纠错找到正确的感觉。
+在 [阶段 0 ](https://refold.la/simplified/stage-0/a/what-is-immersion#How-Does-Acquisition-Work),我们提到沉浸学习是如何习得语言直觉的。直觉将帮助你自我纠正找到正确的感觉。
 
-直觉得你在许多领域有 [6 级](https://refold.la/simplified/stage-2/a/measure-comprehension#Level-6-Automatic)理解才能完全奏效。也许你想在还没完全发展好直觉前就迫不及待的输出内容，这将使学习之路变得更慢流畅。
+达到直觉你得在许多领域有 [6 级](https://refold.la/simplified/stage-2/a/measure-comprehension#Level-6-Automatic)理解才能完全奏效。也许你想在还没完全发展好直觉前就迫不及待的输出内容，这将使学习之路变得更慢流畅。
 
 [5 级](https://refold.la/simplified/stage-2/a/measure-comprehension#Level-5-Comfortable)理解你已经发展部分语言直觉。通过练习输出到达这一级，你应该专注去测试现实的语言直觉。比起单单的输入，结合输入和输出，从输出和纠错中反馈的东西将更快的建立成熟的直觉。
 
@@ -18,18 +18,22 @@
 
 ### 写作
 
-我们的输出建议是把写作代替说话。口语更加困难，因为它是四个子技能结合在一起：
+我们的输出建议是把写作代替口语。口语更加困难，因为它是四个子技能混合在一起：
 
 1.听你的交流伙伴说什么
 
-2.思考如何去说
+2.思考该说什么
 
 3. 将想法快速转化为话语
 
-4.张开你的嘴发出声音
+4.开口发出声音
 
 ### 输出建议
 
 #### 尽量简单
 
 不要想着因为想要个人眼前一亮而使用华丽的辞藻和复杂的句子。从现在开始，让你的语言保持简洁，使用简单的词句这能让你更加自信。
+
+#### 查验
+
+不用担心，当你开始了些小练习，你将惊讶于你对这件事有多擅长。

@@ -6,15 +6,15 @@
 
 ## 无畏的孩子
 
-一个健康的孩子对周围的知识世界没有恐惧感。它不知道[毒性记忆](https://supermemo.guru/wiki/Toxic_memory)的概念。儿童的知识是零星的、不完整的，世界充满了不确定性，其复杂性似乎是无法克服的。一个年轻的质朴无知的大脑毫不畏惧地接受了这个挑战。这种镇定和自信在学校里会被系统地破坏掉。
+健康的孩子对周围的知识世界没有丝毫恐惧。他对[毒性记忆](https://supermemo.guru/wiki/Toxic_memory)没有概念。儿童的知识是零星的、不完整的，世界充满了不确定性，其复杂性似乎无法克服。一个年轻的质朴而无知的大脑毫不畏惧地接受了这个挑战。学校系统地破坏了这种镇定和自信。
 
-为了在这个充满矛盾和惊喜的世界中航行，孩子会吸收信息，并在大胆[归纳](https://supermemo.guru/wiki/Generalization)的过程中大量运用[遗忘](https://supermemo.guru/wiki/Forgetting)。现实的模型会慢慢出现和结晶。起初，这个模型充满了漏洞，而且它只在知识语义网络的小部分子集上是[一致的](https://supermemo.guru/wiki/Consistent)。
+为了在这个充满矛盾和惊喜的世界中遨游，孩子会不断吸收信息，并在大胆[归纳](https://supermemo.guru/wiki/Generalization)的过程中大量运用[遗忘](https://supermemo.guru/wiki/Forgetting)这一利器。现实的模型会慢慢涌现并结晶。起初，这个模型充满了漏洞，而且只在知识语义网络的局部上[一致](https://supermemo.guru/wiki/Consistent)。
 
 ## 直接教学法的危害
 
-在校学习的问题，从学业培训的最初几天就开始了。每当孩子们玩耍、探索、参观博物馆或观看戏剧表演时，他们都在控制着在他们脑海中登记的信息流。学术教学：字母、数字、计数和阅读都太抽象了，无法以[连贯](https://supermemo.guru/wiki/Coherent)和[易学易记](https://supermemo.guru/wiki/Mnemonic)的方式来接受。[课标](https://supermemo.guru/wiki/Curriculum)有它的要求，许多老师不会有耐心看到孩子采用[泛化](https://supermemo.guru/wiki/Generalization)通过在农场看鸡来增长数感。带着爱、善意和微笑，老师带着不可避免的胁迫性进来，要求直接联想：「这是数字 8。看到这两个小圆圈。这就是我们写数字 8 的方法。数字 8 在 7 后面。」
+学校学习导致的问题，从学业培训的最初几天就出现了。每当孩子们玩耍、探索、参观博物馆或观看戏剧表演时，他们都控制着在他们脑海中登记的信息流。学业培训的字母、数字、计数和阅读都太抽象了，无法以[连贯](https://supermemo.guru/wiki/Coherent)和[易学易记](https://supermemo.guru/wiki/Mnemonic)的方式来吸收。[课标](https://supermemo.guru/wiki/Curriculum)有它的要求，许多老师不会有耐心看到孩子应用[泛化](https://supermemo.guru/wiki/Generalization)通过在农场看鸡来增长数感。带着爱、善意和微笑，带着不可避免的胁迫，老师上前要求直接的联想：「这是数字 8。看到这两个小圆圈。这就是我们写数字 8 的方法。数字 8 在 7 后面。」
 
-[直接教学法](https://supermemo.guru/wiki/Direct_instruction)取代了在数感出现过程中应该采用的[归纳总结](https://supermemo.guru/wiki/Generalization)。儿童得到的只是一个直接的联想。这使骨架记忆无法在知识结构中找到一个最佳位置，从而不能使[连贯性](https://supermemo.guru/wiki/Coherence)最大化，并不能使上下文的[记忆力](https://supermemo.guru/wiki/Mnemonic_power)最大化。相反，我们可能会形成脆弱的联想，可能很容易被遗忘。脆弱的联想也会[干扰](https://supermemo.guru/wiki/Interfere)其他记忆。在任何形式的认识压力下，这种不稳定的记忆结构会导致[毒性记忆](https://supermemo.guru/wiki/Toxic_memory)。我们都知道 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 中的那些脆弱的联想。每个学生在早期都会犯这样的错误：过度的记忆。我们都是这样发现[水蛭](https://supermemo.guru/wiki/Leech)的，然后用我们的元认知来避免不良记忆的陷阱。
+[直接教学法](https://supermemo.guru/wiki/Direct_instruction)取代了在数感出现过程中应该采用的[泛化](https://supermemo.guru/wiki/Generalization)。儿童得到的只是一个直接的联想。这使骨架记忆无法在知识结构中找到一个最佳位置，从而不能使[连贯性](https://supermemo.guru/wiki/Coherence)最大化，并不能使上下文的[助记力](https://supermemo.guru/wiki/Mnemonic_power)最大化。相反，我们可能会形成脆弱的联想，可能很容易被遗忘。脆弱的联想也会[干扰](https://supermemo.guru/wiki/Interfere)其他记忆。在任何形式的认识压力下，这种不稳定的记忆结构会导致[毒性记忆](https://supermemo.guru/wiki/Toxic_memory)。我们都知道 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 中的那些脆弱的联想。每个学生在早期都会犯这样的错误：过度的记忆。我们都是这样发现[“水蛭”](https://supermemo.guru/wiki/Leech)的，然后用我们的元认知来避免不良记忆的陷阱。
 
 只要稍加练习，我们就能在[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)的基础上轻松进入一个完全连贯的、令人愉悦的学习过程。与经典的 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 不同，[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)是对良好学习的完美比喻。学校里那种经典的记忆变体让人想起巴甫洛夫应用在他的狗身上的条件反射。在短时间内形成大量的记忆是很好的，但如果目标是实现有助于[智力](https://supermemo.guru/wiki/Intelligence)的知识，那就太可怕了。
 
@@ -22,13 +22,13 @@
 
 在一个由一年级学生组成的快乐班级中，老师可能会经历一次震惊。经过一年的操练，其中一个孩子写出了数字5，但这个数字是错的！这就是所谓的镜像。它是自己的镜像。这种冲击使系统中的每个人都感到惊愕和压力。什么地方出错了？老师觉得自己是个失败者。家长为没有监督[家庭作业]而感到羞愧(https://supermemo.guru/wiki/Homework)。校长对学校的形象感到不安。经过几个小时的手写作业，怎么会发生这种情况。
 
-相反，每个人都应该庆祝。5 的镜像表明这孩子不是在[死记硬背](https://supermemo.guru/wiki/Cramming)。他是在[归纳总结](https://supermemo.guru/wiki/Generalization)。解释看起来很简单。在课堂上，传递是被动的。老师几乎没有时间去挨个看孩子们是否主动记住了正确的数字形状。即使他们做到了，年轻的记忆也在流逝中。即使是十个成功的复制品也不能保证第十一个。有关[作业](https://supermemo.guru/wiki/Homework)更糟糕的是，孩子们可以看到模板数字，并在下面复制它。有时无意识地做几次，好像被动地做十次比被动地做一次好得多。镜像[泛化](https://supermemo.guru/wiki/Generalization)的可能性不大，因为孩子收到的模板是正确的形状。即使在做白日梦的时候，也很容易成为一只复制的猫。
+相反，每个人都应该庆祝。5 的镜像表明这孩子不是在[死记硬背](https://supermemo.guru/wiki/Cramming)。他是在[泛化](https://supermemo.guru/wiki/Generalization)。解释看起来很简单。在课堂上，传递是被动的。老师几乎没有时间去挨个看孩子们是否主动记住了正确的数字形状。即使他们做到了，年轻的记忆也在流逝中。即使是十个成功的复制品也不能保证第十一个。有关[作业](https://supermemo.guru/wiki/Homework)更糟糕的是，孩子们可以看到模板数字，并在下面复制它。有时无意识地做几次，好像被动地做十次比被动地做一次好得多。镜像[泛化](https://supermemo.guru/wiki/Generalization)的可能性不大，因为孩子收到的模板是正确的形状。即使在做白日梦的时候，也很容易成为一只复制的猫。
 
-在[电脑游戏](https://supermemo.guru/wiki/Computer_games)中，数字5是黄金。如果没有良好的数字意识，你就无法在游戏中获得很多乐趣。如果你敲击键盘，5 总是会出现的。它从来不是一个镜像。如果没有学校的干预，同一个孩子在 50 年后可能会惊讶地问：如果 5 被写成一个方向，而不是另一个方向，真的有关系吗？
+在[电脑游戏](https://supermemo.guru/wiki/Computer_games)中，数字 5 是黄金。如果没有良好的数字意识，你就无法在游戏中获得很多乐趣。如果你敲击键盘，5 总是会出现的。它从来不是一个镜像。如果没有学校的干预，同一个孩子在 50 年后可能会惊讶地问：如果 5 被写成一个方向，而不是另一个方向，真的有关系吗？
 
 我们对现实的整个[模型](https://supermemo.guru/wiki/Model)都充满了类似的简化。有元认知能力的成年人会翻阅字典和维基百科，浸泡在完美的正确定义中。然而，轻微的误解可能会存活几十年或一辈子。与现实的对峙是通常的发现方式。没有带来惩罚的错误知识成为低优先级的知识错误。
 
-自然，在发送价值数十亿美元的太空探测器时，我们需要提高精度标准。将英制和公制单位混为一谈可能等同于玩忽职守罪。我们的一年级学生，生活在一个没有笔迹的世界里，可能真的为NASA工作，并在暗示的信念下生存，即5不需要用肚子写在右边。有了镜子5[概括](https://supermemo.guru/wiki/Generalization)，太空探测器可能真的做得很好。它的所有功能几乎都是数字化的，人类对5的感知就不那么重要了。
+自然，在发送价值数十亿美元的太空探测器时，我们需要提高精度标准。将英制和公制单位混为一谈可能等同于玩忽职守罪。我们的一年级学生，生活在一个没有笔迹的世界里，可能真的为 NASA 工作，并在暗示的信念下生存，即 5 不需要将肚子写在右边。有了镜像 5 [泛化](https://supermemo.guru/wiki/Generalization)，太空探测器可能真的做得很好。它的所有功能几乎都是数字化的，人类对 5 的感知就不那么重要了。
 
 ## 在学校的创造力
 

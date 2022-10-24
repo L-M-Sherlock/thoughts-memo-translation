@@ -172,21 +172,21 @@ Robinson 的课程在可预测性和意外性之间找到了很好的平衡。
 
 理想中，发展出健康的估值网络需要[免受创伤和慢性压力的童年](https://supermemo.guru/wiki/Stress_resilience)——没有太大压力影响情绪估值，多玩，在超大[行为空间](https://supermemo.guru/wiki/Behavioral_space)中大量[自由学习](https://supermemo.guru/wiki/Free_learning)
 
-所有对大脑健康有益的方法也对估值网络有益——变得丰富多彩、高度个性化、效率超绝。在光鲜亮丽的[学习内驱力](https://supermemo.guru/wiki/Learn_drive）背后，这些要素功不可没。教育工作者都有这样的目标，帮助孩子轻车熟路地把握他们的情感生活，以及培养聪明、有创造力和知识渊博的大脑。
+所有促进大脑健康的策略也会使估值网络变得丰富、高效、高度个性化。这些要素将构成出色的[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的基础。所有教育工作者都认可这样的目标：想要帮助孩子们很好地把握他们的情感生活，逐步培养聪明、有创造力且知识渊博的大脑。
 
-教育系统的主要问题是一刀切，这种方法，让所有孩子如上了流水线一般获得相同知识，几乎不尊重[学习内驱力](https://supermemo.guru/wiki/Learn_drive)，而这才是有效学习的重要组成部分。学习内驱力是一种[完美计算方法](https://supermemo.guru/wiki/Optimality_of_the_learn_drive)]，它把表征知识的[语义网络](https://supermemo.guru/wiki/Semantic_network)]的当前状态与**知识估值网络**的当前输入相匹配，这种输入主要来自对于环境中可用信息的响应。如果孩子坚持要看 YouTube 视频，那么他的大脑才是最大权威。所有干扰都将影响未来的独立性和[创造力](https://supermemo.guru/wiki/Creativity)。
+教育系统的主要问题是一刀切，让所有孩子如上了流水线一般获得相同知识，而几乎不关心有效学习的重要组成部分：[学习内驱力](https://supermemo.guru/wiki/Learn_drive)。学习内驱力是一种[完美计算方法](https://supermemo.guru/wiki/Optimality_of_the_learn_drive)，它把表征大脑中知识的[语义网络](https://supermemo.guru/wiki/Semantic_network)]的当前状态与来自**知识估值网络**的实时输入相匹配，这种输入主要来自对于环境中可用信息的响应。如果孩子坚持要看 YouTube 视频，那么他的大脑才是最大权威。所有干扰都将影响未来的独立性和[创造力](https://supermemo.guru/wiki/Creativity)。
 
-与其让一名老师花 45 分钟给一个孩子灌输一长串低价值的符号，且效同水过鸭背，还不如让他上上谷歌，只需花上 3-5 分钟就可以找到高价值且易于记忆的信息，保留率很高（反例请见：[数码痴呆症的病态迷思](https://supermemo.guru/wiki/The_morbid_myth_of_Digital_Dementia)）。如果孩子对此轻车熟路，那么他通过[自学](https://supermemo.guru/wiki/Self-learning)，获取知识的效率将提高一个数量级。这里的「提高一个数量级」，是我谨慎而乐观的判断，我可不想被人说在夸大其词。我在这篇文章的别的地方举了一些例子（比如[一个月上完 13 年学](https://supermemo.guru/wiki/Schools_are_useless_in_teaching_English!#Inefficiency_of_schooling)或[假期中学习速度加快 600%](https://supermemo.guru/wiki/Learning_history:_school_vs._self-directed_learning#Self-directed_acceleration)）。
+与其让一名授课老师花 45 分钟给一个孩子灌输一长串低估值的符号，且效同水过鸭背，还不如让他上上谷歌，只需花上 3-5 分钟就可以找到高估值且易于记忆的信息，终生不忘（反例请见：[数码痴呆症的病态迷思](https://supermemo.guru/wiki/The_morbid_myth_of_Digital_Dementia)）。如果孩子对此轻车熟路，那么他通过[自学](https://supermemo.guru/wiki/Self-learning)，获取知识的效率将提高一个数量级。这里的「提高一个数量级」，是我谨慎而保守的判断，我可不想被人说在夸大其词。我在这篇文章的其他地方举了一些具体对比的例子（比如[一个月上完 13 年学](https://supermemo.guru/wiki/Schools_are_useless_in_teaching_English!#Inefficiency_of_schooling)或[假期中学习速度加快 1600%](https://supermemo.guru/wiki/Learning_history:_school_vs._self-directed_learning#Self-directed_acceleration)）。
 
-我称之这种能力为知识金块，Peter Thiel 称之为 [指数定律](https://supermemo.guru/wiki/Thiel_on_power_law)：一套至臻完美的核心技能能带来指数级的生产力。
+我称这种能力为知识金块，Peter Thiel 称之为[幂律](https://supermemo.guru/wiki/Thiel_on_power_law)：一套至臻完美的核心技能能带来乘方级的生产力提升。
 
 **在学习上下点功夫**就可以给个人生活和整个地球带来**翻天覆地的变化**！
 
 ### 大脑中的知识估值
 
-在实际解剖学中，研究大脑的[知识估值网络](https://supermemo.guru/wiki/Knowledge_valuation)，对于理解人类的思维来说是至关重要的，对预防抑郁和成瘾也是必要的。知识估值是实现高效学习，提高创造力和解决问题的基础。
+在解剖学中，对理解人类的思维至关重要的，是关于大脑的[知识估值](https://supermemo.guru/wiki/Knowledge_valuation)网络的实际实现的研究。这对预防抑郁和成瘾很有必要。知识估值是高效学习，创造力和解决问题的基础。
 
-好的学习让人愉悦，但有关食物、性或者毒品的快乐通常容易饱和。快乐的学习没有该特质。我们很容易避免坏的学习，我们的学习内驱力天生就有此特质。这就是为什么学习有极高的乐趣性。它可以实质性地将全社会幸福感带来质的飞跃。
+好的学习令人愉悦。食物、性或者毒品带来的快乐容易饱和，而愉快的学习则不会。我们可以轻易避免不愉快的学习。正是学习内驱力的存在，使我们天然可以做到这点。这就是学习对于人们快乐与否至关重要的原因。它可以实质性地为全社会的幸福感带来质的飞跃。
 
 #### 眶额皮质（OFC）
 

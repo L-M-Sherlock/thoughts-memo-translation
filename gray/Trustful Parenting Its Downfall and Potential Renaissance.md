@@ -8,7 +8,7 @@
 
 [教育](https://www.psychologytoday.com/us/basics/parenting)，本质上和所有的人类行为一样，都需要结合其所在的文化背景来理解。教育风格源自更广泛的文化价值观，并且促进后者的延续。
 
-在我上一篇[文章](https://www.psychologytoday.com/us/blog/freedom-learn/200907/play-makes-us-human-vi-hunter-gatherers-playful-parenting)中，我谈论了靠狩猎-采集生存的人们的**游戏**型教育方式。那篇文章是系列文章中的一篇，此系列讨论了狩猎-采集者们如何「游戏」化地对待一切[社交活动](https://www.psychologytoday.com/us/basics/social-life)。 我使用**游戏**一词来指这种平等对待他人，而非区分上下级的态度。在系列文章中，我把狩猎-采集者们的关于政府、宗教、生产活动及教育的游戏性态度与另一类态度做了对比，后者更基于支配关系，且在更晚（相较于狩猎-采集文化）出现的文化中占统治地位。
+在我上一篇[文章](https://www.psychologytoday.com/us/blog/freedom-learn/200907/play-makes-us-human-vi-hunter-gatherers-playful-parenting)中，我讨论了狩猎-采集者的**游戏**型教育方式。那篇文章是系列文集的一部分，此系列讨论了狩猎-采集者们如何「游戏」化地对待一切[社会活动](https://www.psychologytoday.com/us/basics/social-life)。 我使用**游戏**一词来指这种平等对待他人，而非区分上下级的态度。在系列文集中，我把狩猎-采集者们的关于政府、宗教、生产活动及教育的游戏性态度与另一类态度做了对比，后者更基于支配关系，且在更晚（相较于狩猎-采集文化）出现的文化中占统治地位。
 
 没人可以在游戏中支配别人的行为；所有的玩家，在游戏规则限定的范围之内，都有自由选择权，并且制定游戏规则时应该考虑所有人的意见。游戏型教育风格就是这样：它要求父母不得支配孩子的行为，反之应给予子女最大的自由，这样孩子们每时每刻都能自己做主。游戏型教育风格的父母允许子女自己做主，因为他们**相信**孩子们的直觉和判断。
 

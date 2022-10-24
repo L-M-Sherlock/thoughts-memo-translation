@@ -28,6 +28,10 @@
 
 该模型可用于[长期记忆的分子与结构性质分析](https://supermemo.guru/wiki/Modelling_molecular_and_structural_long-term_memory)。
 
+[SuperMemo](https://supermemo.guru/wiki/SuperMemo) 的 [SM-17 算法](https://supermemo.guru/wiki/Algorithm_SM-17)的实现和实践结果证明了双组分模型的正确性。该模型和算法使人们可以定量研究记忆。例如：[人脑能容纳多少知识](https://supermemo.guru/wiki/How_much_knowledge_can_human_brain_hold)？
+
+该模型提供了支持[祖母细胞](https://supermemo.guru/wiki/Grandmother_cell)理论的证据。参见： [祖母细胞的真相](https://supermemo.guru/wiki/The_truth_about_grandmother_cells)
+
 本[术语表](https://supermemo.guru/wiki/Glossary)条目用于解释《[间隔重复的历史](https://supermemo.guru/wiki/Problem_of_Schooling)》（2017）作者：[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)
 
 [![SuperMemo: Changes in two variables of long-term memory: retrievability and stability](https://supermemo.guru/images/thumb/5/57/Memory_status.jpg/500px-Memory_status.jpg)](https://supermemo.guru/wiki/File:Memory_status.jpg)
