@@ -1,4 +1,4 @@
-# 第十五条宣言：启动教育革命
+# 第十五条宣言：教育革命的触发
 
 原文：[Manifesto 15: Triggering the Education Revolution | Psychology Today](https://www.psychologytoday.com/us/blog/freedom-learn/201501/manifesto-15-triggering-the-education-revolution)
 
@@ -12,11 +12,11 @@
 
 John Moravec 是世界公民，他将教育视为全球化和未来新的。他是Education Futures LLC的创始人，也是 *Knowmad Society*一书的著者，更是Invisible Learning计划的合作发起人，(暂未注入Markdown)  我与他有三次会面：一次在德国，帮助慕尼黑一所民主学校开办，我们都是咨询委员会的成员；在荷兰两次，共同支持欧洲的民主教育。
 
-在2015年的第一天，正值许多人在新年之夕复苏的时候，Joht发来了一个文件，名字很简单——“十五条宣言”。
+在2015年的第一天，正值许多人在新年之夕复苏的时候，Johh发来了一个文件，名字很简单——“十五条宣言”。全世界的人对教育的反思已经成熟。十五条宣言可以帮助促进一场急剧的改变。
 
-宣言的副标题乃是——「让学习进化」。进化，无论是生物上或是文化上的，都可以以两种方式发生。一种发源于已有系统中的渐进式改变，一种是来源于新系统中涌现并占据的新的利基， and thereby replace, the old ones. As I’ve argued [elsewhere](https://www.psychologytoday.com/us/blog/freedom-learn/201108/is-real-educational-reform-possible-if-so-how), I think the latter is how education must change and is already changing. Our current system of education is a dinosaur, unable to adapt.
+宣言的副标题乃是——「让学习进化」。进化，无论是生物上或是文化上的，都可以以两种方式发生。一种发源于已有系统中的渐进式改变，一种是通过新系统的出现，占据了旧系统的位置，从而取代了旧系统。正如我在其他地方(https://www.psychologytoday.com/us/blog/freedom-learn/201108/is-real-educational-reform-possible-if-so-how)论证的那样，我认为后者是教育必须改变的方式，而且已经在改变。我们目前的教育系统已经是一只恐龙，让人无法适应。
 
-我同意，至少它适用于教育层面，with the commenter on Manifesto 15 who, quoting Buckminster Fuller, wrote: "You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete." I think the change that this manifesto will help trigger will consist of thousands of little revolutions occurring locally, in different ways in different places, all over the world. As you can see, below, John agrees.
+我同意十五条宣言上一位评论者的观点，他引用Buckminster Fuller的话写道：“你永远无法通过和存在的事实斗争来改变事情。若要改变一些东西，就要简历一个新的模型，让现有的模型果实。”我认为，这份宣言可以引发成千上个小革命，以不同的方式发生在不同的地方。如你所见，John同意了。
 
 我将重铸整个宣言在此，且第一条乃是：
 
@@ -24,18 +24,26 @@ John Moravec有关该宣言的评注
 
 我曾经问过John有没有一些伴随十五条宣言重置版的评注，以下是他发给我的：
 
-“该宣言倾向于以一种快照的形式呈现，它讲述了我们如何跟上时代学习并且去创造好的教育未来”It’s not meant to pretend to have all the answers or the best ideas, but it’s an honest assessment of where we’ve been, and, through a statement of principles, illustrate where we would like to go.
+“该宣言倾向于以一种快照的形式呈现，它讲述了我们如何跟上时代学习并且去创造好的教育未来。”它并不是要假装拥有所有的答案或最好的想法，但它是对我们所处位置的一个诚实的评估，并通过原则的陈述，说明我们想要去的地方。
 
-"该文的视角是全球化的，它是原则的启示，这也是为什么它不是一个明确的方针的原因。 I believe we need to attend to a diverse ecology of options rather than one master metanarrative for the future of education. And, if we are to create a diverse ecology of options, we need to build a lot more trust between ourselves, our communities, parents, students, governments, etc…. Item #12 speaks to this, I believe, and I think this point is super-important to emphasize.
+"宣言的视角具有全局观，它是一份原则声明，这也是为什么它没有规定我们需要做什么。 我相信，对于未来的教育，我们需要关注多样化的选择生态，而不是单一的元叙事。并且，如果我们创造一个多样化的选择生态，我们需要在自己、社区、家长、学生、政府等之间建立更多的信任......我相信宣言中的第十二条讲述了这些。我认为这一点非常重要，是需要强调的。
 
-"我发现并非所有都将同意该宣言，也许有些人会觉得它不完整。It is important to inspire as much conversation as possible. So, the document is licensed under Creative Commons, which gives (and encourages!) people to remix what we’ve written and share with their own communities.
+"我发现并非所有人都同意宣言中的所有内容，也有人认为它不完整。激励更多关于它的讨论是很重要的。因此，该文档是在创作共用协议下授权的，这给（并鼓励）人们混合我们所写的内容，并与他们自己的社区分享。
 
-“仅仅在一周内我就被该宣言所震惊了。我们有84个国家的读者。People—most of whom were strangers to me until now—are sending in completely unsolicited translations into local languages. As of this evening, it is available in seven languages, and at least another six are in progress.”
+“我对宣言15在短短一周内的影响力感到震惊。我们的读者来自48个国家。许多人在此之前对我来说都是陌生人，现在他们完全不请自来，用自己的语言翻译了宣言。截至今晚，它已经有7种语言版本，至少还有6种正在开发中。
 
-"我从未想象过这个计划竟然会如此被广泛接受。Again, this is just a statement of principles and not a plan for action. However, we might have just ignited a movement. It’s time to engage in a big conversation around our next steps.”
+“今天早上，危地马拉人(Rebeca Zuñiga)发来了一副漂亮的说明宣言要的插图[这里](http://www.manifesto15.org/vis-en/)-----这真是令人震惊。我做梦也没想到我们会收到如此热烈的反响。而且是来自完全陌生的人。
+
+“我从未想象过这个计划会受到这样的欢迎。再次强调，这只是一份原则声明，而不是行动计划。然而，我们可能刚刚引发了一场运动。现在是时候就我们的下一步展开讨论了。”
 
 既然如此，下面就奉上此宣言：
 
 *宣言十五：让学习进化*
 
 2015年第一天
+
+许多最鼓舞人心的文件都与一个日期密切相关。美国《独立宣言》于1776年7月4日签署;1977年1月颁布了《77号宪章》;道格美95于1995年制作。想法会随着时间的推移而改变和发展。这份宣言代表了我们对未来的想法、愿景，以及迄今为止我们对学习和教育的了解。这篇文章作为一个参考点，帮助我们理解我们迄今为止是如何做的，以及我们下一步需要采取什么行动。
+
+*在一个充满不确定性和原有教育系统逐渐过时的世界里，我们如何才能确保个人、社区和地球的成功?*我们需要把教育进化。
+
+最近我们学习到

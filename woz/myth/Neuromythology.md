@@ -171,3 +171,19 @@ Spitzer 建议我们不应过分依赖互联网，因为一旦网络被切断，
 当我们想弄清关于这个世界的真相时，我们应该寻求共识性的知识，如果它不令人满意，或者它特别重要，我们应该从所有可以想到的来源寻求灵感，包括那些基本上不可靠的来源。我们不需要虚假探测器，因为知识往往会通过它的[一致性](https://supermemo.guru/wiki/Consistency)来验证自己。隔阂需要用新的创议来填补，而这些创议在发现矛盾的时候往往会受到质疑。建立的模型可能是错误的，但错误的模型也有价值（参见：[错误模型的价值](https://supermemo.guru/wiki/Value_of_wrong_models)）。
 
 Spitzer 认为（1）对虚假信息最好的防御是知识，（2）知识基础的最好来源是学校。如果是这样，Spitzer 证明了自己的错误，因为我坚持认为他的主张明显是错误的。如果我的观点源于我基于薄弱的怀疑主义的可悲无知，[26年的学校教育](https://supermemo.guru/wiki/My_qualifications) 没有起到作用
+
+Spitzer 认为儿童应该首先获得知识，以保护他们免受虚假的影响。在他的心目中，3岁孩子的学习方式是不同的，因为矛盾会存在，知识[连贯性](https://supermemo.guru/wiki/Consistency)受到威胁。事实恰恰相反。丰富的[多样化的知识]和多样化的来源是最好的保护形式。孩子自主收集适当的知识，相对于[前置知识](https://supermemo.guru/wiki/Prior_knowledge)能够最大化提升[学习熵](https://supermemo.guru/wiki/Learntropy)。对于孩子，矛盾的产生、检测和消除与成人相同（即使知识的范围和它的[稳定性](https://supermemo.guru/wiki/Stability)差距明显）。强制获得的知识具有的[连贯性](https://supermemo.guru/wiki/Coherence)很差，并受到永久的[干扰](https://supermemo.guru/wiki/Interference)。以[成功被学校驯化的](https://supermemo.guru/wiki/Well-schooled)方式获得的知识更有可能是低连贯性的，因此高度[不一致](https://supermemo.guru/wiki/Consistency)。Spitzer 似乎是他自己所说问题的很好的反面典型。
+
+参见：[论老鼠比受学校教育的人更优越](https://supermemo.guru/wiki/On_the_superiority_of_a_rat_over_a_schooled_human)
+
+##谬误：德国教育部促进愚蠢
+
+Spitzer 博士说「当德国教育部推广PS游戏机时，它促进了愚蠢的行为」。看来教育部是散布恐慌行为的抵抗者。可悲的是，德国有一个更大的问题：[在家上学](https://supermemo.guru/wiki/Homeschooling)是非法的。游戏机可不会取代自由。见：[教育解放宣言](https://supermemo.guru/wiki/Declaration_of_Educational_Emancipation)
+
+##谬误：多语言可将痴呆症推迟10年
+
+Spitzer 博士宣称，通过推迟老年痴呆症，双语能使大脑的「寿命」延长5年。我不确定这一说法的来源，但当他又说多语会再增加5年时，这一切就开始听起来太完美、太圆满了，仿佛不存在收益递减的规律。也许掌握多语言的人有更好的生活方式。也许学习一种编程语言而不是斯瓦希里语更有意义？如果你说我应该自己做研究来验证 Spitzer 的说法，我说「没门！」。Spitzer 是一个神经科学的特朗普。要跟上事实核查的步伐是不可能的。即使学习语言有这么大的好处，我也没有多余的资源去做这个方向。我会发现学习弹钢琴更有意思。我可以打一个大赌，快乐的钢琴会比不快乐的韩语对大脑更好。参见：[全世界的统一语言](https://supermemo.guru/wiki/One_language_for_the_world)
+
+##谬误：不存在多元智力
+
+大脑是一个[概念网络](https://supermemo.guru/wiki/Concept_network)。每个[概念](https://supermemo.guru/wiki/Concept)有助于[智力](https://supermemo.guru/wiki/Intelligence)。 如果我们积累了大量与音乐相关的概念，就会表现出良好的音乐智力。Howard Gardner 的多元智力理论受到了那些相信神秘的**因素g**的人和那些认为 Gardner 的清单太短或不正确的人的批评。实际上，任何智力清单都是主观臆断，Gardner 的清单可以看作是一种实用的分类。我们可以开发出无限多的智力，如解魔方、心算、发现鸟类等所需的智力。我们所需要的只是在某一特定领域进行长时间且有意义的训练。我们的智力可能因病态或有偏见的线路而受到阻碍。聋哑人表现出良好的音乐智力是很罕见的。一个以中文为母语的人也很难说没有口音的英语。这都是关于[概念化]的轨迹（https://supermemo.guru/wiki/Conceptualization）。相比之下，很多人只相信一种类型的智力。「你在学校表现好，你就是聪明人」（又称[智商](https://supermemo.guru/wiki/IQ)测量）。读者不属于这个群体。如果不对所有反学校的异端感到不安，他就不会在阅读中达到这个程度

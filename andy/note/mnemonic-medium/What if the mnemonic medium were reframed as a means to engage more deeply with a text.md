@@ -1,4 +1,4 @@
-# 如果助记媒介被重新设计成一种更深入地参与文本的手段会怎样？
+# 将助记媒介看作更深入理解文本的手段会怎么样？
 
 原文：[What if the mnemonic medium were reframed as a means to engage more deeply with a text? (andymatuschak.org)](https://notes.andymatuschak.org/z8ByVmn3qYHQmkzLRGN1958M1aYLZ2yzLbvGs)
 
