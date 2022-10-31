@@ -26,11 +26,11 @@
 
 > - 信息中知识和知识流的价值取决于[知识估值网络](https://supermemo.guru/wiki/Knowledge_valuation_network) （比如眶额皮质）
 
-知识补充[前置知识](https://supermemo.guru/wiki/Prior_knowledge)，进而扩充总体知识的价值，而知识的价值就是扩充时的增量
+> - 知识补充[前置知识](https://supermemo.guru/wiki/Prior_knowledge)，进而扩充总体知识的价值，而知识的价值就是扩充时的增量
 
 > - 红色的知识被视作是最优知识，也就是具备最高价值(见: [学习内驱力的优化](https://supermemo.guru/wiki/Optimality_of_the_learn_drive))
 
-> - 蓝色知识被视作是次优质量，次优相关的（见：[复杂性](https://supermemo.guru/wiki/Complexity), [一致性](https://supermemo.guru/wiki/Coherence), [适用性](https://supermemo.guru/wiki/Applicability), [稳定性](https://supermemo.guru/wiki/Stability)
+> - 蓝色知识被视作是次优质量，次优相关的（见：[复杂性](https://supermemo.guru/wiki/Complexity), [一致性](https://supermemo.guru/wiki/Coherence), [适用性](https://supermemo.guru/wiki/Applicability), [稳定性](https://supermemo.guru/wiki/Stability)）
 
 > - 红色的优等知识会激活渴望，这就是学习内驱力(https://supermemo.guru/wiki/Learn_drive) 的基础
 

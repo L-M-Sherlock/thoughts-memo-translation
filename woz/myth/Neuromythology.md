@@ -12,7 +12,7 @@
 
 ## 反面典型：Manfred Spitzer
 
-建立这个网页的根本动机是[Manfred Spitzer](https://supermemo.guru/wiki/Manfred_Spitzer)博士的一系列讲座，他因反对数字技术而臭名昭著，同时也是[数字痴呆症](https://supermemo.guru/wiki/Digital_Dementia)一词的创始人。Spitzer 非常受认为学校比[教育自由](https://supermemo.guru/wiki/Educational_freedom)更重要的家长认可。他发表演讲充斥着迷人的特朗普式风格：什么都是最坏的，最好的或最伟大的（或「最春的」（原文如此！））。据 Spitzer 说，所有儿童的最大威胁就是数字技术，因为它破坏了对「世界上最好的东西」——学校——的热情。Spitzer 来自欧洲儿童教育权利最有限的国家之一，这并非巧合。德国社会的纪律性很强，而学习自由很少。[在家上学]（https://supermemo.guru/wiki/Homeschooling）在德国是非法的。
+建立这个网页的根本动机是[Manfred Spitzer](https://supermemo.guru/wiki/Manfred_Spitzer)博士的一系列讲座，他因反对数字技术而臭名昭著，同时也是[数字痴呆症](https://supermemo.guru/wiki/Digital_Dementia)一词的创始人。Spitzer 非常受认为学校比[教育自由](https://supermemo.guru/wiki/Educational_freedom)更重要的家长认可。他发表演讲充斥着迷人的特朗普式风格：什么都是最坏的，最好的或最伟大的，或「最春的」（原文如此！）（译注：应为“蠢”，拼写错误）。据 Spitzer 说，所有儿童的最大威胁就是数字技术，因为它破坏了对「世界上最好的东西」——学校——的热情。Spitzer 来自欧洲儿童教育权利最有限的国家之一，这并非巧合。德国社会的纪律性很强，而学习自由很少。[在家上学]（https://supermemo.guru/wiki/Homeschooling）在德国是非法的。
 
 Spitzer的主张特别诱人，因为他是一名 "神经精神病学 "教授，并在他的讲座中时而支持好想法，如锻炼、人际关系、面对面的互动、家庭、孙辈、户外活动、自然的价值等等，我们都本能地知道这些观点是对的。
 
@@ -52,15 +52,15 @@ iPad 为教育提供了一系列不可思议的选择，让人能够愉快地学
 
 ## 谬误：桌上放智能手机会降低智商
 
-IQ 应该是[智力](https://supermemo.guru/wiki/Intelligence) 的反映（参见：[IQ 很不适合衡量智力](https://supermemo.guru/wiki/IQ_is_a_dismal_measure_of_intelligence)）。 [Lisa Ling](https://en.wikipedia.org/wiki/Lisa_Ling)同意成为实验对象，发现手机确实可以引发一定程度的压力反应，尤其是工作者打电话时。 但是，我不认为她后悔损失了智力。 如果有的话，智能手机可能会导致[注意力](https://supermemo.guru/wiki/Attention)下降。 解决方案很简单：关闭并拿走手机。 Spitzer甚至将智商的下降转换为终生收入下降。 他告诉听众，桌上放智能手机会导致100,000 美元损失。 肯尼亚有农民使用智能手机完善了种庄稼的工作，你跟他这么说！
+IQ 应该是[智力](https://supermemo.guru/wiki/Intelligence) 的反映（参见：[IQ 很不适合衡量智力](https://supermemo.guru/wiki/IQ_is_a_dismal_measure_of_intelligence)）。 [Lisa Ling](https://en.wikipedia.org/wiki/Lisa_Ling)同意成为实验对象，发现手机确实可以引发一定程度的压力反应，尤其是工作者打电话时。 但是，我不认为她后悔损失了智力。 如果有的话，智能手机可能会导致[注意力](https://supermemo.guru/wiki/Attention)下降。 解决方案很简单：关闭并拿走手机。Spitzer 甚至将智商的下降转换为终生收入下降。 他告诉听众，桌上放智能手机会导致 10万美元损失。 肯尼亚有农民用手机完善了种庄稼的工作，你跟他这么说！
 
 ## 谬误：智能手机增加 ADHD
 
-我假设不符合 ADHD 诊断标准的人不会因为使用智能手机而成为 ADHD 患者（正如Spitzer的措辞所暗示的那样）。 至于真正的 [ADHD](https://supermemo.guru/wiki/ADHD)病情，智能手机可能恶化状况（例如，如果用它写 [家庭作业](https://supermemo.guru/wiki/Homework)） ，也可能改善状况，如果创造性的过度活跃的个体用它满足了永不满足的好奇心。 智能手机和多动症之间最有可能的联系是，表现出高度创造力和强大[学习动力](https://supermemo.guru/wiki/Learn_drive)的孩子也会厌恶学校和[强制学习](https://supermemo .guru/wiki/Coercive_learning）。 那些孩子将最先被他们的老师指责为“病态”。 一旦他们得到药物治疗，他们的经历可能会促成谬误：智能手机导致ADHD！ 参见：[谬误：智能手机导致多动症](https://supermemo.guru/wiki/Myth:_Smartphones_cause_ADHD)
+我假设不符合 ADHD 诊断标准的人不会因为使用智能手机而成为 ADHD 患者（正如 Spitzer 的措辞所暗示的那样）。 至于真正的 [ADHD](https://supermemo.guru/wiki/ADHD)病情，智能手机可能恶化状况（例如，如果用它写 [家庭作业](https://supermemo.guru/wiki/Homework)） ，也可能改善状况，届时它满足了一个创造力过度活跃的人难以满足的好奇心。 智能手机和 ADHD 之间最有可能的联系是，表现出高度创造力和强大[学习动力](https://supermemo.guru/wiki/Learn_drive)的孩子也会厌恶学校和[强制学习](https://supermemo .guru/wiki/Coercive_learning）。 那些孩子将最先被他们的老师指责为“病态”。 一旦他们得到药物治疗，他们的经历可能会促成谬误：智能手机导致 ADHD！ 参见：[谬误：智能手机导致多动症](https://supermemo.guru/wiki/Myth:_Smartphones_cause_ADHD)
 
-## 谬误：Playstation使学习停滞
+## 谬误：PS游戏机使学习停滞
 
-Spitzer声称父母不应该购买 PlayStation 作为礼物，因为这会导致孩子在校成绩直线下降，学习过程也会停止。 事实上，成绩可能确实会直线下降，但在校成绩绝不应该作为衡量进步的标准。 [学习的愉悦](https://supermemo.guru/wiki/Pleasure_of_learning)优于[强制学习](https://supermemo.guru/wiki/Coercive_learning)。 PlayStation 吸引人是因其提供的学习机会。 尽管成绩可能受损，但 [智力](https://supermemo.guru/wiki/Intelligence) 和其他多项技能将受益
+Spitzer 声称父母不应该购买 PS游戏机作为礼物，因为这会导致孩子在校成绩下降，学习过程也会停止。 事实上，成绩可能确实会直线下降，但在校成绩绝不应该作为衡量进步的标准。 [愉快的学习](https://supermemo.guru/wiki/Pleasure_of_learning)优于[强制学习](https://supermemo.guru/wiki/Coercive_learning)。 PS机吸引人是因其提供的学习机会。 尽管成绩可能受损，但[智力](https://supermemo.guru/wiki/Intelligence) 和其他多项技能将受益
 
 ## 谬误：数码技术导致痴呆
 
@@ -158,7 +158,45 @@ Spitzer 说：「快速学习基于知识 」，「知识是你从学校得到�
 
 [Manfred Spitzer](https://supermemo.guru/wiki/Manfred_Spitzer) 将脸书用户的大脑比作一个可卡因上瘾者在注射毒品后戒断的大脑，这种比喻实际上是相当准确的。脸书和毒品都会激活奖励中心。最大的不同在于它可能很难与麻醉药物的奖励相对抗。然而，自然奖励是一件好事。奖励中心的进化是为了奖励那些有利于生存的行为。所有形式的学习，包括从脸书上学习，都应该是愉悦且健康的。有可能通过脸书产生[可变奖励](https://supermemo.guru/wiki/Variable_reward) 或惩罚，这可能导致轻度上瘾。然而，所有形式的学习都有这种可能性。这取决于用户如何明智地对待学习和脸书。
 
-##谬误：依赖互联网是危险的
+##谬误：脸书使人抑郁
+
+似乎忽略了脸书的奖励潜力，[Manfred Spitzer](https://supermemo.guru/wiki/Manfred_Spitzer)补充说，社交媒体使人抑郁，甚至导致自杀。这也就是说普遍的社会关系有可能使人抑郁。然而，同样的互动也可以使人非常快乐。 这一切都取决于智慧、策略和心理健康。脸书可能只是放大了一个固有的问题。我们应该专注于解决问题，而不是封禁社交媒体。脸书的奖励更像是一种[学习奖励](https://supermemo.guru/wiki/Pleasure_of_learning)，这是很自然的。即便如同可卡因，它和抑郁症之间的联系也很复杂。患有情绪障碍的人患可卡因成瘾的风险是正常人的2-3倍。脸书的使用机制也是相同的。对于典型的健康用户来说，脸书是一个社交、学习和进行社会研究的好地方。
+
+##谬误：不存在按需提供知识的情况
+
+Spitzer 声称，没有知识，信息就无法获取。他表示，这一点最好的例证是[Morbus Google](https://en.wikipedia.org/wiki/Cyberchondria)的现象（即通过谷歌搜索疾病引发的疑病)。事实上，一个对长颈鹿有一些基本知识的4岁孩子可以在谷歌上搜索并找出[长颈鹿如何睡觉](https://supermemo.guru/wiki/Papert's_visionary_call_to_ditch_obsolete_letteracy_(1993))。有了谷歌，即使是一个小孩子也能有效地扩展知识。无知是幸福，但知识是力量。对谷歌的无知和回避并不能弥补网络疑病症，这最好用[连贯性](https://supermemo.guru/wiki/Coherence)学习来治疗。
+
+##谬误：儿童记忆力出色
+
+Spitzer 说**和一个5岁的孩子玩一个记忆游戏，你会输的**。事实上，儿童经历[童年失忆症](https://supermemo.guru/wiki/Childhood_amnesia)以及无效率的[无语义学习](https://supermemo.guru/wiki/Asemantic_learning)。他们的元认知能力微不足道。孩子们在某些领域表现出色，是因为他们没有受到学校教育的影响（见：[在学校学到的50个坏习惯]）孩子们通过几个月甚至几年处理成百上千的语言模式来学习母语的词汇。成年人可以在2-4秒内记住一对单词。没有孩子能与准备充分的成年人竞争学习
+
+##谬误：手写的终结是罪过
+
+Spitzer 坚持认为手写能使大脑发育，骑独轮车或用脚写字也是如此。即使是3岁的孩子也似乎更务实：语音输入更容易。让大脑成长，同时成就自我选择的价值追求。史蒂夫·乔布斯喜欢书法，斯蒂芬·霍金有不同的偏好。让孩子选择吧
+
+##谬误：看电视的孩子更容易成为罪犯
+
+某些病症可能会增加看电视的时间和犯罪倾向。可能呈现这种相关性的孩子被忽视了。对于被爱包围的健康孩子来说，自选和自制的电视节目是一种很好的教育形式。
+
+##谬误：数字媒体破坏同理心
+
+[Manfred Spitzer](https://supermemo.guru/wiki/Manfred_Spitzer)认为计算机有损同理心，因为“我们看不到人”。可以说，新技术使人们即使在远处也更容易看到彼此。然而，在数字环境中操作时，需要不同形式的同理心和情商。一个 6 岁的孩子会对人类和游戏中的角色表现出不同形式的同理心。由于虚拟世界无法逃避，早期的数字素养包括数字环境中的社交互动技能。一个在网络上进入团队游戏世界的成年人可能会像繁忙街道上的 3 岁孩子一样在社交和情感上感到混乱。
+
+##谬误：屏幕时间破坏同理心
+
+同理心低的人可能更喜欢屏幕。在虚拟世界中的时间越多，意味着在现实世界中的时间越少。然而，需要学习一种新的同理心形式：数字同理心。对于那些没有长时间沉浸其中的人来说，虚拟世界令人困惑。在新的数字世界中，为了情感和社会认知，我们需要学会识别许多信号。任何孩子都可以告诉你，在网上玩的团队游戏中很容易识别菜鸟
+
+##谬误：你不能同时看两节课
+
+你可以的。切换到另一个时，请记住暂停前一个。这就是[增量视频](https://supermemo.guru/wiki/Incremental_video)学习。我同时观看了 Spitzer 的许多讲座，以便对他的神经谬误进行比较分析。虽然 Spitzer 希望我们避免多任务，但他似乎并不承认新技术使其变得容易、可行和有效。[渐进阅读]的部分功能来自于主题之间的轻松切换，这是高效的串行化多任务处理。
+
+##谬误：大脑是一个矛盾的水桶
+
+Spitzer 说得差不多正确，大脑是一个自相矛盾的水桶：你投入的越多，它能容纳的就越多。显然，大脑的体积是有限的。然而，学习确实增加了[知识树](https://supermemo.guru/wiki/Knowledge_tree)（即可用的[语义锚](https://supermemo.guru/wiki/Semantic_anchor)的表面）。诚然，学习有助于进一步学习。但是，要充分利用这一现象，我们需要遵循[学习内驱力](https://supermemo.guru/wiki/Learn_drive)（见：[知识和创造力](https://supermemo.guru/wiki/Knowledge_and_creativity)）。否则，由于知识片段之间的[语义距离](https://supermemo.guru/wiki/Semantic_distance) 过多，我们可能无法产生适当的语义匹配。这种过长的距离正是在学校发生的事情，斯皮策称赞这是所谓的良好学习工具。学校未能有效地利用[前置知识](https://supermemo.guru/wiki/Prior_knowledge)（见：[拼图比喻](https://supermemo.guru/wiki/Jigsaw_puzzle_metaphor)）
+
+##谬误：长辈的祝福是孩子的诅咒
+
+##谬误：依赖互联网很危险
 
 Spitzer 建议我们不应过分依赖互联网，因为一旦网络被切断，就很难重新适应。所有的技术都是如此，我们的高度依赖性往往证明了它是高度有用的。没有电也会很难生活，然而，很少有人练习生火的艺术，以防他们在夜间被剥夺了电灯。甚至蜡烛作为一种备用系统也逐渐不再流行。
 
@@ -182,8 +220,36 @@ Spitzer 博士说「当德国教育部推广PS游戏机时，它促进了愚蠢�
 
 ##谬误：多语言可将痴呆症推迟10年
 
-Spitzer 博士宣称，通过推迟老年痴呆症，双语能使大脑的「寿命」延长5年。我不确定这一说法的来源，但当他又说多语会再增加5年时，这一切就开始听起来太完美、太圆满了，仿佛不存在收益递减的规律。也许掌握多语言的人有更好的生活方式。也许学习一种编程语言而不是斯瓦希里语更有意义？如果你说我应该自己做研究来验证 Spitzer 的说法，我说「没门！」。Spitzer 是一个神经科学的特朗普。要跟上事实核查的步伐是不可能的。即使学习语言有这么大的好处，我也没有多余的资源去做这个方向。我会发现学习弹钢琴更有意思。我可以打一个大赌，快乐的钢琴会比不快乐的韩语对大脑更好。参见：[全世界的统一语言](https://supermemo.guru/wiki/One_language_for_the_world)
+Spitzer 博士宣称，通过推迟老年痴呆症，双语能使大脑的「寿命」延长5年。我不确定这一说法的来源，但当他又说多语会再增加5年时，这一切就开始听起来太完美、太圆满了，仿佛不存在收益递减的规律。也许掌握多语言的人有更好的生活方式。也许学习一种编程语言而不是斯瓦希里语更有意义？如果你说我应该自己做研究来验证 Spitzer 的说法，我说「没门！」。Spitzer 是神经科学界的特朗普。要跟上事实核查的步伐是不可能的。即使学习语言有这么大的好处，我也没有多余的资源去做这个方向。我会发现学习弹钢琴更有意思。我可以打一个大赌，快乐的钢琴会比不快乐的韩语对大脑更好。参见：[全世界的统一语言](https://supermemo.guru/wiki/One_language_for_the_world)
 
 ##谬误：不存在多元智力
 
 大脑是一个[概念网络](https://supermemo.guru/wiki/Concept_network)。每个[概念](https://supermemo.guru/wiki/Concept)有助于[智力](https://supermemo.guru/wiki/Intelligence)。 如果我们积累了大量与音乐相关的概念，就会表现出良好的音乐智力。Howard Gardner 的多元智力理论受到了那些相信神秘的**因素g**的人和那些认为 Gardner 的清单太短或不正确的人的批评。实际上，任何智力清单都是主观臆断，Gardner 的清单可以看作是一种实用的分类。我们可以开发出无限多的智力，如解魔方、心算、发现鸟类等所需的智力。我们所需要的只是在某一特定领域进行长时间且有意义的训练。我们的智力可能因病态或有偏见的线路而受到阻碍。聋哑人表现出良好的音乐智力是很罕见的。一个以中文为母语的人也很难说没有口音的英语。这都是关于[概念化]的轨迹（https://supermemo.guru/wiki/Conceptualization）。相比之下，很多人只相信一种类型的智力。「你在学校表现好，你就是聪明人」（又称[智商](https://supermemo.guru/wiki/IQ)测量）。读者不属于这个群体。如果不对所有反学校的异端感到不安，他就不会在阅读中达到这个程度
+
+##谬误：互联网是坏的
+
+当被问及民主化的价值和互联网的作用时，Manfred Spitzer 注意到了更重要的力量：
+
+>互联网赋予了美国国家安全局和像中华人民共和国这样国家的全面控制权。与今天我们可能进行的间谍活动相比，斯塔西（译注：东德国家安全部）就是个笑话。我们被监视，并且自愿地参与其中
+
+参见更多：[谬误：我们的大脑可能会被程序攻击](https://supermemo.guru/wiki/Myth:_Our_brains_can_get_hacked_by_algorithms)
+
+##谬误：网络带来压力
+
+谷歌的 Eric Schmidt 注意到，我们被越来越多的信息轰炸，压力很大。然而，这只是信息管理的问题。可以取消所有推送。把所有通知静音，将电子设备关闭。我们可以使用谷歌搜索，只关注感兴趣的事情。如果我们碰巧在浏览器中打开了太多标签页，可以将它们全部放入[SuperMemo](https://supermemo.guru/wiki/SuperMemo)中进行分级优先阅读。一旦我们在眼前（或头脑中）思考一条信息，探索世界是非常愉快的（也是健康的）。网络的丰富性放大了知识的价值，它对我们的生活和内心都产生了良好积极的影响。
+
+Manfred Spitzer 是对的。压力的来源不是信息，而是缺乏控制。信息的丰富程度可以通过[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)来控制。
+
+##谬误：早期教育成果最佳
+
+早期教育通常带来最大的痛苦。早期伤害不断累积。早期阅读只有在孩子自主选择的情况下才有意义。儿童主导的早期教育效果才最好。
+
+见：[教育不能受发展里程碑的限制](https://supermemo.guru/wiki/Education_cannot_be_constrained_by_developmental_milestones)，[不要教你的孩子阅读](https://supermemo.guru/wiki/Don't_teach_your_child_to_read)
+
+##谬误：额叶发育至30岁
+
+额叶确实发展了三十年，然后又发展了一些。然而，30岁这个神奇的最后期限可能意在指明人类还不够成熟，无法在生活中做出严肃的决定。
+
+我赞同一种观点，即只要有能力，孩子们就应该自由地学习和探索。然而，专业化的自由不应该是教条式的。如果一个6岁的孩子想去工作，他应该有这样的自由；如果她在4岁的时候选择专门做一个有影响力的人，她应该有这样的自由。
+
+见：[教育不能受发展里程碑的限制](https://supermemo.guru/wiki/Education_cannot_be_constrained_by_developmental_milestones)

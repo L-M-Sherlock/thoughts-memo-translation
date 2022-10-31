@@ -2,7 +2,7 @@
 
 原文：https://supermemo.guru/wiki/Unpleasant_learning_at_school
 
-这段文字是《[我永远不会送我的孩子上学](https://supermemo.guru/wiki/Problem_of_Schooling)》的一部分，作者是[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)（2017）
+本文选自《[我永远不会送我的孩子上学](https://supermemo.guru/wiki/Problem_of_Schooling)》，作者是[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)（2017）
 
 大部分孩子都不喜欢学校。许多孩子[厌恶学校](https://supermemo.guru/wiki/Why_kids_hate_school%3F)。为什么学校还要继续开下去？
 

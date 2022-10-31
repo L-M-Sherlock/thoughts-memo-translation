@@ -2,25 +2,25 @@
 
 原文：[Learning to navigate uncertainty and complexity - supermemo.guru](https://supermemo.guru/wiki/Learning_to_navigate_uncertainty_and_complexity)
 
-这段文字是《[我永远不会送我的孩子上学](https://supermemo.guru/wiki/Problem_of_Schooling)》其中的一部分，作者是[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)（2017）
+本文选自《[我永远不会送我的孩子上学](https://supermemo.guru/wiki/Problem_of_Schooling)》，作者是[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)（2017）
 
 ## 无畏的孩子
 
-健康的孩子对周围的知识世界没有丝毫恐惧。他对[毒性记忆](https://supermemo.guru/wiki/Toxic_memory)没有概念。儿童的知识是零星的、不完整的，世界充满了不确定性，其复杂性似乎无法克服。一个年轻的质朴而无知的大脑毫不畏惧地接受了这个挑战。学校系统地破坏了这种镇定和自信。
+健康的孩子对周围的知识世界没有丝毫恐惧。他没有[毒性记忆](https://supermemo.guru/wiki/Toxic_memory)的概念。儿童的知识是零星、不完整的，世界充满了不确定性，其复杂性似乎不可逾越。年轻、质朴而无知的大脑毫不畏惧地接受了这个挑战。然而，学校系统地破坏了这种镇定和自信。
 
-为了在这个充满矛盾和惊喜的世界中遨游，孩子会不断吸收信息，并在大胆[归纳](https://supermemo.guru/wiki/Generalization)的过程中大量运用[遗忘](https://supermemo.guru/wiki/Forgetting)这一利器。现实的模型会慢慢涌现并结晶。起初，这个模型充满了漏洞，而且只在知识语义网络的局部上[一致](https://supermemo.guru/wiki/Consistent)。
+为了在这个充满矛盾和惊喜的世界中遨游，孩子会不断吸收信息，并在大胆[归纳](https://supermemo.guru/wiki/Generalization)的过程中大量运用[遗忘](https://supermemo.guru/wiki/Forgetting)这一利器。关于现实的模型会慢慢涌现并结晶。在初期，这一模型充满了漏洞，而且只在知识语义网络的局部上保持[一致](https://supermemo.guru/wiki/Consistent)。
 
 ## 直接教学法的危害
 
-学校学习导致的问题，从学业培训的最初几天就出现了。每当孩子们玩耍、探索、参观博物馆或观看戏剧表演时，他们都控制着在他们脑海中登记的信息流。学业培训的字母、数字、计数和阅读都太抽象了，无法以[连贯](https://supermemo.guru/wiki/Coherent)和[易学易记](https://supermemo.guru/wiki/Mnemonic)的方式来吸收。[课标](https://supermemo.guru/wiki/Curriculum)有它的要求，许多老师不会有耐心看到孩子应用[泛化](https://supermemo.guru/wiki/Generalization)通过在农场看鸡来增长数感。带着爱、善意和微笑，带着不可避免的胁迫，老师上前要求直接的联想：「这是数字 8。看到这两个小圆圈。这就是我们写数字 8 的方法。数字 8 在 7 后面。」
+在学校学习导致的问题，从学业培训的最初几天就出现了。每当孩子们玩耍、探索、参观博物馆或观看戏剧表演时，他们都控制着在他们脑海中记录的信息流。学业培训的字母、数字、计数和阅读都太抽象了，无法以[连贯](https://supermemo.guru/wiki/Coherent)和[助记](https://supermemo.guru/wiki/Mnemonic)的方式来吸收。[课标](https://supermemo.guru/wiki/Curriculum)有它的要求，许多老师没有耐心等孩子通过在农场看鸡，应用[泛化](https://supermemo.guru/wiki/Generalization)能力来增长数感。带着爱、善意、微笑，以及不可避免的胁迫，老师上前要求直接的联想：「这是数字 8。看到这两个小圆圈。这就是我们写数字 8 的方法。数字 8 在 7 后面。」
 
-[直接教学法](https://supermemo.guru/wiki/Direct_instruction)取代了在数感出现过程中应该采用的[泛化](https://supermemo.guru/wiki/Generalization)。儿童得到的只是一个直接的联想。这使骨架记忆无法在知识结构中找到一个最佳位置，从而不能使[连贯性](https://supermemo.guru/wiki/Coherence)最大化，并不能使上下文的[助记力](https://supermemo.guru/wiki/Mnemonic_power)最大化。相反，我们可能会形成脆弱的联想，可能很容易被遗忘。脆弱的联想也会[干扰](https://supermemo.guru/wiki/Interfere)其他记忆。在任何形式的认识压力下，这种不稳定的记忆结构会导致[毒性记忆](https://supermemo.guru/wiki/Toxic_memory)。我们都知道 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 中的那些脆弱的联想。每个学生在早期都会犯这样的错误：过度的记忆。我们都是这样发现[“水蛭”](https://supermemo.guru/wiki/Leech)的，然后用我们的元认知来避免不良记忆的陷阱。
+[直接教学法](https://supermemo.guru/wiki/Direct_instruction)取代了在数感涌现过程中应该采用的[泛化](https://supermemo.guru/wiki/Generalization)。儿童得到的只是一个直接的联想。这使骨架记忆无法在知识结构中找到最佳位置，从而无法使[连贯性](https://supermemo.guru/wiki/Coherence)最大化，并不能使上下文的[助记效果](https://supermemo.guru/wiki/Mnemonic_power)最大化。相反，我们可能会形成脆弱的联想，可能很容易被遗忘。脆弱的联想也会[干扰](https://supermemo.guru/wiki/Interfere)其他记忆。在任何形式的认识压力下，这种不稳定的记忆结构会导致[毒性记忆](https://supermemo.guru/wiki/Toxic_memory)。我们都知道 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 中的那些脆弱的联想。每个学生在早期都会犯这样的错误：过度的记忆。我们都是这样发现[“水蛭”](https://supermemo.guru/wiki/Leech)的，然后用我们的元认知来避免不良记忆的陷阱。
 
-只要稍加练习，我们就能在[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)的基础上轻松进入一个完全连贯的、令人愉悦的学习过程。与经典的 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 不同，[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)是对良好学习的完美比喻。学校里那种经典的记忆变体让人想起巴甫洛夫应用在他的狗身上的条件反射。在短时间内形成大量的记忆是很好的，但如果目标是实现有助于[智力](https://supermemo.guru/wiki/Intelligence)的知识，那就太可怕了。
+只要稍加练习，我们就能在[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)的基础上轻松进入一个完全连贯的、令人愉悦的学习过程。与经典的 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 不同，[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)是对良好学习的完美比喻。学校里那种经典的记忆变体让人想起巴甫洛夫在狗身上应用的条件反射。在短时间内形成大量的记忆很强，但如果目标是实现有助于[智力](https://supermemo.guru/wiki/Intelligence)的知识，那就太可怕了。
 
 ## 泛化的错误
 
-在一个由一年级学生组成的快乐班级中，老师可能会经历一次震惊。经过一年的操练，其中一个孩子写出了数字5，但这个数字是错的！这就是所谓的镜像。它是自己的镜像。这种冲击使系统中的每个人都感到惊愕和压力。什么地方出错了？老师觉得自己是个失败者。家长为没有监督[家庭作业]而感到羞愧(https://supermemo.guru/wiki/Homework)。校长对学校的形象感到不安。经过几个小时的手写作业，怎么会发生这种情况。
+在快乐的一年级班级中，老师可能会感到震惊。经过一年的操练，有个孩子写出了数字 5，但这个数字是错的！这就是所谓的镜像。它是自己的镜像。这种冲击使系统中的每个人都感到惊愕和压力。什么地方出错了？老师觉得自己是个失败者。家长为没有监督[家庭作业](https://supermemo.guru/wiki/Homework)而感到羞愧。校长对学校的形象感到不安。经过几个小时的手写作业，怎么会发生这种情况。
 
 相反，每个人都应该庆祝。5 的镜像表明这孩子不是在[死记硬背](https://supermemo.guru/wiki/Cramming)。他是在[泛化](https://supermemo.guru/wiki/Generalization)。解释看起来很简单。在课堂上，传递是被动的。老师几乎没有时间去挨个看孩子们是否主动记住了正确的数字形状。即使他们做到了，年轻的记忆也在流逝中。即使是十个成功的复制品也不能保证第十一个。有关[作业](https://supermemo.guru/wiki/Homework)更糟糕的是，孩子们可以看到模板数字，并在下面复制它。有时无意识地做几次，好像被动地做十次比被动地做一次好得多。镜像[泛化](https://supermemo.guru/wiki/Generalization)的可能性不大，因为孩子收到的模板是正确的形状。即使在做白日梦的时候，也很容易成为一只复制的猫。
 

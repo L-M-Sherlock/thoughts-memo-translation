@@ -10,6 +10,8 @@
 
 常见问题。[什么是常见问题？](https://supermemo.guru/wiki/What_are_FAQs%3F)
 
+Justin Sandefur的文章[**世界需要更多的坏学校**] (https://www.cgdev.org/blog/world-needs-more-bad-schools)似乎反驳了 Guru 在[学校问题] (https://supermemo.guru/wiki/Problem_of_schooling)中的观点。‘全球发展中心’网站（重点强调）：**坏学校似乎一直在制造好的结果。**
+
 就像文献研究表明，挣钱与学习之间的联系很弱，但它也表明，发展中国家的教育回报高得惊人。这很矛盾。我们知道，贫穷国家的平均教育水平低得可怜。之前我的一篇文章表明，**我们有数据的50多个发展中国家中，近一半的国家里，五年级后离开学校的女性，能读完整句子的不到一半**。
 
 此外：
