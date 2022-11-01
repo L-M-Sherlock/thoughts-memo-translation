@@ -6,6 +6,8 @@
 
 约罢三十多年前，[Francis Fukuyama](https://en.wikipedia.org/wiki/Francis_Fukuyama)预言在未来社会，人的自我将得到提升。这将给人身自由以提升，且不会对社会的连贯性造成威胁。Fukuyama预测，新技术将会有利于社会的自组织性，零和博弈理论所必需的社会规则也会因其而涌现。他的理论使得社会中的现代化观念得到提升，而不再限制于学校等的制度化环境。
 
+如果我们从正演化中的[概念化](https://supermemo.guru/wiki/Conceptualization)角度来看社会进程，会发现制度化实际上是减慢其趋向广阔未来的重要因素。封闭的社会体系中固有的规则往往会让人们费难于将行为重新概念化，并达到顺应社会发展需求的目的。 [Yuval Harari](https://supermemo.guru/wiki/Yuval_Harari)预言了*"无用阶层"*的涌现（比如因[人工智能](https://supermemo.guru/wiki/Artificial_intelligence)的发展而出现）。Harari错了。未来属于新的一代，他们将依靠[自由学习](https://supermemo.guru/wiki/Free_learning)的力量应对新的形势。
+
 1999 年，福山在《大西洋月刊》上如此写道：
 
 ------

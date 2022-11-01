@@ -1,4 +1,4 @@
-# 3B:激活语言
+# 3B：激活语言
 
 如果你对某个领域已经达到了[5 级](https://refold.la/simplified/stage-2/a/measure-comprehension#Level-5-Comfortable)的理解水平，那么你已经习得了目标外语(TL)的一大部分内容。沉浸学习时，你应该直接能轻松理解很多词句。
 
