@@ -4,11 +4,11 @@
 
 ## 对建模的容忍
 
-如果有人声称 [SuperMemo Guru](https://supermemo.guru/wiki/SuperMemo_Guru) 推销未经验证的假设，[我](https://supermemo.guru/wiki/Piotr_Wozniak)并不感到生气。我独自建模的程度可能会让[受「良好」学校教育](https://supermemo.guru/wiki/Well-schooled)标准的使用者感到震惊。如果你遵循 [Rodney Schmaltz 和 Scott O. Lilienfeld 为 Frontiers in Psychology 编制的伪科学检查表](https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00336/full)，你可能有理由坚持认为，对于任何访问 [SuperMemo Guru](https://supermemo.guru/wiki/SuperMemo_Guru) 的人来说，带着怀疑阅读是必不可少的。然而，作为回报，我坚持认为疯狂的理论研究实际上是这个网站的最大优势。你会学到你在维基百科上永远找不到的东西。这些东西无法通过人群智慧的嗅觉测试，更不用说[同行评议](https://supermemo.guru/wiki/Peer_review)的严格限制。我唯一的辩护是四十年来在[自由学习](https://supermemo.guru/wiki/Free_learning)、[泛化](https://supermemo.guru/wiki/Generalization)和[问题解决](https://supermemo.guru/wiki/Problem_solving)方面的经验。
+如果有人声称 [SuperMemo Guru](https://supermemo.guru/wiki/SuperMemo_Guru) 推销未经验证的假说，[我](https://supermemo.guru/wiki/Piotr_Wozniak)并不感到生气。我独自建模的程度可能会让[受「良好」学校教育](https://supermemo.guru/wiki/Well-schooled)标准的人感到震惊。如果你遵循 [Rodney Schmaltz 和 Scott O. Lilienfeld 为 Frontiers in Psychology 编制的伪科学检查表](https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00336/full)，你可能有理由坚持认为，对于任何访问 [SuperMemo Guru](https://supermemo.guru/wiki/SuperMemo_Guru) 的人来说，带着怀疑去阅读是必不可少的。然而，作为回报，我坚持认为疯狂的理论研究实际上是这个网站的最大优势。你会学到你在维基百科上永远找不到的东西。这些东西无法通过人群智慧的嗅觉测试，更不用说[同行评议](https://supermemo.guru/wiki/Peer_review)的严格限制。我唯一的辩护是四十年来在[自由学习](https://supermemo.guru/wiki/Free_learning)、[泛化](https://supermemo.guru/wiki/Generalization)和[问题解决](https://supermemo.guru/wiki/Problem_solving)方面的经验。
 
 ## 伪科学检查表
 
-让我们通过伪科学检查表，看看它如何应用：
+让我们看一下伪科学检查表，看看它如何应用：
 
 ### 心理呓语
 

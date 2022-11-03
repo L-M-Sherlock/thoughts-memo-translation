@@ -8,11 +8,11 @@
 
 - [稳定性](https://supermemo.guru/wiki/Stability)（S）决定了在未被干扰和未被提取的情况下，记忆可以保持多长时间
 
-- [可提取性](https://supermemo.guru/wiki/Retrievability)（R）决定了在给定时刻，记忆还可以提取的概率
+- [可提取性](https://supermemo.guru/wiki/Retrievability)（R）决定了在给定时刻，记忆可以被提取的概率
 
-## 生理作用
+## 生物学功能
 
-我们相信，该模型是阻止新皮质网络中灾难性[干扰](https://supermemo.guru/wiki/Interference)的进化需要的体现。记忆[稳定性](https://supermemo.guru/wiki/Stability)将降低突触权重的变动，并阻止很有用的记忆被[遗忘](https://supermemo.guru/wiki/Forgetting)。另一方面，[间隔效应](https://supermemo.guru/wiki/Spacing_effect)保护记忆不在高频接触中达到过高的[稳定性](https://supermemo.guru/wiki/Stability)（参见：[间隔效应的结构与分子机理](https://supermemo.guru/wiki/Structural_and_molecular_mechanisms_of_the_spacing_effect)）。
+我们相信，该模型体现出为了阻止新皮质网络中灾难性[干扰](https://supermemo.guru/wiki/Interference)的进化。记忆[稳定性](https://supermemo.guru/wiki/Stability)将降低突触权重的变动，并阻止很有用的记忆被[遗忘](https://supermemo.guru/wiki/Forgetting)。另一方面，[间隔效应](https://supermemo.guru/wiki/Spacing_effect)保护记忆免于在频繁接触中达到过高的[稳定性](https://supermemo.guru/wiki/Stability)（参见：[间隔效应的结构与分子机理](https://supermemo.guru/wiki/Structural_and_molecular_mechanisms_of_the_spacing_effect)）。
 
 记忆的双组分模型消除了可塑性-稳定性的两难问题
 
@@ -22,7 +22,7 @@
 
 [Bjork](https://supermemo.guru/wiki/Robert_Bjork) 的独立研究 *New Theory of Disuse*（1992）使用了类似的术语「储存强度」和「提取强度」。另见：[约斯特定律](https://supermemo.guru/wiki/Jost‘s_Law)。
 
-要了解模型发展的历史，请参阅：[记忆的两个组成成分](https://supermemo.guru/wiki/Two_components_of_memory)
+要了解模型的发展历史，请参阅：[记忆的两个组成成分](https://supermemo.guru/wiki/Two_components_of_memory)
 
 ## 意义
 
