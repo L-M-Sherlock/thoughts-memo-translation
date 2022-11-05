@@ -1,10 +1,10 @@
 # 学校课程本质上是政治性的
 
-原文：[School curriculum is inherently political - supermemo.guru](https://supermemo.guru/wiki/School_curriculum_is_inherently_political)
+原文：[学校课程本质上是政治性的 - supermemo.guru](https://supermemo.guru/wiki/School_curriculum_is_inherently_political)
 
 ## 课程的政治性
 
-通常意义上的工业民族国家，往往具备以强制[课程]为基础的教育体系(https://supermemo.guru/wiki/Curriculum)。强制课程是对人权的侵犯，也是对[教育自由]的侵犯(https://supermemo.guru/wiki/On_freedom_of_education_and_freedom_of_information)。在[禁止家庭教育]的努力中，经常提到课程对思想的影响(https://supermemo.guru/wiki/Ban_on_homeschooling)。见：[强制学校教育必须结束](https://supermemo.guru/wiki/Compulsory_schooling_must_end)
+通常意义上的理想工业民族国家，往往具备以强制[课程]为基础的教育体系(https://supermemo.guru/wiki/Curriculum)。强制课程是对人权的侵犯，也是对[教育自由]的侵犯(https://supermemo.guru/wiki/On_freedom_of_education_and_freedom_of_information)。在[禁止家庭教育]的活动当中，经常提到课程对思想的影响(https://supermemo.guru/wiki/Ban_on_homeschooling)。见：[强制学校教育必须结束](https://supermemo.guru/wiki/Compulsory_schooling_must_end)
 
 ## 对思维编程
 

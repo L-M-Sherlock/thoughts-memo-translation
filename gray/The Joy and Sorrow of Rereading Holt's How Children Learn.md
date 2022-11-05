@@ -1,8 +1,8 @@
-# 重读 Holt 著作《孩子如何学习》的喜与悲
+# 重读《孩子如何学习》（Holt 著）：喜与悲
 
 原文：[The Joy and Sorrow of Rereading Holt’s "How Children Learn" | Psychology Today](https://www.psychologytoday.com/us/blog/freedom-learn/201712/the-joy-and-sorrow-rereading-holt-s-how-children-learn)
 
-## 这里总结了 John Holt 关于儿童学习的伟大洞见
+## 这里总结了 John Holt 关于儿童学习的绝妙洞见
 
 发表于 2017 年 12 月 26 日 | [审稿人：Jessica Schrader](https://www.psychologytoday.com/us/docs/editorial-process)
 
@@ -10,9 +10,7 @@
 
 Source: HoltGSWLLC, used with permission
 
-在我们几年前进行的一项调查中，Gina Riley 和我询问了非学校教育家庭，让他们说出哪些作家的作品对他们选择这条道路的决定影响最大。到目前为止，John Holt 是最常被提到的人，在调查的 232 个家庭中，超过一半的人提到了他（参见[这里](https://www.psychologytoday.com/us/blog/freedom-learn/201203/what-leads-families-unschool-their-children-report-ii)或[这里](https://jual.nipissingu.ca/wp-content/uploads/sites/25/2014/06/v72141.pdf)）。1985 年，Holt 因癌症去世，年仅 62 岁。然而，他仍然发挥着巨大的影响力。
-
-我的同事 Pat Farenga 在 Holt 逝世后一直管理着他的遗产。 Holt 著作《孩子如何学习》最近出版了五十周年纪念本，他负责监督。这本书在我眼中是 Holt 最为重要的作品。我读第一版还是在几十年前，那时候我没有开始对儿童学习的研究，对这本书的体会也不深。现在重读这本书，我不断涌现出这样的想法：「太正确了，太精妙了，太悲伤了。」这股悲伤之情，正是因为这些正确事实和精妙看法，只被一小部分人所领略，并且相比 Holt 在世时的学校，现在的学校更加丑恶了。这些学校越发善于鼓动[焦虑](https://www.psychologytoday.com/us/basics/anxiety)，越发肆意浪费年轻人的时间，越发侮辱他们的[智力](https://www.psychologytoday.com/us/basics/intelligence)，越发轻易打断深度学习和理解。
+几年前，我和 Gina Riley 做了一项调查，主要对象是不在学校教育孩子的家庭，当问及哪些作家对他们的道路选择影响最大，John Holt 每每被提及，232个家庭中，超过一半的家庭提及了他（参见[这里](https://www.psychologytoday.com/us/blog/freedom-learn/201203/what-leads-families-unschool-their-children-report-ii)或[这里](https://jual.nipissingu.ca/wp-content/uploads/sites/25/2014/06/v72141.pdf)）。1985 年，Holt 因癌症去世，年仅 62 岁。然而，他的影响仍起着巨大作用。
 
 但我不会放弃希望，我觉得 Holt 也是如此。儿童只有能够主导学习才能学得最好，虽然懂得这一点的人仍然不多，但这支队伍还在壮大。越来越多的家庭选择让孩子离开普通学校 ，进行自主[教育](https://www.psychologytoday.com/us/basics/education)。越来越多的家长看到孩子闪耀的智慧，并决定呵护这束光芒。以此类推，我认为我们会达到临界点，之后辍学率会急剧攀升。我们称作标准学校教育的体系会落得无关紧要，并逐渐泯灭消亡，取而代之的是一个个学习中心，面向儿童自然学习方式优化（参见[此篇](https://www.psychologytoday.com/us/blog/freedom-learn/201612/why-our-coercive-system-schooling-should-topple)，或[此篇](https://www.self-directed.org/sde/why/)）。
 

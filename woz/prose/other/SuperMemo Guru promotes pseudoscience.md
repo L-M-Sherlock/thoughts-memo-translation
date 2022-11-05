@@ -18,23 +18,23 @@
 
 ### 轶事证据
 
-[受过「良好」学校教育的](https://supermemo.guru/wiki/Well-schooled)头脑讨厌轶事。这种讨厌是一种[学校坏习惯](https://supermemo.guru/wiki/Bad_school_habit)。我们不需要大量的样本和复杂的统计数字来播种一个新的模型，这可能会给一个重要的理论带来起源。我看到一个叫 **Dev** 的孩子在自学游泳时差点淹死。这次观察让我对大脑所采用的问题解决策略有了奇妙的洞察力。虽然学校会训练你掌握现成的算法，但真正的问题解决者会使用[问题估值网络](https://supermemo.guru/wiki/Problem_valuation_network)、[创造力](https://supermemo.guru/wiki/Creativity)和探索算法来寻找以前无人解决的问题的解决方案。我是否应该放弃分享一个重要的思想，只因为它是由一个观察所产生的？所有伟大的理论都是从一个改变历史进程的创造性联想开始的。通过[同行评议](https://supermemo.guru/wiki/Peer_review)，我们很大程度上未能记录那些微观的突破性成果。很多时候，它们需要一次又一次地被重新发明。SuperMemo Guru 是伪科学：2:2
+[受过「良好」学校教育的](https://supermemo.guru/wiki/Well-schooled)头脑讨厌轶事。这种讨厌是一种[学校坏习惯](https://supermemo.guru/wiki/Bad_school_habit)。我们不需要大量的样本和复杂的统计数字来建立一个可能会带来重要理论的新模型。我看到一个叫 **Dev** 的孩子在自学游泳时差点淹死。这次观察让我对大脑所采用的问题解决策略有了深刻的领悟。虽然学校会训练你掌握现成的算法，但真正的问题解决者会使用[问题估值网络](https://supermemo.guru/wiki/Problem_valuation_network)、[创造力](https://supermemo.guru/wiki/Creativity)和探索算法来寻找以前无人解决的问题的解决方案。我是否应该放弃分享一个重要的思想，只因为它是由一个观察所产生的？所有伟大的理论都是从一个改变历史进程的创造性联想开始的。由于[同行评议](https://supermemo.guru/wiki/Peer_review)，我们很大程度上未能记录那些微小的突破性成果。很多时候，它们需要一次又一次地被重新发明。SuperMemo Guru 是伪科学：2:2
 
 所有重要创造性联想都应该被公开记录下来
 
 ### 离奇的主张
 
-当我说「[学校导致阅读障碍](https://supermemo.guru/wiki/Educational_dyslexia)」，我指责学校系统伤害了数百万儿童。我并没有非同寻常的证据。我的推理是基于从[毒性记忆](https://supermemo.guru/wiki/Toxic_memory)的概念开始的模型化。毒性记忆的概念可以在[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)中得到大规模的观察。这是我的领域。在这个领域有四十年的经验，我看到的东西，如果没有多年研究学习数据，可能会有点难以发现。这些证据还没有发表，甚至没有经过任何系统的统计学处理。它只是在我的大脑中产生了一个重要的[泛化](https://supermemo.guru/wiki/Generalization)。这个泛化是一个宝贵的工具，它使我看到了学习中出现的一系列现象。当你几十年来在同一时间吃同一种食物时，你可能会在将其品质与你的健康联系起来方面变得相当准确。即使你从未进行过任何测量，你也可以做出明确的声明。这就是人类智慧的基础——[泛化](https://supermemo.guru/wiki/Generalization)的力量。每次我提出一个离奇的主张时，我都会感到非常自豪。我很小心，我研究了很多，我问了很多反馈，但主张的离奇程度实际上是一种优势。伪科学 3:3。价值 3:3
+当我说「[学校导致阅读障碍](https://supermemo.guru/wiki/Educational_dyslexia)」，我指责学校系统伤害了数百万儿童。我并没有特别的证据。我的推理是基于从[毒性记忆](https://supermemo.guru/wiki/Toxic_memory)这一概念开始的建模。毒性记忆的概念可以在[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)中得到大规模的观察。这是我的领域。因为在这个领域四十年的积淀，我可以看到那些由于缺乏长时间对学习数据的研究而可能被忽视的东西。这些证据还没有发表，甚至没有经过任何系统的统计学处理。它只是在我的大脑中产生了一个重要的[泛化](https://supermemo.guru/wiki/Generalization)。这个泛化是一个宝贵的工具，它使我看到了学习中出现的一系列现象。当你数十年如一日在同一时间吃同一种食物时，你可能会能敏锐衡量其品质与你的健康之间的联系。即使你从未进行过任何测量，你也可以做出明确的陈述。这就是人类智慧的基础——[泛化](https://supermemo.guru/wiki/Generalization)的力量。每次我提出一个离奇的主张时，我都会感到极其自豪。我很小心，我研究了很多，我寻求了很多反馈，但主张的离奇程度实际上是一种优势。伪科学 3:3。价值 3:3
 
 离奇的主张需要离奇的证据。从模型到证据的转变，最好是共同进行。
 
 ### 不可证伪的主张
 
-当我说[学校教育导致阿尔茨海默氏症](https://supermemo.guru/wiki/How_schools_can_contribute_to_Alzheimer's_disease)时，我提出了一个无法证明的说法。研究倾向于表明，学校教育会降低阿尔茨海默氏症的发病几率。这种研究的问题可以用[老汤问题](https://supermemo.guru/wiki/Old_soup_problem)来最好地解释。我们没有办法衡量坏的和好的学习的程度。好的学习是预防性的。[死记硬背](https://supermemo.guru/wiki/Cramming)可能是不健康的。毕业生们通过自己的聪明才智对痴呆症有预防作用的事实，使统计数字出现偏差。所有聪明人都讨厌[死记硬背](https://supermemo.guru/wiki/Cramming)。绕过填鸭式学习的方法是聪明地学习，忽视学校，或者辍学。学习和阿尔茨海默氏症之间的联系的想法不是我的。二十年前，Robin P. Clarke（Robin P. Clarke）在《医学假说》中已经提出过这个观点。我用我无法证伪的主张来阻止[死记硬背](https://supermemo.guru/wiki/Cramming)，这一直是教育科学所谴责的。伪科学 4:4。促进良好的习惯：4:4
+当我说[学校教育导致阿尔茨海默氏症](https://supermemo.guru/wiki/How_schools_can_contribute_to_Alzheimer's_disease)时，我提出了一个无法证明的主张。研究倾向于表明，学校教育会降低阿尔茨海默氏症的发病几率。这种研究的问题最好用[老汤问题](https://supermemo.guru/wiki/Old_soup_problem)来解释。我们无法衡量学习好坏的程度。好的学习是预防性的。[死记硬背](https://supermemo.guru/wiki/Cramming)可能是不健康的。毕业生们通过他们的聪明才智对痴呆症有预防作用这一事实，使统计数字出现偏差。所有聪明人都讨厌[死记硬背](https://supermemo.guru/wiki/Cramming)。绕过填鸭式学习的方法是聪明地学习，忽视学校，或者辍学。学习和阿尔茨海默氏症之间存在联系这一想法并非由我提出。二十年前，Robin P. Clarke（Robin P. Clarke）在《医学假说》中已经提出过这个观点。我用我无法证伪的主张来阻止[死记硬背](https://supermemo.guru/wiki/Cramming)，这一直是教育科学所谴责的。伪科学 4:4。促进良好的习惯：4:4
 
 ### 与既定科学的联系不强
 
-在 [SuperMemo Guru](https://supermemo.guru/wiki/SuperMemo_Guru) 的其他想法中，最具影响力的模型是[长期记忆的双组分模型](https://supermemo.guru/wiki/Two_component_model_of_long-term_memory)。这个模型是基于我自己在 [1988](https://supermemo.guru/wiki/Optimization_of_learning) 中描述的想法，在 [1995](https://supermemo.guru/wiki/ANE1995) 年发表。你可能仍然认为这个模型是一个「假说」。但是，我可以用我的生命来保证它的有效性。如果这个模型有一天证明是错误的，我的大量努力将不得不失效。这有点像为一个错误的事业而失去生命。这个模型为其他几十个抽象概念和理论做出了贡献，包括其他人提出的概念和理论，例如[祖母细胞](https://supermemo.guru/wiki/Grandmother_cell)理论，以及我对影响大脑发育的[概念化](https://supermemo.guru/wiki/Conceptualization)过程的整个推理。如果一个大的大厦建立在一个不相干的主张上，你可以在我完美的伪科学得分上加上：5:5。这种错综复杂的建模实际上是我写作背后的最大价值。价值 5:5
+在 [SuperMemo Guru](https://supermemo.guru/wiki/SuperMemo_Guru) 中，为其他想法提供灵感的最具影响力的模型是[长期记忆的双组分模型](https://supermemo.guru/wiki/Two_component_model_of_long-term_memory)。这个模型是基于我自己在 [1988](https://supermemo.guru/wiki/Optimization_of_learning) 中描述的想法，在 [1995](https://supermemo.guru/wiki/ANE1995) 年发表。你可能仍然认为这个模型是一个「假说」。但是，我可以用我的生命来担保，它是有效的。如果这个模型有一天证明是错误的，我的大量努力将不得不失效。这有点像为一个错误的事业而献出生命。这个模型为其他几十个抽象概念和理论做出了贡献，包括那些由其他人提出的概念和理论，例如[祖母细胞](https://supermemo.guru/wiki/Grandmother_cell)理论，以及整个我对影响大脑发育[概念化](https://supermemo.guru/wiki/Conceptualization)过程的推理。如果一个摩天大楼是建立在一个不相干的主张上，你可以在我完美的伪科学得分上加上：5:5。这种错综复杂的建模实际上是我写作背后的最大价值。价值 5:5
 
 ### 缺少同行评议
 

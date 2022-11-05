@@ -2,7 +2,7 @@
 
 原文：[Extrinsic motivation - supermemo.guru](https://supermemo.guru/wiki/Extrinsic_motivation)
 
-**外在动机**源于外部。在学习中，这种动机可能源于老师，父母，失败的威胁，哄骗，甚至是惩罚。想要依靠外在动机来提高学习效率几乎是不可能的。外在动机建立在奖惩之上，与知识本身的价值毫不相干。 这种类型的动机（外在动机）违背了[学习的基本规律](https://supermemo.guru/wiki/Fundamental_law_of_learning)。如果学习本身不是奖励，学习的知识会[不连贯](https://supermemo.guru/wiki/Coherence)，并且知识更容易被干扰，这种类型的知识不仅转瞬即逝，而且还会促使其他知识被更快遗忘。[**内在**动机](https://supermemo.guru/wiki/Intrinsic_motivation)才是高效学习的关键。
+**外在动机**是来自外部来源的动机。在学习中，这种动机可能源于老师，父母，失败的威胁，哄骗，甚至是惩罚。想要依靠外在动机来提高学习效率几乎是不可能的。外在动机建立在奖惩之上，与知识本身的价值毫不相干。 这种类型的动机（外在动机）违背了[学习的基本规律](https://supermemo.guru/wiki/Fundamental_law_of_learning)。如果学习本身不构成奖励，学习的知识会[不连贯](https://supermemo.guru/wiki/Coherence)，并且知识更容易被干扰，这种类型的知识不仅转瞬即逝，而且还会促使其他知识被更快遗忘。[**内在**动机](https://supermemo.guru/wiki/Intrinsic_motivation)才是高效学习的关键。
 
 另见：
 
@@ -28,17 +28,17 @@
 
 > - 知识补充[前置知识](https://supermemo.guru/wiki/Prior_knowledge)，进而扩充总体知识的价值，而知识的价值就是扩充时的增量
 
-> - 红色的知识被视作是最优知识，也就是具备最高价值(见: [学习内驱力的优化](https://supermemo.guru/wiki/Optimality_of_the_learn_drive))
+> - 红色的知识被视作是最优知识，也就是具备最高价值（见：[学习内驱力的优化](https://supermemo.guru/wiki/Optimality_of_the_learn_drive)）
 
-> - 蓝色知识被视作是次优质量，次优相关的（见：[复杂性](https://supermemo.guru/wiki/Complexity), [一致性](https://supermemo.guru/wiki/Coherence), [适用性](https://supermemo.guru/wiki/Applicability), [稳定性](https://supermemo.guru/wiki/Stability)）
+> - 蓝色知识被估值为质量次优，相关性一般（见：[复杂性](https://supermemo.guru/wiki/Complexity)，[一致性](https://supermemo.guru/wiki/Coherence)，[适用性](https://supermemo.guru/wiki/Applicability)，[稳定性](https://supermemo.guru/wiki/Stability)）
 
-> - 红色的优等知识会激活渴望，这就是学习内驱力(https://supermemo.guru/wiki/Learn_drive) 的基础
+> - 红色的优等知识会激活渴望，这就是[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的基础
 
 > - 蓝色的次优知识因为「渴求知识」与其竞争的缘故，会被标记成不想要
 
 > - 对希望获得的记忆编码，会产生喜欢（参见：[学习的乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)）
 
-> - 对不想要的记忆编码会导致对知识不够喜欢甚至厌恶（见：[解码失败惩罚](https://supermemo.guru/wiki/Decoding_failure_penalty)
+> - 对不想要的记忆编码会导致对知识不够喜欢甚至厌恶（见：[解码失败惩罚](https://supermemo.guru/wiki/Decoding_failure_penalty)）
 
 > - 学习中的奖励有助于记忆的编码，[巩固](https://supermemo.guru/wiki/Consolidation)
 
