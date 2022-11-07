@@ -20,11 +20,11 @@
 
 在 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 中，我们遵循[最小信息原则](https://SuperMemo.guru/wiki/minimum_information_principle)（即尽可能降低记忆复杂性），努力取得高评分（可提取性），使用长间隔（稳定性）。
 
-长期记忆的三组分模型是在[记忆的双成分模型](https://supermemo.guru/wiki/Two_component_model_of_memory)的基础上扩展的。前两个记忆组分运作于突触层面上：[可提取性](https://supermemo.guru/wiki/Retrievability)[稳定性](https://supermemo.guru/wiki/Stability)。[复杂性](https://supermemo.guru/wiki/Memory_complexity)是网络层面的组分，指的是形成记忆所涉及的突触模式的复杂性。
+长期记忆的三组分模型是在[记忆的双组分模型](https://supermemo.guru/wiki/Two_component_model_of_memory)的基础上扩展的。前两个记忆组分运作于突触层面上：[可提取性](https://supermemo.guru/wiki/Retrievability)和[稳定性](https://supermemo.guru/wiki/Stability)。[复杂性](https://supermemo.guru/wiki/Memory_complexity)是网络层面的组分，指的是形成记忆所涉及的突触模式的复杂性。
 
 还有许多与记忆存储有关的变量没有包含在**三组分模型**中。例如[睡眠倾向](https://supermemo.guru/wiki/Sleep_propensity)的[自稳态](https://supermemo.guru/wiki/Homeostatic)和[昼夜节律](https://supermemo.guru/wiki/Circadian)组分，这些成分在网络层面上影响记忆的编码和提取。
 
-在 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 的 [SM-17 算法](https://supermemo.guru/wiki/Algorithm_SM-17)的语境下，三组分模型亦可称为 [DSR 模型](http://supermemopedia.com/wiki/DSR_model)（即难度 D、稳定性 S 和可提取性 R）
+在 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 的 [SM-17 算法](https://supermemo.guru/wiki/Algorithm_SM-17)的语境下，三组分模型亦可称为 [DSR 模型](http://supermemopedia.com/wiki/DSR_model)（即难度 D、稳定性 S 和可提取性 R）。
 
 本[术语表](https://supermemo.guru/wiki/Glossary)条目用于解释《[间隔重复的历史](https://supermemo.guru/wiki/Problem_of_Schooling)》（2018 年 6 月）作者：[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)
 
