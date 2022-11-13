@@ -60,21 +60,21 @@ IQ 应该是[智力](https://supermemo.guru/wiki/Intelligence) 的反映（参�
 
 ## 谬误：PS游戏机使学习停滞
 
-Spitzer 声称父母不应该购买 PS游戏机作为礼物，因为这会导致孩子在校成绩下降，学习过程也会停止。 事实上，成绩可能确实会直线下降，但在校成绩绝不应该作为衡量进步的标准。 [愉快的学习](https://supermemo.guru/wiki/Pleasure_of_learning)优于[强制学习](https://supermemo.guru/wiki/Coercive_learning)。 PS机吸引人是因其提供的学习机会。 尽管成绩可能受损，但[智力](https://supermemo.guru/wiki/Intelligence) 和其他多项技能将受益
+Spitzer 声称父母不应该购买 PS游戏机作为礼物，因为这会导致孩子在校成绩下降，学习过程也会停止。 事实上，成绩可能确实会直线下降，但在校成绩绝不应该作为衡量进步的标准。 [愉快的学习](https://supermemo.guru/wiki/Pleasure_of_learning)优于[强制学习](https://supermemo.guru/wiki/Coercive_learning)。 PS机的吸引力在于其提供的学习机会。 尽管成绩可能受损，但[智力](https://supermemo.guru/wiki/Intelligence) 和其他多项技能将受益
 
 ## 谬误：数码技术导致痴呆
 
-数字技术是对[智力](https://supermemo.guru/wiki/Intelligence) 的恩赐。 见：[数码产品痴呆症：病态的谬误](https://supermemo.guru/wiki/The_morbid_myth_of_Digital_Dementia)
+数字技术对[智力](https://supermemo.guru/wiki/Intelligence) 大有裨益。 见：[数码痴呆症：病态的谬误](https://supermemo.guru/wiki/The_morbid_myth_of_Digital_Dementia)
 
-## 谬误：数字技术导致浅薄的理解
+## 谬误：数字技术导致见解粗浅
 
 数字技术十分有利于深度阅读、创造性思维、[问题解决](https://supermemo.guru/wiki/Problem_solving)。肤浅性反映了低[学习熵](https://supermemo.guru/wiki/Learntropy)或分心（包括[创造力](https://supermemo.guru/wiki/Creativity)）。 肤浅在学校里或读书时更为普遍。 数字技术提供了选择的自由，可以改善 [学习熵](https://supermemo.guru/wiki/Learntropy) 和 *“深度处理”*。 见：[学习的乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)
 
-## 谬误：计算机学业阻碍学业成绩
+## 谬误：计算机阻碍学业成绩
 
-计算机吸引人，因为它的[学习熵](https://supermemo.guru/wiki/Learntropy)高。 因此，计算机可以将孩子们从无聊的学术教学中拉出来。但是，它们也提供了当今最好的教育工具。 可以访问互联网的计算机现在已经比得上人类[教师](https://supermemo.guru/wiki/Teacher)。
+计算机吸引人，因为它的[学习熵](https://supermemo.guru/wiki/Learntropy)高。 因此，计算机可以将孩子们从无聊的学术教学中得以解脱。而它亦不愧是当今最好的教育工具。 可以访问互联网的计算机现在完全足以比肩人类[教师](https://supermemo.guru/wiki/Teacher)。
 
-## 谬误：电子书对阅读能力有害
+## 谬误：电子书有损于阅读能力
 
 [Manfred Spitzer](https://supermemo.guru/wiki/Manfred_Spitzer) 说*“买电子儿童图书教孩子阅读是最糟的。电子书里按一个按钮就能自动朗读！”* 实际上，可卡因或海洛因对阅读能力的危害比电子书更大。如果孩子读纸质书时旁边没有人给他念，他就宁可不读，但如果是电脑读出文本，他们就能跟着阅读。输入有意义是学习阅读的基础。 当成人不在时，电子书可以帮助孩子阅读，甚至比成人更合适。孩子们喜欢掌控自己。想不靠教师，没有不快地学习阅读，[视频游戏](https://supermemo.guru/wiki/Videogames)是现代最好的工具。 这可以通过研究和儿童自己的意见得到证实。 教师不再是必要的。
 

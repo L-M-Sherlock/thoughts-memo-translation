@@ -60,6 +60,20 @@
 
 ！[例如中文的抽认卡片](https://sive.rs/images/anki-cn-4.png)
 
+但是如果你正在学习其他东西，你可以在制作自己的抽认卡片时加入一些工艺和创造。
+
+你要花些功夫去读你想记住的片段，提炼关键信息，把它们分解成许多部分，并且用它们编造问题以检测未来的自己。
+
+经过一年的实践，这些是我节约时间的建议：
+
+#### 把散落的文字变成代码
+
+如果你正在阅读一本编程的学习辅导资料，并想出一段文字来描述特征。
+
+>“加法（+）运算符...如果只有一个操作数是字符串，另一个操作数被转为字符串，那么结果是两个字符串相连。”
+
+你用它对你自己测试，实验几次，并理解它。所以你制作了抽认卡片来记忆它。
+
 ```
 
   var a = 5 + '5';
@@ -68,46 +82,202 @@
 
  '55'
 
-```
+如果另一边+是一个字符串，另一个
+
+在像字符串一样加起来前被转换成字符串。
 
 ```
 
-```
+#### 尝试给自己测试
+
+有时候你觉得自己“明白了”——一种常见的错误或者令人惊讶的特点。
+
+>“如果数组构造函数传递一个数字，它将用那个数字的长度来建立一个空数组。任何其他变量的组合将用那些变量建立一个新数组。”
+
+你用它对你自己测试，实验几次，并理解它，然后制作两张抽认卡片来检测自己。
 
 ```
 
-```
+var a = new Array('5');
+
+//a是什么？
+
+只有一个元素的数组，字符串'5':['5'];
 
 ```
 
-```
+...然后是几乎相同的问题...
 
 ```
 
-```
+  var a = new Array(5);
+
+//a是什么？
+
+一个长度为5的空数组。
 
 ```
 
-```
+当这些代码检测你的时候，卡片随机出现，所以希望你的例子能有意地吸引你的注意力。
+
+你也可以用更复杂的例子检测自己，让那些新的记忆在你的脑海中记忆更深刻：
 
 ```
 
+  var a = [20, 10, 5, 1];
+
+ // 什么是 a.sort()?
+
+ [1, 10, 20, 5]
+
+  // sort将所有值视为字符串
+
 ```
+
+不要忘记**用这个结果检测自己：**
+
+```
+
+  var a = [20, 10, 5, 1];
+
+//按数字顺序排序
+
+  function compare(v1, v2) { return(v1 — v2); }
+
+  a.sort(compare);
+
+```
+
+#### 保留很酷的技巧
+
+如果你发现一个你十分想记住的技巧，把它变成有一定挑战的问题。
+
+```
+
+  var albums = [
+
+{name: 'Beatles', title: 'White Album', price: 15},
+
+    {name: 'Zeppelin', title: 'II', price: 7}];
+
+ // 使之运行：
+
+  albums.sort(by('name'));
+
+  albums.sort(by('title'));
+
+  albums.sort(by('price'));
+
+  function by(propName) {
+
+    return function(obj1, obj2) {
+
+      v1 = obj1[propName];
+
+      v2 = obj2[propName];
+
+      if (v1 < v2) { return -1; }
+
+      else if (v1 > v2) { return 1; }
+
+      else { return 0; }
+
+    };
+
+  }
+
+```
+
+#### 让答案适用于多种解决方案
+
+如果有不止一种方法做某事，而你想把它们都记住，以便将来时能想出不止一种解决方案，那么你可以把两种方案都记在脑海中。
+
+```
+
+  s = 'string like this'
+
+# 在 Ruby 中，展示两种把它变成 'String Like This'的方式
+
+  s.split.map(&:capitalize).join(' ')
+
+  s.gsub(/\b\S/) {|x| x.upcase}
+
+```
+
+#### 把宽泛的概念变成言简意赅的例子
+
+比如说你只花了 20 分钟学习了一些概念性的知识，并且没有记住特定的方程。有时候你所需的只是用一个简洁的例子来让自己记住概念。
 
 ```
 
   /(a(b)((c)d))/.match('abcd')
 
-  # What will $1, $2, $3, $4 be?
+  # $1, $2, $3, $4 会怎么样?
+
+  $1 = 'abcd'
+
+  $2 = 'b'
+
+  $3 = 'cd'
+
+  $4 = 'c'
 
 ```
 
-```
+其他例子：
 
 ```
+
+  class C
+
+    self
+
+  end
+
+  class D < C
+
+  end
+
+  d1 = D.new
+
+  # 哪一个对象是自己？
+
+  class D
+
+```
+
+#### 阅读 “[ 20 个制定知识的规则]”(https://www.supermemo.com/en/articles/20rules)” 作者：Piotr Wozniak  沃兹尼亚克
+
+在这件事上最好建议出自一篇名为“20 Rules of Formulating Knowledge”，作者系 Piotr Wozniak ，网址：[supermemo.com/en/articles/20rules](https://www.supermemo.com/en/articles/20rules). So please read that one.
+
+### 每日练习
+
+为了达到最有效的效果，你需要每天打开一次间隔记忆软件。如果你太久没有这样做，你将前功尽弃，把你记住的曾经记住的东西重新学一遍。
+
+**只需要每天 20 分钟，你可以记住成千上万条知识。**我把它当作早晨的惯例。泡一杯茶，做一会儿Anki ，喝茶。
+
+当你测试自己时产生肾上腺素是一件非常有趣的事情，并且看看你的进步能有多快。
+
+这如同去精神的运动馆。对于短期或者长期的结果，每天短暂又紧张的20分钟非常值得你付出。
+
+无论何时你都可以增加新的卡片，你将会惊讶地发现所有知识都清晰的印在你的脑海中。
 
 ### 总结
 
+我已经这样练习了一年，这大大促进了我代码的流畅度。如你所见，我高度评价这个方法。
+
+你可以随意[向我发邮件](https://sive.rs/contact) 来让我知道这种方式对你怎么样。
+
 ### 更多阅读材料:
 
+[“Janki Method Refined” by Jack Kinsella](https://www.jackkinsella.ie/articles/janki-method-refined)是一篇关于相同方法的好文章，有些地方甚至比我讲述得更好。
+
+你可有用Anki来学习[所有事物](https://quantifiedself.com/blog/spaced-repetition-and-learning/)。
+
+[“Augmenting Long-term Memory” by Michael Nielsen](http://augmentingcognition.com/ltm.html)是一篇讲述用Anki学习任何事的好文章。
+
+阅读 [the interview with Piotr Wozniak at wired.com](https://www.wired.com/2008/04/ff-wozniak/) ——一个人把这个方法推向极限的故事。
+
 © 2013 [Derek Sivers](https://sive.rs/).
+
+# Copy & share: [sive.rs/srs](https://sive.rs/srs)

@@ -68,6 +68,8 @@
 
 > ***图：**不上学的人有理由抵制审查。诸如 "你学到了什么？"这样的问题本来就很难回答。如果学习是热情盲目的，就很难用语言表达出目标和效果。不上学的人本能地知道她走的是正确的道路。然而，其他人可能仍然不相信。基准不存在，受过良好教育的人群无法体会到[自由学习]的力量（https://supermemo.guru/wiki/Free_learning）。这张图有助于说明这个问题。在一个说明性的二维知识空间里，一个被[学校外驱力,](https://supermemo.guru/wiki/School_drive)的压力推着的在校学生被拖着沿着一条线性路径从其目前的知识状态A到预定的目标B（蓝色路径）。这个过程是缓慢而无效的。学生逐渐对学校产生厌恶，对学习产生厌恶。与此相反，一个充满激情的非学校教育者走的是不可预测的红色路径（见：[学校教育的爬山隐喻]（https://supermemo.guru/wiki/Mountain_climb_metaphor_of_schooling））。学习是非常有效和愉快的（见：[学习的乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)）。纠缠在一起的红色路径的长度所说明的知识总量是巨大的（与学校教育相比）。对学习的热爱不断增长，与[知识树](https://supermemo.guru/wiki/Knowledge_tree)的大小成正比。一个学生将通过学校的基准测试调整到目标B，一个不上学的人可能会失败。如果有人关心设计一个 "兴趣基准"（绿色），他将摧毁所有竞争。当世界上大多数人崇拜为预定的社会实现预定的目标（B）时，我们一直没有探索自然的学习本能（[学习内驱力](https://supermemo.guru/wiki/Learn_drive)）。在这个过程中，我们建立了不快乐的社会*。
 
+我的傲慢的定罪
+
 我说我是世界上最有资格对学校和[自由学习]作出判断的人之一(https://supermemo.guru/wiki/Free_learning)。我理解等式的两边（见：[我的资格](https://supermemo.guru/wiki/Problem_of_schooling:_My_qualifications)）。虽然[受过良好教育的](https://supermemo.guru/wiki/Well-schooled)人可以勇敢地捍卫自己的立场，但他们需要认识到，他们的立场来自于从未真正体验过[自由学习](https://supermemo.guru/wiki/Free_learning)的乐趣。同时，[非学校教育者](https://supermemo.guru/wiki/Unschooling)并不关心。他们知道[自由学习](https://supermemo.guru/wiki/Free_learning)的力量，他们正忙于自己的幸福生活。他们认为学校系统是过去的遗物，是他们无能为力的邪恶。我们都在继续我们的生活，同时仍然意识到象牙海岸的童工、现代奴隶制、气候变化或沙特阿拉伯、俄罗斯、伊朗或国内的人权侵犯。我们都需要专注于一次解决一个问题。
 
 我在共产主义灌输时代的公共机构中接受了26年的 "教育"。我对学校的情况了如指掌，而这种了解并没有被负面情绪所玷污。我从来没有[恨过学校](https://supermemo.guru/wiki/Why_kids_hate_school)，毕业后我为这个机构辩护了很多年。
