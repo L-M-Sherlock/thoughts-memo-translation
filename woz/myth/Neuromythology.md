@@ -76,27 +76,27 @@ Spitzer 声称父母不应该购买 PS游戏机作为礼物，因为这会导致
 
 ## 谬误：电子书有损于阅读能力
 
-[Manfred Spitzer](https://supermemo.guru/wiki/Manfred_Spitzer) 说*“买电子儿童图书教孩子阅读是最糟的。电子书里按一个按钮就能自动朗读！”* 实际上，可卡因或海洛因对阅读能力的危害比电子书更大。如果孩子读纸质书时旁边没有人给他念，他就宁可不读，但如果是电脑读出文本，他们就能跟着阅读。输入有意义是学习阅读的基础。 当成人不在时，电子书可以帮助孩子阅读，甚至比成人更合适。孩子们喜欢掌控自己。想不靠教师，没有不快地学习阅读，[视频游戏](https://supermemo.guru/wiki/Videogames)是现代最好的工具。 这可以通过研究和儿童自己的意见得到证实。 教师不再是必要的。
+[Manfred Spitzer](https://supermemo.guru/wiki/Manfred_Spitzer) 说**买电子儿童图书教孩子阅读是最糟的。它竟然有一个自动朗读按钮！** 实际上，可卡因或海洛因对阅读能力的危害比电子书更大。如果孩子读纸质书时旁边没有人给他念，他就宁可不读，但如果电脑读出文本，他们或许能跟着阅读。低成本的投入是学习阅读的基础。 电子书可以在成人不在时提供阅读帮助，甚至比成人更有用。孩子们喜欢掌控自己。[电子游戏](https://supermemo.guru/wiki/Videogames)是学习阅读的最佳现代工具——没有老师与不快。可以通过研究和孩子自己的意见证实这一点：教师不再是必要的。
 
 ## 误区：数码扫盲只需要 5 分钟
 
-[Manfred Spitzer](https://supermemo.guru/wiki/Manfred_Spitzer) 声称 18 岁的孩子可以在几分钟内具备数字素养：只需 *“点击鼠标浏览网页”*。 实际上，网络世界景观之丰富从不为人所知。 网络世界一生也探索不完，而“媒体素养”可以与元认知技能相提并论，同样需要终生培养。 要掌握的工具和技巧似乎无穷无尽。 善用知识、怀疑主义、电子社会认知、网络礼仪、溯源知识、了解网络威胁、写博客、使用网上银行、电子支付、通信等，不胜枚举。 Spitzer 可能是对的：数字世界的新手[面对超链接洪流可能会不知所措](https://supermemo.guru/wiki/Neuromythology#Myth:_Hyperlinks_make_it_hard_to_focus_on_the_text)
+[Manfred Spitzer](https://supermemo.guru/wiki/Manfred_Spitzer) 声称 18 岁的孩子可以在几分钟内具备数字素养：只需 **点击鼠标浏览网页**。 实际上，网络世界景观之丰富从不为人所知。 网络世界的探索永无止境，和元认知技能同样，「媒体素养」需要终生培养。 要掌握的工具和技巧似乎无穷无尽。 善用知识、怀疑精神、电子社会认知、网络礼仪、溯源知识、了解网络威胁、写博客、使用网上银行、电子支付、通信等，不胜枚举。 Spitzer 可能是对的：数字世界的新手[面对超链接洪流可能会不知所措](https://supermemo.guru/wiki/Neuromythology#Myth:_Hyperlinks_make_it_hard_to_focus_on_the_text)
 
 ## 谬误：电子设备有害学习
 
-[Manfred Spitzer](https://supermemo.guru/wiki/Manfred_Spitzer) 说*“看着屏幕学不到东西。一定要有个人教。”*实际上，如果孩子高度独立，他们不受人打扰时学得最好。YouTube 很好展示了如何以不干扰孩子的方式教学，对许多（即使很小的）孩子都极为有效。
+[Manfred Spitzer](https://supermemo.guru/wiki/Manfred_Spitzer) 说**看着屏幕学不到东西。一定要有个人教。**实际上，如果孩子高度独立，他们不受人打扰时学得最好。YouTube 很好展示了如何以不干扰孩子的方式教学，对许多孩子（即使年龄很小）都效果显著。
 
 ## 谬误：电子设备使大脑额叶失灵
 
-Victoria Dunckley 博士声称，她神奇地治愈了许多神秘患上*电子屏幕综合症*的孩子，方法就是偷走他们的平板电脑或笔记本电脑。 她是精神科医生，所以“知道”孩子们玩电脑游戏时，脑额叶会失灵。 但凡她对电脑游戏有一点了解，就会知道电脑游戏开辟的教育机会领域宽广、有待开发。 未来不属于在线课程。 那只不过是电脑里的学校。 未来属于对现实生活情景的模拟。 电脑游戏基本就是这么回事。 参见：[Victoria Dunckley 假想的电子屏幕综合症](https://supermemo.guru/wiki/Victoria_Dunckley's_mythical_Electronic_Screen_Syndrome)。 另见：[PhET 模拟](https://supermemo.guru/wiki/PhET_simulations)
+Victoria Dunckley 博士声称，她神奇地治愈了许多神秘患上*电子屏幕综合症*的孩子，方法就是偷走他们的平板或笔记本电脑。 她是精神科医生，所以「知道」孩子们玩电脑游戏时，脑额叶会失灵。 但凡她对电脑游戏有一点了解，就会知道电脑游戏开辟了一个广阔且有待开发的教育机会领域。 未来不属于在线课程， 那只不过是电脑里的学校。 未来属于对现实生活情景的模拟，电脑游戏基本就是这么回事。 参见：[Victoria Dunckley 假想的电子屏幕综合症](https://supermemo.guru/wiki/Victoria_Dunckley's_mythical_Electronic_Screen_Syndrome)。 另见：[PhET 模拟](https://supermemo.guru/wiki/PhET_simulations)
 
-## 谬误：阅读有利于教育，而不是点鼠标
+## 谬误：阅读有利于教育，而点击鼠标不是
 
-点击鼠标阅读好东西好于学校给你什么看什么。 这个谬误的来源是Spitzer的宏大教育计划，名为：***“让学校再次伟大”\*。**[2021 年 1 月 6 日](https://supermemo.guru/wiki/Trump)我们看到了结局并不圆满。
+点击鼠标阅读优质内容好于学校给你什么看什么。 这个谬误的来源是 Spitzer 名为***让学校再次伟大\***的宏大教育计划。[2021 年 1 月 6 日](https://supermemo.guru/wiki/Trump)我们看到了结局并不圆满。
 
 ## 谬误：没法用电子设备学语言
 
-一个荷兰人告诉Spitzer他的英语是玩电脑游戏学的，Manfred像特朗普一样打发他：*“小孩子不可能用电脑学会外语”*。 他还说，还不如交一个会说这种语言的女朋友。 我的书面英语也是用电脑学的，还有我的大多数英语还可以的年轻朋友。 其中包括喜欢 YouTube 和电脑游戏的“小孩子”们。 至于女朋友，我想起一位尼日利亚女士，激励我学英语。 然而她还有别的兴趣。电脑比人要求更少。 碰上好日子，还可以通过屏幕与远方的女朋友见面。
+一个荷兰人告诉 Spitzer 他的英语是玩电脑游戏学的，此时后者像特朗普一样打发道：**小孩子不可能用电脑学会外语**。 他还说，还不如交一个会说这种语言的女朋友。 我的书面英语也是用电脑学的，还有我的大多数英语还可以的年轻朋友。 其中包括喜欢 YouTube 和电脑游戏的「小孩子」们。 至于女朋友，我想起一位激励我学英语的尼日利亚女士， 然而她还有别的兴趣。电脑可是很宽容的。 幸运时，还可以通过屏幕与远方的女朋友见面。
 
 ##谬误：在课堂上使用手机的孩子学不好
 
@@ -156,7 +156,7 @@ Spitzer 说：「快速学习基于知识 」，「知识是你从学校得到�
 
  ##谬误：脸书让你的大脑如吸了可卡因一样
 
-[Manfred Spitzer](https://supermemo.guru/wiki/Manfred_Spitzer) 将脸书用户的大脑比作一个可卡因上瘾者在注射毒品后戒断的大脑，这种比喻实际上是相当准确的。脸书和毒品都会激活奖励中心。最大的不同在于它可能很难与麻醉药物的奖励相对抗。然而，自然奖励是一件好事。奖励中心的进化是为了奖励那些有利于生存的行为。所有形式的学习，包括从脸书上学习，都应该是愉悦且健康的。有可能通过脸书产生[可变奖励](https://supermemo.guru/wiki/Variable_reward) 或惩罚，这可能导致轻度上瘾。然而，所有形式的学习都有这种可能性。这取决于用户如何明智地对待学习和脸书。
+[Manfred Spitzer](https://supermemo.guru/wiki/Manfred_Spitzer) 将脸书用户的大脑比作一个可卡因上瘾者在注射毒品后戒断的大脑，这种比喻再准确不过了。脸书和毒品都会激活奖励中心。最大的不同在于它可能很难与麻醉药物的奖励匹敌。然而，自然奖励是一件好事。奖励中心的进化是为了奖励那些有利于生存的行为。所有形式的学习，包括从脸书上学习，都应该是愉悦且健康的。有可能通过脸书产生[可变奖励](https://supermemo.guru/wiki/Variable_reward) 或惩罚，这可能导致轻度上瘾。然而，所有形式的学习都有这种可能性。这取决于用户如何明智地对待学习和脸书。
 
 ##谬误：脸书使人抑郁
 
@@ -192,9 +192,11 @@ Spitzer 坚持认为手写能使大脑发育，骑独轮车或用脚写字也是
 
 ##谬误：大脑是一个矛盾的水桶
 
-Spitzer 说得差不多正确，大脑是一个自相矛盾的水桶：你投入的越多，它能容纳的就越多。显然，大脑的体积是有限的。然而，学习确实增加了[知识树](https://supermemo.guru/wiki/Knowledge_tree)（即可用的[语义锚](https://supermemo.guru/wiki/Semantic_anchor)的表面）。诚然，学习有助于进一步学习。但是，要充分利用这一现象，我们需要遵循[学习内驱力](https://supermemo.guru/wiki/Learn_drive)（见：[知识和创造力](https://supermemo.guru/wiki/Knowledge_and_creativity)）。否则，由于知识片段之间的[语义距离](https://supermemo.guru/wiki/Semantic_distance) 过多，我们可能无法产生适当的语义匹配。这种过长的距离正是在学校发生的事情，斯皮策称赞这是所谓的良好学习工具。学校未能有效地利用[前置知识](https://supermemo.guru/wiki/Prior_knowledge)（见：[拼图比喻](https://supermemo.guru/wiki/Jigsaw_puzzle_metaphor)）
+Spitzer 所言大体无误，大脑是一个自相矛盾的水桶：你投入的越多，它能容纳的就越多。显然，大脑的体积是有限的。然而，学习确实增加了[知识树](https://supermemo.guru/wiki/Knowledge_tree)（即可用的[语义锚](https://supermemo.guru/wiki/Semantic_anchor)的表面）。诚然，学习有助于进一步学习。但是，要充分利用这一现象，我们需要遵循[学习内驱力](https://supermemo.guru/wiki/Learn_drive)（见：[知识和创造力](https://supermemo.guru/wiki/Knowledge_and_creativity)）。否则，由于知识片段之间的[语义距离](https://supermemo.guru/wiki/Semantic_distance) 过长，我们可能无法产生适当的语义匹配（semantic match）。这种过长的距离正是在学校中产生的，Spitzer 称赞这是所谓的良好学习工具。学校未能有效地利用[前置知识](https://supermemo.guru/wiki/Prior_knowledge)（见：[拼图比喻](https://supermemo.guru/wiki/Jigsaw_puzzle_metaphor)）
 
-##谬误：长辈的祝福是孩子的诅咒
+##谬误：长者的福音，却是孩子的诅咒
+
+Spitzer 声称，计算机对于老年人是一个福音，因为它可以刺激认知过程，帮助预防阿尔茨海默氏症。这没错。然而，他同时补充说数字技术会让孩子变傻。显然易见的是，计算机并不受年龄限制，如果使用得当，是促进大脑健康的绝佳学习工具。成效与高质量的学习成正比。自然，巨大的认知收益伴随着强烈的兴奋，这也有副作用。如果孩子玩电脑游戏到凌晨四点，那就不太妙了。参见：[游戏障碍](https://supermemo.guru/wiki/Gaming_disorder)
 
 ##谬误：依赖互联网很危险
 
@@ -224,7 +226,7 @@ Spitzer 博士宣称，通过推迟老年痴呆症，双语能使大脑的「寿
 
 ##谬误：不存在多元智力
 
-大脑是一个[概念网络](https://supermemo.guru/wiki/Concept_network)。每个[概念](https://supermemo.guru/wiki/Concept)有助于[智力](https://supermemo.guru/wiki/Intelligence)。 如果我们积累了大量与音乐相关的概念，就会表现出良好的音乐智力。Howard Gardner 的多元智力理论受到了那些相信神秘的**因素g**的人和那些认为 Gardner 的清单太短或不正确的人的批评。实际上，任何智力清单都是主观臆断，Gardner 的清单可以看作是一种实用的分类。我们可以开发出无限多的智力，如解魔方、心算、发现鸟类等所需的智力。我们所需要的只是在某一特定领域进行长时间且有意义的训练。我们的智力可能因病态或有偏见的线路而受到阻碍。聋哑人表现出良好的音乐智力是很罕见的。一个以中文为母语的人也很难说没有口音的英语。这都是关于[概念化]的轨迹（https://supermemo.guru/wiki/Conceptualization）。相比之下，很多人只相信一种类型的智力。「你在学校表现好，你就是聪明人」（又称[智商](https://supermemo.guru/wiki/IQ)测量）。读者不属于这个群体。如果不对所有反学校的异端感到不安，他就不会在阅读中达到这个程度
+大脑是一个[概念网络](https://supermemo.guru/wiki/Concept_network)。每个[概念](https://supermemo.guru/wiki/Concept)都有助于[智力](https://supermemo.guru/wiki/Intelligence)。 如果我们积累了大量与音乐相关的概念，就会表现出良好的音乐素养。Howard Gardner 的多元智力理论受到了那些相信神秘的**因素g**的人和那些认为 Gardner 的清单太短或不正确的人的批评。实际上，任何智力清单都是主观臆断，Gardner 的清单可以看作是一种实用的分类。我们可以开发出无限多的智力，关于如解魔方、心算、发现鸟类等领域。所需要的只是在某一特定领域进行长时间且有意义的训练。智力可能因疾病或先入为主的偏见受到制约。聋哑人表现出良好的音乐素养十分罕见，一个以中文为母语的人也很难说没有口音的英语。这都是关于[概念化]的轨迹（https://supermemo.guru/wiki/Conceptualization）。相比之下，很多人只相信一种类型的智力：「你在学校表现好，你就是聪明人」（又称[智商](https://supermemo.guru/wiki/IQ)表现）。读者不属于这个群体。他在阅读中走到这一步，一定会对所有反学校的异端邪说感到不安。
 
 ##谬误：互联网是坏的
 

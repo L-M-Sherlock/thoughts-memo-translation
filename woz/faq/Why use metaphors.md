@@ -26,7 +26,7 @@
 
 - [知识结晶比喻](https://supermemo.guru/wiki/Knowledge_crystallization#Crystallization_metaphor)
 
-- [教学爬山类比](https://supermemo.guru/wiki/Mountain_climb_metaphor_of_schooling)
+- [教学的爬山类比](https://supermemo.guru/wiki/Mountain_climb_metaphor_of_schooling)
 
 - [学习的拼图游戏比喻](https://supermemo.guru/wiki/Jigsaw_puzzle_metaphor)
 
@@ -40,4 +40,4 @@
 
 - [阿尔茨海默氏症的电话总机比喻](https://supermemo.guru/wiki/How_schools_can_contribute_to_Alzheimer's_disease#Switchboard_metaphor)
 
-[Alex Giorev](https://supermemo.guru/wiki/Alex_Giorev)通过用《我的世界 Minecraft》来比拟，提出了一个精巧的学习过程模型。他的比喻对年轻人了解大脑很有帮助，那些认为电脑游戏是浪费时间的成年人也应该读一读。最重要的是，这个比喻说明了为什么[义务教育](https://supermemo.guru/wiki/Compulsory_schooling)永远不会成功。见：[关于学校教育的《我的世界》比喻] (https://supermemo.guru/wiki/Minecraft_metaphor_of_schooling)
+[Alex Giorev](https://supermemo.guru/wiki/Alex_Giorev) 通过用《我的世界》来类比，提出了一个精巧的学习过程模型。他的比喻对年轻人了解大脑很有帮助，那些认为电脑游戏是浪费时间的成年人也应该读一读。最重要的是，这个比喻说明了为什么[强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling)永远不会成功。见：[关于学校教育的《我的世界》比喻](https://supermemo.guru/wiki/Minecraft_metaphor_of_schooling)

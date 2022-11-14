@@ -6,7 +6,7 @@
 
 - 如果要创业，你可以读一本有关创业的书，也可以选择加入 [Y Combinator](https://notes.andymatuschak.org/z2kQbKXThuY4FrdXVcE7JCt974sPATVhSpita) 。那么你会选择哪个？这涉及到[赋能环境](https://notes.andymatuschak.org/z3DaBP4vN1dutjUgrk3jbEeNxScccvDCxDgXe)的力量。
 
-  - 选择后者，能提供一个更有效的增长环境，而不能有资金上的优势。
+  - 选择后者，能提供一个更有效的成长环境，而不能有资金上的优势。
 
   - 如果靠读书，你便只是无数有创业念头的人中的一个，读的是创始人这个角色的活动，而不是在「实践创始」；当你在 YC 孵化时，你则在一个创业者的社区里**不断创业**。书是抽象的，但 YC 不是：每节课的针对的情景，都围绕你最关心的想法：
 
