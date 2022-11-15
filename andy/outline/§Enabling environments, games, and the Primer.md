@@ -8,9 +8,9 @@
 
   - 选择后者，能提供一个更有效的成长环境，而不能有资金上的优势。
 
-  - 如果靠读书，你便只是无数有创业念头的人中的一个，读的是创始人这个角色的活动，而不是在「实践创始」；当你在 YC 孵化时，你则在一个创业者的社区里**不断创业**。书是抽象的，但 YC 不是：每节课的针对的情景，都围绕你最关心的想法：
+  - 如果靠读书，你便只是无数有创业念头的人中的一个，读的是创始人这个角色的活动，而不是在「建立实践」；当你在 YC 孵化时，你是在一个创业者的社区里**不断创业**的。书是抽象的，但 YC 不是：每节课的针对的情景，都围绕你最关心的想法：
 
-    - [赋能环境中的活动直接服务于有内在意义的目的](https://notes.andymatuschak.org/z7wh92mfgXNTLk8AhaaLxsViQuzqGY5cV56Vm)
+    - [赋能环境中的活动直接服务于有内在本质意义的目的](https://notes.andymatuschak.org/z7wh92mfgXNTLk8AhaaLxsViQuzqGY5cV56Vm)
 
     - [赋能环境的重点是做被赋能的事](https://notes.andymatuschak.org/z6tuZZKaNeLM7c9jPZwNVGURGTuXLy8jesv5i)
 
@@ -18,7 +18,7 @@
 
   - 两者间的差异也不止是情绪方面的：在 YC 的情景中，你会更有效地学习这个材料，因为它是一个[参与式环境](https://notes.andymatuschak.org/z63gaUtZqb9mMUKRf85UhtEFPMgBBJbqvT2r8)。[参与式环境可以帮助学习](https://notes.andymatuschak.org/z56HX9kF6fRMoRQfT6VhZN9ehnrrLDAq8FEFP)
 
-    - YC 的形式也允许其设计者用好几个月的时间，亲身体验创业的经历，而[大众媒介大多缺乏超过一天的创制时间维度](https://notes.andymatuschak.org/z7JZswHPm99BbpTnb7NcP9Rnp8Bs6jsM3zjdv)
+    - YC 的形式也允许其设计者用好几个月的时间，亲身体验创业的经历，而[大众传媒大多缺乏一个超过一天的自创时间维度](https://notes.andymatuschak.org/z7JZswHPm99BbpTnb7NcP9Rnp8Bs6jsM3zjdv)
 
   - 让 YC 更拟真的目的，不只是改善参与人的体验：它也帮助 YC 的创造者设计出更好的系统。
 

@@ -12,6 +12,10 @@
 
 1. [**自我教学优化中与知识特点无关的要素**](https://super-memory.com/english/ol/ks.htm#Knowledge 独立)
 
+[**在学习中知识的争论**] (https://super-memory.com/english/ol/ks.htm#表述）
+
+[**在刻意回忆中，有效学习的组成表现**] （https://super-memory.com/english/ol/ks.htm#组成）
+
 9.[**学习中的知识表示问题总结**](https://super-memory.com/english/ol/ks.htm#Summary)
 
 ------

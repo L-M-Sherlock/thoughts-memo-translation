@@ -36,6 +36,8 @@
 
 稳定性增长函数
 
+> 图：[稳定性增长](https://supermemo.guru/wiki/Stability_increase)函数由 [SM-17 算法](https://supermemo.guru/wiki/Algorithm_SM-17)计算。该函数有三个参数：（1）复习时的[稳定性](https://supermemo.guru/wiki/Stability)，以天为单位表示（左边），（2）复习时的[可提取性](https://supermemo.guru/wiki/Retrievability)（右边）和（3）记忆[复杂性](https://supermemo.guru/wiki/Complexity)，以[条目](https://supermemo.guru/wiki/Item)[难度](https://supermemo.guru/wiki/Difficulty)表示。
+
 [![img](https://supermemo.guru/images/thumb/9/97/Approximation_of_memory_stabilization.png/500px-Approximation_of_memory_stabilization.png)](https://supermemo.guru/wiki/File:Approximation_of_memory_stabilization.png)
 
 [![img](https://supermemo.guru/images/thumb/c/c6/Stability_increase_function_approximation.jpg/500px-Stability_increase_function_approximation.jpg)](https://supermemo.guru/wiki/File:Stability_increase_function_approximation.jpg)
