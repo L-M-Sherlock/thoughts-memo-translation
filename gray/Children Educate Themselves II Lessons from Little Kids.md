@@ -1,4 +1,4 @@
-# 孩子自主教育 II：来自小孩子的教训
+# 孩子们可以自己教育自己 II：来自小孩子的一课
 
 原文：[Children Educate Themselves II: Lessons from Little Kids | Psychology Today](https://www.psychologytoday.com/us/blog/freedom-learn/200807/children-educate-themselves-ii-lessons-little-kids)
 

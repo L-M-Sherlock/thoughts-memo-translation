@@ -12,15 +12,25 @@
 
 1. [**自我教学优化中与知识特点无关的要素**](https://super-memory.com/english/ol/ks.htm#Knowledge 独立)
 
-[**在学习中知识的争论**] (https://super-memory.com/english/ol/ks.htm#表述）
+2.[**在学习中知识的争论**] (https://super-memory.com/english/ol/ks.htm#表述）
 
-[**在刻意回忆中，有效学习的组成表现**] （https://super-memory.com/english/ol/ks.htm#组成）
+3.[**主动回忆系统中有效知识表示的组成部分**] （https://super-memory.com/english/ol/ks.htm#组成）
+
+4.[**在获得联想知识的逐步过程中对项目进行排序**] (https://super-memory.com/english/ol/ks.htm#排序]
+
+5.[**最小化突触模型的复杂，是保持A-系数足够高的关键**] (https://super-memory.com/english/ol/ks.htm#复杂性）
+
+6.[**有计划的冗余是可用于交叉强化突触模式的一种方式**](https://super-memory.com/english/ol/ks.htm#冗余）
+
+7.[**措辞的复杂性度与理解力的关系**](https://super-memory.com/english/ol/ks.htm#措辞)
+
+8.[**项目中封装的附加功能**](https://super-memory.com/english/ol/ks.htm#Functionality)
 
 9.[**学习中的知识表示问题总结**](https://super-memory.com/english/ol/ks.htm#Summary)
 
 ------
 
-**优化自我教育这件事上，与知识无关的要素**。
+**在自我教育中，与知识无关的要素**
 
 在讲述「知识的表征」之前，我想简单列一下有效学习中，与主题之无关的原则。
 

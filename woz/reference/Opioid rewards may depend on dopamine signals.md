@@ -1,6 +1,6 @@
 # 阿片药物的奖励可能取决于多巴胺信号
 
-https://supermemo.guru/wiki/Opioid_rewards_may_depend_on_dopamine_signals
+原文：https://supermemo.guru/wiki/Opioid_rewards_may_depend_on_dopamine_signals
 
 该[参考资料](https://supermemo.guru/wiki/References)用来支持 [Piotr Wozniak](https://supermemo.guru/wiki/Piotr_Wozniak) 博士关于记忆、学习、创造力和问题解决系列文章中的部分观点
 

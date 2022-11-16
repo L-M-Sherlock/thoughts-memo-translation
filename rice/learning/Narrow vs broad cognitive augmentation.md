@@ -22,7 +22,7 @@
 
 ## 链接到本文
 
-* [交互式解释](https://wiki.issarice.com/wiki/Explorable_explanation) ‎ ([← 链入](https://wiki.issarice.com/index.php?title=Special:WhatLinksHere&target=Explorable+explanation))
+* [可探索解释](https://wiki.issarice.com/wiki/Explorable_explanation) ‎ ([← 链入](https://wiki.issarice.com/index.php?title=Special:WhatLinksHere&target=Explorable+explanation))
 
 * [宽泛认知增强](https://wiki.issarice.com/index.php?title=Broad_augmentation&redirect=no) (redirect page) ‎ ([← 链入](https://wiki.issarice.com/index.php?title=Special:WhatLinksHere&target=Broad+augmentation))
 
