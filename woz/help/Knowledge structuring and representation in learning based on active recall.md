@@ -12,7 +12,7 @@
 
 1. [**自我教学优化中与知识特点无关的要素**](https://super-memory.com/english/ol/ks.htm#Knowledge 独立)
 
-2.[**在学习中知识的争论**] (https://super-memory.com/english/ol/ks.htm#表述）
+2.[**学习中知识的呈现方式**](https://super-memory.com/english/ol/ks.htm#表述）
 
 3.[**主动回忆系统中有效知识表示的组成部分**] （https://super-memory.com/english/ol/ks.htm#组成）
 
@@ -44,7 +44,7 @@
 
 > 最后，一系列心理和生理健康方面的问题都会影响到学习过程，但这些考虑远远超出了本文的范围。
 
-**学习中的知识表示问题**。
+**学习中知识的呈现方式**
 
 人们早就知道，知识的呈现方式会影响其记忆方式，从而影响到知识留存在记忆中的难易程度。
 
