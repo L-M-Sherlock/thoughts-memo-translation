@@ -1,4 +1,4 @@
-# §赋能环境、游戏和入门指南
+# §赋能环境、游戏和 the Primer
 
 原文：[§Enabling environments, games, and the Primer (andymatuschak.org)](https://notes.andymatuschak.org/z244xx3kMf1v8UnkZKUwQBAwBsHLpUgN4YhsG)
 
@@ -52,27 +52,27 @@
 
   - [教育游戏试图通过情景体验进行教学](https://notes.andymatuschak.org/z5xCoFBNqoFjNHsWcsP4GbSPKqAG3dNzR6SXC)
 
-  - [教育游戏对于创造赋能环境是注定失败的方法](https://notes.andymatuschak.org/z7wPt3dxX5hp6LK3PLUBTJXxk7kAhMuh8UDck)
+  - [对于创造赋能环境，教育游戏是注定失败的方法](https://notes.andymatuschak.org/z7wPt3dxX5hp6LK3PLUBTJXxk7kAhMuh8UDck)
 
   - （更多该子项和反教育主义标签的说明；[教育计划往往会自我颠覆](https://notes.andymatuschak.org/z6qfYv9SPx6M9FZPzVj7o4qVRD1iTGJpMfz6J)是一个很好的根节点 ::todo structure subtree in outline::）
 
 - 介绍[《少龄淑女绘本入门指南》](https://notes.andymatuschak.org/z6xtQsFDb5YAPxWzJdoYKbYVAxQghSteVEyoX)：
 
-  - [《入门》提醒人们注意自己的深层赋能体验](https://notes.andymatuschak.org/z6y1YwYjJS1YAjjegXPTQzoxhrX8CUpk5PjS8)
+  - [《入门指南》提醒人们注意自己的深层赋能体验](https://notes.andymatuschak.org/z6y1YwYjJS1YAjjegXPTQzoxhrX8CUpk5PjS8)
 
-  - 比起教育游戏，《入门》似乎是一个更好的例子。[《入门》的目标是培养有创造力的、颠覆性的年轻人](https://notes.andymatuschak.org/zvMhuE5FyXVfspgazybETDJwHrYPVxN2Cere)；它不是要检查一堆学习目标的盒子
+  - 比起教育游戏，入门书似乎是一个更好的例子。[《入门指南》的目标是培养有创造力的、颠覆性的年轻人](https://notes.andymatuschak.org/zvMhuE5FyXVfspgazybETDJwHrYPVxN2Cere)；它不是要检查一堆学习目标的盒子
 
-    - 像游戏一样，[The Primer是一个巨大的颁布体验](https://notes.andymatuschak.org/z2bumF8sVKrkRzRTcVPL8xfMCkJ9f4se2e8cR)，并且[The Primer是可扩展的](https://notes.andymatuschak.org/z5NZs4GTsEc9n8zyYoVCTA9AfSMDNrHwdQRoF)
+    - 像游戏一样，[《入门指南》是一场庞大的情景体验](https://notes.andymatuschak.org/z2bumF8sVKrkRzRTcVPL8xfMCkJ9f4se2e8cR)，并且[《入门指南》是可扩展的](https://notes.andymatuschak.org/z5NZs4GTsEc9n8zyYoVCTA9AfSMDNrHwdQRoF)
 
   - 不幸的是，《钻石年代》中描述的具体机制不会起作用：见[《入门》不是一个可行的赋能赋能环境环境](https://notes.andymatuschak.org/z4WNFDsAy4sqT8eU9VUfKwW1gdSL4UGB4mbyG)和subtree::todo结构subtree in outline:。
 
-  - 很难想象把教育游戏修改成什么好东西，但《入门》足够接近目标，值得批评，而且，可能还可以借鉴。
+  - 很难想象把教育游戏修改成什么好东西，但《入门指南》足够接近目标，值得评论，而且，可能还可以借鉴。
 
-    - 内尔确实感觉到她带来了每一个步骤；这在教育游戏中是不正确的，因为[演化的经验需要参与者定位的因果关系](https://notes.andymatuschak.org/z3JVez8dDfxTHY1K9tHUfLLcgLkUmXQ2HKXUU)
+    - Nell 确实感觉到她自己在实现每一个步骤；这在教育游戏中是不正确的，因为[情景体验需要参与者置身的因果关系](https://notes.andymatuschak.org/z3JVez8dDfxTHY1K9tHUfLLcgLkUmXQ2HKXUU)
 
-    - Primer是关于真正重要的事情（[Primer的目标是培养有创造力的、颠覆性的年轻人](https://notes.andymatuschak.org/zvMhuE5FyXVfspgazybETDJwHrYPVxN2Cere)，即使Nell不知道（[Nell不知道也不认同Primer的目标](https://notes.andymatuschak.org/z6mg4iibFwrKipuEYQvBuA9cxnjvZ2vG2QgQ9)）。
+    - 入门书讲的是真正重要的事情（[《入门指南》的目标是培养有创造力的、颠覆性的年轻人](https://notes.andymatuschak.org/zvMhuE5FyXVfspgazybETDJwHrYPVxN2Cere)，即使 Nell 不知道（[ Nell 不知道也不认同《入门指南》的目标](https://notes.andymatuschak.org/z6mg4iibFwrKipuEYQvBuA9cxnjvZ2vG2QgQ9)）。
 
-    - Primer 中的活动更接近于真实的赋能环境[情景体验可以引导人们积极参与到赋能环境中](https://notes.andymatuschak.org/z2FDTR2NfpW1AtA4SAETevmKC2uDGEHfKrbhG)
+    - 入门书中的活动更接近于真实的赋能环境[情景体验可以引导人们积极参与到赋能环境中](https://notes.andymatuschak.org/z2FDTR2NfpW1AtA4SAETevmKC2uDGEHfKrbhG)
 
     - 它可以在专家环境下连续进行，而不是留下什么东西（[《入门》是内尔余生的一个大 "入职 "经历](https://notes.andymatuschak.org/z2JYDtbKyaxf2nhicZTCGEScUcYLjZuda4vY8)
 
@@ -128,7 +128,7 @@
 
 TODO:
 
-- 诋毁MOOCs；将YC、教育游戏和《入门》与MOOC进行比较；整合[Minecraft与《入门》](https://notes.andymatuschak.org/z5U8XrHkLFcmaGPMmK4V4AW8ojHxPq1sJ1BJp)
+- 诋毁 MOOCs；将 YC 、教育游戏和 MOOC 的入门课程进行比较；整合 [Minecraft vs. 入门指南](https://notes.andymatuschak.org/z5U8XrHkLFcmaGPMmK4V4AW8ojHxPq1sJ1BJp)
 
 ------
 

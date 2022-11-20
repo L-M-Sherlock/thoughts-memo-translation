@@ -22,7 +22,7 @@
 
 6.[**有计划的冗余是可用于交叉强化突触模式的一种方式**](https://super-memory.com/english/ol/ks.htm#冗余）
 
-7.[**措辞的复杂性度与理解力的关系**](https://super-memory.com/english/ol/ks.htm#措辞)
+7.[**措辞的复杂程度与理解力的关系**](https://super-memory.com/english/ol/ks.htm#措辞)
 
 8.[**项目中封装的附加功能**](https://super-memory.com/english/ol/ks.htm#Functionality)
 

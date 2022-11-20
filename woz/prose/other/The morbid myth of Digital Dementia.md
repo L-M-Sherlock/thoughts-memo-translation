@@ -16,7 +16,7 @@
 
 在这里，在期待教育涅槃的时代，Manfred Spitzer 博士来了。亲爱的医生说：「儿童在 18 岁之前不应该学习访问谷歌。」当 Nicholas Carr 说「[谷歌让你变傻](https://supermemo.guru/wiki/Freedom_of_education)」时，我们可以把他当作一个对神经科学知之甚少的记者来看待（见：[证明：互联网让我们更聪明](https://supermemo.guru/wiki/Proof:_Internet_makes_us_smarter)）。如果 Yuval Harari 说「[我们已经被算法入侵](https://supermemo.guru/wiki/Myth:_Our_brains_can_get_hacked_by_algorithms)」，我们可以把他当作一个[努力理解大脑的历史学家](https://supermemo.guru/wiki/Yuval_Harari_does_not_understand_the_brain)。然而，Spitzer 是一位神经精神病学家，并对大脑有深入的了解，对受新数字媒体影响的人也有实践经验。虽然，Carr 或 Harari 引发了激烈的讨论，但 Spitzer 实际上已经做了一些实际的损害。他的书「[《Digital Dementia》](https://supermemo.guru/wiki/Digital_Dementia)」在几个国家已经相当流行，并且被正在焦虑的父母敏感关注。我了解 Spitzer 并不是因为他出色的研究。实际上是他在我的朋友家庭圈子里造成的伤害让我注意到了他的书。有一种现象似乎正在成为一种流行病：父母没收数字设备，胁迫孩子为学校学习。Spitzer 本人反对[强制学习](https://supermemo.guru/wiki/Coercion_in_learning)，然而，他的解决方案只能使问题更加严重。一个健康的孩子的大脑在[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的引导下，可以看到新媒体与[无语义课程](https://supermemo.guru/wiki/Asemantic_curriculum)所驱动的令人痛苦的无聊的学校时间之间的天壤之别。这放大了失去控制的感觉，而这正是 Spitzer 本人在他的著作中所谴责的。这种无助感正是促使孩子们成瘾的有毒力量，包括[游戏障碍](https://supermemo.guru/wiki/Gaming_disorder)。无意中，Spitzer 将使许多孩子的生活变得更像地狱。
 
-为了清楚起见，Spitzer 运用了大量的神经科学知识。我应该赞扬 Spitzer 对德国学校的批评，以及他对学校教育中许多有害方面的良好理解。[胁迫](https://supermemo.guru/wiki/Coercion)、[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)、[外在动机](https://supermemo.guru/wiki/Extrinsic_motivation)、[奖励制度](https://supermemo.guru/wiki/School_drive)、缺乏整体性学习、压力、自身[知识评估](https://supermemo.guru/wiki/Knowledge_valuation_network)不足等等。然而，他的所有善举都很容易被他的书所推翻。Spitzer 非但没有让家长思考自由和儿童权利，反而会把更多的孩子赶到强制性的学校教育中去，让他们无法接触到丰富的数字媒体果园。矛盾的是，这可能会导致更多的孩子陷入压力、沉迷，并与他们的父母或学校发生战争。
+为了清楚起见，Spitzer 运用了大量的神经科学知识。我应该赞扬 Spitzer 对德国学校的批评，以及他对学校教育中许多有害方面的良好理解。[胁迫](https://supermemo.guru/wiki/Coercion)、[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)、[外在动机](https://supermemo.guru/wiki/Extrinsic_motivation)、[奖励制度](https://supermemo.guru/wiki/School_drive)、缺乏全面的学习、过大的压力、自身[知识评估](https://supermemo.guru/wiki/Knowledge_valuation_network)不足等等。然而，他所有正确的行为却被他的书轻易推翻。Spitzer 非但没有让家长思考自由和儿童的权利，反而会把更多的孩子赶到强制性的学校教育中去，让孩子们无法接触到丰富的数字媒体之园。矛盾的是，这1可能会导致更多的孩子陷入压力、上瘾，并与他们的父母或学校发生战争。
 
 一个[偏见向量](https://supermemo.guru/wiki/Falsity_vector)就能把丰富的神经科学知识变成具有深远社会影响的伤害。
 
@@ -24,7 +24,7 @@
 
 Spitzer 在媒体上相当有发言权和战斗力。他可能是学习心理学领域的 Boris Johnson。他结合了博学者、煽动者、科学家和无知者的素质。如果我要指出 Spitzer 推理中的关键弱点，以及他对神经科学知识的关键错误，那就是他对注意力、多任务处理、游戏的认知影响、长期记忆、学习和[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的评论。我在下面简要地解释一下所有的观点。
 
-除了神经科学思维方面的错误外，Spitzer 似乎并不了解游戏，甚至还宣扬了一些关于谷歌艺术的错误观念。为什么他甚至会提到谷歌的一万次点击，好像阅读它的顶级搜索结果有什么困难或令人沮丧的地方？一个孩子可以使用 Cortana （译者按：微软小娜，类似Google Assistant的语音助手）并[询问有关长颈鹿的问题](https://supermemo.guru/wiki/Letteracy)。我们怎么可能批评这个星球上最好的数字老师呢？尽管有图书利润，我希望曼弗雷德的动机是真诚的，因为他的一些说法让人无法真诚地相信。
+除了神经科学思维方面的错误外，Spitzer 似乎并不了解游戏，甚至还宣扬了一些关于谷歌艺术的错误观念。为什么他甚至会提到谷歌的一万次点击，难道阅读它的顶级搜索结果会让人觉得困难或者沮丧？一个孩子可以使用 Cortana （译者按：微软小娜，类似Google Assistant的语音助手）并[询问有关长颈鹿的问题](https://supermemo.guru/wiki/Letteracy)。我们怎么可能批评这个星球上最好的数字老师呢？尽管有利可图，但我仍然希望 Manfred 的动机是真诚的，因为他的一些说法让人不得不真诚地相信。
 
 我自己不是一个游戏玩家，但我确实在 1986 年花了几个晚上玩游戏。我确实了解电脑游戏的成瘾性。Spider的推理让他看起来像一个从未在手中握过操纵杆的人。我从来没有在手里握过方向盘，这就是为什么我在谈到驾驶时很谨慎。我认识几十个年轻的游戏玩家，他们都帮助我了解他们的思想和动机。他们与我对大脑的了解很吻合。Spitzer亲自会见了游戏成瘾的病态案例，这可能导致他的[抽样偏见](https://en.wikipedia.org/wiki/Sampling_bias)。我承认，我没有和一个真正的成瘾者交谈过，原因很简单。我没有遇到任何一个。对于每一个严重上瘾的案例，都有成百上千的健康年轻人，他们遵循自己的自然本能进入游戏世界。总是有副作用的，孩子们通常都知道这些。运动也有副作用。我并不介意「上瘾」。
 

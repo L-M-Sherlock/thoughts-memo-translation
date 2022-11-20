@@ -76,7 +76,7 @@
 
 然而，我后来花了三十年时间研究[自由学习](https://supermemo.guru/wiki/Free_learning)，其中最后20年是由[增量阅读](https://supermemo.guru/wiki/Incremental_reading)推动的。增量阅读是自由学习的最佳隐喻，也是研究其动态和优化的最佳工具（见：【学习驱动的优化】(https://supermemo.guru/wiki/Optimality_of_the_learn_drive)）。在渐进式阅读中，我可以看到[知识之树](https://supermemo.guru/wiki/Knowledge_tree)的成长。我看到偏见和激情。我看到了背景和积极的关联。我看到生活中各种问题的解决方案。我看到在学校里被忽视或不喜欢的树枝是如何被填充到符合我自己需求的想法中的。我可以权威地比较学校和[自由学习](https://supermemo.guru/wiki/Free_learning)，而赢家是自由。在第一轮的第一毫秒内就KO了! 可以证实的是，我在学校的大部分知识已经被[遗忘](https://supermemo.guru/wiki/Forgetting)，而且经常以不同的方式重新学习。正是学校教育提供之外的新知识，提供了最大的快乐能量的提升。如果你从未尝试过性生活，你应该相信我的话：它是伟大的!
 
-你需要多年体验[自由学习](https://supermemo.guru/wiki/Free_learning)以及学校教育的异同才能有效的得出好的结论
+你需要结合多年的[自由学习](https://supermemo.guru/wiki/Free_learning)以及学校教育才能做出好的比较
 
 ## 令人震惊的结论
 

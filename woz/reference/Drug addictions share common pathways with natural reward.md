@@ -2,7 +2,7 @@
 
 原文：[Drug addictions share common pathways with natural reward - supermemo.guru](https://supermemo.guru/wiki/Drug_addictions_share_common_pathways_with_natural_reward)
 
-这个[参考资料](https://supermemo.guru/wiki/References)被用来支持 [Piotr Wozniak](https://supermemo.guru/wiki/Piotr_Wozniak) 博士关于记忆、学习、创造力和问题解决系列文章中的一部分观点
+该[参考资料](https://supermemo.guru/wiki/References)用来支持[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)博士关于记忆、学习、创造力和问题解决系列文章中的部分观点
 
 大量在学校工作的人似乎没有看到[学校教育](https://supermemo.guru/wiki/Schooling)和成瘾之间的关系。当孩子们对毒品上瘾时，我们责怪孩子。当孩子们对[电子游戏](https://supermemo.guru/wiki/Videogames)上瘾时，我们责怪游戏。实际上，所有成瘾问题的根本原因是自然奖励系统被破坏，例如，由于专制的父母，或由于[学校对自由](https://supermemo.guru/wiki/School_is_prison)的限制。更多信息见：[预防成瘾的奖励多样性](https://supermemo.guru/wiki/Reward_diversity_in_preventing_addictions)
 
