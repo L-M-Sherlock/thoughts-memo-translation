@@ -12,17 +12,17 @@
 
 狭域认知增强用起来更令人满意，但需要发明这种认知增强是费时费力的，而且对于每个希望涉猎的话题都需要单独发明工具。
 
-[3blue1brown](https://wiki.issarice.com/index.php?title=3blue1brown&action=edit&redlink=1) 频道的可视化工作感觉像是两者的一种混合。一方面，可视化本身像是广泛认知增强。但另一方面，Grant 只能给每个他想解释的东西单独做视频。观众自己不知道怎么把数学概念做成动画；他们就是来看视频的。所以在那种意义上这也是狭域的。
+[3blue1brown](https://wiki.issarice.com/index.php?title=3blue1brown&action=edit&redlink=1) 频道的可视化作品感觉像是两者的结合。一方面，可视化本身像是广域认知增强。但另一方面，Grant 只能给每个他想解释的东西单独做视频。观众自己不知道怎么把数学概念做成动画；他们就是来看视频的。所以在那种意义上这也是狭域的。
 
-[Andy Matuschak](https://wiki.issarice.com/wiki/Andy_Matuschak) 在「对某领域只有一些专业知识时，可以通过写文讨论这种文本开发助记媒介」[[1]](https://wiki.issarice.com#cite_note-1)论及了相似的区别。具体看这些话：「如果你正在开发一个界面，通过具体化关于媒介（如 Logo）的深刻想法来获得力量，你需要深入该媒介的专业知识才能具体化正确的想法。Papert 没有这种经验。相比之下，助记媒介主要具体化关于记忆、知识理论、习惯等的想法，而不是关于量子计算的想法。」
+[Andy Matuschak](https://wiki.issarice.com/wiki/Andy_Matuschak) 在「对某领域只有一些专业知识时，可以通过写文讨论相关主题来开发助记媒介」[[1]](https://wiki.issarice.com#cite_note-1)论及了相似的区别。具体看这些话：「如果你正在开发一个界面，通过具体化关于媒介（如 Logo）的深刻想法来获得力量，你需要深入该媒介的专业知识才能具体化正确的想法。Papert 没有这种经验。相比之下，助记媒介主要具体化关于记忆、知识理论、习惯等的想法，而不是关于量子计算的想法。」
 
 ## 参见
 
-* [交互式解释](https://wiki.issarice.com/wiki/Explorable_explanation)——交互式解释主要侧重狭域认知增强。
+* [可探索的解释](https://wiki.issarice.com/wiki/Explorable_explanation)——可探索的解释主要侧重狭域认知增强。
 
 ## 链接到本文
 
-* [可探索解释](https://wiki.issarice.com/wiki/Explorable_explanation) ‎ ([← 链入](https://wiki.issarice.com/index.php?title=Special:WhatLinksHere&target=Explorable+explanation))
+* [可探索的解释](https://wiki.issarice.com/wiki/Explorable_explanation) ‎ ([← 链入](https://wiki.issarice.com/index.php?title=Special:WhatLinksHere&target=Explorable+explanation))
 
 * [宽泛认知增强](https://wiki.issarice.com/index.php?title=Broad_augmentation&redirect=no) (redirect page) ‎ ([← 链入](https://wiki.issarice.com/index.php?title=Special:WhatLinksHere&target=Broad+augmentation))
 

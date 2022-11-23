@@ -1,6 +1,6 @@
 # 好动机有什么特点？
 
-原文：[什么才算好动机？](https://wiki.issarice.com/wiki/What_counts_as_good_motivation%3F)
+原文：[What counts as good motivation?](https://wiki.issarice.com/wiki/What_counts_as_good_motivation%3F)
 
 * 有助于解决有趣的问题
 

@@ -103,3 +103,47 @@
 **在学校，相对学习来说，孩子们通常学会了讨厌学习**
 
 ## 欺骗大脑
+
+在偶然发现模板的魔力后的几个星期里，我与我的朋友圈里的老师和心理学家讨论了这个话题。我知道联想对快乐的影响，包括模板的颜色。我在自己的[收藏](https://supermemo.guru/wiki/Collection)中也很清楚，特别是参考了较少元认知*"超级备忘录技能 "*时代的旧知识。然而，香肠的情节提供了最清楚和最有力的例子，[学习中的胁迫](https://supermemo.guru/wiki/Coercion_in_learning)可以真正地关闭记忆。
+
+在我的谈话中，我多次听到有经验的教育工作者提出一个即兴的想法。*"为了提高孩子的英语水平，交换模板，使他最喜欢的模板被用来展示英语知识 "*。这其实是一个可怕的想法! 记忆问题不是来自于颜色，而是来自于[知识的价值](https://supermemo.guru/wiki/Knowledge_valuation)。与喜欢的颜色的快乐联想会迅速熄灭。
+
+这种欺骗大脑的想法实际上在学校教育的整个过程中无处不在。孩子们在学校不断收到假的奖励和假的信号。所有这些欺骗的目的是把孩子拖过[课程]的一个又一个阶段（https://supermemo.guru/wiki/Curriculum）。然而，这也导致了信号的冲突。
+
+交换喜欢和不喜欢的物品的颜色会向大脑发出矛盾的信号。这就是[网络之战]（https://supermemo.guru/wiki/War_of_the_networks）的基础。这就是学校和家长失去权威的原因。联想变得毫无意义，因为它们不再为一个重要目的服务：区分有意义的知识和无意义的知识。很多时候，这种划分是沿着语义学与非语义学的路线进行的。然而，最终的答案是在[知识评价网络]（https://supermemo.guru/wiki/Knowledge_valuation_network）。大脑通过检测不喜欢的颜色和放弃理解或编码不喜欢的知识的努力，节省了大量的时间和精力。如果我们不断欺骗大脑，推翻它的联想成就，我们很快就会到达[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)（如[此图](https://supermemo.guru/wiki/File:Neural_competition_between_the_learn_drive_and_the_system_of_rewards_at_school.png)）。大脑开始忽视学校提供的所有知识，这可能[泛化](https://supermemo.guru/wiki/Generalization)到整个学习。它可能会导致诸如*"我不擅长物理 "*或*"我对语言没有兴趣 "*的说法。这些说法很难根除，许多人死时都对自己的智力缺陷抱有错误的信念。
+
+很多时候，对大脑的持续欺骗可能导致整个学习的想法与不愉快联系在一起。孩子们失去了[学习的乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)，而学习的乐趣是他们取得高成就的最好武器。
+
+教师有很好的直觉和技能来欺骗孩子的大脑。可悲的是，他们没有意识到信号冲突对孩子的[智力]造成的损害程度。(https://supermemo.guru/wiki/Intelligence)
+
+## 进一步阅读
+
+- [Semantic learning](https://supermemo.guru/wiki/Semantic_learning)
+
+- [Asemantic learning](https://supermemo.guru/wiki/Asemantic_learning)
+
+- [Toxic memory](https://supermemo.guru/wiki/Toxic_memory)
+
+- [100 bad habits learned at school](https://supermemo.guru/wiki/100_bad_habits_learned_at_school)
+
+- [Futility of schooling](https://supermemo.guru/wiki/Futility_of_schooling)
+
+## 摘要
+
+- 小孩子采用[语义学习](https://supermemo.guru/wiki/Semantic_learning)，他们的元认知能力很差。
+
+- 学校教育为[语义学习](https://supermemo.guru/wiki/Asemantic_learning)提供了宽容的条件，这导致了快速的遗忘，薄弱的[概括](https://supermemo.guru/wiki/Generalization)能力，以及[学校教育的仇恨](https://supermemo.guru/wiki/Why_kids_hate_school%3F)
+
+- 语境的微小变化会导致记忆的重大变化
+
+- 学习的乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)在[回忆](https://supermemo.guru/wiki/Recall)中发挥着作用，即使它与知识内容没有直接联系。
+
+- 即使与学校的联系很弱，也会导致关闭巩固的信号（学习不会发生）。
+
+- 在学校里，孩子们非但不学习，反而常常学会不喜欢学习
+
+- 在生命的早期，自我指导的[自由学习](https://supermemo.guru/wiki/Free_learning)是最有效的学习形式。
+
+- 早期的学术指导可能通过形成[有毒记忆]而造成伤害(https://supermemo.guru/wiki/Toxic_memories)
+
+- 一个令人难忘的事件可能比学校的几十次重复更有意义

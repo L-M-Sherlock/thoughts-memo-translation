@@ -22,7 +22,9 @@
 
 对我们来说，智力是解决特定问题的能力。而所谓的普遍智慧，则更像是神话一般的存在。当一个学识渊博的人接触某些领域时，可能会碰撞出天才的火花，得出接近于普遍智慧的结论。在我们的认知中，拥有这些特性的人可能是个**文艺复兴之人**或是**政治家**。此外，广泛的学习能营造出普遍智慧的假象。在生活中我们不难发现，一些看似有普遍智慧的事经常能在家庭中流传。据推测，这其中可能有家庭的文化、人的个性特征与一部分基因决定的大脑实际处理能力的影响。
 
-和没有普遍智慧一样，通用的IQ测试也不存在。所有的测试都以前置知识、兴趣、见识、文化等为基础。Howard Gardner曾提出[多元智力](https://en.wikipedia.org/wiki/Theory_of_multiple_intelligences)的概念，即人的神经模式可能会自动将不同的知识以相异的方式处理。这一理论可以涵盖所有方面的知识，因为人对特定领域的训练会导致对这一领域的智慧[涌现](https://supermemo.guru/wiki/Emergence)出来。由此，我们不难得出：有多少会思考的人就会有多少智慧。通常来说，导致[一般智力因素](https://en.wikipedia.org/wiki/G_factor_(psychometrics)变化的事都源于不同领域相影响（比如说，在一组正反馈回路中，学习可能会影响睡眠、生理循环、神经变化、情绪等）。
+和没有普遍智慧一样，通用的IQ测试并不存在。所有的测试都以前置知识、兴趣、见识、文化等为基础。Howard Gardner曾提出[多元智力](https://en.wikipedia.org/wiki/Theory_of_multiple_intelligences)的概念，即人的神经模式可能会自动将不同的知识以相异的方式处理。这一理论可以涵盖所有方面的知识，因为人对特定领域的训练会导致对这一领域的智慧[涌现](https://supermemo.guru/wiki/Emergence)出来。由此，我们不难得出：有多少会思考的人就会有多少智慧。通常来说，导致[一般智力因素](https://en.wikipedia.org/wiki/G_factor_(psychometrics)变化的事都源于不同领域相影响（比如说，在一组正反馈回路中，学习可能会影响睡眠、生理循环、神经变化、情绪等）。
+
+普遍的问题解决能力并不存在，也正因此，世上没有普遍的问题解决测试。（见[PISA开始重新关注问题解决能力](https://supermemo.guru/wiki/PISA_fuels_the_education_arms_race)）。而这也延伸到了人工智能领域：我们不能因*"它只会下围棋"*而否认其先进性。诚然，我们让人工智能对某个领域进行深度学习时，其中会[涌现](https://supermemo.guru/wiki/Emergence)许多适用于普遍[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的[抽象知识](https://supermemo.guru/wiki/Abstract_knowledge)。但要将其真正完善成一个人工智能，仍然需要针对特定领域的训练以达成。
 
 ## 衰老是如何影响智力的？
 
@@ -37,3 +39,29 @@
 这个公式是普遍且封闭的。它可以让我们忽视起点不同的问题，以解决由人个体差异造成的偏差。同时，它也带来了一个好消息：**先天因素对高智力的影响并不多**。
 
 ## 我们该如何让人们更加聪明？
+
+## 智力 vs. 知识
+
+稳定的知识基础与新知识的获得，能在智力的提升中起到关键作用。详见：[在创造性解决问题中的知识](https://supermemo.guru/wiki/Knowledge_in_creative_problem_solving)。
+
+[![img](https://supermemo.guru/images/thumb/0/0c/Knowledge_in_creative_problem_solving.png/500px-Knowledge_in_creative_problem_solving.png)](https://supermemo.guru/wiki/File:Knowledge_in_creative_problem_solving.png)
+
+在创造性解决问题中的知识
+
+> 图：创造性地解决问题需要（1）具有高度[稳定性](https://supermemo.guru/wiki/Stability)的庞大专家知识，以及（2）具有高度[可提取性](https://supermemo.guru/wiki/Retrievability)的丰富新知识。庞大的稳定知识使解决算法问题变得容易。在[快速思维](https://supermemo.guru/wiki/Fast_thinking)的帮助下，这些问题可以在低能量消耗下解决。需要 「跳出框架思考 」的问题则依赖于[创造力](https://supermemo.guru/wiki/Creativity)，即对遥远想法的联想。创造力和[学习内驱力](https://supermemo.guru/wiki/Learn_drive)由 「饥饿的知识 」提供动力，即新鲜的知识可以通过[遗忘](https://supermemo.guru/wiki/Forgetting)轻易地被塑造和[泛化](https://supermemo.guru/wiki/Generalization)。这种可塑性为新的学习和创造性问题的解决提供了良好的模式匹配。
+
+## 如何解决任何问题？
+
+在另一篇文章中，我提出了一个高效解决问题的通用公式。一旦你理解了这个公式，便更有可能同意我上述的方案。即[如何解决任何问题？](https://supermemo.guru/wiki/How_to_solve_any_problem%3F)
+
+## 进一步阅读
+
+- [我怎样才能变得更有创造力？](https://supermemo.guru/wiki/How_can_I_become_more_intelligent%3F)
+
+- [智商是衡量智力的糟糕标准](https://supermemo.guru/wiki/IQ_is_a_dismal_measure_of_intelligence)
+
+- [创造力](https://supermemo.guru/wiki/Creativity)
+
+- [抽象知识](https://supermemo.guru/wiki/Abstract_knowledge)
+
+- [概念网络](https://supermemo.guru/wiki/Concept_network)
