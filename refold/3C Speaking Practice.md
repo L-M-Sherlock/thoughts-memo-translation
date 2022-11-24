@@ -2,13 +2,13 @@
 
 3A 和 3B 阶段，你要专心练习口语能力的各个子技能。
 
-1. 去听和你交流的人说的内容 (听力练习)
+1. 去听和你交流的人说的内容（听力练习）
 
 2. 思考该说什么（写作练习）
 
-3. 把想法转化成文字 (写作练习)
+3. 把想法转化成文字（写作练习）
 
-4. 开口发出声音 (发音练习)
+4. 开口发出声音（发音练习）
 
 现在你已经全部掌握这些子技能，是时候整合它们，开始说话了。
 
@@ -42,7 +42,7 @@
 
 谈到输出，什么都不能代替真正的对话。不与真人练习就永远无法达到轻松晓畅的口语水平。
 
-[HelloTalk](https://brc.hellotalk.com/refold)、[Tandem](https://www.tandem.net/)、[Discord](https://www.reddit.com/r/languagelearning/comments/5m5426/discord_language_learning_servers_masterlist/)之类的软件是与母语者交友聊天的好去处。
+[HelloTalk](https://brc.hellotalk.com/refold)、[Tandem](https://www.tandem.net/)、[Discord](https://www.reddit.com/r/languagelearning/comments/5m5426/discord_language_learning_servers_masterlist/) 之类的软件是与母语者交友聊天的好去处。
 
 如果能负担得起专业导师的经济成本，[iTalki](http://go.italki.com/refold) 也很适合练习对话，纠正错误。
 
@@ -52,7 +52,7 @@
 
 重要的是：不要提前准备独白。独白要尽可能不打草稿，自然流露，才能展示你真正的口语能力。
 
-想说什么说什么。你可以概括刚看过的电影，或者讲述个人经历。如果不确定从何开始，就随便看一个Youtube视频，总结其内容。
+想说什么说什么。你可以概括刚看过的电影，或者讲述个人经历。如果不确定从何开始，就随便看一个 Youtube 视频，总结其内容。
 
 #### 模仿语言家长
 
@@ -62,9 +62,9 @@
 
 ### 其他问题
 
-练习口语时可能会遇到很多问题。为了帮助你克服这些问题，我们从Refold社群搜集问题并编写了[口语常见问题解答](https://refold.la/roadmap/stage-3/c/speaking-troubleshooting）。
+练习口语时可能会遇到很多问题。为了帮助你克服这些问题，我们从 Refold 社群搜集问题并编写了[口语常见问题解答](https://refold.la/roadmap/stage-3/c/speaking-troubleshooting）。
 
-### 联系口语指南
+### 口语练习指南
 
 要提高你的口语技能，请专注于这个口语练习循环：
 
@@ -80,7 +80,7 @@
 
 如果你觉得某项口语子技能的欠缺妨碍了你的口语能力，完全可以集中练习该子技能 1-2 周再回到口语练习循环。
 
-要让语言“活起来”，注重写作和独白。要改善口音，注重影子跟读和模仿。
+要让语言「活起来」，注重写作和独白。要改善口音，注重影子跟读和模仿。
 
 ### 进阶
 

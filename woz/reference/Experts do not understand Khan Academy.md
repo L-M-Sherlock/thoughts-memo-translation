@@ -30,11 +30,11 @@
 
 2012 年 7 月，瓦莱丽·施特劳斯在《华盛顿邮报》的两篇专栏文章中批评了萨尔·可汗和他为每个家庭带来[免费教育](https://supermemo.guru/wiki/Free_learning)的努力。 *[Mathalicious](http://www.mathalicious.com/)* 的创建者 Karim Kai Ani，写下这么一段文字：
 
-> 老师们并不生气，因为可汗学院是世界的老师。他们担心，他是一个被认为是伟大的坏老师；这个给全世界学生上过1.7亿节课的人公开吹嘘自己没有准备好，认为对数学概念的精确解释只是吹毛求疵。有经验的教育工作者们担心，如果在课堂上出现不良教学，就会出现危机。但当它出现在YouTube上时，它就是一场革命。
+> 老师们并不「生气」，因为可汗学院是世界的老师。他们担心，他是一个被认为是伟大的坏老师；这个给全世界学生上过 1.7 亿节课的人公开吹嘘自己没有准备好，认为对数学概念的精确解释只是「吹毛求疵」。有经验的教育工作者们担心，如果在课堂上出现不良教学，就会出现危机。但当它出现在 YouTube 上时，它就是一场「革命」。
 
-Karim Kai Ani 懂得[有意识地学习](https://supermemo.guru/wiki/Semantic_learning)数学，然而，有一个因素使上述推论不正确:**自由选择**。在[可汗学院](https://supermemo.guru/wiki/Khan_Academy)没有[强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling) 。如果视频不能产生足够的[学习熵](https://supermemo.guru/wiki/Learntropy)信号，孩子可以看完就走开。Sal 有许多竞争对手（例如，我从未见过比 [这个]（https://www.youtube.com/watch?v=EW08rD-GFh0）更好的拉普拉斯算子解释，Blue Brown 也为 可汗学院提供服务）。比赛不仅来自视频，还来自优秀的文本手册或大学水平的讲座。老师们总是忘记他们不是 [学习熵](https://supermemo.guru/wiki/Learntropy) 的最佳评估者。最好的评估员是客观的。这是学生自己的[学习内驱力](https://supermemo.guru/wiki/Learn_drive)系统，很大程度上是非自愿的（即信号仅取决于前置知识和信息传递）（参见：[学习的乐趣]（ https://supermemo.guru/wiki/Pleasure_of_learning））。 Karim Kai Ani 可以在 *Mathalicious* 上进行完美的教学交付，但这种努力可能会立即被 [学习内驱力](https://supermemo.guru/wiki/Learn_drive) 奖励信号所抵消。孩子可能会简单地说*“我不喜欢它”*，而这种评估是无法反驳的。在教育中，孩子的大脑是唯一的真神。
+Karim Kai Ani 懂得[有意识地学习](https://supermemo.guru/wiki/Semantic_learning)数学，然而，有一个因素使上述推论不正确：**自由选择**。在[可汗学院](https://supermemo.guru/wiki/Khan_Academy)没有[强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling) 。如果视频不能产生足够的[学习熵](https://supermemo.guru/wiki/Learntropy)信号，孩子可以看完就走开。Sal 有许多竞争对手（例如，我从未见过比[这个视频](https://www.youtube.com/watch?v=EW08rD-GFh0)更好的拉普拉斯算子解释，Blue Brown 也为可汗学院提供服务）。比赛不仅来自视频，还来自优秀的文本手册或大学水平的讲座。老师们总是忘记他们不是[学习熵](https://supermemo.guru/wiki/Learntropy)的最佳评估者。最好的评估员是客观的。这是学生自己的[学习内驱力](https://supermemo.guru/wiki/Learn_drive)系统，很大程度上是非自愿的（即信号仅取决于前置知识和信息传递）（参见：[学习的乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)）。Karim Kai Ani 可以在 *Mathalicious* 上进行完美的教学交付，但这种努力可能会立即被 [学习内驱力](https://supermemo.guru/wiki/Learn_drive) 奖励信号所抵消。孩子可能会简单地说「我不喜欢它」，而这种评估是无法反驳的。在教育中，孩子的大脑是唯一的真神。
 
-数学教育专家Christopher Danielson和Michael Paul Goldenberg写道：
+数学教育专家 Christopher Danielson 和 Michael Paul Goldenberg 写道：
 
 >  可汗学院的作并没有给数学教与学带来革命性的变化，而是为垂死的数学教与学概念增添了一层技术的光泽。更重要的是，他的视频揭示了我们对学生如何学习数学的无知[...] 许多数学教育工作者强调设计和提供高质量教学所必需的另一种知识：[教学内容知识](https://supermemo.guru /wiki/Pedagogical_content_knowledge) (PCK)。 PCK 是指与教学相关的内容知识 [...] 特定类型的PCK与学生学习的更大进步有关					
 

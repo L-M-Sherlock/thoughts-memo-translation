@@ -48,9 +48,13 @@
 
 记忆巩固（期望稳定化）近似
 
+> 图：由 [SM-17 算法](https://supermemo.guru/wiki/Algorithm_SM-17)近似的期望稳定性。该函数接受三个参数：（1）复习时的[稳定性](https://supermemo.guru/wiki/Stability)，以天为单位（在左侧），（2）复习时的[可提取性](https://supermemo.guru/wiki/Retrievability)（在右侧），和（3）记忆[复杂性](https://supermemo.guru/wiki/Complexity)，以条目难度表示（标签为 *Diff* 的滑块目前设置在 0.1 处，即简单条目）。在图中，巩固（期望稳定性增长）的峰值为 5（纵轴）。不同于实际数据，该近似被设置为永不小于 1.0。这意味着该近似函数永远不会让复习时的[稳定性](https://supermemo.guru/wiki/Stability)下降。10,130 次简单条目的重复被用于生成该图（Diff=0.1）。其中一个数据点展示了间隔达到 14 年的一组重复样本（[稳定性](https://supermemo.guru/wiki/Stability)为 5172）。
+
 [![img](https://supermemo.guru/images/thumb/d/d7/Memory_stabilization_curve.png/500px-Memory_stabilization_curve.png)](https://supermemo.guru/wiki/File:Memory_stabilization_curve.png)
 
 SuperMemo 中的记忆稳定化曲线
+
+> 图：[SuperMemo](https://supermemo.guru/wiki/SuperMemo) 计算的**[稳定化曲线](https://supermemo.guru/wiki/Stabilization_curve)**。
 
 [![img](https://supermemo.guru/images/thumb/4/4f/Stabilization_decay.png/500px-Stabilization_decay.png)](https://supermemo.guru/wiki/File:Stabilization_decay.png)
 

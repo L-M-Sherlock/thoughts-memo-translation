@@ -2,9 +2,9 @@
 
 原文：[Spaced repetition memory system (andymatuschak.org)](https://notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)
 
-间隔重复记忆系统结合了[测试效应](https://notes.andymatuschak.org/z45mhbpabsigFceeSiRyDXZdvcRqvE2A1xMsn)]和[间隔效应](https://notes.andymatuschak.org/z5oCe7JTrkYfmb6SHE4n5HxisE7PdwS6nmXEw)，能够用于高效地记忆成千上万的事实（[间隔重复记忆系统非常高效](https://notes.andymatuschak.org/z5rVJfPsyCU3pHBbhwef9DNR5fohTHCQFJWir)）。有些人还将它们用于更广泛的任务（见下文）。[间隔重复记忆系统使记忆成为一种选择](https://notes.andymatuschak.org/z4bR1HVvDUhMXDm5SJB4Tiw4xGbrm9AfXWgbc)，但它们不只是用于背诵事实：[间隔重复记忆系统可用于加深概念理解](https://notes.andymatuschak.org/z6UZP7P4sRNgRKSvNj7tMV5uW6dDhwwbdZCy9)。
+间隔重复记忆系统结合了[测试效应](https://notes.andymatuschak.org/z45mhbpabsigFceeSiRyDXZdvcRqvE2A1xMsn)]和[间隔效应](https://notes.andymatuschak.org/z5oCe7JTrkYfmb6SHE4n5HxisE7PdwS6nmXEw)，能够用于高效地记忆成千上万的事实性材料（[间隔重复记忆系统非常高效](https://notes.andymatuschak.org/z5rVJfPsyCU3pHBbhwef9DNR5fohTHCQFJWir)）。有些人还将它们用于更广泛的任务（见下文）。[间隔重复记忆系统让我们对记忆有了选择权](https://notes.andymatuschak.org/z4bR1HVvDUhMXDm5SJB4Tiw4xGbrm9AfXWgbc)，但不要以为它只能用来机械记忆：[间隔重复记忆系统可用于加深概念理解](https://notes.andymatuschak.org/z6UZP7P4sRNgRKSvNj7tMV5uW6dDhwwbdZCy9)。
 
-第一个成熟的系统是 [Supermemo](https://notes.andymatuschak.org/z6Bub13H3u5SKX7Yzbt8GBuK86HPTXSU1TdAK)，由 [Piotr Wozniak](https://notes.andymatuschak.org/z7ErFZbV91EoBMFNNRseVh3xk1AeJhwq3fZzS) 创造。它使用并推广了「间隔重复」这一术语；之前的文献使用的术语五花八门（通常指的是间隔效应更具体的方面）。
+第一个成熟的系统是 [Supermemo](https://notes.andymatuschak.org/z6Bub13H3u5SKX7Yzbt8GBuK86HPTXSU1TdAK)，由 [Piotr Wozniak](https://notes.andymatuschak.org/z7ErFZbV91EoBMFNNRseVh3xk1AeJhwq3fZzS) 创造。Supermemo使用并推广了「间隔重复」这一术语；在它之前，文献使用的术语五花八门（通常指的是间隔效应更具体的方面）。
 
 - 相关的系统和可能性：
 
@@ -40,7 +40,7 @@
 
   - [间隔重复系统可用于对注意力进行编程](https://notes.andymatuschak.org/z2gqazXUkf9qyFjMQg4W3dw6yegnAJszvDywN)
 
-    - [间隔重复系统与教义问答](https://notes.andymatuschak.org/z39D31syJUE1gtNTREogSZiG6LDSuwygN5NDt)
+    - [间隔重复系统用于问答式教学](https://notes.andymatuschak.org/z39D31syJUE1gtNTREogSZiG6LDSuwygN5NDt)
 
   - [间隔重复记忆系统可以用来促进应用、综合和创造](https://notes.andymatuschak.org/zE8PK4UUAAWK6LEcmr8jja8JdxpUxcf1FUCX)
 

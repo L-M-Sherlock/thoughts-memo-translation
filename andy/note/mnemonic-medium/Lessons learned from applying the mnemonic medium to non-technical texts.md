@@ -22,7 +22,7 @@
 
 - 有助于激励——感觉像是一项真正的投资
 
-  - [Giacomo Randazzo](https://twitter.com/randiisan/status/1354353100342099968)：「Orbit 不仅激励我更仔细地阅读，也是投入时间阅读这篇文章的一大动机：我知道我会随着时间的推移与它保持联系，与肤浅的阅读相比，我会建立更多的联系。」
+  - [Giacomo Randazzo](https://twitter.com/randiisan/status/1354353100342099968)：「Orbit 不仅激励我更仔细地阅读，还给了我投入时间阅读这篇文章的一大动机：我知道，随着时间的推移，我会与它保持联系，与肤浅的阅读相比，我会建立更多的联系。」
 
   - [NothingIsntTrivial](https://twitter.com/IsntTrivial/status/1355824621988294660)：「我觉得我从中得到了一些东西。」
 

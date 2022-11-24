@@ -10,7 +10,7 @@
 
 我们先排除具体[间隔重复算法](https://super-memory.com/english/algsm11.htm)（例如在 [SuperMemo](https://super-memory.com/english/princip.htm) 中使用的）的影响，来讨论学习效果的要素。具体来说，这里有一个学习微观经济学时简单搭建的知识系统，借助它，我们来观察知识表述方法上的不同，是如何影响学生记牢知识的难易程度的。这个知识系统几乎完全取自**《公司经济学：理论和实践》**（Arthur A. Thompson著，出版于1989） 。宏观经济学的一些一般概念取自 M.McKenzie 的**《宏观经济学》**，而数学胶囊项目则来自 David A. Aaker 和 George S. Day 的**《市场研究》**，1990。
 
-1. [**自我教学优化中与知识特点无关的要素**](https://super-memory.com/english/ol/ks.htm#Knowledge 独立)
+1. [**在自我教育的优化中，与知识无关的要素**](https://super-memory.com/english/ol/ks.htm#Knowledge #独立)
 
 2.[**学习中知识的呈现方式**](https://super-memory.com/english/ol/ks.htm#表述）
 
@@ -18,7 +18,7 @@
 
 4.[**在获得联想知识的逐步过程中对项目进行排序**] (https://super-memory.com/english/ol/ks.htm#排序]
 
-5.[**最小化突触模型的复杂，是保持A-系数足够高的关键**] (https://super-memory.com/english/ol/ks.htm#复杂性）
+5.[**复杂的最小化突触模型，是保持A-系数足够高的关键**] (https://super-memory.com/english/ol/ks.htm#复杂性）
 
 6.[**有计划的冗余是可用于交叉强化突触模式的一种方式**](https://super-memory.com/english/ol/ks.htm#冗余）
 
@@ -30,7 +30,7 @@
 
 ------
 
-**在自我教育中，与知识无关的要素**
+**在自我教育的优化中，与知识无关的要素**
 
 在讲述「知识的表征」之前，我想简单列一下有效学习中，与主题之无关的原则。
 
