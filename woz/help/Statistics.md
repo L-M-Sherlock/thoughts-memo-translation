@@ -6,35 +6,35 @@
 
 **统计**窗口允许你检查当前打开的[集合](https://help.supermemo.org/wiki/Glossary:Collection)中的主要学习过程的统计数据。按**F5**（**[Window](https://help.supermemo.org/wiki/Window_menu)：[Layout](https://help.supermemo.org/wiki/Layouts)：Warrior布局**）可以最方便地查看它。
 
-[！[SuperMemo:图。统计窗口，可以随时检查当前打开的集合的主要学习过程的统计数据](https://help.supermemo.org/images/thumb/d/de/Statistics.jpg/186px-Statistics.jpg)](https://help.supermemo.org/wiki/File:Statistics.jpg)
+[![SuperMemo: 插图: 统计窗口，可以随时检查当前打开的集合的主要学习过程的统计数据](https://help.supermemo.org/images/thumb/d/de/Statistics.jpg/186px-Statistics.jpg)](https://help.supermemo.org/wiki/File:Statistics.jpg)
 
 > ***图：**统计**窗口（**[Toolkit](https://help.supermemo.org/wiki/Toolkit_menu)：[Statistics](https://help.supermemo.org/wiki/Toolkit_menu#Statistics)：统计**），可以随时检查当前打开的[集合](https://help.supermemo.org/wiki/Glossary:Collection)的主要学习过程统计。*。
 
-## Caption
+## 标题
 
-标题在方括号中显示[集合](https://help.supermemo.org/wiki/Glossary:Collection)的名称。*当前[集合](https://help.supermemo.org/wiki/Glossary:Collection)集合被命名为all.*。
+标题在方括号中显示[集合](https://help.supermemo.org/wiki/Glossary:Collection)的名称。*当前[集合](https://help.supermemo.org/wiki/Glossary:Collection)的名称是 all.*。
 
 ## 工具栏
 
-- 日历: [Calendar](https://help.supermemo.org/wiki/Calendar)
+- [日历](https://help.supermemo.org/wiki/Calendar)
 
-    每日和每月的卡片重复的日历
+    每日和每月的复习日历
 
 - 统计菜单
 
-    打开统计内容菜单，或者在窗口上点击右键
+    可通过右键菜单打开统计内容菜单，也可以在窗口上点击右键
 
-- 分析[Analysis(https://help.supermemo.org/wiki/Analysis)
+- [分析](https://help.supermemo.org/wiki/Analysis)
 
     与学习过程和[SuperMemo算法]有关的各种统计数据(https://supermemo.guru/wiki/SuperMemo_Algorithm)
 
-- 记忆图表[Memory graphs](https://help.supermemo.org/wiki/Memory_graphs_(4D))
+- [记忆图谱](https://help.supermemo.org/wiki/Memory_graphs_(4D))
 
-    记忆函数的可视化展示，图中的近似值基于[SM-18算法](https://supermemo.guru/wiki/Algorithm_SM-18)，以及基于重设和重新计算[重复历史]的一些选项(https://help.supermemo.org/wiki/Repetition_history).
+    记忆函数的可视化展示，基于[SM-18 算法](https://supermemo.guru/wiki/Algorithm_SM-18)的近似估计，以及基于[复习历史](https://help.supermemo.org/wiki/Repetition_history)重置和重新计算的一些选项。
 
-- Warrior layout(勇士布局)
+- 勇士布局
 
-    按照为使用[增量阅读](https://help.supermemo.org/wiki/Glossary:Incremental_reading)而优化的方式排列窗口，**统计: Statistics**窗口方便地排列在[元素窗口: element window](https://help.supermemo.org/wiki/Element_window)的左边。
+    以最适合[渐进阅读](https://help.supermemo.org/wiki/Glossary:Incremental_reading)的方式排列窗口，其中**统计**窗口被方便地排列在[元素窗口](https://help.supermemo.org/wiki/Element_window)的左边。
 
 - 帮助
 
@@ -44,13 +44,13 @@
 
 为了方便地比较示范性字段和其相应的描述：
 
-1.按住 Shift 后点击上面的图片，在一个新的浏览器窗口全屏打开。
+1.按住 Shift 后点击上面的图片，在一个新的浏览器窗口以其完整分辨率打开。
 
-2.将图片窗口的标题栏拖到屏幕的左边或右边，直到出现一个扩大的窗口的轮廓
+2. 将图片窗口的标题栏拖到屏幕的左边或右边，直到出现一个扩大的窗口的轮廓
 
-3.松开鼠标，扩大窗口
+3. 松开鼠标，扩大窗口
 
-4.用这个窗口重复步骤2和3，将窗口并排排列
+4. 用这个窗口重复步骤2和3，将窗口并排排列
 
 ### 日期
 

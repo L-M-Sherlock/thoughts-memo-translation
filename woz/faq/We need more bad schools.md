@@ -18,6 +18,8 @@ Justin Sandefur的文章[**世界需要更多的坏学校**] (https://www.cgdev.
 
 此外：
 
+1. 印度尼西亚的中等学生在 PISA 上的得分比越南低 10 个百分位数，在那里，Duflo（2001）发现在1973和1976年之间学校建设的激增依然导致了学校教育的收入以每年百分之6.8至10.6的速到激增。Breierova 和 Duflo（2004）表示这也导致了人口出生率和儿童死亡率的**下降**。
+
 本[常见问题](https://supermemo.guru/wiki/FAQs)对[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)（2017）撰写的《[我永远不会送我的孩子去学校](https://supermemo.guru/wiki/Problem_of_Schooling)》的内容进行了扩展。
 
 # 回复

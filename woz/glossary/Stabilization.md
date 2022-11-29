@@ -54,7 +54,7 @@
 
 SuperMemo 中的记忆稳定化曲线
 
-> 图：[SuperMemo](https://supermemo.guru/wiki/SuperMemo) 计算的**[稳定化曲线](https://supermemo.guru/wiki/Stabilization_curve)**。
+> 图：[SuperMemo](https://supermemo.guru/wiki/SuperMemo) 计算的**[稳定化曲线](https://supermemo.guru/wiki/Stabilization_curve)**。横轴以[记忆可提取性](https://supermemo.guru/wiki/Memory_retrievability)表示时间。纵轴表示稳定化，即记忆持久度的增长，以[记忆稳定性](https://supermemo.guru/wiki/Memory_stability)增长表示。蓝色圆圈表示在给定[可提取性](https://supermemo.guru/wiki/Retrievability)下复习的[稳定性](https://supermemo.guru/wiki/Stability)增长程度。蓝色圆圈的大小取决于收集到的数据点数量。
 
 [![img](https://supermemo.guru/images/thumb/4/4f/Stabilization_decay.png/500px-Stabilization_decay.png)](https://supermemo.guru/wiki/File:Stabilization_decay.png)
 
