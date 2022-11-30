@@ -20,7 +20,7 @@
 
 - [干扰](https://supermemo.guru/wiki/Interference)的破坏力
 
-- [知识进化论](https://supermemo.guru/wiki/Knowledge_darwinism)，等等
+- [知识达尔文主义](https://supermemo.guru/wiki/Knowledge_darwinism)，等等
 
 当然，如果不与[非学校教育者](https://supermemo.guru/wiki/Free_learning)或[民主学校](https://supermemo.guru/wiki/Democratic_school)直接比较，就很难从教育系统内部看到学校教育的许多其他方面。例如，学校对成瘾或心理健康的影响。不过，这些都与对[可汗学院](https://supermemo.guru/wiki/Khan_Academy)的批评没有直接关系。相反，有一个因素不可否认：**[萨尔·可汗](https://en.wikipedia.org/wiki/Sal_Khan)是教育界的摇滚明星**。有点嫉妒别人的成功是人之常情。这种嫉妒会随着对不应有的赞美的感知而成倍增长。几十年来精益求精的数学老师自然会想，在手机上观看的草率视频，是否真的可以取代有爱心的老师，面对苦苦挣扎的学生，而为他量身定制教学方法。如果一位敬业的老师能让学生获得薪资优渥的工作，那么他实际上可能会觉得萨尔正在损害学习过程。我们需要了解这位老师。他想看到一个更美好的世界，但他看不到萨尔的工作真的是教育救赎的一步。
 
@@ -32,33 +32,33 @@
 
 > 老师们并不因为萨尔·可汗是全世界的老师而生气。他们担心他是备受吹捧的坏老师；这个给全世界学生上过 1.7 亿节课的人，曾公开吹嘘道自己不做准备，并觉得对数学概念的精确解释只是「吹毛求疵」。有经验的教育工作者们担心，如果在课堂上教学很糟糕，便是一场危机；但如果这些糟糕的教学出现在 YouTube 上，却成了一场「革命」。
 
-Karim Kai Ani 理解数学、[语义学习](https://supermemo.guru/wiki/Semantic_learning)和[学习熵](https://supermemo.guru/wiki/Learntropy)，然而，只需一个因素便能推翻一般老师的顾虑：**自由选择**。在[可汗学院](https://supermemo.guru/wiki/Khan_Academy)没有[强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling) 。如果视频不能产生足够的[学习熵](https://supermemo.guru/wiki/Learntropy)信号，孩子可以看完就走开。Sal 有许多竞争对手（例如，我从未见过比[这个视频](https://www.youtube.com/watch?v=EW08rD-GFh0)更好的拉普拉斯算子解释，Blue Brown 也为可汗学院提供服务）。可供选择的不仅有视频，还有优秀的文本手册或大学水平的讲座。老师们总是忘记，他们不是[学习熵](https://supermemo.guru/wiki/Learntropy)的最佳评估者。最好的评估者不带个人色彩。这是学生自己的[学习内驱力](https://supermemo.guru/wiki/Learn_drive)系统，很大程度上是无意识的（即信号仅取决于前置知识和信息传递）（参见：[学习的乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)）。Karim Kai Ani 可以在 *Mathalicious* 上进行完美的教学交付，但这种努力可能会立即被[学习内驱力](https://supermemo.guru/wiki/Learn_drive)奖励信号所抵消。孩子可能会简单地说「我不喜欢它」，而这种评估是无可辩驳的。在教育中，孩子的大脑是唯一的真神。
+Karim Kai Ani 理解数学、[语义学习](https://supermemo.guru/wiki/Semantic_learning)和[学习熵](https://supermemo.guru/wiki/Learntropy)，然而，只需一个因素便能推翻一般老师的顾虑：**自由选择**。在[可汗学院](https://supermemo.guru/wiki/Khan_Academy)，这里没有[强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling) 。如果视频不能产生足够的[学习熵](https://supermemo.guru/wiki/Learntropy)信号，孩子可以看看就走开。萨尔有许多竞争对手（例如，我从未见过比[这个视频](https://www.youtube.com/watch?v=EW08rD-GFh0)更好的拉普拉斯算子解释，Blue Brown 也为可汗学院提供服务）。可供选择的不仅有视频，还有优秀的文本手册或大学水平的讲座。老师们总是忘记，他们不是[学习熵](https://supermemo.guru/wiki/Learntropy)的最佳评估者。最好的评估者不带个人色彩。这是学生自己的[学习内驱力](https://supermemo.guru/wiki/Learn_drive)系统，很大程度上是无意识的（即信号仅取决于前置知识和信息传递）（参见：[学习的乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)）。Karim Kai Ani 可以在 *Mathalicious* 上进行完美的教学交付，但这种努力可能会立即被[学习内驱力](https://supermemo.guru/wiki/Learn_drive)奖励信号所抵消。孩子可能会简单地说「我不喜欢它」，而这种评估是无可辩驳的。在教育中，孩子的大脑是唯一的真神。
 
 数学教育专家 Christopher Danielson 和 Michael Paul Goldenberg 写道：
 
->  可汗的工作并没有答复改革数学教学，而是用技术粉饰一种奄奄一息的数学教学理念。更重要的是，他的视频说明，我们所知道的学生学习数学的原理，他一无所知 [...] 许多数学教育工作者强调设计和提供高质量教学所必需的另一种知识：[教学内容知识](https://supermemo.guru/wiki/Pedagogical_content_knowledge)（Pedagogical content knowledge, PCK）。 PCK 是指与教学相关的内容知识 [...] 特定类型的 PCK 与学生学习的更大进步有关联					
+>  可汗的工作并没有大幅改革数学教学，而是用技术粉饰一种奄奄一息的数学教学理念。更重要的是，他的视频说明，我们所知道的学生学习数学的原理，他一无所知 [...] 许多数学教育工作者强调设计和提供高质量教学所必需的另一种知识：[教学内容知识](https://supermemo.guru/wiki/Pedagogical_content_knowledge)（Pedagogical content knowledge, PCK）。 PCK 是指与教学相关的内容知识 [...] 特定类型的 PCK 与学生学习的更大进步有关联
 
-尽管有博士头衔，但凭借着他们的职业，Danielson 和 Goldberg 可能没有意识到[教学内容知识](https://supermemo.guru/wiki/Pedagogical_content_knowledge)（PKC）是[学校教育](https://supermemo.guru/wiki/Schooling)的人工产物。对内容最好的判断是学生的大脑。如今，孩子们可以从几十个解释某个主题的视频或文章中进行选择，并尝试所有视频或文章，直到其中一个点击符合他们的喜好。 之后，孩子们可以选择他们喜欢的作者和表达方式。 这是[语义学习](https://supermemo.guru/wiki/Semantic_learning)中高效[知识进化论](https://supermemo.guru/wiki/Knowledge_darwinism)的第一步。
+尽管有博士头衔，但凭借着他们的职业，Danielson 和 Goldberg 可能没有意识到[教学内容知识](https://supermemo.guru/wiki/Pedagogical_content_knowledge)（PKC）是[学校教育](https://supermemo.guru/wiki/Schooling)的人工产物。对内容最好的判断是学生的大脑。如今，孩子们可以从几十个解释某个主题的视频或文章中进行选择，并尝试所有视频或文章，直到其中一个点击符合他们的喜好。之后，孩子们可以选择他们喜欢的作者和表达方式。这是[语义学习](https://supermemo.guru/wiki/Semantic_learning)中高效[知识达尔文主义](https://supermemo.guru/wiki/Knowledge_darwinism)的第一步。
 
 如果可汗学院不是革命性的，YouTube 也不是。这只是两个简单的想法。因为某个改变世界的想法很简单或者有瑕疵而加以唾弃，是毫无道理的。Google 使用的 Page Rank 算法很简单，但让人类的集体智慧提升了一整个数量级。
 
 专家们问「可汗学院知道他需要知道的吗？」
 
-> 我们认为可汗学院的视频缺乏[教学内容知识](https://supermemo.guru/wiki/Pedagogical_content_knowledge)，令人担忧。 我们还要声称（1）可汗选择的示例似乎是随机选择的，因此可能不出所料，通常质量不尽如人意。 这些示例要么容易造成更多混乱，要么无法解决学生可能会遇到的基本问题； （2）在解释学生的常见问题时，可汗学院经常离题甚远，而更有经验的老师，会预测并主动引出这些问题
+> 我们认为可汗学院的视频缺乏[教学内容知识](https://supermemo.guru/wiki/Pedagogical_content_knowledge)，令人担忧。 我们还要声称（1）可汗选择的示例似乎是随机的，因此可能不出所料，通常质量不尽如人意。 这些示例要么容易造成更多混乱，要么无法解决学生可能会遇到的基本问题； （2）在解释学生的常见问题时，可汗学院经常离题甚远，而更有经验的老师，会预测并主动引出这些问题
 
 专家们抱怨可汗学院不会解释晦涩的算法。这是[录音机式教育](https://supermemo.guru/wiki/Tape_recorder_model_of_education)的典型产物。 在这种思维方式下，我们需要将算法精确地记录在「脑带」上，否则播放起来会很模糊，并可能导致解决方案出现错误。 我将「没有 PCK」解读为专家对观看视频的观众类型的洞察力。 PCK 不仅依赖于知识，而且依赖于受众。 「比较小数」可以由 5 岁的孩子或[我](https://supermemo.guru/wiki/Piotr_Wozniak)观看。 我想说可汗学院对广泛的观众来说很有趣。 对于「完美的老师」来说「令人震惊」的东西，实际上可能会给普通观众增添乐趣和趣味。
 
 ## 模糊学习的力量
 
-在真正的教育，也就是[自由学习](https://supermemo.guru/wiki/Free_learning)里面，从简单的视频中得到算法的第一个近似，然后在现实应用中纠正自己的缺点，这并没有什么错。我们有神经网络来完成所有必要的计算。大多数孩子更有可能从简单的电脑游戏中掌握基础数学，这些游戏可能没有教学引导内容，也没有预期的知识内容。玩得开心总是胜过精心打磨的刻板讲座（如录音机），在那种讲座里，学生都变成了精确模拟的机器人（参见：[教育抵消进化](https://supermemo.guru/wiki/Education_counteracts_evolution)）。许多黑胶音乐鉴赏家无法忍受毫无瑕疵的 CD 质量音乐，而那些喜欢真正音乐家演奏的真正音乐的人，可能会排斥计算机通过算法生成的完美音乐。专家们无法忍受可汗学院的不完美，这是可以理解的。然而，不完美和错误对[知识达尔文主义](https://supermemo.guru/wiki/Knowledge_darwinism)和[抽象知识](https://supermemo.guru/wiki/Abstract_knowledge)中[适用性](https://supermemo.guru/wiki/Applicability)的出现有贡献。神经网络中的丢弃算法（Dropout）是一个很好的类比，它通过提供基于高质量[泛化](https://supermemo.guru/wiki/Generalization)的微观挑战来实现良好的训练。
+在真正的教育，也就是[自由学习](https://supermemo.guru/wiki/Free_learning)里面，从简单的视频中得到算法的第一个近似，然后在现实应用中纠正自己的缺点，这并没有什么错。我们有神经网络来完成所有必要的计算。大多数孩子更有可能从简单的电脑游戏中掌握基础数学，这些游戏可能没有教学引导内容，也没有预期的知识内容。玩得开心总是胜过精心打磨的刻板讲座（如录音机），在那种讲座里，学生都变成了精确模拟的机器人（参见：[教育抵消进化](https://supermemo.guru/wiki/Education_counteracts_evolution)）。许多黑胶音乐鉴赏家无法忍受毫无瑕疵的 CD 质量音乐，而那些喜欢真正音乐家演奏的真正音乐的人，可能会排斥计算机通过算法生成的完美音乐。专家们无法忍受可汗学院的不完美，这是可以理解的。然而，不完美和错误对[知识达尔文主义](https://supermemo.guru/wiki/Knowledge_darwinism)和[抽象知识](https://supermemo.guru/wiki/Abstract_knowledge)中[适用性](https://supermemo.guru/wiki/Applicability)的出现有贡献。神经网络中的丢弃算法（Drop-out）是一个很好的类比，它通过提供基于高质量[泛化](https://supermemo.guru/wiki/Generalization)的微观挑战来实现良好的训练。
 
-遵循 PCK 的课程，需要老师多年研习PCK ，并学习更久的数学。但专家并没有意识到，可汗学院相比这些课程有一大翻天覆地的优势：选择权！不喜欢某堂课的孩子，可以很快搜索到另外 10 个视频，直到找到他们喜欢的那个。他们可以找[可汗学院](https://supermemo.guru/wiki/Khan_Academy)，或者其他地方。 可汗慈祥的教学方式、不依靠剧本、即兴而为和温暖的声音，都会让孩子回到他身边。比起数学概念的精准和 PCK，孩子们通常更需要这些特点。这相当于充满各种积极副作用的游戏化。
+遵循 PCK 的课程，需要老师多年研习 PCK ，并学习更久的数学。但专家并没有意识到，可汗学院相比这些课程有一大翻天覆地的优势：选择权！不喜欢某堂课的孩子，可以很快搜索到另外 10 个视频，直到找到他们喜欢的那个。他们可以找[可汗学院](https://supermemo.guru/wiki/Khan_Academy)，或者其他地方。 可汗慈祥的教学方式、不依靠剧本、即兴而为和温暖的声音，都会让孩子回到他身边。比起数学概念的精准和 PCK，孩子们通常更需要这些特点。这相当于充满各种积极副作用的游戏化。
 
 > 如果学生认为 0.435 > 0.76 ，他在可汗学院无法得到任何纠正
 
-难道在生活中，每个人不能时时刻刻能得到类似的纠正吗？如果有相当大比例的人不擅长算数，那恰恰是由于[对数学的厌恶](https://supermemo.guru/wiki/Toxic_memory) 。这种厌恶的形成，正是因为完美到无聊的老师，按照固定的安排，将完美的 [PCK](https://supermemo.guru/wiki/PCK) 完美地灌输给最小的孩子，这些知识简直就像数学的[恐怖谷](https://en.wikipedia.org/wiki/Uncanny_valley)。
+难道在生活中，每个人不能时时刻刻能得到类似的纠正吗？如果有相当大比例的人不擅长算数，那恰恰是由于[对数学的厌恶](https://supermemo.guru/wiki/Toxic_memory)。这种厌恶的形成，正是因为完美到无聊的老师，按照固定的安排，将完美的 [PCK](https://supermemo.guru/wiki/PCK) 完美地灌输给最小的孩子，这些知识简直就像数学的[恐怖谷](https://en.wikipedia.org/wiki/Uncanny_valley)。
 
-大多数人只需要看一眼便能找出答案，即使他们从未受过训练。我在数学课上从不集中注意力，我把简单的数学工作交给大脑中的神经网络。完美的算法和完美的例子只能达到一个目的：失去对数学的兴趣。我希望「专家」们能发布他们自己的 6000 个视频，让吹毛求疵的人大批特批。鸡蛋里总是能挑骨头。				
+大多数人只需要看一眼便能找出答案，即使他们从未受过训练。我在数学课上从不集中注意力，我把简单的数学工作交给大脑中的神经网络。完美的算法和完美的例子只能达到一个目的：失去对数学的兴趣。我希望「专家」们能发布他们自己的 6000 个视频，让吹毛求疵的人大批特批。鸡蛋里总是能挑骨头。
 
 **0.7 大于 0.09** 的事实，对于稍微玩过[电子游戏](https://supermemo.guru/wiki/Videogames)的一年级学生来说，都是显而易见的。至于「大于」符号（>），需要孩子玩大量的电子游戏，才能获得这类知识。不可否认，这个标志在游戏里并不多见，但如果孩子们能利用玩游戏的记忆，那么就不必花很多时间去学习，也不必让人精心准备些孩子讨厌的课程，把这些知识塞进毫无背景知识的孩子里。
 
@@ -66,9 +66,9 @@ Karim Kai Ani 理解数学、[语义学习](https://supermemo.guru/wiki/Semantic
 
 至于萨尔的方法：
 
-> 可汗学院将把这段视频发布出来，看看人们对此有何反应。他觉得，相比于根据高质量研究项目的结果来调整他的教学方针，这种方法是更为上乘的。我们身处于“不让一个孩子掉队”的时代，需要将科学研究作为课堂教学基础，如此看来，他的做法是怠惰的
+> 可汗学院将把这段视频发布出来，看看人们对此有何反应。他觉得，相比于根据高质量研究项目的结果来调整他的教学方针，这种方法更为上乘。我们身处于“不让一个孩子掉队”的时代，需要将科学研究作为课堂教学基础，如此看来，他的做法是怠惰的
 
-可汗学院采用了[知识进化论](https://supermemo.guru/wiki/Knowledge_darwinism)，并让[自主教育](https://supermemo.guru/wiki/Self-directed_learning)学生自由选择。 在这一点上，他优于 [PCK](https://supermemo.guru/wiki/PCK) 的完美[课标](https://supermemo.guru/wiki/Curriculum)，这与维基百科优于大英百科全书有相似之处。 专家们想要大脑的完美自动化，而达尔文的方法是摆出难以预测的挑战来培养[智能](https://supermemo.guru/wiki/Intelligence)的。 《不让一个孩子掉队》正是因其过于机械的弱点而臭名昭著。 正如 [Alfie Kohn](https://supermemo.guru/wiki/Alfie_Kohn) 所说：「不让一个孩子掉队（NCLB）是令人震惊且不可挽回的实验，对我们的学校造成了无法估量的损害」（参见：[ 没有一个孩子掉队法案正在发挥作用](https://supermemo.guru/wiki/No_Child_Left_Behind_Act_is_working)）。
+可汗学院采用了[知识达尔文主义](https://supermemo.guru/wiki/Knowledge_darwinism)，并让[自主教育](https://supermemo.guru/wiki/Self-directed_learning)学生自由选择。 在这一点上，他优于 [PCK](https://supermemo.guru/wiki/PCK) 的完美[课标](https://supermemo.guru/wiki/Curriculum)，这与维基百科优于大英百科全书有相似之处。 专家们想要大脑的完美自动化，而达尔文的方法是摆出难以预测的挑战来培养[智能](https://supermemo.guru/wiki/Intelligence)的。 《不让一个孩子掉队》正是因其过于机械的弱点而臭名昭著。 正如 [Alfie Kohn](https://supermemo.guru/wiki/Alfie_Kohn) 所说：「不让一个孩子掉队（NCLB）是令人震惊且不可挽回的实验，对我们的学校造成了无法估量的损害」（参见：[ 没有一个孩子掉队法案正在发挥作用](https://supermemo.guru/wiki/No_Child_Left_Behind_Act_is_working)）。
 
 我们的专家为完美的数学知识提供了一个处方：（1）学习一种算法，（2）多次使用它，（3）继续研究数学的其他广阔领域。所有的数学流利都是通过试错和少量的阅读，大量的计算，最重要的是：解决现实生活中的具体问题。这些问题提供了最有效的强化信号，使具有最高的[适用性](https://supermemo.guru/wiki/Applicability)的[抽象知识](https://supermemo.guru/wiki/Abstract_knowledge)的存储成为可能。
 
