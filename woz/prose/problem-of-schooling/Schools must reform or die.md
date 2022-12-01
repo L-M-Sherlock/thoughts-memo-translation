@@ -12,9 +12,9 @@
 
 只要借助一些简单科学，学校就可以被少量[自由学习](https://supermemo.guru/wiki/Free_learning)和大量空闲时间所取代。这个束缚系统可以被[快乐学习](https://supermemo.guru/wiki/Pleasure_of_learning)的公式所取代。
 
-我对记忆和学习的理解与我反对盲目的学校教育成正比。我设法将奴隶制转变为[自由学习](https://supermemo.guru/wiki/Free_learning)（详情见：[我是如何发明完美的学校教育的？](https://supermemo.guru/wiki/How_I_invented_perfect_schooling)）。多年以来，我对学校制度的失望情绪与日俱增。20 世纪 90 年代，我受到了 [Marek Budajczak](https://supermemo.guru/wiki/Marek_Budajczak) 战斗的启发，他试图在波兰为他的孩子开展[在家上学](https://supermemo.guru/wiki/Homeschooling)。在自由的波兰，他受到当局的鞭打，其方式似乎比我小时候在共产主义制度中目睹和经历的最糟糕的事情还要糟糕。Budajczak 单枪匹马的作战促成了法律的改变，波兰 14,000 名在家上学的学生将永远感谢他（根据[在家上学](https://supermemo.guru/wiki/Homeschooling) 2017 年的统计数据）。
+我对记忆和学习每多一分理解，我对盲目的学校教育便多一分反对。我设法将学校奴役转变为[自由学习](https://supermemo.guru/wiki/Free_learning)（详情见：[我是如何发明完美的学校教育的？](https://supermemo.guru/wiki/How_I_invented_perfect_schooling)）。多年以来，我对学校制度的失望情绪与日俱增。20 世纪 90 年代，我受到了 [Marek Budajczak](https://supermemo.guru/wiki/Marek_Budajczak) 战斗的启发，他试图在波兰为他的孩子开展[在家上学](https://supermemo.guru/wiki/Homeschooling)。在自由的波兰，他受到当局的鞭打，其方式似乎比我小时候在共产主义制度中目睹和经历的最糟糕的事情还要糟糕。Budajczak 单枪匹马的作战促成了法律的改变，波兰 14,000 名在家上学的学生将永远感谢他（根据[在家上学](https://supermemo.guru/wiki/Homeschooling) 2017 年的统计数据）。
 
-在写《[我永远不会送我的孩子上学](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school)》之前，我是学校奴役、侵犯儿童权利的坚决反对者。我学得越多，对 [Peter Gray](https://supermemo.guru/wiki/Peter_Gray)、[John Holt](https://supermemo.guru/wiki/John_Holt) 和 [John Taylor Gatto](https://supermemo.guru/wiki/John_Taylor_Gatto) 的阅读越多，我越是对一个事实感到沮丧：即使没有我的[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)计算，最好的老师也早就知道学校没用了。今天，最好的老师也表达了同样的观点。那些在课堂上压迫孩子的人，也在下班之后向我坦白了他们的怀疑态度。这个系统已经病了，需要改变。选择教育的权利不仅仅是[联合国人权宣言](https://supermemo.guru/wiki/Education_as_a_human_right)中所述的父母之权利。
+在写《[我永远不会送我的孩子上学](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school)》之前，我坚决反对学校奴役、侵犯儿童权利。我学得越多，对 [Peter Gray](https://supermemo.guru/wiki/Peter_Gray)、[John Holt](https://supermemo.guru/wiki/John_Holt) 和 [John Taylor Gatto](https://supermemo.guru/wiki/John_Taylor_Gatto) 的阅读越多，我越是为现实感到悲哀：就算没有我来计算[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)，最好的老师也早就知道学校没用了。今天，最好的老师也表达了同样的观点。那些在课堂上压迫孩子的人，也在下班之后向我坦白了他们的怀疑态度。这个系统已经病了，需要改变。选择教育的权利不仅仅属于父母，虽然[联合国人权宣言](https://supermemo.guru/wiki/Education_as_a_human_right)这么说。
 
 **个人教育的自由选择权应该被铭刻在全世界的宪法中，并视为每个孩子的基本权利。**
 
