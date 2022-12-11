@@ -2,7 +2,7 @@
 
 原文：[My implementation of a personal mnemonic medium (andymatuschak.org)](https://notes.andymatuschak.org/z4mAF1uBV96r72e4NjLcDaujEyTPGiUQJEj8C)
 
-我在自己的[笔记系统](https://notes.andymatuschak.org/z8XrKGDz49o6XxEx7tzGewzrXQnw6jSgv3Yyf)中实现了[记忆媒介可以扩展到个人的笔记](https://notes.andymatuschak.org/z5ARNXtS5VxteskEW91S1yYTgAcLABNXsZuJE)的想法。
+我在自己的[笔记系统](https://notes.andymatuschak.org/z8XrKGDz49o6XxEx7tzGewzrXQnw6jSgv3Yyf)中实现了[助记媒介可以扩展到个人笔记](https://notes.andymatuschak.org/z5ARNXtS5VxteskEW91S1yYTgAcLABNXsZuJE)的想法。
 
 这套系统的原理是，不断扫描一组 Markdown 文件，寻找其中所嵌入的卡片（卡片语法见下）。之后这些卡片便属于我的活跃卡片集合。我还实现了一个组件，将这些提取出来的卡片同步到 Anki 中。
 
@@ -10,21 +10,21 @@
 
 - [人类作为信息处理机时的“信道容量”](https://notes.andymatuschak.org/z8iJEzmLdBMoWYtQHkDohDgeWz6UBGm74qEiW)
 
-- [人类的通道容量随着每块比特的增加而增加](https://notes.andymatuschak.org/z6ZFtY8UGPaF9uofckBB7HwK62pssJAUg8C91)
+- [人类的信道容量随着每个组块的比特量的增加而增加](https://notes.andymatuschak.org/z6ZFtY8UGPaF9uofckBB7HwK62pssJAUg8C91)
 
-系统的实现见 https://github.com/andymatuschak/computer-supported-thinking。
+系统的实现请见 https://github.com/andymatuschak/computer-supported-thinking。
 
-对于正在进行的未处理的想法，见[个人记忆媒介](https://notes.andymatuschak.org/Log)
+对于正在进行的未处理的想法，见[个人助记媒介](https://notes.andymatuschak.org/Log)
 
 ## 语法
 
 ### 创建典型的双面 SRS 卡片
 
-> 问：一个量子比特的矢量空间有多少维？
+> 问：一个量子比特的向量空间有多少维？
 
-> 答：两个。
+> 答：两维。
 
-问题和答案之间的空行是可选的。问题和答案目前不能跨越多个段落：包括 Q. 或 A. 的段落被提取为问题或答案。
+问题和答案之间的空行是可选的。问题和答案目前不能跨越多个段落：包括「问：」或「答：」的段落被提取为问题或答案。
 
 ### 创建挖空卡片
 
@@ -38,12 +38,12 @@
 
 > 答：一旦激活，服务工作者**执行一次性的启动计算**，然后过渡到空闲状态。从这个状态开始，它将处理获取或消息事件，直到最终终止。
 
-### 幂等性和特异性
+### 幂等性和唯一标识
 
-这个系统的目的是实现幂等性。也就是说：你可以逐步不断地修改你的笔记文件，它也会相应地跟踪变化。当你改变你的笔记时，系统会保持你所有嵌入的卡片 的 SRS 状态，除了你直接编辑过的卡片。
+这个系统的目的是实现幂等性。也就是说：你可以不断地修改你的笔记文件，它也会相应地跟踪变化。当你改变你的笔记时，系统会保持你所有嵌入卡片的 SRS 状态，除了你直接编辑过的卡片。
 
-更确切地说，嵌入的卡片有**身份**。你可以修改卡片周围的笔记，甚至把卡片移到一个新的笔记中，而你的复习历史将被保留下来。但是如果你修改了一张卡片的文本，它将被视为一张新的卡片，而你的复习历史将不会从旧的卡片中移植过来。这是因为这个系统是基于哑巴的纯文本文件，它没有足够的语义结构来明确说明一个给定的修改是代表一个新的卡片还是一个旧的卡片的修改。要解决这个问题，需要引入启发式方法或额外的识别标记。
+更确切地说，嵌入的卡片有**唯一标识**。你可以修改卡片周围的笔记，甚至把卡片移到一条新的笔记中，而你的复习历史将被保留下来。但是如果你修改了一张卡片的文本，它将被视为一张新卡片，而你的复习历史将不会从旧卡片中迁移过来。这是因为这个系统是基于简易的纯文本文件，它没有足够的语义结构来明确说明一个给定的修改是代表一张新卡片还是一张旧卡片的修改。要解决这个问题，需要引入启发式方法或额外的标识。
 
-双面卡片的身份是由其问题和答案文本的哈希值得出的。挖空卡片的身份是由其包含段落的哈希值得出的。
+双面卡片的标识是由其问题和答案文本的哈希值得出的。挖空卡片的标识是由其包含段落的哈希值得出的。
 
 虽然如果你在笔记文件之间移动卡片，系统会很高兴地跟踪它们，但如果相同的卡片出现在多个笔记文件中，其行为就无法定义。

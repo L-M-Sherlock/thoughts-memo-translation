@@ -10,49 +10,49 @@
 
 下图展示了**「有关学校的联想为何真能毁灭长期记忆」**
 
-我的亲人Thomas8岁了，他是一个SuperMemo的新生代用户。He makes his [repetitions](https://supermemo.guru/wiki/Repetition) with his mom. His repetitions are not voluntary, but he chooses a great deal of his learning material on his own. One day, for a school test, he was to learn a dozen new words in English (his native language is Polish). One of the word pairs was *"kielbaski = sausages"*. Thomas struggled to memorize the word, and failed it on the test. That was March 2019. His mom put the word to Thomas's SuperMemo [collection](https://supermemo.guru/wiki/Collection) in hope he would remember it for future tests.
+我的亲戚Thomas八岁了，他是一个[SuperMemo](https://supermemo.guru/wiki/SuperMemo)的一个小用户。他和他妈妈一起做[重复练习](https://supermemo.guru/wiki/Repetition)。他的重复不是自愿的，但是他自己选择了大量的学习材料。有一天，为了参加学校的测验，他要学习一打英文新单词（他的母语是波兰语）。其中一个单词对是“kielbaski=香肠”。Thomas努力地记忆了这个单词，但还是在考试中失利了。那是2019年的三月，Thomas的妈妈将这个词语放进了Supermemo的[收藏]中(https://supermemo.guru/wiki/Collection)，希望他在今后的考试中可以记住它。
 
 ## 巧合1：重复的条目
 
-第一个巧合发生在2019/03/20。Thomas的妈妈给他用了一个打字不便的小电脑刷sm。Thomas's [collection](https://supermemo.guru/wiki/Collection) is full of empty [items](https://supermemo.guru/wiki/Item) (literally dozens). This can be explained by mom's struggle with the small keyboard. On Mar 20, 2019, 68 seconds after creating a question about sausages, mom must have accidentally issued a command **Duplicate** (icon for duplications is a neighbor of the icon for clipboard operations). The question about *"sausages"* was duplicated, and created two separate [items](https://supermemo.guru/wiki/Item).
+第一个巧合发生在2019年3月20日。Thomas的妈妈使用一台打字不便的小电脑。Thomas的[收藏](https://supermemo.guru/wiki/Collection)装满了空的[项目](https://supermemo.guru/wiki/Item)（真的很多）。这个可以解释为他妈妈对于小键盘的纠结。在2019年3月20日，在创建一个关于香肠的问题的68秒后，妈妈意外的点击了“复制”（复制的图标在剪贴板操作图标的旁边）。这个关于“香肠”的问题被复制了，并创建了两个独立的[项目](https://supermemo.guru/wiki/Item)。
 
 ### 巧合2： 已应用的模板（Template）
 
-在他的[学习集(collection)](https://supermemo.guru/wiki/Collection)中，Thomas有一些不同的 [模板（templates）](https://supermemo.guru/wiki/Template) He got a template for English vocabulary. He does not like this template because he associates it with difficult vocabulary drills for school. He also got a template for his own [items](https://supermemo.guru/wiki/Item) about things he likes, e.g. animals (including English names of animals).\n
+在他的[学习集(collection)](https://supermemo.guru/wiki/Collection)中，Thomas有一些不同的 [模板](https://supermemo.guru/wiki/Template)。他得到了一个关于英语词汇的模版。他不喜欢这些模版，因为他会将这些和学校的难题操练联系在一起。他也得到了一个用于他自己[事项]的模版。 (https://supermemo.guru/wiki/Item) 关于他喜欢的事情，比如动物（包括了动物的英文名）。
 
-第二个巧合的时间似乎是同一天：2019/03/20。For unknown reasons, Thomas's mom applied his favorite colorful template to one of the duplicated question about sausages (in some context, auto-apply can also occur). The change of template, in effect, created two identical [items](https://supermemo.guru/wiki/Item) with two different templates: the liked template and the disliked template.
+第二个巧合事件很可能发生在同一天，即2019年3月20日。由于未知的原因，Thomas的妈妈将他最喜欢的彩色模板应用于其中一个关于香肠的重复问题（在某些情况下，自动应用也会发生）。模板的改变，实际上创造了两个相同的[项目](https://supermemo.guru/wiki/Item)，有两个不同的模板：喜欢的模板和不喜欢的模板。
 
-在2019年5/20 - 6/15之间， Thomas用不喜欢的模板复习了单词“sausages”整整11次。一切重复以失败告终。 In June, mom [deprioritized](https://supermemo.guru/wiki/Priority) the branch with school knowledge to make sure Thomas did not get to [hate learning](https://supermemo.guru/wiki/Hating_SuperMemo) during his vacation.
+在2019年5月20和6月15日之间，Thomas用不喜欢的模板复习了单词“sausages”整整11次。一切重复以失败告终。在六月，妈妈用学校的知识对分支进行了[优先级排序](https://supermemo.guru/wiki/Priority)，以确保托马斯在假期中不会得到[讨厌学习](https://supermemo.guru/wiki/Hating_SuperMemo)。
 
-在这期间，一个有关sausage单词的复刻卡片（用喜欢的模板设置）的惊人事件发生了！这个“好模板”的卡片仅被复习了10次，而且只有第一次失败了。 The schedule for the successful item was denser than it is usually determined by SuperMemo. This indicates a manual intervention in intervals, however, this has little bearing on the story. The next repetitions for the two items were scheduled on Sep 17 and Sep 20 (both affected by 11-16 postpones due to the low [priority](https://supermemo.guru/wiki/Priority) set at the start of the vacation). The review of both items in Spring overlapped in time, which leaves only one explanation for the strikingly different performance: the **template color determined the outcome**! The successful color was associated with the material the child chooses on its own. The failing color was associated with [items](https://supermemo.guru/wiki/Item) learned for school. For those who believe in the magic of colors, the disliked template was white, the liked template was red with big orange fonts. However, I confirmed later, that it was the association of the disliked color with school that made it "[toxic](https://supermemo.guru/wiki/Toxic_memory)".
+与此同时，一件令人震惊的事情发生在*"香肠 "*的复制件上，它被标记为喜欢的模板。关于香肠的喜欢模板项目被复习了10次，只有第一次复习以失败告终。成功项目的时间表比通常由SuperMemo确定的要密集。这表明有人工干预的间隔，然而，这对故事没有什么影响。这两个项目的下一次重复被安排在9月17日和9月20日（由于假期开始时设置的低[优先级](https://supermemo.guru/wiki/Priority)，这两个项目都受到了11-16次推迟的影响）。春季两个项目的复习在时间上是重叠的，这就只剩下一个解释，那就是引人注目的不同表现：模板的颜色决定了结果! 成功的颜色与孩子自己选择的材料有关。失败的颜色与为学校学习的[项目](https://supermemo.guru/wiki/Item)有关。对于那些相信颜色的魔力的人来说，不喜欢的模板是白色的，喜欢的模板是红色的，有大的橙色字体。然而，我后来证实，正是因为不喜欢的颜色与学校有关，才使得它"[有毒](https://supermemo.guru/wiki/Toxic_memory)"。
 
-学习的乐趣在记忆中扮演着不可或缺的角色，即使它并非直接和知识的语义相联系。
+[学习的乐趣](https://supermemo.guru/wiki/Pleasure_of_learning) 在[回忆](https://supermemo.guru/wiki/Recall)中扮演着不可或缺的角色，即使它并非直接和知识的语义相联系。
 
 ### 巧合 3： 现实生活中的惊讶
 
-在20190915，第3个巧合发生了。(暂未注入Markdown)
+2019年9月15日，第三个巧合的事件发生了。如果没有这个巧合，托马斯可能会在未来的几年里一直复习他的重复项目而不曾注意到。在某些时候，他可能会把这两件物品回忆得很完美，它们会从视野中消失。
 
-该巧合在Thomas母子在家庭共进晚歺时讨论英语问题时产生。(暂未注入Markdown)
+第三件巧合的事发生在托马斯的妈妈在一次家庭晚餐中讨论英语问题。她抱怨说，Thomas记不住简单的单词。她在饭桌上冷静地问道：“Thomas，你怎么用英语说 ‘香肠’？”。令她惊讶的是，这孩子回答得很正确！但是，他没有说“香肠”，而是回答“法兰克福香肠 ”! 这需要进行一次重大调查! 很明显，Thomas是从另一个人那里学到这个词的。周围没有人使用“frankfurters”这个词，Thomas从来没有吃过法兰克福香肠。我们推测，使用这个词的人是Thomas的祖父。的确，利用他丰富的孙子照片记录，老爷子帮助完成了这一设想。2019年8月23日，祖父为Thomas准备了热狗，后来为了测试Thomas的知识，他用英语问“你想吃法兰克福面包吗？”。这个饥饿的孩子惊呼“好！”。这一件事肯定让“法兰克福面包”这个词在托马斯的记忆中留下了痕迹。与 "好[项目]"(https://supermemo.guru/wiki/Item)的[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)中长达11天的进展相比，23天的[间隔](https://supermemo.guru/wiki/Interval)SuperMemo很庞大。
 
-一个值得记住的（生动）事件情景比学校里一堆（死板的）复习都高效。(暂未注入Markdown)
+一个难忘的事件可能比学校里的几十个[重复](https://supermemo.guru/wiki/Repetition)要多。
 
 ### 估值假说
 
-记忆巩固生于记忆估值。该评估受知识估值网络传送。神经估值可以被强制的元认知技巧覆盖。(暂未注入Markdown)
+记忆的巩固始于记忆的估价。估值是由[知识估价网络]（https://supermemo.guru/wiki/Knowledge_valuation_network）提供的。在胁迫中，神经估值可以通过元认知技巧被推翻。我们可以让大脑记住它拒绝记住的东西。我们可以在记忆技术的帮助下记住一个无聊的电话号码。记住自己女朋友的电话比记住不喜欢的同事的电话更容易。然而，受过良好教育的成年人的大脑可以轻松记住电话。在考试前，学生可以通过[填鸭式]（https://supermemo.guru/wiki/Cramming）的方式记住几乎任何东西。
 
-该「双香肠卡片故事」可以最好地被卡片颜色有关的记忆估值所解释。(暂未注入Markdown)
+两根香肠的故事可以用物品颜色对知识估值的影响来做最好的解释。孩子的大脑可能会形成一种条件反应，将 "白色 "与 "低估值 "联系起来。在这种条件反射中，任何与学校有关的东西都会很难记住，甚至无法记住。大脑会自动切断[巩固](https://supermemo.guru/wiki/Consolidation)信号，以及[回忆](https://supermemo.guru/wiki/Recall)信号。
 
 一个有关学校材料的坏记忆可能会导致有关知识的条件反射式贬低，并带来记忆固化信号的削弱。
 
 ## 语义性的人脑
 
-一个孩子的大脑自然而然地采用语义学习，这对智能深有裨益。可惜，在直接的学术教育中，知识教授绝大多数均属于无语义学习（见：无语义课标）(暂未注入Markdown)
+儿童的大脑采用了[语义学习](https://supermemo.guru/wiki/Semantic_learning)。这对[智力](https://supermemo.guru/wiki/Intelligence)非常有益。然而，这妨碍了学术教学，因为学术教学在很大程度上是非语义的（见：[非语义课程](https://supermemo.guru/wiki/Asemantic_curriculum)）。在[自由学习](https://supermemo.guru/wiki/Free_learning)中，由于[学习动力](https://supermemo.guru/wiki/Learn_drive)的自然引导，孩子的大脑对非语义内容有很好的辨别能力。在学校里，这种辨别力很快就会被调出来。受过良好教育的孩子成为优秀的[填鸭生](https://supermemo.guru/wiki/Cramming)，然而，他们失去了[语义学习](https://supermemo.guru/wiki/Semantic_learning)的技能。这影响了孩子的[智力](https://supermemo.guru/wiki/Intelligence)。
 
-对于一个小婴孩，SuperMemo并不是那么适用。(暂未注入Markdown)
+对于一个小孩子来说，[SuperMemo的效果不是很好](https://supermemo.guru/wiki/SuperMemo_does_not_work_for_kids)。如果该项目与不愉快的学校教育背景相关联，它就会成为[有毒记忆](https://supermemo.guru/wiki/Toxic_memory)。如果项目带有良好的联想和[语义上的点击率](https://supermemo.guru/wiki/Semantic_learning)，它就能取得合理的成功。然而，在编码[语义记忆](https://supermemo.guru/wiki/Semantic_learning)的效率方面，没有什么能与 "现实生活 "竞争。然后，这些记忆可以通过[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)有效地延续下去。
 
-需要年复一年的不断练习方能进化出完善的元认知技巧，对知识抽象化和去粗取精，以达到用SuperMemo学习的目的。(暂未注入Markdown)
+发展元认知技能需要通过多年的实践，使之有可能从无关紧要的背景中抽象出知识的本质，以达到用[SuperMemo]（https://supermemo.guru/wiki/SuperMemo）学习的目的。在使用该程序三十年后，我对模板的颜色完全不敏感，我把它作为特定领域的语境指标。这就是为什么我对[SuperMemo](https://supermemo.guru/wiki/SuperMemo)的热爱没有受到损害。然而，这种抽象出知识本质的能力是一种元认知技能。小孩子不能有效地做到这一点。许多成年人也做不到这一点。[学校教育](https://supermemo.guru/wiki/Passive_schooling)偏重于知识的字面记忆。在[自由学习](https://supermemo.guru/wiki/Free_learning)中努力建立[抽象知识](https://supermemo.guru/wiki/Abstract_knowledge)则恰恰相反。
 
-自我导向的自由学习在年龄之初表现出了**不匹配的效率**，然干扰常带来伤害。
+自我指导的[自由学习](https://supermemo.guru/wiki/Free_learning)在较小的年龄段表现出不匹配的效率。对该过程的干预通常是有害的
 
 ## 进一步的假设
 

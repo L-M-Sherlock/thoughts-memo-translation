@@ -2,7 +2,7 @@
 
 原文：[Problem valuation network - supermemo.guru](https://supermemo.guru/wiki/Problem_valuation_network)
 
-**问题估值网络**是任何能够估计待解决问题价值的神经子系统。那些能使解决方案的回报最大化的问题最有可能被首先解决（在没有外在评估干扰等的情况下）。问题估值网络基于与[知识估值网络](https://supermemo.guru/wiki/Knowledge_valuation_network)相同的原则，可最佳地可视化为[决策树](https://en.wikipedia.org/wiki/Decision_tree)。
+**问题估值网络**是任何能够估计待解决问题价值的神经子系统。那回报最大的问题最有可能被优先解决（在没有外在评估干扰的情况下）。问题估值网络基于与[知识估值网络](https://supermemo.guru/wiki/Knowledge_valuation_network)相同的原则，可最佳地可视化为[决策树](https://en.wikipedia.org/wiki/Decision_tree)。
 
 在教育中，重要的是要记住，估值的结果要符合[金发姑娘原则](https://en.wikipedia.org/wiki/Goldilocks_principle)。教师对这一概念理解不深，导致经常违反[学习的基本规律](https://supermemo.guru/wiki/Fundamental_law_of_learning)。如果你的老师认为「孩子们总是在寻找简单的方法」，她就更有可能采用[学习中的胁迫](https://supermemo.guru/wiki/Coercion_in_learning)。胁迫往往导致学习处在[退步区](https://supermemo.guru/wiki/Push_zone)。
 

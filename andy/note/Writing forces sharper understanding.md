@@ -20,4 +20,12 @@ Don DeLillo，关于他为什么成为作家（通过 [Michael Nielsen]( https:/
 
 Ahrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers*.
 
+> 如果一时自欺欺人地写下一些难以理解的文字，那么在下一步将自己的文献笔记变成永久笔记，并与其他笔记联系起来的时候，就会遇到障碍。
+
+> 记笔记，并将其整理到卡片盒中，只不过是为了理解某件事情背后蕴含着的更广泛的意义。卡片盒迫使我们提出许多阐述性的问题：它意味着什么？它与某事有什么联系？它与某事有什么区别？它与什么相似？
+
+> 有经验的学术读者通常是带着问题去阅读文本，并试图结合其他可能有用的方法；而没有经验的读者则倾向于采用文本中已有问题和论证的框架，并将其作为既定的内容。优秀的读者能做的是发现某种方法的局限性，看到文本中没有提到的东西。
+
+> 记笔记，并将其整理到卡片盒中，只不过是为了理解某件事情背后蕴含着的更广泛的意义。卡片盒迫使我们提出许多阐述性的问题：它意味着什么？它与某事有什么联系？它与某事有什么区别？它与什么相似？
+
 原文：[Writing forces sharper understanding (andymatuschak.org)](https://notes.andymatuschak.org/z8q1K5a8i95qARkpFwS45qqtQzM8th82TkeUg)

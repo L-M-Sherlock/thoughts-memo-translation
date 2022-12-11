@@ -2,11 +2,11 @@
 
 原文：[Skill development in games is subservient to other intrinsically meaningful purposes (andymatuschak.org)](https://notes.andymatuschak.org/zeb2g4GbLPhXGKZavqQ7v7iuqe5B8jGhnFKw)
 
-[游戏能有效地培养玩家的技能](https://notes.andymatuschak.org/z2J6v5xtfJaeW5KFF6fNwkHxLWQonxuUA5ndg)，但这并不是游戏体验的重点：这些技能是为了达到本质上有意义的目的——美学、社会、叙事等。真正的目的是审美的，而不是实用的：[游戏是行动的审美媒介](https://notes.andymatuschak.org/z5LACRpfDs6pfGiJV5RjixDj6cMsPQoQrSj3s)。而审美观通常由[“寻找乐趣”](https://notes.andymatuschak.org/z2BH7jhTMRmmjM5UHyVUShW4ZtTSzxaV7oubs)引导。
+[游戏能有效地培养玩家的技能](https://notes.andymatuschak.org/z2J6v5xtfJaeW5KFF6fNwkHxLWQonxuUA5ndg)，但这并不是游戏体验的重点：这些技能是为了达到有内在意义的目的——审美、社交、叙事等。真正的目的是审美的，而不是实用的：[游戏是审美的行动媒介](https://notes.andymatuschak.org/z5LACRpfDs6pfGiJV5RjixDj6cMsPQoQrSj3s)。而审美观通常由[“寻找乐趣”](https://notes.andymatuschak.org/z2BH7jhTMRmmjM5UHyVUShW4ZtTSzxaV7oubs)引导。
 
-技能培养是实现这些目标的一种手段：我想学习如何飞行，因为它很美。技能培养也是这些目标的自然副产品：我变得更擅长飞行，因为环境中有我难以到达的棘手平台。
+技能培养是实现这些目的的一种手段：我想学习如何飞行，因为它很美。技能培养也是这些目的的自然副产品：我变得更擅长飞行，因为环境中有我难以到达的平台。
 
-[教育游戏](https://notes.andymatuschak.org/z5YBATDEy9pSqzTgNhH6MhGqgkG8mAF7QTLK5)设计者忽略了这一点，而将技能培养本身作为首要目的。有时玩家会表现出其他一些表面上的目的（「打破高分！」），但这只是一层薄薄的外表。这显然不是设计师的首要考虑因素。这些游戏颠覆了他们自己的目标：[教育游戏对于创造赋能环境是注定失败的方法](https://notes.andymatuschak.org/z7wPt3dxX5hp6LK3PLUBTJXxk7kAhMuh8UDck)。
+[教育游戏](https://notes.andymatuschak.org/z5YBATDEy9pSqzTgNhH6MhGqgkG8mAF7QTLK5)的设计者忽略了这一点，而将技能培养本身作为首要目的。有时玩家会表现出一些名义上的目的（「打破高分！」），但这只是一层一戳即破的梦幻泡影；这显然不是设计师的首要考虑因素。这些游戏颠覆了它们自己的目标：[教育游戏对于创造赋能环境是注定失败的方法](https://notes.andymatuschak.org/z7wPt3dxX5hp6LK3PLUBTJXxk7kAhMuh8UDck)。
 
 ## 参考文献
 

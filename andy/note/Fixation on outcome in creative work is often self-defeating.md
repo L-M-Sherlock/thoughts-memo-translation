@@ -1,18 +1,18 @@
-# 在创造性工作中执着于产出往往弄巧成拙
+# 在创造性工作中执着于产出往往适得其反
 
 原文：[Fixation on outcome in creative work is often self-defeating (andymatuschak.org)](https://notes.andymatuschak.org/zWhZZuWVtFXsPNL8Ph3po7R8BEDztTSsN1X)
 
-创造性工作需要开放、互动、松弛、[富足感](https://notes.andymatuschak.org/zRCKm3mveX2C2LVCSZEGuSphQNmW5zGd2Rc)。执着于产出往往会产生[稀缺心态](https://notes.andymatuschak.org/znutNAv4ejW7nWwtzCnXQfAbbK8jS8DeAC3)。
+创造性工作需要开放、互动、松弛、[富足感](https://notes.andymatuschak.org/zRCKm3mveX2C2LVCSZEGuSphQNmW5zGd2Rc)。执着于产出往往会制造[稀缺心态](https://notes.andymatuschak.org/znutNAv4ejW7nWwtzCnXQfAbbK8jS8DeAC3)。
 
 相关笔记：
 
-- [不合适的时间压力往往会毁掉创造性工作](https://notes.andymatuschak.org/zv3oHi3CgUz3yjrKceuSznBQXYQeEWVW7KW)
+- [不合理的时间压力往往会毁掉创造性工作](https://notes.andymatuschak.org/zv3oHi3CgUz3yjrKceuSznBQXYQeEWVW7KW)
 
 ## 参考文献
 
 正在收集的一些相关资料：
 
-- [作为理解的研究 - Kanjun Qiu](https://notes.andymatuschak.org/zWJKM8bUDs74L6neciZJUFtYtcxehW37CXc)（对「产出新颖洞见」的执着，误导了人们对研究究竟如何发生的认识——追逐你想要回答的问题）
+- [面向理解的研究 - Kanjun Qiu](https://notes.andymatuschak.org/zWJKM8bUDs74L6neciZJUFtYtcxehW37CXc)（真正的研究是专注于你想要回答的问题，对「产出新颖洞见」的执着则让人偏离真正的研究）
 
 - [变得好奇](https://notes.andymatuschak.org/zKvtqpdyujNByokN4fSahKrgNgXxCAWD5gRv)，[变得爱玩](https://notes.andymatuschak.org/ziHJKnDvMUWnBBpTEsVg3iVNxKrCieEUaEr)
 

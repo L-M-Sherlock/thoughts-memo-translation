@@ -4,7 +4,7 @@
 
 [赋能环境](https://notes.andymatuschak.org/z3DaBP4vN1dutjUgrk3jbEeNxScccvDCxDgXe)可以帮助人们做新的事情，所以我们总是向往设计出一个能够帮助新手进入某个知识领域的环境。这可以借鉴这个领域的日常活动的简化版本来设计。但这种方法通常是相当有限的。[强大的赋能环境通常作为副产品在追求其自身内在意义的项目时产生](https://notes.andymatuschak.org/z4N6d29XL2PZXCa64HPcxA64RGWDb6Cagc1gs)。这些目的通常是由赋能专家们最佳确定的。从这一角度来看，环境也包括一些结构，这些结构可以帮助新手在追求过程中与专家保持相同的目的。
 
-当环境专注于促成一个活动的简化版本时，其目标往往变成了技能建设本身。这往往会颠覆它自己的目的（见 [教育计划往往会自我颠覆](https://notes.andymatuschak.org/z6qfYv9SPx6M9FZPzVj7o4qVRD1iTGJpMfz6J) ）。为例如解决某个领域的重要问题而设计的环境几乎会自动规避这个陷阱。
+当环境专注于促成一个活动的简化版本时，其目标往往变成了技能培养本身。这往往会颠覆它自己的目的（见 [教育计划往往会自我颠覆](https://notes.andymatuschak.org/z6qfYv9SPx6M9FZPzVj7o4qVRD1iTGJpMfz6J) ）。为例如解决某个领域的重要问题而设计的环境几乎会自动规避这个陷阱。
 
 如何表述是设计赋能环境的最重要的部分之一 ::TODO write note:: 。专门为某项活动的简化版本设计的表述常不会促成专业级别的练习。这意味着这些表述的力量是有限的。更糟的是：它们往往与专家使用的表达**不一致**。但是，为专家设计的表述往往可以为新手服务。当学徒在真实的实践环境中培养他们的技能时，他们会使用简化过的表述。但由于这些表述是在专家实践的背景下构思的，它们往往与专家的表述一致，所以二者之间可以平滑地完成过渡。（参见[Most dynamic representations developed for communication aren’t very enabling](https://notes.andymatuschak.org/zB5wf5crA1jVZb6CycZSjGRTjSkw2BpsdjG)）
 

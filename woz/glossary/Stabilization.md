@@ -54,11 +54,13 @@
 
 SuperMemo 中的记忆稳定化曲线
 
-> 图：[SuperMemo](https://supermemo.guru/wiki/SuperMemo) 计算的**[稳定化曲线](https://supermemo.guru/wiki/Stabilization_curve)**。横轴以[记忆可提取性](https://supermemo.guru/wiki/Memory_retrievability)表示时间。纵轴表示稳定化，即记忆持久度的增长，以[记忆稳定性](https://supermemo.guru/wiki/Memory_stability)增长表示。蓝色圆圈表示在给定[可提取性](https://supermemo.guru/wiki/Retrievability)下复习的[稳定性](https://supermemo.guru/wiki/Stability)增长程度。蓝色圆圈的大小取决于收集到的数据点数量。
+> 图：[SuperMemo](https://supermemo.guru/wiki/SuperMemo) 计算的**[稳定化曲线](https://supermemo.guru/wiki/Stabilization_curve)**。横轴以[记忆可提取性](https://supermemo.guru/wiki/Memory_retrievability)表示时间。纵轴表示稳定化，即记忆持久度的增长，以[记忆稳定性](https://supermemo.guru/wiki/Memory_stability)增长表示。蓝色圆圈表示在给定[可提取性](https://supermemo.guru/wiki/Retrievability)下复习的[稳定性](https://supermemo.guru/wiki/Stability)增长程度。蓝色圆圈的大小取决于收集到的数据点数量。该图使用了 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 中[难度](https://supermemo.guru/wiki/Difficulty)=0.53 且 [稳定性](https://supermemo.guru/wiki/Stability)=26 [天]的 31,721 条复习记录。稳定性增长从[可提取性](https://supermemo.guru/wiki/Retrievability)=100% 对应的 1.36（SIncMin=1.36）到 R=0% 对应的 26.31（SIncMax=26.31）。[SuperMemo](https://supermemo.guru/wiki/SuperMemo) 中 R=90% 对应的最佳复习的稳定性增长为 1.86（Stab90 等价于旧版 SuperMemo 中的 [O-系数](https://supermemo.guru/wiki/O-Factor)）。表示[间隔效应(https://supermemo.guru/wiki/Spacing_effect)的增益系数等于 2.96，即相对较高，适应低[稳定性](https://supermemo.guru/wiki/Stability)。使用公式可以准确计算此数据集中的稳定化（黄色曲线）： 26\*e-2.96\*R，[偏差](https://supermemo.guru/wiki/Deviation)为 0.5069。巩固曲线以紫色展示，表明[遗忘指数](https://supermemo.guru/wiki/Forgetting_index)是所提供数据集的合理学习标准。当 R 接近 100% 时，本图的实际稳定化为 0.879，与 2074 次测量结果一致。这在图片中看不清楚，但可以通过 SuperMemo 中输出的稳定化矩阵进行调查。这意味着在[可提取性](https://supermemo.guru/wiki/Retrievability)接近 100% 和 0% 的极端情况下，稳定化曲线公式可能不准确。这可以解释为没有任何记忆是可以完美提取或可验证的完全忘却（见：[我们永远不会忘记](https://supermemo.guru/wiki/We_never_forget)）
 
 [![img](https://supermemo.guru/images/thumb/4/4f/Stabilization_decay.png/500px-Stabilization_decay.png)](https://supermemo.guru/wiki/File:Stabilization_decay.png)
 
 SuperMemo 中的稳定化衰减
+
+> 图：**[稳定化衰减](https://supermemo.guru/wiki/Stabilization_decay)**是**[记忆稳定化](https://supermemo.guru/wiki/Memory_stabilization)**随着**[记忆稳定性](https://supermemo.guru/wiki/Memory_stability)**提高而下降。
 
 [![Uncertain course of stabilization in complex memories](https://supermemo.guru/images/thumb/0/0d/Uncertain_course_of_the_stabilization_of_complex_memories.png/400px-Uncertain_course_of_the_stabilization_of_complex_memories.png)](https://supermemo.guru/wiki/File:Uncertain_course_of_the_stabilization_of_complex_memories.png)
 
