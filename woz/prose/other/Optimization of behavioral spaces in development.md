@@ -82,19 +82,17 @@
 
 ## 自我调节也可能是作茧自缚
 
-今天，自动控制的完美性在与现代生活方式的冲突中失败了。进化过程中没有针对我们环境中的一些变化建立防御措施。我很欣赏[激进的非学校教育](https://supermemo.guru/wiki/Radical_unschooling)的概念。我提倡大的[行为空间](https://supermemo.guru/wiki/Behavioral_space)。然而，我不认为我们可以逃避一些规则，这些规则可以保卫人类的完美不受来自技术的攻击。
+在此，我列出了与现代生活方式相关的四大威胁（如果你认为需要补充，请[让我知道](https://supermemo.guru/wiki/Piotr_Wozniak)）。我估计了这些威胁对人类未来的影响，并据此把它们按优先顺序排列 ：
 
-在此，我列出了与现代生活方式相关的四大威胁（如果你认为我应该列出其他威胁，[让我知道](https://supermemo.guru/wiki/Piotr_Wozniak)）。我根据自己对这些威胁对人类未来的影响的估计，把它们按优先顺序排列 ：
+1. **睡眠**：[夜晚光线](https://supermemo.guru/wiki/Night_light)的无处不在扰乱了人类的[昼夜节律周期](https://supermemo.guru/wiki/Circadian_cycle)。这导致了[失眠](https://supermemo.guru/wiki/Insomnia)、[相移障碍](https://supermemo.guru/wiki/Phase_shift_disorder)、[睡眠剥夺](https://supermemo.guru/wiki/Sleep_deprivation)、压力和一连串其他健康问题
 
-1. **睡眠**：[晚上的光线](https://supermemo.guru/wiki/Night_light)的供应不断扰乱人类的[昼夜节律周期](https://supermemo.guru/wiki/Circadian_cycle)。这导致了[失眠](https://supermemo.guru/wiki/Insomnia)、[相移障碍](https://supermemo.guru/wiki/Phase_shift_disorder)、[睡眠剥夺](https://supermemo.guru/wiki/Sleep_deprivation)、压力和一连串的健康问题
+2. **食物**：触手可得的食物是肥胖症、糖尿病和一系列相关健康问题流行的基础
 
-2. **食物**：食物的易得性是肥胖症、糖尿病和一系列相关健康问题流行的基础
+3. **运动**：行动变得毫不费力——自动扶梯、汽车和飞机等让肌肉无事可做。不运动对健康有致命威胁
 
-3. **运动**：行动变得毫不费力。自动扶梯、汽车和飞机，做的是肌肉的工作。不运动是对健康的致命威胁
+4. **学校**：[强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling)不断在年轻一代中造成巨大的认知冲突。对大多数孩子来说，[学校教育](https://supermemo.guru/wiki/Schooling)的痛苦导致他们屈服、[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)、在压力下生存、叛逆，或上述的结合。幸运的是，[强制学校教育很快就会被废除](https://supermemo.guru/wiki/Compulsory_schooling_must_end)，因为我们越来越意识到，强迫不利于[创造力](https://supermemo.guru/wiki/Creativity)的发展，并会浇灭[学习的热情](https://supermemo.guru/wiki/Childhood_passions)。在许多情况下，[强迫性学习](https://supermemo.guru/wiki/Coercive_learning)导致了心理健康问题的大流行
 
-4. **学校**：[强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling)不断在年轻一代中造成巨大的认知冲突。对大多数孩子来说，[学校教育](https://supermemo.guru/wiki/Schooling)的痛苦导致他们屈服、[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)、在压力下生存、叛逆，或两者的结合。幸运的是，[强制学校教育很快就会被废除](https://supermemo.guru/wiki/Compulsory_schooling_must_end)，因为我们越来越意识到，胁迫会导致[创造力](https://supermemo.guru/wiki/Creativity)受阻，并终止[学习的激情](https://supermemo.guru/wiki/Childhood_passions)。在许多情况下，[胁迫性学习](https://supermemo.guru/wiki/Coercive_learning)促成了心理健康问题的流行
-
-我把[睡眠问题](https://supermemo.guru/wiki/Sleep_problems)放在肥胖症之前，因为超重的人可以通过健康饮食、运动、良好的睡眠等保持良好的状态。糟糕的睡眠几乎总是干扰对食物摄入的控制。
+我把[睡眠问题](https://supermemo.guru/wiki/Sleep_problems)放在肥胖症之前，因为超重的人可以通过健康饮食、运动、良好的睡眠等恢复身材，但糟糕的睡眠几乎总是让人无法控制饮食。
 
 所有上述对人类福祉的威胁都可以通过良好的规则来解决。这些规则不会与本文的主要观点相冲突。其中一些规则是我在其他地方提出的（例如[治愈DSPS和失眠](https://supermemo.guru/wiki/Curing_DSPS_and_insomnia)，[学习的基本法则](https://supermemo.guru/wiki/Fundamental_Law_of_Learning)，等等）。有些规则我不知道。例如，在没有因节食而引发的[内部冲突](https://supermemo.guru/wiki/War_of_the_networks)的情况下，我们如何能确保健康的身体。吃得健康可能是不够的。少吃是一个容易出错的解决方案。我们需要找到一种 "正确饮食"的算法。我们永远不应该强迫喂养健康的孩子。也许我们可以通过首先不搞乱控制系统来解决这个问题。我不知道答案。你需要到其他地方去寻找。最后但并非最不重要的是，我从不多谈运动，因为解决方案似乎有点太明显。我把它总结为以下几点。(1）学习很多关于运动和健康的知识，（2）找到时间，（3）慢慢开始，（4）不断增加时间和努力，与乐趣成正比。在某些时候，运动的成瘾性力量会让你终生忙碌，除非......其他控制系统让你失灵（例如，在一夜睡不好之后强迫自己运动是没有意义的）。
 

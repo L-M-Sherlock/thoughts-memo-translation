@@ -60,7 +60,7 @@ SuperMemo 中的记忆稳定化曲线
 
 SuperMemo 中的稳定化衰减
 
-> 图：**[稳定化衰减](https://supermemo.guru/wiki/Stabilization_decay)**是**[记忆稳定化](https://supermemo.guru/wiki/Memory_stabilization)**随着**[记忆稳定性](https://supermemo.guru/wiki/Memory_stability)**提高而下降。
+> 图：**[稳定化衰减](https://supermemo.guru/wiki/Stabilization_decay)**是**[记忆稳定化](https://supermemo.guru/wiki/Memory_stabilization)**随着**[记忆稳定性](https://supermemo.guru/wiki/Memory_stability)**提高而下降。取自 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 的图片展示了[稳定性](https://supermemo.guru/wiki/Stability)对[难度](https://supermemo.guru/wiki/Difficulty)估计为 0.37 的[条目](https://supermemo.guru/wiki/Item)的稳定化影响。绘制该图表使用了 25,686 条[复习](https://supermemo.guru/wiki/repetition)记录。稳定化的**衰减率**为 -0.529。稳定性可能的最大增长（SIncMax）是 3.102（当[稳定性](https://supermemo.guru/wiki/Stability) =1 时）。蓝色圆圈表示数据点（S:SInc)，圆圈越大，[复习](https://supermemo.guru/wiki/Repetition)记录的样本量越大。黄线是幂函数拟合，公式为：SInc=(3.102-1)\*[S](https://supermemo.guru/wiki/Stability)-0.529+1。该拟合的[偏差](https://supermemo.guru/wiki/Deviation)为 0.4235。
 
 [![Uncertain course of stabilization in complex memories](https://supermemo.guru/images/thumb/0/0d/Uncertain_course_of_the_stabilization_of_complex_memories.png/400px-Uncertain_course_of_the_stabilization_of_complex_memories.png)](https://supermemo.guru/wiki/File:Uncertain_course_of_the_stabilization_of_complex_memories.png)
 

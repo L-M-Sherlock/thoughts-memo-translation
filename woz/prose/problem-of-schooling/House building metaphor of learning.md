@@ -18,6 +18,8 @@
 
 另见：
 
+- [如何用课程塑造像机器人一样的思维](https://cliweb.org/build-a-house-ed-analogy/)展现了**盖房子**比喻最糟糕的一面，这解释了为什么像[极权主义独裁者](https://supermemo.guru/wiki/north_korea)一样的成年人喜欢对儿童的大脑进行微操，管理到每一根神经。
+
 - [语言学习中的盖房子比喻](https://elsdehaen.com/2017/03/26/is-learning-a-language-like-building-a-house/)
 
 - [以图片展示的盖房子比喻](https://www.theodysseyonline.com/youre-just-teacher)反映了一位富有激情的老师的理想视角。然而…[我们需要老师吗？](https://supermemo.guru/wiki/Do_we_need_teachers%3F)

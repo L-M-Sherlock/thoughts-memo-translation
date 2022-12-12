@@ -4,11 +4,11 @@
 
 ## 教育自由
 
-奴隶制令人憎恶。学校不应该是奴隶圈养场。这种现存于世的真正的奴隶制，必须被彻底消灭。无论如何，就[教育解放宣言](https://supermemo.guru/wiki/Declaration_of_Educational_Emancipation)发表意见时，我们最终决定要采用一种激烈的言辞。[Tom Durrie](https://supermemo.guru/wiki/Tom_Durrie) 自 20 世纪 60 年代以来从来没有停止过与[强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling)作斗争！遗憾的是，在 90 岁的时候，他的耐心已经消磨殆尽了。他曾是那场讨论的中流砥柱。但我们依然需要觉醒所有——“昏昏欲睡的魂灵仍在幻想[普鲁士教育模式](https://supermemo.guru/wiki/Prussian_Model_of_Education)会继续高歌猛进，走向某种美好未来”——的家长和教育工作者。[强制学校教育必须结束！](https://supermemo.guru/wiki/Compulsory_schooling_must_end)任何教育改革中，自由式的教育都是最基本的。在任何国家的议会中，只需要一个法案，自由明天就会到来。这样，学校的强制教育就将像多米诺骨牌一样倒下。
+奴隶制令人深恶痛绝。学校不应该是奴隶农场。这种现存于世的真正的奴隶制，必须被彻底消灭。无论如何，就[教育解放宣言](https://supermemo.guru/wiki/Declaration_of_Educational_Emancipation)发表意见时，我们最终决定要采用一个夸张的比喻。[Tom Durrie](https://supermemo.guru/wiki/Tom_Durrie) 自 20 世纪 60 年代以来从来没有停止过与[强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling)作斗争！直到他 90 岁那年，他的耐心已经消耗殆尽了。在那场辩论中，他是一个决定性的声音。我们需要唤醒所有仍在沉睡的家长和教育工作者的思想，打破他们对[普鲁士教育模式](https://supermemo.guru/wiki/Prussian_Model_of_Education)会向更美好的未来发展的幻想。[强制学校教育必须结束](https://supermemo.guru/wiki/Compulsory_schooling_must_end)！在任何教育改革中，教育自由都是最基本的要素。在任何国家的单一制议会中，只需要一个法案，自由在明天便会到来。这样，多米诺式的学校强制教育就会像三十年前的共产政权一样倒下。
 
 ## 抗争
 
-实现这一立法行为，最简单的办法不是教育运动。解释学校教育的弊端需要撤销两百年来与世界各国文化融为一体的谬误（见：[让古老的学校系统保持活力的谬误](https://supermemo.guru/wiki/Mythology_that_keeps_the_archaic_school_system_alive)）。在与政治家、教育家、教师和家长尽力交谈后，我意识到我们无法说服成年人。[知识鸿沟](https://supermemo.guru/wiki/Semantic_distance)太大，且无法弥合。我们无法说服神创论者，神创论没有科学证据的支持。唯一能够迅速过渡的方式是学生的抗争。当年轻人拒绝胁迫的时候，旧的系统就会崩溃。政治家们将不得不听从。然而，旧制度正是通过灌输和恐吓而变得强大。在过去 5 年中，我与一千名儿童交谈过，他们几乎一致支持结束「奴隶制」的想法。但他们无法通过投票来改变这个系统。他们甘心于他们的苦差事。他们不相信现状可以改变。他们已经被抽空了精力，并被糟糕成绩的「可怕后果」所吓倒。
+实现这一立法行为，最简单的途径不是教育运动。解释学校教育的罪恶首先需要消除两百年以来与世界各国文化融为一体的谬误（见：[让古老的学校系统保持活力的谬误](https://supermemo.guru/wiki/Mythology_that_keeps_the_archaic_school_system_alive)）。在与政治家、教育家、教师和家长尽力交谈后，我意识到我们无法说服成年人。[知识鸿沟](https://supermemo.guru/wiki/Semantic_distance)太大，且无法弥合。神创论者不会接受神创论没有科学证据的支持这一事实。唯一能够迅速过渡的方式就是学生的抗争。当年轻人拒绝胁迫的时候，旧的制度就会崩溃，政治家们将不得不听从。然而，旧制度正是通过灌输和恐吓的方式来变得强大。在过去 5 年中，我与一千名儿童交谈过，他们几乎一致支持结束「奴隶制」的想法。然而，他们无法通过投票来改变这个制度；他们不得不接受被奴役；他们不相信现状可以改变；他们已经被消耗得精疲力竭了；他们还要因为成绩差造成的「可怕后果」而受到恐吓。
 
 见：[学校改革：进化还是革命？](https://supermemo.guru/wiki/School_Reform:_Evolution_or_Revolution%3F)
 
