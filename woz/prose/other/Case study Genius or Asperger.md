@@ -6,7 +6,7 @@
 
 Laila 今年 25 岁，她非常大方地向我透露了她生活中许多感官超敏的细节，并详细地描述了她的校园经历、受教育过程和社会化的故事。她的头脑富有创造力，详实地回答了我关于她童年、幼儿园、学校、家庭、希望以及恐惧的一些问题，记在纸上有 60 页之多。以下是些摘录（经许可和授权）。
 
-Laila 是个早熟的孩子兼优等生，她的写作中充斥着生动的早期记忆，似乎她并没有受[儿童失忆症](https://supermemo.guru/wiki/Childhood_amnesia)的影响。然而她被诊断出患 [Asperger 综合症](https://supermemo.guru/wiki/Asperger_Syndrome)和 [ADHD](https://supermemo.guru/wiki/ADHD) 。那么她是 aspie（Asperger 患者）还是天才？她告诉我，她发展了两套[行为系统](https://supermemo.guru/wiki/Behavioral_system)：分别用于现实生活和网络世界。出于多种原因，现实生活对 Laila 来说十分艰难。她详细地叙述了她对日托所和学校教育的回忆，不断的监视和监督犹在眼前。因为她很害怕违反规则或遭到成人反对。
+Laila 是个早熟的孩子兼优等生，她的写作中充斥着生动的早期记忆，似乎她并没有受[童年失忆症](https://supermemo.guru/wiki/Childhood_amnesia)的影响。然而她被诊断出患 [Asperger 综合症](https://supermemo.guru/wiki/Asperger_Syndrome)和 [ADHD](https://supermemo.guru/wiki/ADHD) 。那么她是 aspie（Asperger 患者）还是天才？她告诉我，她发展了两套[行为系统](https://supermemo.guru/wiki/Behavioral_system)：分别用于现实生活和网络世界。出于多种原因，现实生活对 Laila 来说十分艰难。她详细地叙述了她对日托所和学校教育的回忆，不断的监视和监督犹在眼前。因为她很害怕违反规则或遭到成人反对。
 
 在虚拟世界中， Laila 感到自由，也有创造力。在现实世界中，由于她的敏感个性，Laila 对周围的事情百依百顺，这经常发生在优等生身上。在学校和家里的百依百顺可能最终导致一个人不适应现实生活（见：[成为优等生的危险](https://supermemo.guru/wiki/Dangers_of_being_a_Straight_A_student)）。由于虚拟世界没有侵入性， Laila 在那里如鱼得水。她感到自由和有创造力。她与他人的交流生动而有说服力。在网上，她唯独担心虚拟世界可能会侵入现实世界，破坏她的生活。
 

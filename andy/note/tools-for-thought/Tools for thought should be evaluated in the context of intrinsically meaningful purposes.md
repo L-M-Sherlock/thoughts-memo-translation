@@ -1,6 +1,6 @@
 # 思想工具应该在有内在意义的目的背景下进行评估
 
-[应从具有内在意义的目的评价思想工具 (andymatuschak.org)](https://notes.andymatuschak.org/z494jinM6aNqjzLuVenhH3tkgMWuDgzby3odm)
+原文：[Tools for thought should be evaluated in the context of intrinsically meaningful purposes (andymatuschak.org)](https://notes.andymatuschak.org/z494jinM6aNqjzLuVenhH3tkgMWuDgzby3odm)
 
 在评价 [数学](https://notes.andymatuschak.org/zihU6LodtWSUP6dGPDQmM4UqCp4sAXSvJAb)时，我们从不从类似：多少学生使用它、对考试成绩有什么影响以及测算它能多快帮助人们解决问题这样的角度。从某种程度上，这都是相关的指标，但不是工具最终的目的。Mathematica是作为Wolfram对符号操作和自动机研究的一部分而创建的，然后可以由数学家和科学家等普遍的使用。它的评判标准可能是：它能在边界上实现多少强大的洞察力？
 

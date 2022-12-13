@@ -94,17 +94,15 @@
 
 我把[睡眠问题](https://supermemo.guru/wiki/Sleep_problems)放在肥胖症之前，因为超重的人可以通过健康饮食、运动、良好的睡眠等恢复身材，但糟糕的睡眠几乎总是让人无法控制饮食。
 
-所有上述对人类福祉的威胁都可以通过良好的规则来解决。这些规则不会与本文的主要观点相冲突。其中一些规则是我在其他地方提出的（例如[治愈DSPS和失眠](https://supermemo.guru/wiki/Curing_DSPS_and_insomnia)，[学习的基本法则](https://supermemo.guru/wiki/Fundamental_Law_of_Learning)，等等）。有些规则我不知道。例如，在没有因节食而引发的[内部冲突](https://supermemo.guru/wiki/War_of_the_networks)的情况下，我们如何能确保健康的身体。吃得健康可能是不够的。少吃是一个容易出错的解决方案。我们需要找到一种 "正确饮食"的算法。我们永远不应该强迫喂养健康的孩子。也许我们可以通过首先不搞乱控制系统来解决这个问题。我不知道答案。你需要到其他地方去寻找。最后但并非最不重要的是，我从不多谈运动，因为解决方案似乎有点太明显。我把它总结为以下几点。(1）学习很多关于运动和健康的知识，（2）找到时间，（3）慢慢开始，（4）不断增加时间和努力，与乐趣成正比。在某些时候，运动的成瘾性力量会让你终生忙碌，除非......其他控制系统让你失灵（例如，在一夜睡不好之后强迫自己运动是没有意义的）。
+即使有一个完美的规则手册，生活也不会完美。即使是最好的控制也可能失败。你可以用一生的时间去学习，却发现你所有的知识因一项新的发明而过时。你可能因开始的假设模型错误，导致之后的研究走上歧路。你可能看似健康，却在几个月内死于癌症。
 
-即使有一个完美的规则手册，生活也不会完美。即使是最佳控制也可能失败。你可以用一生的时间去学习，却发现你所有的知识由于一项新的发明而变得过时。你可以从一个错误的模型开始，在研究中挖到一条盲道。你可以有一个健康的形象，却在几个月内死于癌症。
+开放的[行为空间](https://supermemo.guru/wiki/Behavioral_space)及保护人类大脑和身体健康的规则并不能确保生活幸福。除了技术的入侵与随机优化带来的风险之外，【【世界上还有一系列的意外情况：我们仍然有战争、政治或意识形态冲突、犯罪行为，以及始终难以打击的普通罪恶：无知】】。即使你是爱因斯坦，也可能遇上希特勒。你可能在过马路时被车撞死，也可能碰上足以载入史册的小行星撞地球——此时任何演化上的奇迹都救不了你。然而，一个发育良好的大脑能提供很好的保护，所以我们要优先考虑大脑。
 
-开放的[行为空间](https://supermemo.guru/wiki/Behavioral_space)和保护人类大脑和健康的规则并不能确保幸福生活。除了来自技术的入侵，以及随机优化的烘烤危害，世界还增加了一系列的意外情况。我们仍然有战争、政治或意识形态冲突、犯罪行为，以及始终难以打击的普通罪恶：无知。即使你是爱因斯坦，你仍然可能在路上遇到希特勒。你可以在过马路时死亡。一颗小行星可能会出现在书中。任何进化的奇迹都不能帮助你在这种情况下生存。然而，一个好的大脑是一个好的防御。大脑应该是优先考虑的。
-
-防止技术侵入生理的规则是不可避免的：**大脑应该是优先的**
+比如防止技术入侵生理：**应该优先考虑大脑**
 
 ## 自由不是无压力
 
-大[行为空间](https://supermemo.guru/wiki/Optimization_of_behavioral_spaces_in_development#behavioral_space)的整个想法被那些崇拜秩序和纪律的人所批评。反对自由的一个奇怪的论点是所谓的无压力教养的「北欧实验」的失败。这种推理的有效性很容易被开放空间如何运作的拓扑学解释所证伪，然而，我需要强调的是，我对教育的思考是与那个所谓的斯堪的纳维亚哲学截然相反。一方面，无压力意味着没有抗压能力的训练，而我提倡各种形式的减压和健康的急性压力（例如在体育、竞争、旅行等方面）（见：[抗压力韧性](https://supermemo.guru/wiki/Stress_resilience)）。一定程度的压力被写入探索性学习的方程式中。急性压力是对该过程中涉及的惩罚的反应。另一方面，强烈的社会主义经济可以夸耀社会正义和[高幸福指数](https://www.thrillist.com/travel/nation/why-scandinavians-are-happiest-people-in-the-world)。然而，它们也倾向于解放妇女，以增加对儿童护理的关注为代价。机构化是[猖獗和受鼓励的](https://supermemo.guru/wiki/Raymond_Moore:_On_early_institutionalization)。更糟糕的是，在瑞典，[征兵](https://supermemo.guru/wiki/Conscription)又开始了，[在家上学被禁止](https://supermemo.guru/wiki/Ban_on_homeschooling)。因此，我们可以看到，一方面是体制化，另一方面是免于惩罚的自由，这是一种有毒的混合。在一个开放的系统的操场上，孩子们探索和社交。他们根据表现获得奖励和惩罚。在一个没有问责制的封闭系统中，探索是有限的，奖励制度是腐败的。这是一条通往重大病症的直路。虽然北欧国家不应该被放在同一个篮子里，但[瑞典的毒品问题自 20 世纪 90 年代以来成倍增加](https://supermemo.guru/wiki/Dramatic_increase_in_drug_deaths_in_Sweden)。他们的零容忍毒品政策已被[联合国批评为侵犯人权](https://supermemo.guru/wiki/Sweden_drug_policy_criticized_as_a_violation_of_human_rights)。而这一切都源于一个最善意的推理，即一个福利社会可能因为容易获得毒品而崩溃。
+大的[行为空间](https://supermemo.guru/wiki/Optimization_of_behavioral_spaces_in_development#behavioral_space)这个想法被那些崇拜秩序和纪律的人所批评。反对自由的一个奇怪的论点，是所谓代表着无压力教养的「北欧实验」的失败。只要考虑开放空间运作方式的拓扑学解释，就很容易发现这种推理是无效的。然而，需要强调的是，我对教育的思考与公认的斯堪的纳维亚哲学截然相反。一方面，无压力意味着没有抗压能力的训练，而我提倡各种形式的积极压力和健康的急性压力（例如在体育、竞争、旅行等方面）（见：[抗压力韧性](https://supermemo.guru/wiki/Stress_resilience)）。探索性学习包括一定程度的压力。急性压力是对该过程涉及的惩罚的反应。另一方面，【【纯正的  怎么形容成分比较“经典”“纯粹”不混合呢？】】社会主义经济以社会正义和[高幸福指数](https://www.thrillist.com/travel/nation/why-scandinavians-are-happiest-people-in-the-world)为傲。【然而，它们也倾向于以过度关注儿童看护为代价，来解放妇女 查查到底啥意思 然后加个译者注】。机构化很[猖獗且“备受鼓舞”](https://supermemo.guru/wiki/Raymond_Moore:_On_early_institutionalization)。更糟糕的是，在瑞典，[征兵](https://supermemo.guru/wiki/Conscription)又开始了，[在家上学被禁止](https://supermemo.guru/wiki/Ban_on_homeschooling)。【【因此，我们可以看到，一方面是体制化，另一方面是免于惩罚的自由，这是一种有毒的混合。什么意思这是？】】在一个开放的系统的操场上，孩子们探索和社交。他们根据表现获得奖励和惩罚。在一个没有问责制的封闭系统中，探索是有限的，奖励制度是腐败的。这是一条通往重大病症的直路。虽然北欧国家不应该被放在同一个篮子里，但[瑞典的毒品问题自 20 世纪 90 年代以来成倍增加](https://supermemo.guru/wiki/Dramatic_increase_in_drug_deaths_in_Sweden)。他们的零容忍毒品政策已被[联合国批评为侵犯人权](https://supermemo.guru/wiki/Sweden_drug_policy_criticized_as_a_violation_of_human_rights)。而这一切都源于一个最善意的推理，即一个福利社会可能因为容易获得毒品而崩溃。
 
 ## 操纵环境
 

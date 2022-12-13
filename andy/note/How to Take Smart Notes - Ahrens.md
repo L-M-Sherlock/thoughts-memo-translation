@@ -64,15 +64,15 @@ Ahrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writi
 
 \- 写笔记并将它们分类放入卡片盒，无非是试图理解某些东西的更广泛的意义。卡片盒迫使我们提出许多详尽的问题。它是什么意思？它与......有什么联系？它与......的区别是什么？它与什么相似？
 
-[做你自己的思考](https://notes.andymatuschak.org/z4enRPbLXdD8X8hCfVjaRkcGkronvhcfrgSQw)
+[自主思考](https://notes.andymatuschak.org/z4enRPbLXdD8X8hCfVjaRkcGkronvhcfrgSQw)
 
 \- 在他关于启蒙运动的著名文章中描述道。"未成年人[不成熟](https://notes.andymatuschak.org/z6o5eS2DnpMwe2HnHyhgQAmmGkRCtkKina73u)是指在没有他人指导，就无法使用自己的理解的人。如果这种不成熟的原因不是缺乏理解，而是没有他人指导情况下，犹豫不决，缺乏勇气使用自己的思想，那么这种不成熟就是自我强加的。敢于了解!(Sapere aude.) 因此'要有勇气运用自己的理智'(康德 1784)是启蒙运动的座右铭"。
 
 \- 但在写卡片盒第一篇笔记时，我问自己的第一个问题是："这对我自己的研究和利用卡片盒思考问题有什么帮助？这是另一种发问方式：为什么我写下的这些内容会引起我的兴趣？
 
-Zettelkasten在认识论上更加诚实，有可能发现相反的真理[常青笔记是发展狂野想法的安全场所](https://notes.andymatuschak.org/z8RTzukqNLKFXzqLwx25HrUrg5E5jiziGznWB) [写作迫使人们更敏锐地理解](https://notes.andymatuschak.org/z8q1K5a8i95qARkpFwS45qqtQzM8th82TkeUg)
+卡片盒笔记系统在认识论上更加诚实，有可能发现相反的事实[常青笔记是发展大胆想法的安全场所](https://notes.andymatuschak.org/z8RTzukqNLKFXzqLwx25HrUrg5E5jiziGznWB) [写作促使人们更加深入地理解](https://notes.andymatuschak.org/z8q1K5a8i95qARkpFwS45qqtQzM8th82TkeUg)
 
-\- 自下而上而不是自上而下地发展论点和想法，是打开我们自己的洞察力的第一个和最重要的步骤。
+\- 敞开心扉寻求洞见的第一步，也是最重要的一步，就是将我们发现论点和想法的工作方式从自上而下变为自下而上
 
 我们很难看到文本中*没有*说的东西。通过将我们的阅读观察与先前的笔记结合起来，我们自然会遇到作者可能没有处理的石头。[写作迫使我们更敏锐地理解](https://notes.andymatuschak.org/z8q1K5a8i95qARkpFwS45qqtQzM8th82TkeUg)
 

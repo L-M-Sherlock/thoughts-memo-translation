@@ -60,19 +60,19 @@
 
 ## 进一步的测试
 
-由于时间限制，我设计了一个进程测试同一天的所有记忆（20190916）。(暂未注入Markdown)
+由于时间限制，我设计了一个程序，在同一天（2019年9月16日）测试所有记忆。我没有在时间上分散项目，而是在学习队列中分散它们。对于一个元认知能力较弱的孩子来说，交错的项目与较长的间隔时间有类似的效果。我把测试问题埋在更多的项目中。我把它们从托马斯的不喜欢的英语分支中抽取出来，以减少离群效应。我只用了7分钟就得到了答案。这个测试是成功的，因为它提供了毫不含糊的答案。结果与最初的假设一致。
 
-- 首先我问了他对模板的喜好。如果我预估的那样，该孩子解释了：「我喜欢红色模板，因为它们好简单」。
+- 首先，我问了关于模板的偏好。不出所料，孩子解释说*"我喜欢红色模板，因为测试很容易 "*。托马斯选择和喜欢的项目很容易，所以他更喜欢这些项目
 
-我从问了一个有关sausages单词的口头问题开始（该答案为frankfurters一词，如同预料）
+ 我从一个关于香肠的口头问题开始，答案是*"法兰克福香肠 "*。
 
-当这个不喜欢的有关sausage单词的学习卡片出现时，答案就是：「我不知道！」。这意味着(暂未注入Markdown)
+当不喜欢的关于香肠的项目到来时，答案是*"我不知道 "*。这意味着，**不喜欢的模板使孩子在1-2分钟前正确回答的问题失败了！**这是对有毒记忆的典型说明。仿佛大脑被与学校、胁迫和不高兴的关联所麻痹。没有任何明显的迹象表明他在努力从记忆中找回一个词！**这是个典型的中毒性记忆。
 
-- 当这个喜欢的学习卡片出现了，答案令人惊讶！它不是「sausages」也不是「frankfurters」，而是「meat」！(暂未注入Markdown)
+- 当喜欢的东西到达时，答案是一个惊喜！这不是*"香肠 "*，不是*"法兰克福 "*，而是*"肉"。这不是*"香肠 "*，也不是*"法兰克福香肠 "*，而是*"肉 "*。我想这应该是一个正确的答案，而且有可能这个孩子在过去一直回答*"肉 "*（这可能解释了妈妈在缩短间隔方面的焦急工作）。我们可能永远不会知道。妈妈不记得了
 
-- 到说再见的时候了，我又问了下这个孩子他不喜欢的问题的答案，这次孩子虚构了一个。(暂未注入Markdown)
+-  为了告别，我决定用不喜欢的问题再问一次答案，这一次，那孩子说得很清楚。他把波兰语中的*"kielbaski "*弄得像英语。*"kelbosky "*。当孩子们不知道答案的时候，他们不喜欢承认这一点。学校教他们用一个塞子词*"肉 "*或一个诡计*"kelbosky "*来游戏系统。
 
-这偶然地带来了一些惊讶，在同样的测试中，Thomas回答了两三次「meat」，这是他搪塞「我不知道」的方式。也许(暂未注入Markdown)
+顺便说一下，在同一次测试中，托马斯在回答其他2-3个项目时使用了*"肉 "*这个词，这让人感到有些困惑。这是他对*"我不知道 "*的塞词。也许他一开始也不记得 "香肠"？然而，上下文的依赖性和喜欢的影响是非常明显的。
 
 记忆环境中的微小改变可能导致[记忆内容](https://supermemo.guru/wiki/Recall)的巨大变化。
 
@@ -82,23 +82,23 @@
 
 ## 自由促进记忆巩固
 
-当这个问题被令人愉悦的颜色背景装饰时，它不再带来负面联系，记忆表现能力不再受损。(暂未注入Markdown)
+当问题被装饰成令人愉快的颜色，没有带来负面的联想时，记忆表现就不会受到干扰。下图是[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)中复习困难材料的典型。
 
-[![Memories associated with free learning show best consolidation.png](https://supermemo.guru/images/thumb/1/12/Memories_associated_with_free_learning_show_best_consolidation.png/600px-Memories_associated_with_free_learning_show_best_consolidation.png)](https://supermemo.guru/wiki/File:Memories_associated_with_free_learning_show_best_consolidation.png)
+[！[与自由学习相关的记忆显示出最佳的巩固性.png](https://supermemo.guru/images/thumb/1/12/Memories_associated_with_free_learning_show_best_consolidation.png/600px-Memories_associated_with_free_learning_show_best_consolidation.png)](https://supermemo.guru/wiki/File:Memories_associated_with_free_learning_show_best_consolidation.png)
 
-> ***图:** 有关单词 "sausages" 的记忆能力变化图，在[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)中的反映。一共达6月。(暂未注入Markdown)
+> ***图：**在6个月的时间里，在[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)中记忆 "香肠 "这个词的能力的变化。上图中的10个峰值（[检索能力](https://supermemo.guru/wiki/Retrievability)）对应着一次失败（红色）和连续9次[回忆](https://supermemo.guru/wiki/Recall)的成功（蓝色）。底部面板上的蓝色区域显示了[记忆稳定性](https://supermemo.guru/wiki/Memory_stability)的积累。所展示的图表对于一个8岁儿童的密集时间表来说是典型的。作为比较，同样的问题，在同样的年龄，在同一个孩子身上，如果学习与胁迫有关，可能会产生截然不同的表现。见。[胁迫对回忆的影响](https://supermemo.guru/wiki/File:Memories_associated_with_school_coercion_do_not_consolidate.png)*。
 
 ## 强制带来记忆能力折损
 
-仅仅是一个有关强制的背景颜色联系就足以切断良好的记忆估值信号。(暂未注入Markdown)
+将白色背景颜色与[胁迫](https://supermemo.guru/wiki/Coercive_learning)联系起来，导致[知识评价](https://supermemo.guru/wiki/Knowledge_valuation)信号被切断。这反过来又使我们不可能[检索一个已经[巩固](https://supermemo.guru/wiki/Recall)的记忆](https://supermemo.guru/wiki/Consolidation)与另一个没有[有毒关联](https://supermemo.guru/wiki/Item)的[项目](https://supermemo.guru/wiki/Toxic_memory)成功结合。
 
-[![Memories associated with school coercion do not consolidate.png](https://supermemo.guru/images/thumb/1/13/Memories_associated_with_school_coercion_do_not_consolidate.png/600px-Memories_associated_with_school_coercion_do_not_consolidate.png)](https://supermemo.guru/wiki/File:Memories_associated_with_school_coercion_do_not_consolidate.png)
+[！[与学校胁迫有关的记忆不巩固.png](https://supermemo.guru/images/thumb/1/13/Memories_associated_with_school_coercion_do_not_consolidate.png/600px-Memories_associated_with_school_coercion_do_not_consolidate.png)](https://supermemo.guru/wiki/File:Memories_associated_with_school_coercion_do_not_consolidate.png)
 
-> ***图:** 仅仅有关 [强制](https://supermemo.guru/wiki/Coercion)的学习联系就可以严重破坏[知识估值](https://supermemo.guru/wiki/Knowledge_valuation), (暂未注入Markdown)
+> ***图：**学习与[胁迫](https://supermemo.guru/wiki/Coercion)的简单关联可以关闭[知识评价](https://supermemo.guru/wiki/Knowledge_valuation)、[知识回忆](https://supermemo.guru/wiki/Knowledge_recall)，并因此关闭[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)中的[知识巩固](https://supermemo.guru/wiki/Knowledge_consolidation)。同样的知识，在同一时间，在同一个人身上，可能会被证明是驻留在记忆中已经正确地[巩固](https://supermemo.guru/wiki/Consolidation)。比较一下。[自由学习中的巩固](https://supermemo.guru/wiki/File:Memories_associated_with_free_learning_show_best_consolidation.png)*。
 
 ## 可怕的学校教育
 
-总而言之，这个例子反映了学校教育和强制的负面效果，相比学习英语，这孩子学会了讨厌英语。(暂未注入Markdown)
+总之，这个例子显示了学校教育和胁迫的影响。这个孩子不但没有学会英语，反而学会了不喜欢英语。那个**的好老师**，那个**的妈妈**，以及那个**的学校**除了要求为考试而学习之外，没有做错任何事情。该[项目](https://supermemo.guru/wiki/Item)的表述没有缺陷！只要改变一下语境，它就能完美地表现出来。形成[有毒联想](https://supermemo.guru/wiki/Toxic_memory)的唯一可识别的罪魁祸首是**胁迫**。[SuperMemo](https://supermemo.guru/wiki/SuperMemo)可以通过钻研不喜欢的[项目](https://supermemo.guru/wiki/Item)来放大[讨厌学习](https://supermemo.guru/wiki/Hating_SuperMemo)。然而，它也可以通过复习自己选择的格式良好的项目而放大[学习的乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)。在这个意义上，[SuperMemo](https://supermemo.guru/wiki/SuperMemo)只是一个旁观者和一个放大器。
 
 **在学校，相对学习来说，孩子们通常学会了讨厌学习**
 

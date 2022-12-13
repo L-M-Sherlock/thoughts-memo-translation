@@ -42,7 +42,7 @@
 
 ## 未来
 
-网络将引发一场同行评议的革命。它将朝着更[开放的科学](https://en.wikipedia.org/wiki/Open_science)的方向发展。只要我们能有机会挖掘早期的想法，保持缓慢的过程并没有错。它们可能措辞不当，也可能是错误的。每个人都可以选择他的过滤器：要么（a）**只给我经过几个月的同行评议的干净和纯粹的材料**，要么（b）**请给我在这个主题中能得到的任何灵感**！有一些科学的头脑，即使在深夜通过电子邮件以半昏迷状态写作时，也能不断地从中迸发出有价值的灵感。我宁愿读那些的绝妙的半生不熟的想法，而不是去挖掘那些不那么好的作者的精心打磨的同行评议材料。如果是「无聊的同行」，**形式上的完美**可能会引诱读者处理成堆的正式文本，而其中实际上并没有什么高质量的内容。
+网络将引发一场同行评议的革命。它将朝着更[开放的科学](https://en.wikipedia.org/wiki/Open_science)的方向发展。只要我们能有机会挖掘早期的想法，保持缓慢的过程并没有错。它们可能措辞不当，也可能是错误的。每个人都可以选择他的过滤器：要么（a）**只给我经过几个月的同行评议的干净和纯粹的材料**，要么（b）**请给我在这个主题中能得到的任何灵感**！有一些科学的头脑，即使在深夜通过电子邮件以半昏迷状态写作时，也能不断地从中迸发出有价值的灵感。我宁愿读那些半生不熟的绝妙想法，而不是去挖掘那些普通作者精心打磨的同行评议材料。在「无聊的同行」情况下，**形式上的完美**可能会引诱读者处理成堆的正式文本，而其中实际上并没有什么高质量的内容。
 
 表达自由是表达本身的最佳盟友。自由为创造的乐趣提供动力，它作为一种奖励，激发了进一步的创造力。同行评议是抑制性的。许多年轻的科学家因为「不发表就灭亡 」的压力而讨厌和放弃科学。我看到，在非常有才华的人身上出现了创造性的障碍和不快。这也是[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)的机制，它抑制了[学校](https://supermemo.guru/wiki/Problem_of_schooling)和科学领域的[学习内驱力](https://supermemo.guru/wiki/Learn_drive)和创造性思维。
 
@@ -50,7 +50,7 @@
 
 我是 [Wolfram](https://en.wikipedia.org/wiki/Stephen_Wolfram) 的忠实粉丝。这是一种新型的科学家，有可能改变世界。他傲慢，但带着优雅。这是典型的具有领先于时代的强大模式的人。Wolfram 不属于学术界，可以不理会同行评审。如果我的话对你来说没有什么分量，那就听听这位天才头脑自己的意见吧（参考**「[一种新的科学](https://en.wikipedia.org/wiki/A_New_Kind_of_Science)**」）。
 
-> 会遇到的典型问题是如何审查或检查这本书。在学术界，有观点认为 「同行评议」是检查任何东西的最终方法。也许在一个每个人都有无限时间的世界里，人们都秉公行事，这么说就是对的。但在现实中，同行评议充满了错误，往往营私舞弊，情况再好，也往往倾向于遏制新想法和维持现状。
+> 会遇到的典型问题是如何审核或检查这本书。在学术界，有观点认为 「同行评议」是检查任何东西的最终方法。也许在一个每个人都有无限时间的世界里，人们都秉公行事，这么说就是对的。但在现实中，同行评议充满了错误，往往营私舞弊，情况再好，也往往倾向于遏制新想法和维持现状。
 
 ## 青年和创造力
 
@@ -60,11 +60,11 @@
 
 ## 首次发表关于间隔重复的论文
 
-Ralph Merkle 在 1974 年发明了[公钥密码学](http://www.merkle.com/1974/)。他是一名本科生。他的文章清晰、有说服力、精彩。然而，他的导师们并没有看到这个突破。一段时间后，Merkle 试图发表一篇论文，但他在同行评议中碰壁了。审稿人希望他能提供有充分参考价值的文本，并列出该领域的所有已有研究。他被拒绝了。一位匿名审稿人涉嫌抢走了一个年轻人的突破性出版物，但其身份从未被确认。一个突破性的想法被驳回了，理由是「经验表明以明文传递密钥信息是非常危险的」。简直令人喷饭！这就好比有人说：「[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)没有什么意义。经验表明，我们最终会忘记。」
+Ralph Merkle 在 1974 年发明了[公钥密码学](http://www.merkle.com/1974/)。他是一名本科生。他的文章清晰、有说服力、精彩。然而，他的导师们并没有看到这个突破。一段时间后，Merkle 试图发表一篇论文，但他在同行评议中碰壁了。审稿人希望他能提供有充分参考价值的文本，并列出该领域的所有已有研究。他被拒绝了。一位匿名审稿人涉嫌抢走了一个年轻人的突破性出版物，但其身份从未被确认。一个突破性的想法被驳回了，理由是「经验表明以明文传递密钥信息是非常危险的」。简直令人喷饭！这就好比有人说：「[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)没有什么意义。经验表明，我们最终都会忘记。」
 
 Merkle 论文的发表拖了 3 年之久，在此期间，其他人也发表了他们的想法，吵嚷着他们的成果优先权。
 
-Merkle 的案例与[我自己](https://supermemo.guru/wiki/Piotr_Wozniak)在 1991-1994年 与 [Edward Gorzelanczyk](https://supermemo.guru/wiki/Edward_Gorzelanczyk) 博士的努力有着惊人的相似之处。这种相似性是如此的接近，以至于如果你把 Merkle 的话，用「[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)」（**创见**）代替「公钥密码学」，你会得到我们自己的故事，一字不差。
+Merkle 的案例与[我自己](https://supermemo.guru/wiki/Piotr_Wozniak)在 1991-1994年和 [Edward Gorzelanczyk](https://supermemo.guru/wiki/Edward_Gorzelanczyk) 博士的努力有着惊人的相似之处。这种相似性是如此的接近，以至于如果你把 Merkle 的话，用「[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)」（**创见**）代替「公钥密码学」，你会得到我们自己的故事，一字不差。
 
 > 随着一位「专家」对该**创见**的全盘否定，编辑拒绝了我的文章。她「对没有参考文献的事实感到特别困扰。有没有人研究过这种方法。如果他们考察过并放弃了它，那又是为什么？ 」
 
@@ -80,6 +80,6 @@ Merkle 的案例与[我自己](https://supermemo.guru/wiki/Piotr_Wozniak)在 199
 
 [老鼠乐园](https://supermemo.guru/wiki/Rat_Park)的实验改变了我们对成瘾的看法。
 
-在写关于[老鼠乐园](https://supermemo.guru/wiki/Rat_park)的文章时，一位年轻的怀疑论者暗示「尽管他声称有革命性的突破，但 Alexander 很难找到杂志来发表他的结果。《科学》和《自然》都拒绝发表这项研究，可能是因为方法和结果存在重大问题」（[来源](https://theoutline.com/post/2205/this-38-year-old-study-is-still-spreading-bad-ideas-about-addiction)）。我在被接受方面也有问题（《科学》、《记忆与认知》等），这使我最终放弃了[同行评议](https://supermemo.guru/wiki/Peer_review)。我更喜欢 [SuperMemo Guru](https://supermemo.guru/wiki/SuperMemo_Guru) 的创作渠道，而不是与那些我不认识的、似乎不理解我所写的东西的人争辩。最糟糕的是，善意的建议往往使文章变得更糟糕。你不能添加一个轻松的评论或一个能帮助读者的比喻。
+在写关于[老鼠乐园](https://supermemo.guru/wiki/Rat_park)的文章时，一位年轻的怀疑论者暗示「尽管他声称有革命性的突破，但 Alexander 很难找到期刊来发表他的结果。《科学》和《自然》都拒绝发表这项研究，可能是因为方法和结果存在重大问题」（[来源](https://theoutline.com/post/2205/this-38-year-old-study-is-still-spreading-bad-ideas-about-addiction)）。我在发表方面也遇到了问题（《科学》、《记忆与认知》等），这使我最终放弃了[同行评议](https://supermemo.guru/wiki/Peer_review)。我更喜欢 [SuperMemo Guru](https://supermemo.guru/wiki/SuperMemo_Guru) 的创作渠道，而不是与那些我不认识的、似乎不理解我所写的东西的人争辩。最糟糕的是，善意的建议往往使文章变得更糟糕。你不能添加一个轻松的评论或一个能帮助读者的比喻。
 
-在审稿人对研究成果的合理性一无所知的情况下，同行评议的确 「有问题」。然而，拒绝是评议结果的一个非常糟糕的标准，特别是当研究是新颖的、多学科的、或与既定范式相悖的时候。我自己的[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)或[长期记忆的双组分模型](https://supermemo.guru/wiki/Two_component_model_of_long-term_memory)就是很好的例子。拒绝的麻烦只会让 Bruce Alexander 成为我心中的英雄。
+在审稿人对研究成果的合理性一无所知的情况下，同行评议的确 「有问题」。然而，拒绝是评议结果的一个非常糟糕的标准，特别是当研究是新颖的、多学科的、或与既定范式相悖的时候。我自己的[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)或[长期记忆的双组分模型](https://supermemo.guru/wiki/Two_component_model_of_long-term_memory)就是很好的例子。拒绝导致的麻烦只会让 Bruce Alexander 成为我心中的英雄。
