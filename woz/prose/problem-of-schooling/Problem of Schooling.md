@@ -1,4 +1,4 @@
-# 学校教育之祸端
+# 学校教育的问题
 
 原文：[Problem of Schooling - supermemo.guru](https://supermemo.guru/wiki/Problem_of_Schooling)
 

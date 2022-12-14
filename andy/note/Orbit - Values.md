@@ -28,7 +28,7 @@ Orbit 不是一个需要梳妆打扮的收件箱。Orbit 不是一个带着三�
 
 ## 另一种视角：「个性」
 
-c.f. [最小可行个性 - AVC](https://avc.com/2011/09/minimum-viable-personality/)
+参照：[最小可行个性 - AVC](https://avc.com/2011/09/minimum-viable-personality/)
 
 1. 你如何改变客户的生活？（帮助他们加深与他们最在意之物的关系）
 

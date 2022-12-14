@@ -6,7 +6,7 @@
 
 可以这样理解，总**有人**要处理工作记忆的限制。如果解释者没有处理，那么读者就要承受管理工作记忆的负担。
 
-这可能是导致[显然的幻觉](https://wiki.issarice.com/index.php?title=Illusion_of_transparency&action=edit&redlink=1)的一种机制。
+这可能是产生[显然的幻觉](https://wiki.issarice.com/index.php?title=Illusion_of_transparency&action=edit&redlink=1)的机制之一。
 
 很多解释材料会假设读者会管理自己的工作记忆限制，所以他们并没有跟踪工作记忆的负荷。这样一来，解释会很整洁，但也很难懂。
 

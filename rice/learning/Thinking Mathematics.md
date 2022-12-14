@@ -2,7 +2,7 @@
 
 原文：[Thinking Mathematics](https://wiki.issarice.com/wiki/Thinking_Mathematics)
 
-**数学头脑**或者说**物理头脑的数学版本**，是一本用[《物理头脑》(https://wiki.issarice.com/index.php?title=Thinking_Physics&action=edit&redlink=1)]的方式教授数学的假想数学书。
+**数学头脑**或者说**物理头脑的数学版本**，是一本用[《物理头脑》](https://wiki.issarice.com/index.php?title=Thinking_Physics&action=edit&redlink=1)的方式教授数学的假想数学书。
 
 有[《经济头脑》](https://wiki.issarice.com/index.php?title=Thinking_Economics&action=edit&redlink=1)吗？基本上是[《物理头脑》](https://wiki.issarice.com/index.php?title=Thinking_Physics&action=edit&redlink=1)的经济学版本。
 
@@ -14,7 +14,7 @@
 
 ## 参见
 
-* [多邻国学数学](https://wiki.issarice.com/wiki/Duolingo_for_math)
+* [多邻国数学版](https://wiki.issarice.com/wiki/Duolingo_for_math)
 
 	+ [Braid 学数学](https://wiki.issarice.com/wiki/Braid_for_math) ‎ ([← 链入](https://wiki.issarice.com/index.php?title=Special:WhatLinksHere&target=Braid+for+math))
 

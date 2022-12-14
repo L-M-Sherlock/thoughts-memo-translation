@@ -20,7 +20,7 @@
 
 在这个意义上，"[思想的工具](https://notes.andymatuschak.org/z5YhNc8HVKxjg9a3h3SeCyKqnNDFgiY6WGrM) "是一个有点扭曲的术语。它促使我们把 "思想 "作为最终目标来考虑。我们实际上是在试图构建 "在语境中的意义"。还要注意的是，"语境 "可以是一篇普通的老式论文！"。
 
-我们需要找到一些方法来评估这个指标。
+------
 
 ## 参考文献
 
@@ -28,8 +28,8 @@ https://github.com/mnielsen/tpft/blob/master/big_picture.md
 
 > - What is the highest-growth environment for individuals and groups? What does this project look like, conceived of as an (extremely unusual) online class?
 
-> - Is it possible to help create super-empowered subversive individuals who believe in their own ability to have a meaningful impact on important problems?
+> - 是否有可能帮助那些相信自己有能力对重要问题产生有意义影响的颠覆者？
 
-> - What do MOOCs really want to be? + How to reinvent Universities? What does University++ look like? + What does the Primer++ or Dynabook++ look like? + How many Sistine Chapel Ceilings per lifetime?
+> - MOOC真正想成为什么？+ 如何重塑大学？大学++是什么样的？+ Primer++或Dynabook++是什么样子的？+ 一人一生中能创造多少个西斯廷教堂天花板？
 
 Kay, A. C. (1972). A Personal Computer for Children of All Ages. Proceedings of the ACM Annual Conference - Volume 1. https://doi.org/10.1145/800193.1971922
