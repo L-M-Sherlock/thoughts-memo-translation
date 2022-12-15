@@ -184,7 +184,7 @@
 
 - [学校即监狱](https://supermemo.guru/wiki/School_is_prison) *
 
-- [学校罢课](https://supermemo.guru/wiki/School_strike) *
+- [学生罢课](https://supermemo.guru/wiki/School_strike) *
 
 ## SuperMemo 板块
 

@@ -6,25 +6,25 @@
 
 ## 巧妙的证明
 
-这是一个有关英语单词「Sausages」的故事，通过三个难以置信的巧合，该故事完美的概述了学校的无用，SuperMemo 还对此进行了完美的记录。
+这是一个有关英语单词「Sausages（香肠）」的故事，通过三个难以置信的巧合，该故事完美的概述了学校的无用，SuperMemo 还对此进行了完美的记录。
 
 下图展示了**「有关学校的联想为何真能毁灭长期记忆」**
 
-我的亲戚Thomas八岁了，他是一个[SuperMemo](https://supermemo.guru/wiki/SuperMemo)的一个小用户。他和他妈妈一起做[重复练习](https://supermemo.guru/wiki/Repetition)。他的重复不是自愿的，但是他自己选择了大量的学习材料。有一天，为了参加学校的测验，他要学习一打英文新单词（他的母语是波兰语）。其中一个单词对是“kielbaski=香肠”。Thomas努力地记忆了这个单词，但还是在考试中失利了。那是2019年的三月，Thomas的妈妈将这个词语放进了Supermemo的[收藏]中(https://supermemo.guru/wiki/Collection)，希望他在今后的考试中可以记住它。
+我的亲戚Thomas八岁了，他是一个[SuperMemo](https://supermemo.guru/wiki/SuperMemo)的一个小用户。他和他妈妈一起做[重复练习](https://supermemo.guru/wiki/Repetition)。他的重复不是自愿的，但是他自己选择了大量的学习材料。有一天，为了参加学校的测验，他要学习一打英文新单词（他的母语是波兰语）。其中一个单词对是“kielbaski（波兰语：香肠）=sausages（英语：香肠）”。Thomas努力地记忆了这个单词，但还是在考试中失利了。那是2019年的三月，Thomas的妈妈将这个词语放进了Supermemo的[收藏]中(https://supermemo.guru/wiki/Collection)，希望他在今后的考试中可以记住它。
 
 ## 巧合1：重复的条目
 
-第一个巧合发生在2019年3月20日。Thomas的妈妈使用一台打字不便的小电脑。Thomas的[收藏](https://supermemo.guru/wiki/Collection)装满了空的[项目](https://supermemo.guru/wiki/Item)（真的很多）。这个可以解释为他妈妈对于小键盘的纠结。在2019年3月20日，在创建一个关于香肠的问题的68秒后，妈妈意外的点击了“复制”（复制的图标在剪贴板操作图标的旁边）。这个关于“香肠”的问题被复制了，并创建了两个独立的[项目](https://supermemo.guru/wiki/Item)。
+第一个巧合发生在2019年3月20日。Thomas的妈妈使用一台打字不便的小电脑。Thomas的[收藏](https://supermemo.guru/wiki/Collection)装满了空的[项目](https://supermemo.guru/wiki/Item)（真的很多）。这表示了他妈妈在小键盘的不便捷。在2019年3月20日，在创建一个关于sausages（香肠）的问题的68秒后，妈妈意外的点击了“复制”（复制的图标在剪贴板操作图标的旁边）。这个关于“sausages（香肠）”的问题被复制了，并创建了两个独立的[项目](https://supermemo.guru/wiki/Item)。
 
-### 巧合2： 已应用的模板（Template）
+### 巧合2： 已应用的模板
 
-在他的[学习集(collection)](https://supermemo.guru/wiki/Collection)中，Thomas有一些不同的 [模板](https://supermemo.guru/wiki/Template)。他得到了一个关于英语词汇的模版。他不喜欢这些模版，因为他会将这些和学校的难题操练联系在一起。他也得到了一个用于他自己[事项]的模版。 (https://supermemo.guru/wiki/Item) 关于他喜欢的事情，比如动物（包括了动物的英文名）。
+在[收藏夹](https://supermemo.guru/wiki/Collection)中会有很多[模板](https://supermemo.guru/wiki/Template)。Thomas就有一个用于学习英语单词的模版。他不喜欢这个模版，因为这里装着为了学校测验而准备的困难单词。当然了，他有一个装着自己喜欢[事项]的模版。 (https://supermemo.guru/wiki/Item) ，比如动物（包括了动物的英文名）。
 
 第二个巧合事件很可能发生在同一天，即2019年3月20日。由于未知的原因，Thomas的妈妈将他最喜欢的彩色模板应用于其中一个关于香肠的重复问题（在某些情况下，自动应用也会发生）。模板的改变，实际上创造了两个相同的[项目](https://supermemo.guru/wiki/Item)，有两个不同的模板：喜欢的模板和不喜欢的模板。
 
-在2019年5月20和6月15日之间，Thomas用不喜欢的模板复习了单词“sausages”整整11次。一切重复以失败告终。在六月，妈妈用学校的知识对分支进行了[优先级排序](https://supermemo.guru/wiki/Priority)，以确保托马斯在假期中不会得到[讨厌学习](https://supermemo.guru/wiki/Hating_SuperMemo)。
+在2019年5月20和6月15日之间，Thomas用不喜欢的模板复习了单词“sausages（香肠）”整整11次。一切重复以失败告终。在六月，妈妈用学校的知识对分支进行了[优先级排序](https://supermemo.guru/wiki/Priority)，以确保托马斯在假期中不会得到[讨厌学习](https://supermemo.guru/wiki/Hating_SuperMemo)。
 
-与此同时，一件令人震惊的事情发生在*"香肠 "*的复制件上，它被标记为喜欢的模板。关于香肠的喜欢模板项目被复习了10次，只有第一次复习以失败告终。成功项目的时间表比通常由SuperMemo确定的要密集。这表明有人工干预的间隔，然而，这对故事没有什么影响。这两个项目的下一次重复被安排在9月17日和9月20日（由于假期开始时设置的低[优先级](https://supermemo.guru/wiki/Priority)，这两个项目都受到了11-16次推迟的影响）。春季两个项目的复习在时间上是重叠的，这就只剩下一个解释，那就是引人注目的不同表现：模板的颜色决定了结果! 成功的颜色与孩子自己选择的材料有关。失败的颜色与为学校学习的[项目](https://supermemo.guru/wiki/Item)有关。对于那些相信颜色的魔力的人来说，不喜欢的模板是白色的，喜欢的模板是红色的，有大的橙色字体。然而，我后来证实，正是因为不喜欢的颜色与学校有关，才使得它"[有毒](https://supermemo.guru/wiki/Toxic_memory)"。
+与此同时，一件令人震惊的事情发生在*"sausages（香肠） "*的复制件上，它是标记为喜欢的那个。关于sausages（香肠）的喜欢模板项目被复习了10次，只有第一次复习以失败告终。成功项目的时间表比通常由SuperMemo确定的要密集。这表明有人工干预的间隔，然而，这对故事没有什么影响。这两个项目的下一次重复被安排在9月17日和9月20日（由于假期开始时设置的低[优先级](https://supermemo.guru/wiki/Priority)，这两个项目都受到了11-16次推迟的影响）。春季两个项目的复习在时间上是重叠的，这就只剩下一个解释，那就是引人注目的不同表现：模板的颜色决定了结果! 成功的颜色与孩子自己选择的材料有关。失败的颜色与为学校学习的[项目](https://supermemo.guru/wiki/Item)有关。对于那些相信颜色的魔力的人来说，不喜欢的模板是白色的，喜欢的模板是红色的，有大的橙色字体。然而，我后来证实，正是因为不喜欢的颜色与学校有关，才使得它"[有毒](https://supermemo.guru/wiki/Toxic_memory)"。
 
 [学习的乐趣](https://supermemo.guru/wiki/Pleasure_of_learning) 在[回忆](https://supermemo.guru/wiki/Recall)中扮演着不可或缺的角色，即使它并非直接和知识的语义相联系。
 
@@ -32,7 +32,7 @@
 
 2019年9月15日，第三个巧合的事件发生了。如果没有这个巧合，托马斯可能会在未来的几年里一直复习他的重复项目而不曾注意到。在某些时候，他可能会把这两件物品回忆得很完美，它们会从视野中消失。
 
-第三件巧合的事发生在托马斯的妈妈在一次家庭晚餐中讨论英语问题。她抱怨说，Thomas记不住简单的单词。她在饭桌上冷静地问道：“Thomas，你怎么用英语说 ‘香肠’？”。令她惊讶的是，这孩子回答得很正确！但是，他没有说“香肠”，而是回答“法兰克福香肠 ”! 这需要进行一次重大调查! 很明显，Thomas是从另一个人那里学到这个词的。周围没有人使用“frankfurters”这个词，Thomas从来没有吃过法兰克福香肠。我们推测，使用这个词的人是Thomas的祖父。的确，利用他丰富的孙子照片记录，老爷子帮助完成了这一设想。2019年8月23日，祖父为Thomas准备了热狗，后来为了测试Thomas的知识，他用英语问“你想吃法兰克福面包吗？”。这个饥饿的孩子惊呼“好！”。这一件事肯定让“法兰克福面包”这个词在托马斯的记忆中留下了痕迹。与 "好[项目]"(https://supermemo.guru/wiki/Item)的[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)中长达11天的进展相比，23天的[间隔](https://supermemo.guru/wiki/Interval)SuperMemo很庞大。
+第三件巧合的事发生在托马斯的妈妈在一次家庭晚餐中讨论英语问题。她抱怨说，Thomas记不住简单的单词。她在饭桌上冷静地问道：“Thomas，你怎么用英语说 ‘香肠’？”。令她惊讶的是，这孩子回答得很正确！但是，他没有说“sausages”，而是回答“frankfurters（法兰克福香肠） ”! 这需要进行一次重大调查! 很明显，Thomas是从另一个人那里学到这个词的。周围没有人使用“frankfurters”这个词，Thomas从来没有吃过法兰克福香肠。我们推测，使用这个词的人是Thomas的祖父。的确，利用他丰富的孙子照片记录，老爷子帮助完成了这一设想。2019年8月23日，祖父为Thomas准备了热狗，后来为了测试Thomas的知识，他用英语问“你想吃法兰克福面包吗？”。这个饥饿的孩子惊呼“好！”。这一件事肯定让“法兰克福面包”这个词在托马斯的记忆中留下了痕迹。与 "好[项目]"(https://supermemo.guru/wiki/Item)的[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)中长达11天的进展相比，23天的[间隔](https://supermemo.guru/wiki/Interval)SuperMemo很庞大。
 
 一个难忘的事件可能比学校里的几十个[重复](https://supermemo.guru/wiki/Repetition)要多。
 
@@ -40,7 +40,7 @@
 
 记忆的巩固始于记忆的估价。估值是由[知识估价网络]（https://supermemo.guru/wiki/Knowledge_valuation_network）提供的。在胁迫中，神经估值可以通过元认知技巧被推翻。我们可以让大脑记住它拒绝记住的东西。我们可以在记忆技术的帮助下记住一个无聊的电话号码。记住自己女朋友的电话比记住不喜欢的同事的电话更容易。然而，受过良好教育的成年人的大脑可以轻松记住电话。在考试前，学生可以通过[填鸭式]（https://supermemo.guru/wiki/Cramming）的方式记住几乎任何东西。
 
-两根香肠的故事可以用物品颜色对知识估值的影响来做最好的解释。孩子的大脑可能会形成一种条件反应，将 "白色 "与 "低估值 "联系起来。在这种条件反射中，任何与学校有关的东西都会很难记住，甚至无法记住。大脑会自动切断[巩固](https://supermemo.guru/wiki/Consolidation)信号，以及[回忆](https://supermemo.guru/wiki/Recall)信号。
+两个香肠事项的故事反映了事项颜色可以对知识估值造成影响，这是最好的解释。孩子的大脑可能会形成一种条件反应，将 "白色 "与 "低估值 "联系起来。在这种条件反射中，任何与学校有关的东西都会很难记住，甚至无法记住。大脑会自动切断[巩固](https://supermemo.guru/wiki/Consolidation)信号，以及[回忆](https://supermemo.guru/wiki/Recall)信号。
 
 一个有关学校材料的坏记忆可能会导致有关知识的条件反射式贬低，并带来记忆固化信号的削弱。
 
