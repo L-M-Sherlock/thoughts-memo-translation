@@ -50,7 +50,7 @@
 
 [我](https://supermemo.guru/wiki/Piotr_Wozniak)热爱理论科学，欢迎鼓舞人心的批评
 
-## 进一步阅读
+## 延伸阅读
 
 我最自豪的「伪科学」文本是：
 

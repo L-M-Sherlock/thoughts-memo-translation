@@ -60,7 +60,7 @@ Darek 是一名高中二年级学生。他坦言，他班上有一半人可能�
 
 关于我自己对文学的「喜爱」的一些细节，见：[我为什么不读小说](https://supermemo.guru/wiki/Why_I_do_not_read_fiction)。
 
-## 进一步阅读
+## 延伸阅读
 
 - [Papert 有远见地呼吁抛弃过时的字识（letteracy）（1993）](https://supermemo.guru/wiki/Papert's_visionary_call_to_ditch_obsolete_letteracy_(1993))
 

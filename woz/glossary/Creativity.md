@@ -54,7 +54,7 @@ George Land 注意到，随着我们的成长，创造力从 [98% 到 2%](http:/
 
 一些作者将「高价值的产出」这一条件附加到创造力的定义中，这条要求意味着存在外部的价值评估者。然而，[本网站](https://supermemo.guru/wiki/SuperMemo_Guru)使用的定义完全基于大脑运作的神经和神经激素模式。创作过程不需要产生高价值的产出。同样地，它也可能想出不相关的联想。
 
-## 进一步阅读
+## 延伸阅读
 
 [Guru](https://supermemo.guru/wiki/SuperMemo_Guru) 上解释创造力的最重要的文章有：
 

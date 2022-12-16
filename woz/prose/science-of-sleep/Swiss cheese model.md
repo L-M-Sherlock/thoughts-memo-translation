@@ -28,7 +28,7 @@
 
 > ***图：**上学时间过早对[记忆力](https://supermemo.guru/wiki/Recall)有极大的影响，这一点从[SuperMemo](https://supermemo.guru/wiki/SuperMemo)的[评级](https://supermemo.guru/wiki/Grade)可以看出。这是[睡眠剥夺](https://supermemo.guru/wiki/Sleep_deprivation)的许多灾难性副作用之一。这个问题可以通过[自由运行的睡眠](https://supermemo.guru/wiki/Free_running_sleep)来解决，但是，这需要有上学迟到或推迟开学时间的可能性。更多信息见:[睡眠不足、学习能力和学习成绩](https://www.ncbi.nlm.nih.gov/pubmed/16564189)*。
 
-## 进一步阅读
+## 延伸阅读
 
 - [睡眠不足会放大学校教育的危害](https://supermemo.guru/wiki/Sleep_deprivation_amplifies_the_harm_of_schooling)
 

@@ -124,7 +124,7 @@ Spitzer 关于**数码痴呆症**的模因具有很大的病毒性。孩子们�
 
 自由选择学习工具和获取知识是儿童的一项基本权利
 
-## 进一步阅读
+## 延伸阅读
 
 - [有关神经的谣言](https://supermemo.guru/wiki/Neuromythology)
 

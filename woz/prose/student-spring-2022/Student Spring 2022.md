@@ -30,7 +30,7 @@
 
 标签： #WiosnaUczniow, #StudentSpring2022
 
-## 进一步阅读
+## 延伸阅读
 
 - [常见问题：禁止学校的胁迫行为](https://supermemo.guru/wiki/FAQ:_Ban_on_school_coercion)
 

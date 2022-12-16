@@ -32,7 +32,7 @@
 
 **估值**在其机制方面也可能是分等级的。例如，速率编码可能会影响阿片类刺激的程度 ，这可能会加强 OFC 的判断，从而可能会选择性地到达奖励中心，作为[学习内驱力](https://supermemo.guru/wiki/Learn_drive)系统在指导学习过程中使用的最终奖励。
 
-## 进一步阅读
+## 延伸阅读
 
 - [学习内驱力](https://supermemo.guru/wiki/Learn_drive)
 

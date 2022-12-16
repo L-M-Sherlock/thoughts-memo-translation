@@ -78,7 +78,7 @@ Laila 的案例有力地说明了我们如何用创造天才换取 [Asperger 综
 
 彼之 Asperger，吾之创意宝库
 
-## 进一步阅读
+## 延伸阅读
 
 - [把天才视为 Asperger](https://supermemo.guru/wiki/Trading_genius_for_Asperger)
 

@@ -66,7 +66,7 @@ Ben Shneiderman 是一位先驱性的人机交互研究者，他在《研究的�
 
 [Ink and Switch](https://www.inkandswitch.com/)，这个工业研究实验室，对支持创造性思维的自由形式多模态平板电脑界面进行了一系列深思熟虑的、有据可查的实验。他们的第一个实验，[Capstone](https://www.inkandswitch.com/capstone-manuscript.html#motivation-and-overview)，是基于一个创造性工作的模型，这个模型依赖于收集和筛选原材料的模式和洞察力。他们建立了一些互动来支持他们的模型，确定了该系统的机会和局限性，并根据这些见解设计了一个新的系统，称为 [Muse](https://www.inkandswitch.com/muse-studio-for-ideas.html)。这个项目把墨水放在了中心位置，并产生了关于设计以墨水为中心的界面的一般想法，没有 chrome。这个研究项目现在是[一个产品公司](https://museapp.com/)（由赞助人 [Adam Wiggins](https://adamwiggins.com/) 共同创立）。我为他们试图证明转化性研发模式而感到兴奋，我很想知道他们在这种情况下是否还能产生和传播可推广的见解。
 
-[Piotr Wozniak](https://supermemo.guru/wiki/Main_Page)，当代间隔重复的缔造者，是另一个伟大的典范。他有最初的关键洞见，即间隔重复的计算机化系统可以产生非常大、非常便宜的记忆数据库。但他几十年来一直在对这些想法进行迭代。他不仅仅是在优化调度算法，而是把这些数据作为提出和探索人类记忆新模型的一部分（例如[人脑能容纳多少知识](https://supermemo.guru/wiki/How_much_knowledge_can_human_brain_hold)）。这项研究似乎没有受到 SuperMemo 商业环境的限制，尽管这也许是因为它没有以现代美国软件公司的强度运行。
+[Piotr Wozniak](https://supermemo.guru/wiki/Main_Page)，当代间隔重复的缔造者，是另一个伟大的典范。他有最初的关键洞见，即间隔重复的计算机化系统可以产生非常巨大且廉价的记忆数据库。但他几十年来一直在对这些想法进行迭代。他不仅仅是在优化调度算法，而是把这些数据作为提出和探索人类记忆新模型的一部分（例如[人脑能容纳多少知识](https://supermemo.guru/wiki/How_much_knowledge_can_human_brain_hold)）。这项研究似乎没有受到 SuperMemo 商业环境的限制，尽管这也许是因为它没有以现代美国软件公司的强度运行。
 
 Figma 的 Evan Wallace [开发并记录了](https://www.figma.com/blog/introducing-vector-networks/)一种用于表示和编辑矢量路径的新原语，其动机是现有矢量笔工具的实际问题，这些工具更直接（天真地）暴露了底层的贝塞尔曲线。他展示了这种新的表示方法如何使某些常见的操作更容易执行。这项工作可能不会改变和扩展人们的思维，但 Sketchpad 和 Illustrator 的原始钢笔工具肯定都很重要，而这似乎是对这项工作的有意义的扩展。我确实希望 Evan 能对这项工作进行更实质性的描述，但当然，他是在试图改进一个产品，而不是对一个领域做出贡献。最近有一篇不错的[技术文章](https://medium.com/@alexharri/the-engineering-behind-figmas-vector-networks-688568e37110)，但它是以实现为中心的。
 

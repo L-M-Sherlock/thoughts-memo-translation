@@ -40,7 +40,7 @@
 
 本[术语表](https://supermemo.guru/wiki/Glossary)条目用于解释《[我永远不会送我的孩子去学校](https://supermemo.guru/wiki/Problem_of_Schooling)》（2017）作者：[Piotr Wozniak](https://supermemo.guru/wiki/Piotr_Wozniak)
 
-## 进一步阅读
+## 延伸阅读
 
 - [童年失忆症](https://supermemo.guru/wiki/Childhood_amnesia)
 

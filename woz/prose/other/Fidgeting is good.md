@@ -24,7 +24,7 @@
 
 躁动无疑与大脑中控制系统之间的冲突有关。除了创造性的躁动外，我们还可以观察到在其他控制冲突情况下的躁动（例如，试图抑制排尿）。躁动不应该被压制。如果冲突可以被解决（例如，通过上厕所），它应该被解决。如果冲突源于[创造力](https://supermemo.guru/wiki/Creativity)，则应继续躁动，因为它是最好的冲突补救措施。
 
-## 进一步阅读
+## 延伸阅读
 
 - [躁动可能提高认知能力](https://supermemo.guru/wiki/Fidgeting_may_improve_cognitive_performance)
 

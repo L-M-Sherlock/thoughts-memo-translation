@@ -62,7 +62,7 @@ Laskowski 和 Dzierzgowska 最重要的结论是对课标目标的最终谴责�
 
 Dzierzgowska 和 Laskowski 的评论描绘了波兰小学历史课标的悲哀。它既是民族主义的，又是政治性的，不仅片面而且僵化（见：[学校课标本质上是政治性的](https://supermemo.guru/wiki/School_curriculum_is_inherently_political)）。这样培养出来的成千上万毕业生，势必认为历史很无聊。这样的毕业生不太可能有兴趣去寻找新的知识来源。统共几百个小时的学习教育，埋下了（往往无脑的）仇恨种子和成见，这会在他们脑中形成化石，直到生命结束。唯一真正的补救措施是[自由学习](https://supermemo.guru/wiki/Free_learning)。为此，我们需要放弃强制课程的概念。[强制学校教育必须结束](https://supermemo.guru/wiki/Compulsory_schooling_must_end)
 
-## 进一步阅读
+## 延伸阅读
 
 - [学校课程本质上是政治性的](https://supermemo.guru/wiki/School_curriculum_is_inherently_political)
 

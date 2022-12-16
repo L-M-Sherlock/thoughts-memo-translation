@@ -334,7 +334,7 @@
 
 - [分析中的数据错误](https://supermemopedia.com/wiki/Random_numbers_showed_up_in_data_used_by_the_algorithm)
 
-## 进一步阅读
+## 延伸阅读
 
 - [记忆图谱（4D）]（https://help.supermemo.org/wiki/Memory_graphs_（4D））
 

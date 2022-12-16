@@ -40,7 +40,7 @@
 
 学校抑制了创造力和对生活的热爱
 
-## 进一步阅读
+## 延伸阅读
 
 - [创造力](https://supermemo.guru/wiki/Creativity)：创造力的机制
 

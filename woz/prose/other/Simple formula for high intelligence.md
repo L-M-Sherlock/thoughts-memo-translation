@@ -60,7 +60,7 @@
 
 在另一篇文章中，我提出了一个高效解决问题的通用公式。一旦你理解了这个公式，便更有可能同意我上述的方案。参见：《[如何解决任何问题？](https://supermemo.guru/wiki/How_to_solve_any_problem%3F)》
 
-## 进一步阅读
+## 延伸阅读
 
 - [我怎样才能变得更聪明？](https://supermemo.guru/wiki/How_can_I_become_more_intelligent%3F)
 

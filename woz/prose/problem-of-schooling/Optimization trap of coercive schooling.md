@@ -96,7 +96,7 @@
 
 为了打破这种无知的恶性循环，我们需要联合全世界的力量。在社交媒体的帮助下，我们将很快尝试利用波兰[学生罢课](https://supermemo.guru/wiki/Student_strike)的经验，组织一场世界性的学生叛乱。
 
-## 进一步阅读
+## 延伸阅读
 
 - [学校压制学习内驱力](https://supermemo.guru/wiki/Schools_suppress_the_learn_drive)
 

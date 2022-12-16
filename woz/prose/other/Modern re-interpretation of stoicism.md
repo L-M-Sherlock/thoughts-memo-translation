@@ -56,7 +56,7 @@
 
 - 我自己的斯多葛思想源于[内在价值状态](https://supermemo.guru/wiki/Intrinsically_Valuable_State)
 
-## 进一步阅读
+## 延伸阅读
 
 - [抗压力韧性](https://supermemo.guru/wiki/Stress_resilience)
 

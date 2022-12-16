@@ -32,7 +32,7 @@ Alexander Wissner-Gross 对**智力**提出了一个更广泛的定义，它解�
 
 有很多人试图将智力与特定领域的知识分开。IQ 测试正是此意（见：[IQ 谬论](https://supermemo.guru/wiki/IQ_myth)）。如出一辙的是 Raymond Cattell 区分流体智力（聪明才智）和晶体智力（基于知识）。智力的正式定义，可能是在一系列[未知复杂性的环境](https://link.springer.com/article/10.1007%2Fs11023-007-9079-x)中，人的平均预期表现。然而，智力不可避免的属性是智力属于特定领域，并且是可适应的。化学家具备化学知识，他们因此能聪明地解决所在领域的问题，但这些知识对于牙科则无济于事。在口语化的意义上，我们可能倾向于要求普遍性作为智力的标准。然而，在一个有问题需要解决的世界里，我们需要更好的特定领域问题解决者。通才是有吸引力的。然而，只有智能系统的适应性才是普遍的。普遍性有很多优点，然而也不无成本。我们需要更多的牛顿，他们足够全才，以解决他们决定要解决的问题。 [SuperMemo Guru](https://supermemo.guru/wiki/SuperMemo_Guru) 中，[我](https://supermemo.guru/wiki/Piotr_Wozniak)一贯将智力称作实现特定目标所需的工具。智力是可变的、可训练的属性，而不是与生俱来的禀赋。
 
-## 进一步阅读
+## 延伸阅读
 
 - [高智力的简单公式](https://supermemo.guru/wiki/Simple_formula_for_high_intelligence)
 

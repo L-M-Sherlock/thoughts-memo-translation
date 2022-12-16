@@ -202,4 +202,4 @@
 
 芬兰是许多教育领域的先驱者。它已经开发了一个可爱的系统，为学习提供了很多自由。然而，在这个系统中，走向未来的唯一途径是保持芬兰系统的克隆，作为许多系统的一个子集。必须有[择校制度](https://supermemo.guru/wiki/School_choice)。孩子们应该自由地尝试[非学校教育](https://supermemo.guru/wiki/Unschooling)和它的好处。只有自由的探索和自由的思想市场才能确保快速向[自由学习](https://supermemo.guru/wiki/Free_learning)的最佳习惯靠拢。
 
-更多信息请参见：[教育大改革](https://supermemo.guru/wiki/Education_Reform)
+更多信息请参见：[教育改革](https://supermemo.guru/wiki/Education_Reform)

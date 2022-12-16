@@ -74,7 +74,7 @@ Björklund 自己的全部教育都是在军事学习机构进行的。他升至
 
 - 在线获取世界各地采用的开明教育解决方案的知识
 
-## 进一步阅读
+## 延伸阅读
 
 - [禁止家庭教育](https://supermemo.guru/wiki/Ban_on_homeschooling)
 

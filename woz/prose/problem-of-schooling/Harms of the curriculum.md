@@ -234,9 +234,9 @@
 
 - [教育解放宣言](https://supermemo.guru/wiki/Declaration_of_Educational_Emancipation)
 
-- [学校奴隶制即将结束](https://supermemo.guru/wiki/School_slavery_will_end_soon)
+- [学校奴役即将结束](https://supermemo.guru/wiki/School_slavery_will_end_soon)
 
-## 进一步阅读
+## 延伸阅读
 
 以下文章详细阐述了本文所讨论的课程的危害：
 

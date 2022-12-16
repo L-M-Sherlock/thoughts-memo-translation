@@ -32,9 +32,9 @@
 
 以下是一些永远不可能成为严肃研究论文的例子：
 
-- [禁止家庭教育](https://supermemo.guru/wiki/Ban_on_homeschooling)
+- [禁止在家上学](https://supermemo.guru/wiki/Ban_on_homeschooling)
 
-- [Elizabeth Bartholet：对家庭教育的无知攻击](https://supermemo.guru/wiki/Elizabeth_Bartholet:_ignorant_attack_on_homeschooling)
+- [Elizabeth Bartholet：对在家上学的无知攻击](https://supermemo.guru/wiki/Elizabeth_Bartholet:_ignorant_attack_on_homeschooling)
 
 - [数码痴呆症：病态的谬误](https://supermemo.guru/wiki/The_morbid_myth_of_Digital_Dementia)
 
