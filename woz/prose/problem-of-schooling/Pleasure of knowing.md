@@ -2,7 +2,7 @@
 
 原文：[Pleasure of knowing - supermemo.guru](https://supermemo.guru/wiki/Pleasure_of_knowing)
 
-本文选自《[我永远不会送我的孩子上学](https://supermemo.guru/wiki/Problem_of_Schooling)》，作者是[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)（2017）
+这段文字选自《[我永远不会送我的孩子上学](https://supermemo.guru/wiki/Problem_of_Schooling)》，作者是[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)（2017）
 
 **知道的乐趣**是种假设性奖励。当知识被获取时，便会获得奖励。当知识被应用时，便可以体验到奖励。它独立于外部因素（比如，来自同辈的表扬）。同样的奖励也可以在 [复习](https://supermemo.guru/wiki/Review) 时中体验到（例如，在[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)中）。
 

@@ -2,7 +2,7 @@
 
 原文：[Introduce Mandatory Adult Education! - supermemo.guru](https://supermemo.guru/wiki/Introduce_Mandatory_Adult_Education!)
 
-本文选自《[我永远不会送我的孩子上学](https://supermemo.guru/wiki/Problem_of_Schooling)》，作者是[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)（2017）
+这段文字选自《[我永远不会送我的孩子上学](https://supermemo.guru/wiki/Problem_of_Schooling)》，作者是[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)（2017）
 
 ## 拟议立法：强制成人教育！
 

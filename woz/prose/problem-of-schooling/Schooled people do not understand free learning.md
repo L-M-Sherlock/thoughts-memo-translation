@@ -1,6 +1,6 @@
 # 受过学校教育的人不理解自由学习
 
-这段文字来自《[学校教育的问题](https://supermemo.guru/wiki/Problem_of_Schooling)》 作者：[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)（2017-2021）
+这段文字选自《[学校教育的问题](https://supermemo.guru/wiki/Problem_of_Schooling)》 作者：[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)（2017-2021）
 
 ## 学习就像性爱
 

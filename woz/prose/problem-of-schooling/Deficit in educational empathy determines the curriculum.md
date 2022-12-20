@@ -2,7 +2,7 @@
 
 原文：[Deficit in educational empathy determines the curriculum - supermemo.guru](https://supermemo.guru/wiki/Deficit_in_educational_empathy_determines_the_curriculum)
 
-本文选自《[我永远不会送我的孩子上学](https://supermemo.guru/wiki/Problem_of_Schooling)》，作者是[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)（2017）
+这段文字选自《[我永远不会送我的孩子上学](https://supermemo.guru/wiki/Problem_of_Schooling)》，作者是[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)（2017）
 
 成年人很难与年轻的大脑产生共鸣。低龄学业训练倾向于[无语义内容](https://supermemo.guru/wiki/Asemantic_learning)，这并非巧合。字母表、星期、月份名称、乘法表等等，这些都是被迅速筛选为最难的无语义概念。这样的筛选使它们具有首要性和基础性的光环。它们可能被贴上**基本工具集**的标签。实际上，年轻的大脑需要的是一个丰富的[语义框架](https://supermemo.guru/wiki/Semantic_framework)，以确立这些原始概念的需求和意义。只有这样，学习才可能成为有语义的，并产生预期的结果。绝大多数的成年人，包括优秀的教师，都不理解[语义学习](https://supermemo.guru/wiki/Semantic_learning)的必要性。这就是[普鲁士系统](https://supermemo.guru/wiki/Prussian_system)的条件反射的结果。
 

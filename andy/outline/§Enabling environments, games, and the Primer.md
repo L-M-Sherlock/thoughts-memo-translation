@@ -1,4 +1,4 @@
-# §赋能环境、游戏和《入门指南》
+# §赋能环境、游戏和《入门指南》（注:一本以民间故事为原型的互动学习环境）
 
 原文：[§Enabling environments, games, and the Primer (andymatuschak.org)](https://notes.andymatuschak.org/z244xx3kMf1v8UnkZKUwQBAwBsHLpUgN4YhsG)
 

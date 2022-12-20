@@ -2,7 +2,7 @@
 
 原文：[Pleasure of communication - supermemo.guru](https://supermemo.guru/wiki/Pleasure_of_communication)
 
-本文选自《[我永远不会送我的孩子上学](https://supermemo.guru/wiki/Problem_of_Schooling)》，作者是[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)（2017）
+这段文字选自《[我永远不会送我的孩子上学](https://supermemo.guru/wiki/Problem_of_Schooling)》，作者是[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)（2017）
 
 人生来便有表达自己想法的冲动，这背后的奖励机制便是**表达的乐趣** 。**表达的乐趣**应该与**[学习的乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)**和**[知道的乐趣](https://supermemo.guru/wiki/Pleasure_of_knowing)**区分开。
 

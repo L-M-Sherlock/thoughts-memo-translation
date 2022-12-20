@@ -2,7 +2,7 @@
 
 原文：[Schools must reform or die - supermemo.guru](https://supermemo.guru/wiki/Schools_must_reform_or_die)
 
-本文选自《[我永远不会送我的孩子上学](https://supermemo.guru/wiki/Problem_of_Schooling)》，作者是[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)（2017）
+这段文字选自《[我永远不会送我的孩子上学](https://supermemo.guru/wiki/Problem_of_Schooling)》，作者是[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)（2017）
 
 有个孩子问我：「为什么你这么反对学校? 为什么你在上学的时候不抗议？」。
 

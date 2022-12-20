@@ -14,12 +14,18 @@ EE 通常只能承载非语言的知识？这是个有趣的属性，但也让 E
 
 很少有 EE 使用一系列的谜题, 由简入繁地建立概念, 这样做的在我印象里好像只有视频游戏。我认为缺乏 "连续系列的深度", 使得可探索的解释看起来很花哨, 也让它看起来不能帮助理解一个主题的核心.
 
-## 另见:
+## 另见
 
  [游戏 vs 数学](https://wiki.issarice.com/wiki/Video_games_comparison_to_math)
 
-[可探索媒介作为概率与统计的学习媒介](https://wiki.issarice.com/wiki/Probability_and_statistics_as_fields_with_an_exploratory_medium)
+* [可探索媒介作为概率与统计的学习媒介](https://wiki.issarice.com/wiki/Probability_and_statistics_as_fields_with_an_exploratory_medium)
 
-[狭义与广义认知增强](https://wiki.issarice.com/wiki/Narrow_vs_broad_cognitive_augmentation)
+* [狭义与广义认知增强](https://wiki.issarice.com/wiki/Narrow_vs_broad_cognitive_augmentation)
 
 ## 外部链接
+
+* [wikipedia:Explorable explanation](https://wiki.issarice.comhttps://en.wikipedia.org/wiki/Explorable_explanation)
+
+## 链接到本文
+
+* [可探索媒介的有限对象假设](https://wiki.issarice.com/wiki/Finiteness_assumption_in_explorable_media) ‎ ([← links](https://wiki.issarice.com/index.php?title=Special:WhatLinksHere&target=Finiteness+assumption+in+explorable+media))

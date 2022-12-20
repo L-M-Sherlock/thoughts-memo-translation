@@ -2,7 +2,7 @@
 
 原文：[School start time - supermemo.guru](https://supermemo.guru/wiki/School_start_time)
 
-这段文字来自《[学校教育的问题](https://supermemo.guru/wiki/Problem_of_Schooling)》 作者：[Piotr Wozniak](https://supermemo.guru/wiki/Piotr_Wozniak)（2017-2021）
+这段文字选自《[学校教育的问题](https://supermemo.guru/wiki/Problem_of_Schooling)》 作者：[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)（2017-2021）
 
 ## 人权
 

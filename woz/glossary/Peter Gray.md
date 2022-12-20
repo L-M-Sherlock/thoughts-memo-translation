@@ -2,7 +2,7 @@
 
 原文：[Peter Gray - supermemo.guru](https://supermemo.guru/wiki/Peter_Gray)
 
-本文选自《[我永远不会送我的孩子上学](https://supermemo.guru/wiki/Problem_of_Schooling)》，作者是[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)（2017）
+这段文字选自《[我永远不会送我的孩子上学](https://supermemo.guru/wiki/Problem_of_Schooling)》，作者是[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)（2017）
 
 Peter Gray 博士是[自主学习](https://supermemo.guru/wiki/Self-directed_learning)和[民主学校](https://supermemo.guru/wiki/Democratic_school)的一位主要倡导者。他自己的儿子上的是一所[民主学校](https://supermemo.guru/wiki/Democratic_school)。[本书](https://supermemo.guru/wiki/Problem_of_Schooling)的许多思想受 Gray 的研究和著作启发。最重要的灵感来自 Gray 对[儿童自由](https://supermemo.guru/wiki/Free_learning)的热情：对于成年人而言，没有什么教育准备比相信孩子的自我教育能力更好了。
 
