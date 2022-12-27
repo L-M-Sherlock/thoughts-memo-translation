@@ -28,7 +28,7 @@
 
 > - 当知识能补充[前置知识](https://supermemo.guru/wiki/Prior_knowledge)，并能提升总体知识的价值时，其价值就等同于知识增量
 
-> - 红色知识被视为「最优知识」，即具有最佳价值（见：[学习驱动的最优化](https://supermemo.guru/wiki/Optimality_of_the_learn_drive)）
+> - 红色知识被视为「最优知识」，即具有最佳价值（见：[学习内驱力的最优化](https://supermemo.guru/wiki/Optimality_of_the_learn_drive)）
 
 > - 蓝色知识被估值为质量次优，连贯性一般（见：[复杂性](https://supermemo.guru/wiki/Complexity)，[一致性](https://supermemo.guru/wiki/Coherence)，[适用性](https://supermemo.guru/wiki/Applicability)，[稳定性](https://supermemo.guru/wiki/Stability)）
 

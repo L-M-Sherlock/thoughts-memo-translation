@@ -26,11 +26,11 @@
 
 学校对[智力](https://supermemo.guru/wiki/Intelligence)的影响可以用一个**智能导弹的比喻来说明。这个比喻解释了适应性如何导致不适应性。
 
-隐喻。[为什么使用比喻？](https://supermemo.guru/wiki/Why_use_metaphors%3F)
+比喻。[为什么使用比喻？](https://supermemo.guru/wiki/Why_use_metaphors%3F)
 
 想象一下，一个完美的可适应的低空飞行的导弹，它可以学习在地形障碍物上航行以寻找一个目标。就像人脑适应环境一样，导弹也能适应在困难地形中的导航。随着每小时的飞行，导弹在应对不可预测的情况时将变得越来越有效。然而，如果我们试图手动控制导弹，就像发生在学校里的大脑一样，这种适应可能会导致控制不力。让我们想象一下，导弹飞入一个长长的黑暗隧道。很快，导弹就会掌握保持航线的艺术。在隧道里，没有复杂的控制，也没有必要的先进导航。在隧道里呆了很多年后，当我们把导弹放回复杂地形的自由地带时，它很可能会坠毁，因为它已经因为多年的废弃而失去了导航能力。在学校里，我们确实得到了一些知识，可能有助于[学习驱动](https://supermemo.guru/wiki/Learn_drive)恢复的过程。然而，这些知识相当于带上了一车的导航手册。离开隧道后，导弹需要导航。阅读有理解力的手册可能来得太晚。智能导航需要流畅地做出选择。这种流畅性并不直接来自于教科书的知识，而是需要数小时或数年的练习。
 
-另见动物学习界的一个类似的例子：[论老鼠比学人的优越性](https://supermemo.guru/wiki/On_the_superiority_of_a_rat_over_a_schooled_human)
+另见动物学习界的一个类似的例子：[论老鼠比受过学校教育的人更优越](https://supermemo.guru/wiki/On_the_superiority_of_a_rat_over_a_schooled_human)
 
 在学校获得的知识具有低[一致性](https://supermemo.guru/wiki/Coherence)、低[稳定性](https://supermemo.guru/wiki/Stability)和低[适用性](https://supermemo.guru/wiki/Applicability)。从大脑的角度来看，它背负着低[估价](https://supermemo.guru/wiki/Valuation)的负担。这就是为什么这种类型的知识会通过[干扰](https://supermemo.guru/wiki/Interference)被迅速[遗忘](https://supermemo.guru/wiki/Forgetting)。最重要的是，低[抽象性](https://supermemo.guru/wiki/Abstractness)和低[适用性](https://supermemo.guru/wiki/Applicability)的知识对于提高[智力](https://supermemo.guru/wiki/Intelligence)不会有太大帮助。
 

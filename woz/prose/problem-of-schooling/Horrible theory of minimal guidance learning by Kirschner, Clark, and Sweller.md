@@ -40,7 +40,7 @@
 
 >工作记忆负荷无助于长期记忆中知识的积累，因为虽然工作记忆被用于**搜索问题解决方案**，但它不可用，**不能用于学习
 
-[学习驱动器]（https://supermemo.guru/wiki/Learn_drive）机制是最著名的学习轨迹优化器（见：[拼图隐喻]（https://supermemo.guru/wiki/Jigsaw_puzzle_metaphor））。作者明确赞同手工高效优化的神话（见：[学校教育的登山隐喻]（https://supermemo.guru/wiki/Mountain_climb_metaphor_of_schooling
+[学习内驱力]（https://supermemo.guru/wiki/Learn_drive）机制是最著名的学习轨迹优化器（见：[拼图隐喻]（https://supermemo.guru/wiki/Jigsaw_puzzle_metaphor））。作者明确赞同手工高效优化的神话（见：[学校教育的登山隐喻]（https://supermemo.guru/wiki/Mountain_climb_metaphor_of_schooling
 
 >教学的目标是**很少**只是搜索或发现信息。目标是为学员提供具体指导，了解如何以符合学习目标的方式以认知方式处理信息，并将结果存储在长期记忆中
 

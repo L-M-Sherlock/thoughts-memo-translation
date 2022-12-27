@@ -18,6 +18,22 @@ Sterling的核心论文有关现代生活压缩了回报的多样性并从低惊
 
 在*"控制自然"*的过程中，我们压缩了从轻微的不适中解脱所带来的回报。
 
+总而言之，Sterling提供了一系列指示，改变了起初拟定的教育系统。我认为他没有足够有力地强调他的观点。那么我将着重重申一下：
+
+对于人脑而言，[学习驱动力]是无限奖励回馈的源泉
+
+## 不尽的资源：人类内驱力
+
+如果我们去挖掘人类对领悟现实的追求这一取之不尽、用之不竭的资源，那么比预期更好奖励的供应就可以增多。在我们探索周遭的环境时，学习内驱力(https://supermemo.guru/wiki/Learn_drive) 为我们的行动提供能量。这种能量是无穷无尽的，因为记忆稳定性(https://supermemo.guru/wiki/Memory_stability)会被[遗忘](https://supermemo.guru/wiki/Forgetting)不断地侵蚀。这不意味着这个过程是在循环浪费。被[智力]https://physics.aps.org/articles/v6/46)驱动的大脑会不断地变形。我们不断学习，不断变得更聪明，这个过程提供奖励机制。
+
+这个过程只有在大脑、社会大脑或人工智能大脑达到完美的顿悟时才能结束，霍金斯将其称为“上帝的思想”。大脑在其进化的最后阶段将回答[科学价值论](https://supermemo.guru/wiki/Goodness_of_knowledge)的终极问题:**绝对值的本质**。终极[nouse](https://en.wikipedia.org/wiki/Nous)在地平线上无处可寻。
+
+## 学校抵制进化并损害未来
+
+聪明的大脑会决定我们的存亡。同时，[学校教育](https://supermemo.guru/wiki/Schooling) 是一个完全相反的作用力。强迫输入[不连贯的知识]，用成绩伪造回馈，
+
+个人轶事。[为什么使用轶事？](https://supermemo.guru/wiki/Why_use_anecdotes%3F)
+
 在他论文的结尾，Sterling博士同意道。他反对均化学习：
 
 一个专家组成的社群远能胜出一个所有人都一样的社群

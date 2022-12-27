@@ -1,4 +1,4 @@
-# 利用解压阀来预防慢性压力
+# 利用泄压阀来预防慢性压力
 
 原文：[Using stress valves to prevent chronic stress - supermemo.guru](https://supermemo.guru/wiki/Using_stress_valves_to_prevent_chronic_stress)
 
@@ -8,11 +8,11 @@
 
 人们普遍认为，天生的性格决定了我们处理情绪的能力。我认为更重要的影响是环境。童年和成长的影响可以成就一个人的心智，也可以毁掉一个人的心智。 母婴分离、虐待儿童、创伤、学校压力、欺凌、失败的早期恋爱关系等都有能力增强一个人对环境的情绪反应。 我的童年是自由而快乐的。 我总是发现处理情绪很容易。 那么，说我的幸福公式非常严格可能是不公平的。 然而，我注意到似乎很少有人了解[昼夜节律周期](https://supermemo.guru/wiki/Circadian_cycle)的力量，以及怎么利用痛苦。 这些工具在处理负面情绪时也很方便。
 
-## 抗压力公式
+## 反抗压力公式
 
-我观察到这是可能的：（1）在适当的时间让自己暴露在压力事件中，（2）控制压力，（3）将由此产生的能量转移到解决问题上。[急性压力](https://supermemo.guru/wiki/Acute_stress)可能会增加，但这可能是一件好事。增加运动的疼痛来掩盖之前的压力是可行的。 只要运动的疼痛与急性压力的水平相比足够强烈，一个适时的[午睡](https://supermemo.guru/wiki/Siesta) 就应该能够将大脑重置而满血复活。也就是说，运动和睡眠是两种不同的逃避，是两个初始的[压力阀](https://supermemo.guru/wiki/Stress_valve)，它们阻止「精神能量」从负面情绪走向进一步的破坏。如果经过了午睡，到晚上还有任何残留的负面情绪，有效的学习或高生产力的工作也可以作为转移压力的逃避。不仅如此，有效的学习或高生产力的工作还可以将注意力从这一天里的问题上移开，并将精神能量引导到富有成效的事情上。最后但同样重要的，夜间睡眠是最有效的[解压行为](https://supermemo.guru/wiki/Stress_valve)，大多数时候，它可以阻止最艰难的痛苦情绪在健康的大脑和管理良好的生活中产生。当然我们都知道，压力有时会强大到让我们失眠。压力是健康睡眠的主要破坏者。与高压进行斗争从来都不容易。
+我观察到这是可能的：（1）在适当的时间让自己暴露在压力事件中，（2）控制压力，（3）将由此产生的能量转移到解决问题上。[急性压力](https://supermemo.guru/wiki/Acute_stress)可能会增加，但这可能是一件好事。增加运动的疼痛来掩盖之前的压力是可行的。 只要运动的疼痛与急性压力的水平相比足够强烈，一个适时的[午睡](https://supermemo.guru/wiki/Siesta) 就应该能够将大脑重置而满血复活。也就是说，运动和睡眠是两种不同的逃避，是两个初始的[压力阀](https://supermemo.guru/wiki/Stress_valve)，它们阻止「精神能量」从负面情绪走向进一步的破坏。如果经过了午睡，到晚上还有任何残留的负面情绪，有效的学习或高生产力的工作也可以作为转移压力的逃避。不仅如此，有效的学习或高生产力的工作还可以将注意力从这一天里的问题上移开，并将精神能量引导到富有成效的事情上。最后但同样重要的，夜间睡眠是最有效的[泄压阀](https://supermemo.guru/wiki/Stress_valve)，大多数时候，它可以阻止最艰难的痛苦情绪在健康的大脑和管理良好的生活中产生。当然我们都知道，压力有时会强大到让我们失眠。压力是健康睡眠的主要破坏者。与高压进行斗争从来都不容易。
 
-几个[压力阀](https://supermemo.guru/wiki/Stress_valve)有助于防止将[急性压力](https://supermemo.guru/wiki/Acute_stress)转换为[慢性压力](https://supermemo.guru/wiki/Chronic_stress)。这些是：（1）好斗地寻求解决方案，（2）艰苦的锻炼，（3）[午睡](https://supermemo.guru/wiki/Siesta)，（4）生产力，以及（5）「夜间睡眠」
+几个[泄压阀](https://supermemo.guru/wiki/Stress_valve)有助于防止将[急性压力](https://supermemo.guru/wiki/Acute_stress)转换为[慢性压力](https://supermemo.guru/wiki/Chronic_stress)。这些是：（1）好斗地寻求解决方案，（2）艰苦的锻炼，（3）[午睡](https://supermemo.guru/wiki/Siesta)，（4）生产力，以及（5）「夜间睡眠」
 
 ## 优化压力的时机
 
@@ -28,15 +28,15 @@
 
 - 矛盾的是，**创造性的大脑可能会在解决问题时增加压力**，并且一定程度的[自稳态](https://supermemo.guru/wiki/Homeostatic) 疲劳可能是有益的
 
-- 如果压力带来浪费时间的感觉，那么富有成效的早晨就是一种「主动[解压阀](https://supermemo.guru/wiki/Stress_valve)」
+- 如果压力带来浪费时间的感觉，那么富有成效的早晨就是一种「主动[泄压阀](https://supermemo.guru/wiki/Stress_valve)」
 
-如果[急性压力](https://supermemo.guru/wiki/Acute_stress)取代了锻炼，则剩余晚上的[压力阀](https://supermemo.guru/wiki/Stress_valves )会困难许多
+如果[急性压力](https://supermemo.guru/wiki/Acute_stress)取代了锻炼，则剩余晚上的[泄压阀](https://supermemo.guru/wiki/Stress_valves )会困难许多
 
 在晚上的创意时段（如果可能的话）之前和期间避免压力的原因有以下几点：
 
-- 在没有[压力阀](https://supermemo.guru/wiki/Stress_valve)的情况下 压力会先于[创造力](https://supermemo.guru/wiki/Creativity)对创造性工作产生负面影响（即使是斯多葛式自我控制的大师也无法将成本降至零）
+- 在没有[泄压阀](https://supermemo.guru/wiki/Stress_valve)的情况下 压力会先于[创造力](https://supermemo.guru/wiki/Creativity)对创造性工作产生负面影响（即使是斯多葛式自我控制的大师也无法将成本降至零）
 
-- 不受干扰的晚间创意时段是一个强大的[解压阀](https://supermemo.guru/wiki/Stress_valve)
+- 不受干扰的晚间创意时段是一个强大的[泄压阀](https://supermemo.guru/wiki/Stress_valve)
 
 - 晚间压力的残余可能影响夜间的睡眠，这可能是走向[慢性压力](https://supermemo.guru/wiki/Chronic_stress)的第一步
 
@@ -82,9 +82,9 @@
 
 很少有人把唐纳德-特朗普视为他们的榜样，然而，他的大脑是属于那种在压力和冲突条件下茁壮成长的。特朗普一定掌握了将负能量转化为行动的秘密（见：[唐纳德-特朗普的大脑之谜]（https://supermemo.guru/wiki/Mystery_of_Donald_Trump's_brain））。不是所有的负面情绪都需要以心脏病发作而告终。应该可以重新引导负能量，给它一个正确的出口。这可以通过使用正确的[昼夜节律](https://supermemo.guru/wiki/Circadian_time)和[安全阀](https://supermemo.guru/wiki/Stress_valve)来最好地完成，以避免真正的罪魁祸首：[慢性压力](https://supermemo.guru/wiki/Chronic_stress)，它是真正的杀手。1
 
-## 解压阀是如何工作的？
+## 泄压阀是如何工作的？
 
-[解压阀](https://supermemo.guru/wiki/Stress_valve)在某一天发挥作用的主要机制是剥夺压力的资源。从长远来看，它们还通过将[概念图激活](https://supermemo.guru/wiki/Concept_map_activation)转移到富有成效的追求上而发挥作用。
+[泄压阀](https://supermemo.guru/wiki/Stress_valve)在某一天发挥作用的主要机制是剥夺压力的资源。从长远来看，它们还通过将[概念图激活](https://supermemo.guru/wiki/Concept_map_activation)转移到富有成效的追求上而发挥作用。
 
 这种压力始于激活与个人福祉所受威胁相关的[概念图](https://supermemo.guru/wiki/Concept_map)。对威胁的评价类似于知识估值（见：[知识估值网络](https://supermemo.guru/wiki/Knowledge_valuation_network)）。在网络激活中，一些[地图](https://supermemo.guru/wiki/Concept_map)与负责对威胁作出反应的大脑中心有关（如杏仁体）。面对威胁的第一反应是应激反应，这可能会被认为是轻微的不愉快(对于轻微的威胁)，而对严重的威胁，应激反应也可以达到可怕的程度。在在自然条件下，这种威胁通常会被如进食、繁殖或创造性的追求迅速解决，身体可以恢复正常的程序。而在现代世界，我们被各种小威胁轰炸，这些小威胁可能会累积成大焦虑，长此以往，可能会导致生理上的病态，并转变为抑郁症。
 

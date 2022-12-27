@@ -2,15 +2,15 @@
 
 原文：[Leeches - SuperMemo Help](https://help.supermemo.org/wiki/Leeches)
 
-## 阻塞性的材料：水蛭
+## 困难的材料：水蛭
 
 材料学起来困难，可能怪材料本身（如数字、集合、枚举等），也可能得怪糟糕的表述。助记技巧和其他一些工具可用于解决本身就困难的材料（见：[学习中表述知识的 20 条规则](http://super-memo.com/articles/20rules.htm)）。
 
 **重点是！SuperMemo 中小部分难点会卡住你大部分时间**
 
-术语**水蛭**在 SuperMemo 中被用来指代知识表述不当的[问答卡](https://help.supermemo.org/wiki/Glossary:Item)。当一个[元素](https://help.supermemo.org/wiki/Glossary:Element)符合用户定义的**水蛭标准**（卡片的[遗忘](https://help.supermemo.org/wiki/Glossary:Lapse)次数和当前的[间隔长度](https://help.supermemo.org/wiki/Glossary:Interval)）时，就被 SM 视作[水蛭](https://help.supermemo.org/wiki/Glossary:Leech)，。筛选 “水蛭” 的参数可以使用**[view](https://help.supermemo.org/wiki/View_menu)：[Other](https://help.supermemo.org/wiki/View_menu#Other)：Leech**（*Shift+F3*）进行设置。如果[元素](https://help.supermemo.org/wiki/Glossary:Element)的[遗忘](https://help.supermemo.org/wiki/Glossary:Lapse)次数超过定好的界限，就会成为[水蛭](https://help.supermemo.org/wiki/Glossary:Leech)。不过，如果一个[元素](https://help.supermemo.org/wiki/Glossary:Element)在超出一定的[间隔](https://help.supermemo.org/wiki/Glossary:Interval)之后被回忆起来（与[遗忘](https://help.supermemo.org/wiki/Glossary:Lapse)次数无关），就不再被视为[水蛭](https://help.supermemo.org/wiki/Glossary:Leech)。
+在supermmeo中，水蛭这一术语被用来指代表述不当的卡片。当元素符合用户定义的水蛭标准时（比如：卡片遗忘次数和当前的间隔长度）就被叫作水蛭。判断水蛭的参数可以使用view：水蛭（*Shift+F3*）。当一个元素的遗忘次数超过被设置的范围时，它就会被划定为水蛭。如果一个元素再次记住并且超过了一定间隔，那么它就不再被叫作水蛭（与遗忘次数无关）
 
-**阻塞你的卡片（水蛭）是人们放弃 SuperMemo 的首要原因之一，狩猎水蛭可以让你更可能继续 SM！
+**困难的卡片（水蛭）是人们放弃 SuperMemo 的首要原因之一，处理掉水蛭可以提高你继续使用sm的机率
 
 ## 水蛭狩猎秘籍
 
@@ -34,7 +34,7 @@
 
 [![SuperMemo: A Leech Alert raised for an item that has already been forgotten 30 times which qualifies it as an intractable one requiring user's attention and action](https://help.supermemo.org/images/thumb/3/33/Leech_alert.jpg/745px-Leech_alert.jpg)](https://help.supermemo.org/wiki/File:Leech_alert.jpg)
 
-> ***图：**一个已经被遗忘30次的[挖空卡片](https://help.supermemo.org/wiki/Glossary:Item)的警报。这是一个棘手的[困难卡片](https://help.supermemo.org/wiki/Glossary:Leech)，需要被重新措辞，或使用助记符号去优化它。在这种情况下，使用者需要在记忆中寻找代表 proboscis 这个词的方法，或者完全放弃这个词，例如，以其在英语中使用频率低为由放弃。这个特殊的例子来自一个学龄前儿童的[学习集](https://help.supermemo.org/wiki/Glossary:Collection)，这个项目可以安全地被删除，因为它太高难度了，或者只是推迟了1-3年*。
+一个已经被忘记30次的水蛭警报。（下次从这里继续）
 
 这是一个可以自主控制的功能：
 
@@ -48,7 +48,7 @@
 
 - **间隔** - 以图形显示当前[间隔](https://help.supermemo.org/wiki/Glossary:Interval)的长度
 
-- **推迟** - 重置[困难卡片](https://help.supermemo.org/wiki/Glossary:Leech)，并在**推迟间隔**字段中定义的[间隔](https://help.supermemo.org/wiki/Glossary:Interval)安排它。
+*Postpone**能重新安排水蛭，然后以**Postpone interval**设置好的间隔来重新规划。
 
 - **编辑** - 编辑[困难卡片](https://help.supermemo.org/wiki/Glossary:Leech)
 

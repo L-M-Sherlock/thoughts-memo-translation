@@ -122,7 +122,7 @@ Wolfram 的科学对小孩子来说本来就有吸引力。他的图表很吸引
 
 ## 摘要
 
-- 大脑配备了一个最佳适应引导装置：[学习内驱力](https://supermemo.guru/wiki/Learn_drive)系统（见：[学习内驱力的优化](https://supermemo.guru/wiki/Optimality_of_the_learn_drive)
+- 大脑配备了一个最佳适应引导装置：[学习内驱力](https://supermemo.guru/wiki/Learn_drive)系统（见：[学习内驱力的最优化](https://supermemo.guru/wiki/Optimality_of_the_learn_drive)
 
 - [学习内驱力](https://supermemo.guru/wiki/Learn_drive)使个人能够迅速和最佳地适应所接触到的任何形式的环境
 

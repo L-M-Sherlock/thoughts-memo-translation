@@ -1,6 +1,6 @@
 # 我在文章中为什么要使用比喻？
 
-原文：[Why use metaphors? - supermemo.guru](https://supermemo.guru/wiki/Why_use_metaphors%3F)
+比喻。[为什么使用比喻？](https://supermemo.guru/wiki/Why_use_metaphors%3F)
 
 这段文字选自《[我永远不会送我的孩子上学](https://supermemo.guru/wiki/Problem_of_Schooling)》，作者是[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)（2017）
 
