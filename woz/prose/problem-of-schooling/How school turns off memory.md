@@ -6,7 +6,7 @@
 
 ## 巧妙的证明
 
-这是一个有关英语单词「Sausages（香肠）」的故事，通过三个难以置信的巧合，该故事完美的概述了学校的无用，SuperMemo 还对此进行了完美的记录。
+这是一个有关英语单词「Sausages（香肠）」的故事，通过三个难以置信的巧合，该故事完美的概述了学校的无用，[SuperMemo](https://supermemo.guru/wiki/SuperMemo) 还对此进行了完美的记录。
 
 下图展示了为何有关**「学校的联想真的能毁灭长期记忆」**
 
@@ -30,7 +30,7 @@
 
 ### 巧合 3： 现实生活中的惊讶
 
-2019年9月15日，第三个巧合的事件发生了。如果没有这个巧合，托马斯可能会在未来的几年里一直复习他的重复材料而不曾注意到先前的巧合。在需要的时候，他可能会把这两件物品回忆得很完美，于是这些物品会逐渐从他关注的视野中消失。
+2019年9月15日，第三个巧合的事件发生了。如果没有这个巧合，托马斯可能会在未来的几年里一直复习他的重复材料而不曾注意到先前的巧合。在需要的时候，他可能会把这两件物品回忆得很完美，于是这些物品将从他的关注范围中消失。
 
 第三件巧合的事发生在Thomas的妈妈在一次家庭晚餐中讨论英语问题。她抱怨说，Thomas记不住简单的单词。她在饭桌上冷静地问道：“Thomas，你怎么用英语说 ‘香肠’？”。令她惊讶的是，这孩子回答得很正确！但是，他没有说“sausages”，而是回答“frankfurters（法兰克福香肠） ”! 这件事需要进一步仔细调查! 很明显，Thomas是从另一个人那里学到这个词的。周围没有人使用“frankfurters”这个词，Thomas也从来没有吃过法兰克福香肠。我们推测，使用这个词的人是Thomas的祖父。的确，利用他孙子丰富的照片记录，老爷子帮助确实了这一设想。2019年8月23日，祖父为Thomas准备了热狗，后来为了测试Thomas的知识，他用英语问“你想吃法兰克福面包吗？”。这个饥饿的孩子惊呼“好！”。这一件事肯定让“法兰克福面包”这个词在托马斯的记忆中留下了痕迹。与 "好[项目](https://supermemo.guru/wiki/Item)"的[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)中至多11天便取得进展相比，这次23天的[间隔](https://supermemo.guru/wiki/Interval)显得太长了。
 
@@ -82,15 +82,15 @@
 
 ## 自由促进记忆巩固
 
-当问题被装饰成令人愉快的颜色，没有带来负面的联想时，记忆表现就不会受到干扰。下图是[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)中复习困难材料的典型：
+当问题被装饰成令人愉快的颜色，不会带来负面的联想时，记忆表现就不会受到干扰。下图是[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)中复习困难材料的典型：
 
 [![Memories associated with free learning show best consolidation.png](https://supermemo.guru/images/thumb/1/12/Memories_associated_with_free_learning_show_best_consolidation.png/600px-Memories_associated_with_free_learning_show_best_consolidation.png)](https://supermemo.guru/wiki/File:Memories_associated_with_free_learning_show_best_consolidation.png)
 
-> ***图：**在6个月的时间里，在[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)中记忆 "香肠 "这个词的能力的变化。上图中的10个峰值（[检索能力](https://supermemo.guru/wiki/Retrievability)）对应着一次失败（红色）和连续9次[回忆](https://supermemo.guru/wiki/Recall)的成功（蓝色）。底部面板上的蓝色区域显示了[记忆稳定性](https://supermemo.guru/wiki/Memory_stability)的积累。所展示的图表对于一个8岁儿童的密集时间表来说是典型的。作为比较，同样的问题，在同样的年龄，在同一个孩子身上，如果学习与胁迫有关，可能会产生截然不同的表现。见。[胁迫对回忆的影响](https://supermemo.guru/wiki/File:Memories_associated_with_school_coercion_do_not_consolidate.png)*。
+> ***图：**在6个月的时间里，在[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)中记忆 "香肠 "这个词的能力的变化。上图中的10个峰值（[检索能力](https://supermemo.guru/wiki/Retrievability)）对应着一次失败（红色）和连续9次[回忆](https://supermemo.guru/wiki/Recall)的成功（蓝色）。底部面板上的蓝色区域显示了[记忆稳定性](https://supermemo.guru/wiki/Memory_stability)的积累。所展示的图表对于一个8岁儿童的密集时间表来说是典型的。相比之下，同一个孩子，在同样的年龄段，如果在胁迫之下学习，可能会产生截然不同的表现。见：[胁迫对回忆的影响](https://supermemo.guru/wiki/File:Memories_associated_with_school_coercion_do_not_consolidate.png)*。
 
 ## 胁迫导致记忆能力折损
 
-将白色背景颜色与[胁迫](https://supermemo.guru/wiki/Coercive_learning)联系起来，导致[知识估值](https://supermemo.guru/wiki/Knowledge_valuation)信号被切断。将白色背景颜色与[胁迫]联系起来，会导致[知识评价]信号的切断。这反过来又使我们不可能找回已经与另一个没有[有毒关联](https://supermemo.guru/wiki/Toxic_memory)的[项目](https://supermemo.guru/wiki/Item)成功[巩固](https://supermemo.guru/wiki/Consolidation)过的[记忆](https://supermemo.guru/wiki/Recall) 。
+将白色背景颜色与[强迫](https://supermemo.guru/wiki/Coercive_learning)联系起来，会导致[知识估值](https://supermemo.guru/wiki/Knowledge_valuation)信号被切断。反过来，这会使已成功用另一个没有[有毒关联](https://supermemo.guru/wiki/Toxic_memory)的[条目](https://supermemo.guru/wiki/Item)[巩固](https://supermemo.guru/wiki/Consolidation)过的[记忆无法被提取](https://supermemo.guru/wiki/Recall)。
 
 [![Memories associated with school coercion do not consolidate.png](https://supermemo.guru/images/thumb/1/13/Memories_associated_with_school_coercion_do_not_consolidate.png/600px-Memories_associated_with_school_coercion_do_not_consolidate.png)](https://supermemo.guru/wiki/File:Memories_associated_with_school_coercion_do_not_consolidate.png)
 

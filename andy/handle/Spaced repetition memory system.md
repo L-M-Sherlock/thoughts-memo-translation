@@ -104,7 +104,7 @@
 
   - 通过 SRS 学到的知识不能迁移
 
-  - SRS 真正有价值的过程是亲自制作卡片
+  - SRS 真正有价值的是亲自制作卡片的过程
 
     - 也许吧！[亲自写间隔重复记忆卡片有多重要？](https://notes.andymatuschak.org/z5TxQNCUTSAiTg42v7Ft6xASpnyiuvm6phAoJ)
 
@@ -186,7 +186,7 @@ Branwen, G. (2009). Spaced Repetition for Efficient Learning. Retrieved December
 
   - 本笔记收集了关于如何将知识编码到[间隔重复记忆系统](https://notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)卡片中的想法，既支持对事实的记忆，也促进更丰富的间隔重复记忆系统可用于加深概念理解](https://notes.andymatuschak.org/z6UZP7P4sRNgRKSvNj7tMV5uW6dDhwwbdZCy9)）。
 
-- [常青笔记和 Zettelkasten 卡片系统的异同点](https://notes.andymatuschak.org/z4AX7pHAu5uUfmrq4K4zig9x8jmmF62XgaMXm)的异同
+- [常青笔记和 Zettelkasten 卡片盒笔记法的异同点](https://notes.andymatuschak.org/z4AX7pHAu5uUfmrq4K4zig9x8jmmF62XgaMXm)
 
   - 我在笔记中嵌入了[间隔重复记忆系统](https://notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)：[助记媒介可以扩展到个人笔记](https://notes.andymatuschak.org/z5ARNXtS5VxteskEW91S1yYTgAcLABNXsZuJE)。这大大改变了笔记的媒介 —— 但它的机制我还没有充分理解。
 

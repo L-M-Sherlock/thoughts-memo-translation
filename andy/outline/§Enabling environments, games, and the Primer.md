@@ -124,7 +124,7 @@
 
     - [实践出洞见](https://notes.andymatuschak.org/z7YyAp683VNbTmDG4hx9QFpf5urwxZJpsycS6)和子树
 
-  - 我必须知道比这更多的东西才能发表，我想:。
+  - 我必须知道比这更多的东西才能发表，我想::
 
 TODO:
 
