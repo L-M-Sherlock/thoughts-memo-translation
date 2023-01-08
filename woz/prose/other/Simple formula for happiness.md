@@ -34,7 +34,7 @@
 
 - 向着目标心无旁骛的前进，别想那么多
 
-- 实践[斯多葛哲学](https://supermemo.guru/wiki/Stoicism)（在我看来，它源于[内在有价值的状态](https://supermemo.guru/wiki/Intrinsically_Valuable_State)）
+- 实践[斯多葛哲学](https://supermemo.guru/wiki/Stoicism)（在我看来，它源于[内在价值状态](https://supermemo.guru/wiki/Intrinsically_Valuable_State)）
 
 为了让自己沉浸在快乐的创作中，要避免被未解决的存在主义问题或者需要立刻解决的问题所困扰。你的成就很多，但最好是自然而然的。你可能志存高远，但最好可以利用规则自动实现。[斯多葛哲学](https://supermemo.guru/wiki/Stoicism)确保你从终身目标的角度来看待小挫折。较少关心结果，这种哲学有可能帮助调节心智，然后以三重的喜悦来庆祝成功。
 

@@ -46,7 +46,7 @@ Alexander Wissner-Gross 对**智力**提出了一个更广泛的定义，它解�
 
 - [社会是一个概念网络](https://supermemo.guru/wiki/Society_as_a_concept_network)
 
-本[词汇表](https://supermemo.guru/wiki/Glossary)条目用于解释 [SuperMemo Guru](https://supermemo.guru/wiki/SuperMemo_Guru) 系列中关于记忆、学习、创造力和问题解决的文本。
+本[术语表](https://supermemo.guru/wiki/Glossary)条目用于解释 [SuperMemo Guru](https://supermemo.guru/wiki/SuperMemo_Guru) 系列中关于记忆、学习、创造力和问题解决的文本。
 
 [![Old and new knowledge in creative problem solving](https://supermemo.guru/images/thumb/0/0c/Knowledge_in_creative_problem_solving.png/600px-Knowledge_in_creative_problem_solving.png)](https://supermemo.guru/wiki/File:Knowledge_in_creative_problem_solving.png)
 

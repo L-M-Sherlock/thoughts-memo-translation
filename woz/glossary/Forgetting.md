@@ -16,7 +16,7 @@
 
 - [艾宾浩斯遗忘曲线的错误](https://supermemo.guru/wiki/Error_of_Ebbinghaus_forgetting_curve)
 
-本[词汇表](https://supermemo.guru/wiki/Glossary)条目用于解释 [SuperMemo Guru](https://supermemo.guru/wiki/SuperMemo_Guru) 系列中关于记忆、学习、创造力和问题解决的文本。
+本[术语表](https://supermemo.guru/wiki/Glossary)条目用于解释 [SuperMemo Guru](https://supermemo.guru/wiki/SuperMemo_Guru) 系列中关于记忆、学习、创造力和问题解决的文本。
 
 [![Exponential forgetting curve collected with SuperMemo 17](https://supermemo.guru/images/thumb/6/69/Exponential_forgetting_curve.jpg/500px-Exponential_forgetting_curve.jpg)](https://supermemo.guru/wiki/File:Exponential_forgetting_curve.jpg)
 

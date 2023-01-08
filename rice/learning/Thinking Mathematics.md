@@ -6,7 +6,7 @@
 
 有[《经济头脑》](https://wiki.issarice.com/index.php?title=Thinking_Economics&action=edit&redlink=1)吗？基本上是[《物理头脑》](https://wiki.issarice.com/index.php?title=Thinking_Physics&action=edit&redlink=1)的经济学版本。
 
-实际上有《数学头脑》这样的书吗（可能是 AOPS）？这种方式似乎不太适合数学，但我不太能表述清楚。也许你需要[让读者掌握一大堆术语和概念甚至才能开始问问题]()。概率论/组合数学是少数不必引入太多术语也能讨论的数学分支（这可能就是 AoPS 书读起来非常享受的原因）。
+实际上有《数学头脑》这样的书吗（可能是 AOPS）？这种方式似乎不太适合数学，但我不太能表述清楚。也许你需要[让读者掌握一大堆术语和概念甚至才能开始问问题](https://wiki.issarice.com/wiki/Tinkering_in_math_requires_loading_the_situation_into_working_memory)。概率论/组合数学是少数不必引入太多术语也能讨论的数学分支（这可能就是 AoPS 书读起来非常享受的原因）。
 
 更新：我觉得一问一答模式在《物理头脑》行得通的原因，是这些问题可以用来问所有人，他们都能理解，而不像数学一样，非得先讲一大堆概念，或者解释什么是什么证明才行。
 
@@ -14,9 +14,9 @@
 
 ## 参见
 
-* [多邻国数学版](https://wiki.issarice.com/wiki/Duolingo_for_math)
+* [多邻国学数学](https://wiki.issarice.com/wiki/Duolingo_for_math)
 
-	+ [Braid 学数学](https://wiki.issarice.com/wiki/Braid_for_math) ‎ ([← 链入](https://wiki.issarice.com/index.php?title=Special:WhatLinksHere&target=Braid+for+math))
+* [Braid 学数学](https://wiki.issarice.com/wiki/Braid_for_math) ‎ ([← 链入](https://wiki.issarice.com/index.php?title=Special:WhatLinksHere&target=Braid+for+math))
 
 ## 链接到本文
 

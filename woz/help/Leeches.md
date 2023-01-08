@@ -8,7 +8,7 @@
 
 **重点是！SuperMemo 中小部分难点会消耗大量时间**
 
-在 SuperMemo 中，水蛭这一术语被用来指代表述不当的卡片。如果元素符合用户定义的水蛭标准（比如：卡片遗忘次数和当前的间隔长度），这个元素便称为水蛭。判断水蛭的参数可以使用查看: 水蛭（*Shift+F3*）。如果一个元素的遗忘次数超过被设置的范围，它就会被划定为水蛭。如果一个元素再次记住并且其间隔超过某个间隔大小，那么它就不再被叫作水蛭（与遗忘次数无关）
+在 SuperMemo 中，水蛭这一术语被用来指代表述不当的[卡片](https://help.supermemo.org/wiki/Glossary:Item)。如果[元素](https://help.supermemo.org/wiki/Glossary:Element) 符合用户定义的[水蛭](https://help.supermemo.org/wiki/Glossary:Leech)标准（比如：卡片遗忘次数和当前的间隔长度），这个元素便称为水蛭。判断水蛭的参数可以使用查看: 水蛭（*Shift+F3*）。如果一个元素的遗忘次数超过被设置的范围，它就会被划定为水蛭。如果一个元素再次记住并且其间隔超过某个间隔大小，那么它就不再被叫作水蛭（与遗忘次数无关）
 
 **困难卡片（水蛭）是人们放弃 SuperMemo 的首要原因之一，处理掉水蛭后，你就能用得更长久
 
@@ -34,7 +34,7 @@
 
 [![SuperMemo: A Leech Alert raised for an item that has already been forgotten 30 times which qualifies it as an intractable one requiring user's attention and action](https://help.supermemo.org/images/thumb/3/33/Leech_alert.jpg/745px-Leech_alert.jpg)](https://help.supermemo.org/wiki/File:Leech_alert.jpg)
 
-> ***图片:**被遗忘30次的水蛭警报。这是一张复杂的水蛭卡片，解决掉它需要重新组织卡片或使用助记术。在这种情况下，用户必须要在它自己的记忆中去找到表示proboscis这个单词的方法，否则就必须找个放弃记忆单词的理由，比如这个单词是个低频词。这个特殊的例子来自一个学前儿童的集合。在这种条件下，这张卡片就可以放心地去删掉或者推迟1到3年，因为它对于一个儿童来说难度太高了。
+> ***图片:**此[项目](https://help.supermemo.org/wiki/Glossary:Item)触发了水蛭警报，因为此项目已被遗忘 30 次。这是一张困难的[水蛭](https://help.supermemo.org/wiki/Glossary:Leech)卡片，为了解决掉它，需要重新组织语言，或使用助记术。在这种情况下，用户或是要想办法在记忆中表示 proboscis，或是要找个放弃记忆单词的理由，比如这个单词是个低频词。这个例子来自一个学前儿童的[集合](https://help.supermemo.org/wiki/Collection)。有鉴于此，可以以难度过高为由删除这个项目，或者推迟 1 到 3 年。
 
 这是一个可以自主控制的功能：
 

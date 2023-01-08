@@ -18,6 +18,8 @@ Kant, I. (1996). An answer to the question: What is enlightenment? In A. Wood (E
 
 Don DeLillo，关于他为什么成为作家（通过 [Michael Nielsen]( https://notes.andymatuschak.org/zgix4jsevuq5qwqf6xy3y2xoospktjfp9va)）：
 
+> 我有个想法但不是很确信。或许我想要学习如何思考。写作是一种全神贯注的思考形式。我不知道我在某个主题上的想法，即使是今天，直到我坐到桌前并尝试把它们写出来。或许我想要找到更多严谨的思考方式。我们现在讨论的是我最早的写作，以及语言的力量，它可以对抗青春期后期的沉溺，可以用简练的方式来明确事物，明确杂乱无章的经历。别忘了写作很方便。它只需最简单的工具。一个年轻的写者认为，在一张不到一便士的纸上写下单词和句子，他可以更清楚地将自己置于世界之中。一页纸上的文字，就足以帮助他将自己与周围的力量、街道、人群、压力和感受分离开来。他学会思考这些事情，把他自己的句子变成新的认知。我当时有多少这样的感觉？也许只是一种暗示，一种本能。写作主要是一种不可名状的冲动，这种冲动部分是由我当时正在阅读的作者所推动的。
+
 Ahrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers*.
 
 > 如果一时自欺欺人地写下一些难以理解的文字，那么在下一步将自己的文献笔记变成永久笔记，并与其他笔记联系起来的时候，就会遇到障碍。

@@ -8,7 +8,7 @@
 
 来自[柏林宣言（2012）](https://ghex.world/advocacy/declarations/berlin-declaration/)的话语符合本文的背景：
 
-> 我们谴责那些禁止在家上学并允许通过过度或强制性的罚款、威胁父母监护权和实施刑事制裁来迫害在家上学家庭的国家的政策。
+> 我们谴责一些国家的政策，这些国家禁止家庭教育，允许通过过度或强制性罚款，威胁父母监护权和实施刑事制裁来迫害家庭教育。
 
 至于芬兰，我想知道他们的学校系统是不是为了培养温顺且服从的民众（见：[芬兰学校悖论](https://supermemo.guru/wiki/Finnish_school_paradox)）。一个警示标志是，芬兰仍然用[征兵](https://supermemo.guru/wiki/Conscription)来扰乱年轻人的生活。当 2013 年一项关于废除这一概念的公民倡议未能得到足够的支持时，我想知道在芬兰是否没有足够的愤怒的年轻人来改变现状？也许所有这些健康的愤怒都被学校教育逐渐熄灭了？比尔•盖茨可以把所有的青春献给微软，而Linus Torvalds 却不得不为服兵役浪费 11 个月，这公平吗？这 11 个月可能改变了历史。在 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 的前一年，波兰军队试图抓住我的脖子。如果他们成功了，1987 年以后出现的[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)应用程序将沦为一张彩票。
 
@@ -52,11 +52,11 @@ Björklund 自己的全部教育都是在军事学习机构进行的。他升至
 
 最近的新冠疫情那些研究知识如何影响政策的人提供了一个奇妙的研究场所。在对病毒的了解有限，而对群体免疫的最佳途径的了解却迟迟没有渗入的时候，领导人、议会、州、市和省采取的政策就像粉笔和奶酪一样不同。政策的变化对新知识的流入和个人意见的变化都很敏感。在波兰，我们有一个可笑的两周禁止进入森林和（空）海滩的禁令。它像一例糟糕的流感一样来了又走了。很明显，这是政府的一记重拳（或者说是国家的免疫力）。在这个混乱的时代，领导人决定国家的结果。无知决定了谁的生命和谁的死亡。
 
-我喜欢 [David Katz](https://youtu.be/Lze-rMYLf2E) 关于解决危机的立场。当我被警察从我通常的慢跑路线上转移到一条风景优美的废弃小路，经过树林时，我也得出了完全相同的结论（2020 年 4 月 9 日）。为了社会的最佳利益，我应该感染病毒（假设我不会死）。自然，这不会发生在空旷的树林里的寒风中，而这是我真正保持健康的最佳场所。
+我喜欢 [David Katz](https://youtu.be/Lze-rMYLf2E) 关于解决危机的立场。当我被警察从我通常的慢跑路线上转移到一条风景优美的废弃小路，经过树林时，我也得出了完全相同的结论（2020 年 4 月 9 日）。为了社会的最佳利益，我应该感染病毒（假设我没死）。自然，这不会发生在空旷的树林里的寒风中，而这是我真正保持健康的最佳场所。
 
 瑞典决定在欧洲采取最大胆的措施，我对此印象相当深刻。如果政策是由流行病学家决定的，那么它们比政治家制定的政策更有可能是合理的。然而，Anders Tegnell 的一句话暗示了他的「瑞典心态」：「儿童必须去上学，这样护士才能去工作」。此外，残酷的是，老年人护理中心贡献了一半的死亡统计数据。这让我想起了已故的 Raymond Moore 的不祥之言：「[你越早将你的孩子送入机构，他们就越早将你送入机构！](https://supermemo.guru/wiki/Raymond_Moore:_On_early_institutionalization)」。
 
-相比之下，德国似乎是相当严厉的。在首席科学家 Angela Merkel 的领导下，他们甚至需要在公共场合戴上强制性口罩。我不经常看到警察在法令国家与抗议者发生冲突。
+相比之下，德国似乎相当严厉。在首席科学家 Angela Merkel 的领导下，他们甚至需要在公共场合戴上强制性口罩。我不经常看到警察在法令国家与抗议者发生冲突。
 
 政策对比不应涵盖社会中的遵守程度。在瑞典和德国，规则和建议都得到了很好的遵守。与此相反，在美国，公民可以通过喊话来摆脱限制自由的限制。不可能说遵从和抵制之间的平衡是最佳的。然而，声称公民知识和一般知识具有普遍的帮助是相当容易的。这就是为什么所有对[学习自由](https://supermemo.guru/wiki/Free_learning)的限制都是有害的。
 
@@ -76,8 +76,8 @@ Björklund 自己的全部教育都是在军事学习机构进行的。他升至
 
 ## 延伸阅读
 
-- [禁止家庭教育](https://supermemo.guru/wiki/Ban_on_homeschooling)
+- [禁止在家上学](https://supermemo.guru/wiki/Ban_on_homeschooling)
 
-- [Elizabeth Bartholet：对家庭教育的无知攻击](https://supermemo.guru/wiki/Elizabeth_Bartholet:_ignorant_attack_on_homeschooling)
+- [Elizabeth Bartholet：对在家上学的无知攻击](https://supermemo.guru/wiki/Elizabeth_Bartholet:_ignorant_attack_on_homeschooling)
 
-- [瑞典的家庭教育](https://www.youtube.com/watch?v=p2YAD49NQ54)（6 分钟视频）
+- [瑞典的在家上学](https://www.youtube.com/watch?v=p2YAD49NQ54)（6 分钟视频）
