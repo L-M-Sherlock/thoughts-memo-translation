@@ -6,7 +6,7 @@
 
 ## 躁动的机制
 
-躁动的起因尚未完全阐明，但我相信躁动很容易用其与[创造力](https://supermemo.guru/wiki/Creativity)的关系来解释。大脑在受到任何形式的启发时都会进入创造模式。在创造模式下，大脑中的破坏性随机信号增加。这来自于搜索模式的激活，大脑在解决问题时寻找新的关联。该搜索模式的一个重要属性是其随机性。在[概念网络](https://supermemo.guru/wiki/Concept_network)中的随机搜索需要一种更放任的、更随机的[扩散激活](https://supermemo.guru/wiki/Spreading_activation)形式。单个[概念](https://supermemo.guru/wiki/Concept)可能会增加激活附近概念的概率，即使概念之间的链接很弱或不存在。弱链接的价很低，而不存在的链接可能是静默的突触。在这种随机搜索模式下，一些信号传递可能会泄漏到运动系统，导致随机的肌肉抽搐。抑制不受欢迎的抽动的最简单方法之一是激活一个同步运动程序，自动抑制不符合程序的运动。这就是躁动。以类似的方式，[快速眼动](https://supermemo.guru/wiki/REM)睡眠的随机信号是通过切断从睡眠的大脑发出的运动信号来解决。
+躁动的起因尚未完全阐明，但我相信躁动很容易用其与[创造力](https://supermemo.guru/wiki/Creativity)的关系来解释。大脑在受到任何形式的启发时都会进入创造模式。在创造模式下，大脑中的破坏性随机信号增加。这来自于搜索模式的激活，大脑在解决问题时寻找新的关联。该搜索模式的一个重要属性是其随机性。在[概念网络](https://supermemo.guru/wiki/Concept_network)中的随机搜索需要一种更放任的、更随机的[扩散激活](https://supermemo.guru/wiki/Spreading_activation)形式。单个[概念](https://supermemo.guru/wiki/Concept)可能会增加激活附近概念的概率，即使概念之间的链接很弱或不存在。弱链接的价很低，而不存在的链接可能对应沉默的突触。在这种随机搜索模式下，一些信号传递可能会泄漏到运动系统，导致随机的肌肉抽搐。抑制多余的抽动的最简单方法之一是激活一个同步运动程序，自动抑制不符合程序的运动。这就是躁动。以类似的方式，[快速眼动](https://supermemo.guru/wiki/REM)睡眠的随机信号是通过切断从睡眠的大脑发出的运动信号来解决。
 
 ## 躁动的重要性
 
@@ -14,9 +14,9 @@
 
 躁动发挥着重要的神经生理作用，不应该被抑制。
 
-在学校里，孩子们经常因为躁动而被训斥。相比之下，蒙特梭利学校允许在课堂上走动。躁动的自由对孩子们对学校的看法有很大影响。对于一个小孩子来说，只要把躁动作为一种防御武器，枯燥的课堂就可以轻松度过。
+在学校里，孩子经常因躁动被训。相比之下，蒙特梭利学校允许在课堂上走动。躁动的自由对孩子们如何看待学校有很大的影响。对于小孩子来说，只要把躁动作为一种防御武器，枯燥的课堂就可以轻松度过。
 
-由于它与[创造力](https://supermemo.guru/wiki/Creativity)有关，躁动可能是[工作记忆过载](https://supermemo.guru/wiki/Cognitive_overload)、认知失调、[无聊](https://supermemo.guru/wiki/Boredom)、不耐烦、兴奋、[压力](https://supermemo.guru/wiki/Stress)等等的体现。在任何情况下，限制躁动都不会改善注意力，可能会使事情变得更糟。躁动是正常的，与 [ADHD](https://supermemo.guru/wiki/ADHD) 没有什么关系。ADHD 的孩子会更躁动，但有创造力的孩子，或有[**学成强欲**](https://supermemo.guru/wiki/Rage_to_master)的孩子也会如此（在远离他们“愤怒”的班级）。
+由于它与[创造力](https://supermemo.guru/wiki/Creativity)有关，躁动可能是[工作记忆过载](https://supermemo.guru/wiki/Cognitive_overload)、认知失调、[无聊](https://supermemo.guru/wiki/Boredom)、不耐烦、兴奋、[压力](https://supermemo.guru/wiki/Stress)等等的体现。在任何情况下，限制躁动都不会改善注意力，可能会使事情变得更糟。躁动是正常的，与 [ADHD](https://supermemo.guru/wiki/ADHD) 没有什么关系。ADHD 的孩子会更躁动，但有创造力的孩子，或有[**学成强欲**](https://supermemo.guru/wiki/Rage_to_master)的孩子也会如此（在远离他们「愤怒」的班级）。
 
 在创作过程中，驾驭躁动的一个简单方法是运动（如步行）。[头脑风暴](https://supermemo.guru/wiki/Brainstorming)的最佳方式之一是**边走边说**。[SuperMemo World](https://supermemo.guru/wiki/SuperMemo_World) 就是利用这种形式的头脑风暴而诞生的。
 

@@ -32,6 +32,8 @@ Sterling的核心论文有关现代生活压缩了回报的多样性并从低惊
 
 聪明的大脑会决定我们的存亡。同时，[学校教育](https://supermemo.guru/wiki/Schooling) 是一个完全相反的作用力。强迫输入[不连贯的知识]，用成绩伪造回馈，
 
+大多数我认识的教师都认识到了问题所在，并且努力尝试着在学校中营造友好的氛围，但是他们不能阻止[课程](https://supermemo.guru/wiki/Curriculum) 和国际压力(cf. [PISA](https://supermemo.guru/wiki/PISA))的力量。标准在不断地提高，诱导性无助的力量不断增强。有一部分尝试获得了成功，但是失败变得更让人痛苦、更是毁灭性的。
+
 个人轶事。[为什么使用轶事？](https://supermemo.guru/wiki/Why_use_anecdotes%3F)
 
 在他论文的结尾，Sterling博士同意道。他反对均化学习：

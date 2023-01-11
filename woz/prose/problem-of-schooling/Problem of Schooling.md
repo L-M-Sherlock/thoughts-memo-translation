@@ -154,7 +154,7 @@
 
 - [学校课程本质上是政治性的](https://supermemo.guru/wiki/School_curriculum_is_inherently_political) *
 
-- [我们需要更多坏学校](https://supermemo.guru/wiki/We_need_more_bad_schools) *
+- [我们需要更多烂学校](https://supermemo.guru/wiki/We_need_more_bad_schools) *
 
 - [历史课程可以塑造民族主义态度](https://supermemo.guru/wiki/History_curriculum_can_shape_nationalist_attitudes) *
 

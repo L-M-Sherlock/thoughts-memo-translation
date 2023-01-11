@@ -2,17 +2,17 @@
 
 原文：[Explorable explanation](https://wiki.issarice.com/wiki/Explorable_explanation)
 
-我想在这里提一些关于可探索的解释 (下文简称 EE) 的主张/ 意见：
+我想在这里提一些关于可探索的解释的主张/意见：
 
-- [「可探索解释」的概念建立在有穷性的假设上](https://wiki.issarice.com/wiki/Finiteness_assumption_in_explorable_media), 但在数学中，你最常处理的是**任意对象** 、各类无穷大、[不可能的情形](https://wiki.issarice.com/wiki/Representing_impossibilities) (例如在反证法中) 以及其他「无穷」的事物。到底要怎么做，咱才能在 EE 的框架内，讨论这些涉及无穷/ 不可能的事物？
+- [「可探索解释」的概念建立在有穷性的假设上](https://wiki.issarice.com/wiki/Finiteness_assumption_in_explorable_media)，但在数学中，你经常要处理**任意对象** 、各种无穷大、以及[不可能的情形](https://wiki.issarice.com/wiki/Representing_impossibilities) （例如在反证法中）以及其他「无穷」的事物。到底要怎么做，才能在可探索解释的框架内，讨论这些涉及无穷/不可能的事物？
 
-- 现有的 EE 案例, 依赖知识本身, 越是方便以 EE 的方式呈现, 才越容易得到产出. 但少有人会绞尽脑汁去按重要性处理知识, 让它们以 EE 的形式去表达. 这意味着 EE 呈现的东西常常让人觉得是噱头或隔靴搔痒。[见证者](https://wiki.issarice.com/wiki/The_Witness)漂亮而凄美，但一天结束时，你只是在面板上画波浪线来解决人为（=自找麻烦的虚无玩意儿）规则带来的问题。
+- 在选材上，现有的可探索解释材料，往往选择最容易用可探索的形式表达的领域，而非找出最值得解释的知识，然后花费气力，用可探索的形式表达出来。这意味着可探索解释常常让人感觉是无关痛痒的花哨玩意。[见证者](https://wiki.issarice.com/wiki/The_Witness)是漂亮而凄美的，但你最终只是在面板上画波浪线来解决人造（=鸡毛蒜皮的玩意）规则带来的问题。
 
-- EE 通常只能承载非语言的知识？这是个有趣的属性，但也让 EE 用于数理逻辑这种**语言原生**的知识领域时显得拐弯抹角。
+- 可探索解释通常只能承载非语言的知识？这个属性很有趣，但也导致可探索解释比较难以用于数理逻辑这种**语言原生**的知识领域。
 
-- 数学家有些活计是「脑力跑腿」，却必须手动完成  —— 例如，设置证明、进行低级算数以确保特定的计算正确等。这些很像 EE，使用它可以用来锻炼高层次上的证明策略，诸君我好兴奋啊。(这句不会翻译)
+- 让可探索解释代劳那些无聊而繁重的智力劳动，目前则是由数学家手动完成的——比如，写好证明框架，验证某个算式时进行的低层次计算等。我特别感兴趣的是，如何借助这些工具来练习如何选择高层次的证明策略。
 
-- 很少有 EE 使用一系列的谜题，由简入繁地建立概念，这样做的在我印象里好像只有视频游戏。我认为缺乏「连续系列的深度」，使得可探索的解释看起来很花哨，也让它看起来不能帮助理解一个主题的核心。
+- 很少有可探索解释使用一系列的谜题，从简单的概念出发，逐步解释复杂概念，在我印象里，除了视频游戏之外，都没有这么做的。因此可探索解释也就缺乏「连续深度」，因此就令人感觉花哨无比，对于理解主题无关紧要。
 
 ## 另见
 
@@ -20,11 +20,11 @@
 
 - [可探索媒介作为概率与统计的学习媒介](https://wiki.issarice.com/wiki/Probability_and_statistics_as_fields_with_an_exploratory_medium)
 
-- [狭义与广义认知增强](https://wiki.issarice.com/wiki/Narrow_vs_broad_cognitive_augmentation)
+- [狭域认知增强与广域认知增强](https://wiki.issarice.com/wiki/Narrow_vs_broad_cognitive_augmentation)
 
 ## 外部链接
 
-* [wikipedia:Explorable explanation](https://wiki.issarice.comhttps://en.wikipedia.org/wiki/Explorable_explanation)
+* [维基百科:Explorable explanation](https://wiki.issarice.comhttps://en.wikipedia.org/wiki/Explorable_explanation)
 
 ## 链接到本文
 

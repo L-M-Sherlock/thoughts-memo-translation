@@ -2,13 +2,13 @@
 
 原文：[Tools for thought: science, design, art, craftsmanship? | Patreon 上的 Andy Matuschak](https://www.patreon.com/posts/tools-for-design-60576749)
 
-> 「计算机的命运是成为全世界所有经常上网的人的互动智力放大器。
+> 「成为全世界所有经常上网的人的交互式智力放大器是计算机的命运。
 
 >
 
 > [— J.C.R. Licklider](https://cognitivemedium.com/tat/assets/Kay_What_is_a_Dynabook.pdf)
 
-如果你想帮助实现这一命运——发明人机界面，从根本上扩大人类的认知和创造力——那么你实际上需要**做**什么？
+如果你想促进计算机命运的成功——发明人机界面，这从根本上扩大人类的认知和创造力——需要**做**什么？进步如何发生？
 
 此外，我们如何才能取得**集体的**进步？在共享知识、框架、方法、价值观和传统方面有什么潜力，可以相互加速许多独立的探索路线？
 

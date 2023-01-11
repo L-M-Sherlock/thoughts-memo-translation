@@ -196,7 +196,7 @@ Robert Sapolsky 博士经常引用的研究表明，我们可能对其他事物�
 
 - [迷思容易被吞噬而难以被杀死](https://supermemo.guru/wiki/Myths_are_easy_to_swallow_and_hard_to_kill)
 
-- 迷思：我们的大脑会被算法入侵](https://supermemo.guru/wiki/Myth:_Our_brains_can_get_hacked_by_algorithms)
+- 谬误：[我们的大脑会被算法入侵](https://supermemo.guru/wiki/Myth:_Our_brains_can_get_hacked_by_algorithms)
 
 - [错误模型的价值](https://supermemo.guru/wiki/Value_of_wrong_models)
 
