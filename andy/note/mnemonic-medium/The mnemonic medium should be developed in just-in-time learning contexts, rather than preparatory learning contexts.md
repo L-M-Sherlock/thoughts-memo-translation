@@ -1,4 +1,4 @@
-# 助记媒介应该在即时学习环境中发展，而不是在预备学习环境中。
+# 助记媒介应该在即时学习环境中发展，而不是在预备学习环境中
 
 原文：[The mnemonic medium should be developed in just-in-time learning contexts, rather than preparatory learning contexts (andymatuschak.org)](https://notes.andymatuschak.org/z8YQjYjBnEae9U9ySaywQ5AKyb3fHg7jRdcrz)
 
@@ -14,13 +14,13 @@
 
 - 针对的是住院医师，而不是医学生
 
-- 支持研究生的研究，而不是支持他们通过资格考试所需要的东西
+- 支持研究生的研究，而不是支持他们通过资格考试
 
-- 帮助编程训练营的学生在外部实习的背景下，而不是在课业上
+- 帮助新兵训练营的学生在校外实习中编写代码，而不是在课业中
 
 - 将员工入职培训的重点从第一周转移到第一年
 
-- 帮助那些正处于进入新领域的人（而不仅仅是提前学习）
+- 帮助那些正转向新领域的人（而不仅仅是提前学习）
 
 这里的一个挑战是，当你是一个完全的新手时，及时的学习通常不能发生，因为你往往不知道足够的东西来开始一个有意义的项目。但这正是该媒介真正的闪光之处。[间隔重复记忆系统可以加速学习一个科目的令人不快的早期阶段](https://notes.andymatuschak.org/z36hoKonZMF93rY34goQhyFLfnTfHmSwBzNYs)。如果我们能找到一些情况，人们经常发现他们需要在有意义的事情中学习一些东西，但他们确实需要从基础知识开始，那就太好了。
 

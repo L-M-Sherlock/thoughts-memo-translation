@@ -2,7 +2,7 @@
 
 原文：[Sleep deprivation amplifies the harm of schooling - supermemo.guru](https://supermemo.guru/wiki/Sleep_deprivation_amplifies_the_harm_of_schooling)
 
-本文节选自《[我永远不会送我的孩子上学](https://supermemo.guru/wiki/Problem_of_Schooling)》，作者是[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)（2017）
+这段文字选自《[我永远不会送我的孩子上学](https://supermemo.guru/wiki/Problem_of_Schooling)》，作者是[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)（2017）
 
 ## 睡眠问题的增加
 

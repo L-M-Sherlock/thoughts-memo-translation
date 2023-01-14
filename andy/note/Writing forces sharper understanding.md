@@ -2,7 +2,7 @@
 
 写作是促使你思考的好方法：如果你不深入理解，就很难总结出什么。通过尝试解释一个想法，你将自然而然地尝试多种框架，充实它的边界，并看到新的联系。这是为什么[常青笔记有助于积累洞见](https://notes.andymatuschak.org/z6cFzJWgj9vZpnrQsjrZ8yCNREzCTgyFeVZTb)和为什么应该[写你所读，以求内化](https://notes.andymatuschak.org/zg3fYweZpbHeBTpcYke5mF4ZfrJutYcQEtFo)的一部分原因。
 
-在写作时与先前的笔记建立联系、进行整合的额外步骤（即创建[常青笔记](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C)）让这种效应更加有力，尤其是当[常青笔记应面向概念](https://notes.andymatuschak.org/z6bci25mVUBNFdVWSrQNKr6u7AZ1jFzfTVbMF)之后。因为你不得不去理解怎样将给定的想法与其他想法联系起来。并且当你将新想法与旧想法进行对比时，你能看到新作品中**没有**被提到的点。
+在写作时与先前的笔记建立联系、进行整合的额外步骤（即创建[常青笔记](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C)）让这种效应更加有力，尤其是当[常青笔记应面向概念](https://notes.andymatuschak.org/z6bci25mVUBNFdVWSrQNKr6u7AZ1jFzfTVbMF)之后。因为你不得不去理解怎样将给定的想法与其他想法联系起来。并且当你将新想法与旧想法进行对比时，你能看到新想法中**没有**被提到的点。
 
 这种实践是一种粗略的元认知支持：[元认知支持充当认知脚手架](https://notes.andymatuschak.org/z4qFtxPZi21DKoLruHcmsocee1YnZy9JMArb6)。
 

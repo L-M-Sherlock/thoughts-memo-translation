@@ -1,8 +1,8 @@
-# 谬误：你可以投入更多的钱来改进教育系统
+# 谬误：你可以砸更多的钱来改进教育系统
 
 原文：[Myth: You can improve education by throwing more money in it - supermemo.guru](https://supermemo.guru/wiki/Myth:_You_can_improve_education_by_throwing_more_money_in_it)
 
-这段文字选自《[我永远不会送我的孩子去学校](https://supermemo.guru/wiki/Problem_of_Schooling)》，作者是[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)（2017）
+这段文字选自《[我永远不会送我的孩子上学](https://supermemo.guru/wiki/Problem_of_Schooling)》，作者是[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)（2017）
 
 很多人相信这样一个谬误，即我们可以通过投入大量资金来改善学校系统。这个谬误就像我们需要别人教导才能学习一样普遍且荒谬（见：[我们需要老师吗？](https://supermemo.guru/wiki/Do_we_need_teachers%3F)）。即使是最聪明的大脑也可能会以高昂的代价陷入谬误（见：[比尔·盖茨对教育的看法错了](https://supermemo.guru/wiki/Bill_Gates_is_wrong_about_education)）。实际上，基于自主选择的[自由学习](https://supermemo.guru/wiki/Free_learning)才是最有效的学习途径，而且它几乎零成本。全世界都充满了各种学习机会。所需要的只是根据[孩子的激情](https://supermemo.guru/wiki/Child's_passion)参与实现任何目标。我们可以放心地相信[学习内驱力](https://supermemo.guru/wiki/Learn_drive)算法，它会让孩子做出高效的教育选择。如今，一台便宜的笔记本电脑也可能比学校更好用（见：[凿壁上网](https://supermemo.guru/wiki/Hole_in_the_wall)）。
 
