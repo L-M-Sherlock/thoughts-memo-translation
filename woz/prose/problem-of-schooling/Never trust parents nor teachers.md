@@ -4,13 +4,13 @@
 
 这段文字选自《[我永远不会送我的孩子上学](https://supermemo.guru/wiki/Problem_of_Schooling)》，作者是[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)（2017）
 
-## 中国式耳语
+## 中国式耳语（传话游戏）
 
-人们有制造神话的自然天赋。这就是为什么我几乎不信任父母和老师对他们教学“方式”的评估。由于人脑自然而宝贵的属性，[概括](https://supermemo.guru/wiki/Generalization)，我们都能快速建立模型。由于频率和数据的质量、建模者的整体知识成反比，我们经常建立错误的模型。[错误的模型有着巨大的的价值](https://supermemo.guru/wiki/Value_of_wrong_models)，特别是在科学领域中。[基于错误模型的神话是很难被扼杀的](https://supermemo.guru/wiki/Myths_are_easy_to_swallow_and_hard_to_kill)。在父母的情况下，一个传闻的事实可以被加工成一个童年的大故事。那个事实起初是准确的，被周围的环境证据所抵消。然而，一个加工后故事的吸引力会自我延续，并通过[遗忘](https://supermemo.guru/wiki/Forgetting)导致反证据的死亡。然后，还有多年来的失真和放大的问题。这是一种“[八卦游戏](https://en.wikipedia.org/wiki/Chinese_whispers)”，在这其中大脑通过多年来复述这个故事来与自己玩游戏。最后，二三十年后，我们的父母坚定不移地声称：*“我的孩子在六个月大的时候就会走路了”*，或者*“我的孩子在一岁之前就可以将完整的句子了”*。还有一种无处不在的神话，要花几秒钟来伪造：*“我的孩子喜欢学校！”*（见：[Big Fat Lie: Children like school](https://supermemo.guru/wiki/Big_Fat_Lie:_Children_like_school)）
+人们天生擅长制造谬误。这就是为什么我从不信任父母和老师对他们教学「方法论」的评估。由于人脑自然而宝贵的属性，加上[泛化](https://supermemo.guru/wiki/Generalization)过程的作用，使我们都够快速建立起模型。因为频率和数据的质量、建模者的知识总量成反比，我们会经常性地在建立模型上犯错误。[错误的模型也会有巨大的的价值](https://supermemo.guru/wiki/Value_of_wrong_models)，特别是在科学领域中。[基于错误模型的谬误是很难被扼杀的](https://supermemo.guru/wiki/Myths_are_easy_to_swallow_and_hard_to_kill)。如果是父母，一件未被证实的传闻会被他们加工成一个大故事，陪伴着我们的童年。这个传闻一开始可能是准确的，但随着时间推移，和大量的新证据发现这是错误的。然而，加工后的故事的吸引力会自我延续，并通过[遗忘](https://supermemo.guru/wiki/Forgetting)导致反证的失败。还有就是多年来事件的失真和放大的问题。或许这是一种大脑擅长的「[八卦游戏](https://en.wikipedia.org/wiki/Chinese_whispers)」，多年以来不停地在复述这个故事。最终，二三十年后，我们的父母会坚定不移地声称：“我的孩子在六个月大的时候就会走路了”，或者“我的孩子在一岁之前就可以讲完整的句子了”，又或是“我的孩子没学讲话之前就会阅读了”。还有一种普遍存在的谬误，要花上几秒钟来伪造：“我的孩子喜欢学校！”（见：[Big Fat Lie: Children like school](https://supermemo.guru/wiki/Big_Fat_Lie:_Children_like_school)）
 
-即使作为一个集体，父母似乎也没有表现出太多的群体智慧，平均化他们的模型并不能使我们更加接近真相。模型往往陷入极端，例如，记忆的另一端可能是*“我的儿子直到6岁才说一个字”*（这句话在爱因斯坦等伟大人物身上非常流行）（见：[早熟悖论]（https://supermemo.guru/wiki/Precocity_paradox））。
+即使作为一个集体，父母似乎也没有表现出太多的群体智慧，平均化他们的模型并不能使我们更加接近真相。模型往往陷入极端，例如，记忆的另一端可能是「我的儿子直到 6 岁才开始说话」（这在爱因斯坦等这些伟大人物身上非常流行）（见：[早熟悖论](https://supermemo.guru/wiki/Precocity_paradox)）。
 
-最重要的是，所有成年人都患有[教育同理心](https://supermemo.guru/wiki/Educational_empathy)方面的缺陷。教师们受到[鱼缸视角]的影响。父母未能和孩子沟通。以下的差距以流行逼格：父母声称孩子喜欢学校，而孩子却在同一天说她到死都会讨厌学校。
+最重要的是，所有成年人都患有[教育同理心](https://supermemo.guru/wiki/Educational_empathy)方面的缺陷。教师们受到[鱼缸视角](https://supermemo.guru/wiki/Fish_tank_perspective)的影响。父母未能和孩子沟通。以下的差距体现在泛滥比例上：父母声称孩子喜欢学校，而孩子却在同一天说她到死都会讨厌学校。
 
 家长和教师对儿童的学习效果的洞察力非常薄弱
 

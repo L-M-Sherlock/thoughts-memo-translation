@@ -6,7 +6,7 @@
 
 [吹捧学校](https://supermemo.guru/wiki/Glorification_of_schooling)的人经常热情地捍卫[强制教育](https://supermemo.guru/wiki/Compulsory_schooling)的重要性。他们引用识字率、科学进步、寿命延长、犯罪率下降等数字。当我谈到人权和将儿童从[学校的束缚](https://supermemo.guru/wiki/End_school_slavery)中解放出来的必要性时，我被看作是一个具有煽动性目标的叛乱分子。受教育者对儿童缺乏同情心吗？毕竟他们属于同一个群体，在 15 岁时达到了[仇恨学校](https://supermemo.guru/wiki/Why_kids_hate_school)的高峰。为什么他们一成为大学生就为这个系统辩护？遗忘有其贡献。我们很容易粉饰过往的经历（见：[教育同理心](https://supermemo.guru/wiki/Educational_empathy)）。大学的新鲜自由让人对高中毕业校历心存感激。然而，还有一个更深层次的问题摆在眼前。[成功被学校驯化](https://supermemo.guru/wiki/Well-schooled)的人确实不理解学习的自由。他们可以在理论上体验[自由学习](https://supermemo.guru/wiki/Free_learning)的所有概念，然而他们在内心深处却没有感觉。就好像他们知道关于性爱的一切，可以讨论它的精致细节，但却从未真正体验过其狂喜。很难理解的是，真正的学习狂喜只有在多年的[自由学习](https://supermemo.guru/wiki/Free_learning)之后才能体验到。一天、一个星期或一个月可以提供一些现象的味道，但它仍然不是真正的狂喜。[树的比喻](https://supermemo.guru/wiki/Tree_metaphor)有助于解释**与知识交融**的感觉。
 
-自由学习就像性爱，你需要经历它才能理解它
+自由学习就像性爱，你必须经历过才能理解它
 
 ## 知识就像一棵树
 
