@@ -2,7 +2,7 @@
 
 原文：[Optimum class size is 1.4 - supermemo.guru](https://supermemo.guru/wiki/Optimum_class_size_is_1.4)
 
-这段文字选自《[我永远不会送我的孩子上学](https://supermemo.guru/wiki/Problem_of_Schooling)》，作者是[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)（2017-2022）
+这段文字选自《[学校教育的问题](https://supermemo.guru/wiki/Problem_of_Schooling)》 作者：[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)（2017-2022）
 
 ## 1.4 之于班级人数
 

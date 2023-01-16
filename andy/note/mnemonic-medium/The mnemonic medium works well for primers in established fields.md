@@ -4,7 +4,7 @@
 
 在人们初学某一领域的时帮助他们增强学习，收益会非常大，特别是帮他们增强记忆：例如[间隔重复记忆系统可以缩短科目学习中不愉快的早期阶段](https://notes.andymatuschak.org/z36hoKonZMF93rY34goQhyFLfnTfHmSwBzNYs)。
 
-[助记媒介](https://notes.andymatuschak.org/z4rRX3qwSSJRsEkdXKwH2shamgHNeRthrMLiF)特别适合于此场景，因为[最初的助记媒介在前提上隐含着专制](https://notes.andymatuschak.org/z2SaePptX2K1sudevrMYrjaqP7ZBRLs82iSv)：它假定你想要尊重作者在该主题上的权威并记住每张卡片。对于入门读物来说，这一假设非常有可能是正确的，因为读者对于话题没有太多概念，也没有预先的想法。
+[助记媒介](https://notes.andymatuschak.org/z4rRX3qwSSJRsEkdXKwH2shamgHNeRthrMLiF)特别适合于此场景，因为[最初的助记媒介在前提上隐含着专制](https://notes.andymatuschak.org/z2SaePptX2K1sudevrMYrjaqP7ZBRLs82iSv)：它假定你想要尊重作者在该主题上的权威并记住每张卡片。对于入门读物来说，这一假设极大概率是正确的，因为读者对于新主题没有太多概念或成见。
 
 我认为同样重要的是，入门读物要涵盖一个成熟的领域，这样它的内容就不会有太多争议或作者的癖好。当领域不是很成熟时，读者更可能会质疑作者挑选的重点。
 

@@ -194,7 +194,7 @@ Robert Sapolsky 博士经常引用的研究表明，我们可能对其他事物�
 
 - [大脑算法保护现实的模型](https://supermemo.guru/wiki/Brain_algorithms_protect_models_of_reality)
 
-- [迷思容易被吞噬而难以被杀死](https://supermemo.guru/wiki/Myths_are_easy_to_swallow_and_hard_to_kill)
+- [谬误易传难消](https://supermemo.guru/wiki/Myths_are_easy_to_swallow_and_hard_to_kill)
 
 - 谬误：[我们的大脑会被算法入侵](https://supermemo.guru/wiki/Myth:_Our_brains_can_get_hacked_by_algorithms)
 

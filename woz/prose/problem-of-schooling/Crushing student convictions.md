@@ -2,7 +2,7 @@
 
 [Crushing student convictions - supermemo.guru](https://supermemo.guru/wiki/Crushing_student_convictions)
 
-这段文字选自《[我永远不会送我的孩子上学](https://supermemo.guru/wiki/Problem_of_Schooling)》，作者[ Piotr Woźniak](https://supermemo.guru/wiki/Piotr_Wozniak)（2017）
+这段文字选自《[我永远不会送我的孩子上学](https://supermemo.guru/wiki/Problem_of_Schooling)》，作者是[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)（2017）
 
 很少有老师真正了解大脑的运作机制以及应该如何进行高效学习。然而，即使是受过良好教育且聪明的老师也会持有异端的看法·。我的一位老师同事 Marcus 说“*信仰与学习毫不相干*”。
 

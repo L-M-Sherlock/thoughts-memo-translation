@@ -104,7 +104,7 @@
 
 - [瑞典的择校制度](https://supermemo.guru/wiki/School_choice_in_Sweden) *
 
-- [学校教育的绞刑架正在收紧](https://supermemo.guru/wiki/The_noose_of_schooling_is_tightening) *
+- [学校教育的套索正在收紧](https://supermemo.guru/wiki/The_noose_of_schooling_is_tightening) *
 
 ## 教学板块
 

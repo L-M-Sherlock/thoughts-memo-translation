@@ -1,4 +1,4 @@
-# 强制学校教育的优化陷阱
+# 胁迫性学校教育的优化陷阱
 
 原文：[Optimization trap of coercive schooling - supermemo.guru](https://supermemo.guru/wiki/Optimization_trap_of_coercive_schooling)
 
@@ -102,7 +102,7 @@
 
 - [习得性无助](https://supermemo.guru/wiki/Learned_helplessness)
 
-- [学校教育的绞刑架正在收紧](https://supermemo.guru/wiki/The_noose_of_schooling_is_tightening)
+- [学校教育的套索正在收紧](https://supermemo.guru/wiki/The_noose_of_schooling_is_tightening)
 
 - [学习的乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)
 

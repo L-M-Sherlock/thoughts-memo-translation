@@ -38,7 +38,7 @@
 
 圣经中的「早熟，早烂」不是[失去天赋的处方](https://supermemo.guru/wiki/Evolution_of_attitudes_towards_precocity)。多加珍惜与庇护，早熟儿童同样可以成为天才。史上最有成就的人物中，同样有许多早熟的人。我们只需要记住，**早期的基准不意味着孩子未来如此**。健康孩子最不需要的就是「干预」。自然发展既不需要加速，也不需要矫正。
 
-本[术语表](https://supermemo.guru/wiki/Glossary)条目用于解释《[我永远不会送我的孩子去学校](https://supermemo.guru/wiki/Problem_of_Schooling)》（2017）作者：[Piotr Wozniak](https://supermemo.guru/wiki/Piotr_Wozniak)
+本[术语表](https://supermemo.guru/wiki/Glossary)条目用于解释《[我永远不会送我的孩子去学校](https://supermemo.guru/wiki/Problem_of_Schooling)》（2017）作者：[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)
 
 ## 延伸阅读
 

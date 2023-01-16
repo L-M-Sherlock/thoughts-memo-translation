@@ -2,7 +2,7 @@
 
 原文：[School choice in Sweden - supermemo.guru](https://supermemo.guru/wiki/School_choice_in_Sweden)
 
-这段文字选自《[我永远不会送我的孩子上学](https://supermemo.guru/wiki/Problem_of_Schooling)》，作者是[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)（2017）
+这段文字选自《[学校教育的问题](https://supermemo.guru/wiki/Problem_of_Schooling)》 作者：[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)（2017-2022）
 
 ## 教育自由
 

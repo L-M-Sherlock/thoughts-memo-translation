@@ -1,4 +1,4 @@
-#波兰学生罢课（评价）
+# 波兰学生罢课（评价）
 
 原文：[Student strike in Poland (assessment) - supermemo.guru](https://supermemo.guru/wiki/Student_strike_in_Poland_(assessment))
 
