@@ -2,13 +2,13 @@
 
 原文：[The mnemonic medium should be developed in a context where people really need fluency (andymatuschak.org)](https://notes.andymatuschak.org/zLVJdDJ7jahsFYfTRU7LKbxsMYdpZWUbKB6)
 
-[量子国度的读者大多由好奇心而非严肃的使用背景驱动](https://notes.andymatuschak.org/z2H5RGWnopXncUwLjHA83hhB2vw57sr7MVDe)。作为系统设计师，这些读者没有给我带来足够的压力。当然，如果觉得这是在浪费时间，他们就会停止复习。所以没有“零”信号。但是很难清楚地感觉到记忆系统的相互作用是如何转化成任何真实的东西的。
+[量子国度的读者大多由好奇心而非严肃的使用背景驱动](https://notes.andymatuschak.org/z2H5RGWnopXncUwLjHA83hhB2vw57sr7MVDe)。作为系统的设计者，这些读者没有给我带来足够的压力。当然，如果觉得这是在浪费时间，他们就会停止复习。所以不是完全没有反馈。但很难清楚地感觉到记忆系统的相互作用是如何转化成任何真实的东西的。
 
-如果读者都是开始他们第一次研究的研究生，或者是试图转向量子计算职业生涯的人，我们就可以与他们进行很多很好的对话，讨论文本/媒体似乎在支持他们的目标方面是成功的还是失败的。但由于这些读者是受好奇心驱使，很少有外力“回击”，暴露出他们所学的不足之处。
+如果读者都是开始他们初次研究的研究生，或者是试图转向量子计算职业生涯的人，我们就可以与他们进行很多很好的对话，讨论文本/媒介在支持他们的目标方面是成功的还是失败的。但由于这些读者是受好奇心驱使，很少有外力“回击”，暴露出他们所学的不足之处。
 
-理想情况下，对流利的迫切需求来自于一些个人有意义的目标（比如一个创造性的项目），而不是想要通过考试：[助记媒介应该为那些服务于有意义的使用的学习而开发](https://notes.andymatuschak.org/zaChVThdkmrnkr3mHEe7U61CP5QzorRFvKeC)。
+理想情况下，对流利的迫切需求来自于一些对个人有意义的目标（比如一个创意项目），而不是想要通过考试：[助记媒介应该为那些服务于有意义的使用的学习而开发](https://notes.andymatuschak.org/zaChVThdkmrnkr3mHEe7U61CP5QzorRFvKeC)。
 
-这一标准表明，与非正式/非正式的「内容创建者」（例如[Grant Sanderson](https://notes.andymatuschak.org/z85PiaMmkorcaUaKukXLyhR7bn7GhVeo22h8T)）可能不是开发媒体的好环境，因为它们的读者/观众通常并不需要流利。
+这一标准表明，与非正式/休闲的「内容创建者」合作（例如 [Grant Sanderson](https://notes.andymatuschak.org/z85PiaMmkorcaUaKukXLyhR7bn7GhVeo22h8T)）可能不是开发媒介的好环境，因为他们的读者/观众通常并不需要流利。
 
 相关：
 

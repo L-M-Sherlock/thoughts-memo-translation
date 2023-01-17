@@ -16,7 +16,7 @@
 
 ## Asperger 综合症
 
-Asperger 综合症是一种高功能自闭症，儿童表现出相当高的智力，尽管他们的一系列行为被列为 Asperger 综合症。当我在研究童年的激情时，受到 Winner 的[渴望掌握的欲望](https://supermemo.guru/wiki/Rage_to_master)的启发，我四处寻找我能找到的最有激情的孩子。令我震惊的是，有很大一部分儿童符合我的标准，却被打上了 Asperger 综合症的标签。Michael Fitzgerald 是一位精神病学家，他写了《天才基因：Asperger 天才如何改变了世界》。他曾与 1500 名自闭症儿童打交道，绝对是个行家。在书中，他研究了过去的人类天才案例，这使他发现与 Asperger 的特征有很强的相关性。牛顿、爱因斯坦、达尔文或杰弗逊真的会是 Asperger 吗？当我们听到爱因斯坦的名字时，我们便兴致盎然，常常把最疯狂的联想、比较、虚假的说法和轶事归结到他身上。然而，仔细看看他的传记，特别是童年，就会发现传言并非空穴来风。我只是对天才或 Asperger 是天生而非后天的说法有些异议。我确实认为，在实现天才思维方面，发展中大脑的[概念化](https://supermemo.guru/wiki/Conceptualization)远比基因更重要，或者说是发展障碍的标签。Asperger 和天才密切相关的说法可以用早熟或[早熟悖论](https://supermemo.guru/wiki/Precocity_paradox)来简单解释。由于激情是在发展中塑造大脑的首要力量，激情、Asperger 和天才之间的联系变得相当紧密。
+Asperger 综合症是一种高功能自闭症，儿童表现出相当高的智力，尽管他们的一系列行为被列为 Asperger 综合症。当我在研究童年的激情时，受到 Winner 的[学成强欲](https://supermemo.guru/wiki/Rage_to_master)的启发，我四处寻找我能找到的最有激情的孩子。令我震惊的是，有很大一部分儿童符合我的标准，却被打上了 Asperger 综合症的标签。Michael Fitzgerald 是一位精神病学家，他写了《天才基因：Asperger 天才如何改变了世界》。他曾与 1500 名自闭症儿童打交道，绝对是个行家。在书中，他研究了过去的人类天才案例，这使他发现与 Asperger 的特征有很强的相关性。牛顿、爱因斯坦、达尔文或杰弗逊真的会是 Asperger 吗？当我们听到爱因斯坦的名字时，我们便兴致盎然，常常把最疯狂的联想、比较、虚假的说法和轶事归结到他身上。然而，仔细看看他的传记，特别是童年，就会发现传言并非空穴来风。我只是对天才或 Asperger 是天生而非后天的说法有些异议。我确实认为，在实现天才思维方面，发展中大脑的[概念化](https://supermemo.guru/wiki/Conceptualization)远比基因更重要，或者说是发展障碍的标签。Asperger 和天才密切相关的说法可以用早熟或[早熟悖论](https://supermemo.guru/wiki/Precocity_paradox)来简单解释。由于激情是在发展中塑造大脑的首要力量，激情、Asperger 和天才之间的联系变得相当紧密。
 
 Asperger 综合症和充满激情的心灵之间有很大重合
 
