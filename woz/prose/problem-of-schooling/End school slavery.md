@@ -50,7 +50,7 @@ Squid 当时 15 岁，感觉自己像是一个困在学校系统中的囚徒。�
 
 学校奴役必须结束！请支持这项事业！
 
-见: [教育解放宣言](https://supermemo.guru/wiki/Declaration_of_Educational_Emancipation)
+见：[教育解放宣言](https://supermemo.guru/wiki/Declaration_of_Educational_Emancipation)
 
 ## YouTube
 

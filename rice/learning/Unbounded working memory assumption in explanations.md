@@ -14,7 +14,7 @@
 
 * [解释材料中管理工作记忆的技巧列表](https://wiki.issarice.com/wiki/List_of_techniques_for_managing_working_memory_in_explanations)
 
-* [管理学习中的微动作(https://wiki.issarice.com/wiki/Managing_micro-movements_in_learning)
+* [管理学习中的微动作](https://wiki.issarice.com/wiki/Managing_micro-movements_in_learning)
 
 * [好的文字解释有什么特点？](https://wiki.issarice.com/wiki/What_makes_a_word_explanation_good%3F)  ([←链接](https://wiki.issarice.com/index.php?title=Special:WhatLinksHere&target=What+makes+a+word+explanation+good%3F)）
 

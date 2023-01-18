@@ -58,7 +58,7 @@
 
 尝到自由滋味的孩子会极力捍卫它。所有对兴趣分支的削减都被认为是特别痛苦的。它们与[学习的乐趣]形成对比(https://supermemo.guru/wiki/Pleasure_of_learning)。一个自由的孩子已经在理解学习的力量的路上了。它感觉到了狂喜。**一旦成为非学校的人，就永远不会成为学校的人！**。
 
-[自由学习](https://supermemo.guru/wiki/Free_learning)对[学校教育中的胁迫](https://supermemo.guru/wiki/Coercion_in_learning)提供了天然的防御措施。
+[自由学习](https://supermemo.guru/wiki/Free_learning)为[学校教育中的胁迫](https://supermemo.guru/wiki/Coercion_in_learning)提供了天然的防御措施。
 
 ## 进步不能被量化
 

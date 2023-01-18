@@ -60,7 +60,7 @@ Thomas Kuhn 指出，范式转变是突然的和革命性的。当旧模式在�
 
 如果孩子们看不到科学范式转变的效果，那只是由于我们还需要一个范式转变：积极反对现行制度。
 
-关于[学习中的胁迫](https://supermemo.guru/wiki/Coercion_in_learning)的范式转变已经发生。现在我们需要一个关于需要革命的范式转变
+关于[学习中的强迫](https://supermemo.guru/wiki/Coercion_in_learning)的范式转变已经发生。现在我们需要一个关于需要革命的范式转变
 
 ## 革命的浪潮
 

@@ -2,7 +2,7 @@
 
 原文：[How can I become more creative? - supermemo.guru](https://supermemo.guru/wiki/How_can_I_become_more_creative%3F)
 
-常问问题。[什么是常见问题？](https://supermemo.guru/wiki/What_are_FAQs%3F)
+常见问题。[什么是常见问题？](https://supermemo.guru/wiki/What_are_FAQs%3F)
 
 David O. 问：如何提升我的创造力？
 

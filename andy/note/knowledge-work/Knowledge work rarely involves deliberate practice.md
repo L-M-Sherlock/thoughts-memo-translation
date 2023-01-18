@@ -8,7 +8,9 @@
 
 Ericsson 认为知识工作没有刻意练习的说法，因为缺乏客观标准（所以反馈不足），知识工作的技能定义不清，这一领域也没有打磨技能的技术。我觉得这些说法还有待商榷，考虑到[常青笔记写作是知识工作的基本单位](https://notes.andymatuschak.org/z3SjnvsB5aR2ddsycyXofbYR7fCxo7RmKW2be)，[间隔重复系统让记忆成为一种选择](https://notes.andymatuschak.org/z4bR1HVvDUhMXDm5SJB4Tiw4xGbrm9AfXWgbc)。但就目前来说，要改善沟通技巧，并没有像举重那样直接明了的练习。
 
-  - 参见 [§ 严肃研究知识工作（Stripe 融合讨论，2019-12-12）](https://notes.andymatuschak.org/z5opHsGrNmCib7YQfLv6XbYURzZgZmx4Mrh5y)
+这种推理和[ 赋能环境重在推动所赋能的事](https://notes.andymatuschak.org/z6tuZZKaNeLM7c9jPZwNVGURGTuXLy8jesv5i) / [赋能环境的重点是创造成长和行动的机会，而不是技能培养](https://notes.andymatuschak.org/z5th5bWm6VhB6PPbYB97gUKMdnaZe5atntRza)之间存在显著的张力。这些文章似乎在说一流网球/钢琴学校不是赋能环境…这几乎肯定是错的。这与[我们如何将思想工具置于有内在意义的背景中？](https://notes.andymatuschak.org/zKQs1fYnn4uzdws1KZc9pxkT3NUHastcMYq)之间也存在潜在张力。
+
+参见 [§ 严肃研究知识工作（Stripe 融合讨论，2019-12-12）](https://notes.andymatuschak.org/z5opHsGrNmCib7YQfLv6XbYURzZgZmx4Mrh5y)
 
 ------
 
