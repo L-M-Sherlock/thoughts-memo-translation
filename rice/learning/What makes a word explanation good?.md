@@ -68,11 +68,11 @@
 
 * [https://machinelearning.subwiki.org/wiki/User:IssaRice/Mental\_representations\_in\_mathematics](https://machinelearning.subwiki.org/wiki/User:IssaRice/Mental_representations_in_mathematics)
 
-* [https://jvns.ca/blog/confusing-explanations/](https://wiki.issarice.comhttps://jvns.ca/blog/confusing-explanations/) [https://news.ycombinator.com/item?id=28254630](https://wiki.issarice.comhttps://news.ycombinator.com/item?id=28254630)
+* [https://jvns.ca/blog/confusing-explanations/](https://jvns.ca/blog/confusing-explanations/) [https://news.ycombinator.com/item?id=28254630](https://news.ycombinator.com/item?id=28254630)
 
 * 这个页面上的视频也讨论了一些提升解释文章质量的方法：[https://www.3blue1brown.com/blog/some1](https://www.3blue1brown.com/blog/some1)
 
-* [评判教科书](https://docs.google.com/document/d/e/2PACX-1vTkqKg5IxCmPbw7JqnAWxoypaYNFH3XJd4UgYw4PufP09zzzW6j3v-CYXZkpD83sVrzygvg7gLbjM_Q/pub) by [https://captchasamurai.github.io/homepage/index.html](https://wiki.issarice.comhttps://captchasamurai.github.io/homepage/index.html)
+* [评判教科书](https://docs.google.com/document/d/e/2PACX-1vTkqKg5IxCmPbw7JqnAWxoypaYNFH3XJd4UgYw4PufP09zzzW6j3v-CYXZkpD83sVrzygvg7gLbjM_Q/pub) by [https://captchasamurai.github.io/homepage/index.html](https://captchasamurai.github.io/homepage/index.html)
 
 ## 链接到本文
 

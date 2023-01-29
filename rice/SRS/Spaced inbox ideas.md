@@ -16,7 +16,7 @@
 
 ---
 
-某种「全笔记」 视图，只是按照创建时间戳或最后修改时间戳按时间顺序列出事情。如果你进入 [https://roamresearch.com/#/app/YOUR\_GRAPH\_NAME/search](https://wiki.issarice.comhttps://roamresearch.com/#/app/YOUR_GRAPH_NAME/search)，你会发现 [Roam](https://wiki.issarice.com/index.php?title=Roam&action=edit&redlink=1) 也有这个功能。
+某种「所有笔记」 视图，只是按照创建时间戳或最后修改时间戳按时间顺序列出事情。如果你进入 [https://roamresearch.com/#/app/YOUR\_GRAPH\_NAME/search](https://roamresearch.com/#/app/YOUR_GRAPH_NAME/search)，你会发现 [Roam](https://wiki.issarice.com/index.php?title=Roam&action=edit&redlink=1) 也有这个功能。
 
 我目前在 inbox.txt 中的「间隔收件箱」**只** 有这样的视图。但也应该有一个默认的「收件箱」视图。有点像 Gmail 有收件箱和「所有邮件」。
 
@@ -24,7 +24,7 @@
 
 笔记/间隔收件箱应用程序的基本功能或「主要模式」？
 
-* 每日笔记/org 模式记录/wordpress p2主题/存放新想法的唯一场所，具有能够直接滚动浏览最近的笔记的功能
+* 每日笔记/org 模式记录/wordpress p2 主题/存放新想法的唯一场所，具有能够直接滚动浏览最近的笔记的功能
 
 *收件箱功能，要复习的东西都显示在一个地方
 

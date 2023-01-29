@@ -64,7 +64,11 @@
 
 - [无语义学习](https://supermemo.guru/wiki/Asemantic_learning) *
 
+- [学校是如何阻止记忆巩固的](https://supermemo.guru/wiki/How_school_turns_off_memory) *
+
 - [艾宾浩斯遗忘曲线的错误](https://supermemo.guru/wiki/Error_of_Ebbinghaus_forgetting_curve) *
+
+- [糟糕的学习导致阿尔茨海默症](https://supermemo.guru/wiki/Bad_learning_contributes_to_Alzheimer) *
 
 ## 有关学校系统的板块
 

@@ -34,4 +34,4 @@
 
 - [清醒皮层部分的局部睡眠](https://supermemo.guru/wiki/Local_sleep_in_portions_of_the_awake_cortex)
 
-- [不良学习方式导致阿尔茨海默病](https://supermemo.guru/wiki/Bad_learning_contributes_to_Alzheimer)
+- [糟糕的学习导致阿尔茨海默症](https://supermemo.guru/wiki/Bad_learning_contributes_to_Alzheimer)

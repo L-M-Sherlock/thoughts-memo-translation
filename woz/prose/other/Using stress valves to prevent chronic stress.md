@@ -80,7 +80,7 @@
 
 如果我们接受压力的不可避免性，那么把所有的压力都加到一个巨大的痛苦时间段中是正确的方法。
 
-很少有人把唐纳德-特朗普视为他们的榜样，然而，他的大脑是属于那种在压力和冲突条件下茁壮成长的。特朗普一定掌握了将负能量转化为行动的秘密（见：[唐纳德-特朗普的大脑之谜]（https://supermemo.guru/wiki/Mystery_of_Donald_Trump's_brain））。不是所有的负面情绪都需要以心脏病发作而告终。应该可以重新引导负能量，给它一个正确的出口。这可以通过使用正确的[昼夜节律](https://supermemo.guru/wiki/Circadian_time)和[安全阀](https://supermemo.guru/wiki/Stress_valve)来最好地完成，以避免真正的罪魁祸首：[慢性压力](https://supermemo.guru/wiki/Chronic_stress)，它是真正的杀手。1
+很少有人把唐纳德·特朗普视为他们的榜样，然而，他的大脑是属于那种在压力和冲突条件下茁壮成长的。特朗普一定掌握了将负能量转化为行动的秘密（见：[唐纳德·特朗普的大脑之谜]（https://supermemo.guru/wiki/Mystery_of_Donald_Trump's_brain））。不是所有的负面情绪都需要以心脏病发作而告终。应该可以重新引导负能量，给它一个正确的出口。这可以通过使用正确的[昼夜节律](https://supermemo.guru/wiki/Circadian_time)和[安全阀](https://supermemo.guru/wiki/Stress_valve)来最好地完成，以避免真正的罪魁祸首：[慢性压力](https://supermemo.guru/wiki/Chronic_stress)，它是真正的杀手。1
 
 ## 泄压阀是如何工作的？
 

@@ -44,7 +44,7 @@
 
 对知识条件性的贬值，可能会切断回忆和/或巩固的信号，进而导致对学校材料的糟糕回忆
 
-## 语义性的大脑
+## 语义大脑
 
 孩子们的大脑运用[语义学习](https://supermemo.guru/wiki/Semantic_learning)。这对[智力](https://supermemo.guru/wiki/Intelligence)非常有益。然而，这会妨碍学术教学，因为学术教学在很大程度上是非语义的（见：[非语义课程](https://supermemo.guru/wiki/Asemantic_curriculum)）。在[自由学习](https://supermemo.guru/wiki/Free_learning)中，由于[学习动力](https://supermemo.guru/wiki/Learn_drive)的自然引导，孩子的大脑对非语义内容有很好的辨别能力。在学校里，这种差别很快就会被区分出来。成功被学校驯化的的孩子成为优秀的[填鸭生](https://supermemo.guru/wiki/Cramming)，然而，他们失去了[语义学习](https://supermemo.guru/wiki/Semantic_learning)的能力。这影响了孩子的[智力](https://supermemo.guru/wiki/Intelligence)。
 

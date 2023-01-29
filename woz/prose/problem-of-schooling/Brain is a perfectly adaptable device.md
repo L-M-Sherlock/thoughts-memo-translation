@@ -160,6 +160,6 @@ Wolfram 的科学对小孩子来说本来就有吸引力。他的图表很吸引
 
 - [日托所](https://supermemo.guru/wiki/Daycare)在为最优适应成人生活提供丰富环境方面，远远不如健康的家庭。
 
-- 关于大脑适应性的明显主张被一套巩固和延续学校系统的迷思所阻挠（见：[使古老的学校系统保持活力的迷思](https://supermemo.guru/wiki/Mythology_that_keeps_the_archaic_school_system_alive)）。
+- 关于大脑适应性的明显主张被一套巩固和延续学校系统的迷思所阻挠（见：[让陈旧的学校系统继续存活的谬误](https://supermemo.guru/wiki/Mythology_that_keeps_the_archaic_school_system_alive)）。
 
 - 学校教育系统的诞生，部分源于征服他人的欲望。孩子们经常把学校比作监狱，把学校教育比作奴隶制。[强制学校教育必须结束](https://supermemo.guru/wiki/Compulsory_schooling_must_end)
