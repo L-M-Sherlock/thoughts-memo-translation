@@ -34,7 +34,11 @@
 
 ## SuperMemo中的语义大脑
 
-[![SuperMemo收藏中的一个遗忘曲线](https://supermemo.guru/images/thumb/5/56/Forgetting_curve_from_preschoolers_SuperMemo_collection.jpg/600px-Forgetting_curve_from_preschoolers_SuperMemo_collection.jpg)](https://supermemo.guru/wiki/File:Forgetting_curve_from_preschoolers_SuperMemo_collection.jpg)
+**语义大脑**看起来似乎违背了[SuperMemo] 的规则。在一个理想的**语义大脑**种，知识似乎仅仅被分成了两大类：记得很牢的(因为是[相关的](https://supermemo.guru/wiki/Applicability))和未被记住的(因为不是[连贯的](https://supermemo.guru/wiki/Coherent))。
+
+[![SuperMemo收藏中的一个学前儿童的遗忘曲线](https://supermemo.guru/images/thumb/5/56/Forgetting_curve_from_preschoolers_SuperMemo_collection.jpg/600px-Forgetting_curve_from_preschoolers_SuperMemo_collection.jpg)](https://supermemo.guru/wiki/File:Forgetting_curve_from_preschoolers_SuperMemo_collection.jpg)
+
+>图：[SuperMemo]https://supermemo.guru/wiki/SuperMemo)[收藏](https://supermemo.guru/wiki/Collection)的一名学龄前儿童的[遗忘曲线](https://supermemo.guru/wiki/Forgetting_curve) 。[遗忘](https://supermemo.guru/wiki/Forgetting)的缺席也意味着有意识的[陈述式学习](https://supermemo.guru/wiki/Declarative_learning)的缺席。无限接近于零的衰退会使得[最优间隔](https://supermemo.guru/wiki/Optimum_interval) 变得毫无意义。而记录中已经有1706例这样的重复案例。在SuperMemo的旧版本中，这样扁平的遗忘曲线不会得到人们的注意，因为以成人为中心的设想，即当天数=0时，[可提取性](https://supermemo.guru/wiki/Retrievability)是100%。随着时间不断推移，这个遗忘曲线会向下倾斜，从而变成一个典型的成人学习曲线。这个过程可能会花上个几年的时间，而且过程中不应该被人为干扰加速，例如通过[胁迫](https://supermemo.guru/wiki/Coercion)的手段。这条曲线是一种语义大脑的假想表现方式。
 
 ## 另见
 

@@ -142,7 +142,7 @@ Wolfram 的科学对小孩子来说本来就有吸引力。他的图表很吸引
 
 - 抑制[学习内驱力](https://supermemo.guru/wiki/Learn_drive)导致的奖励剥夺可能导致[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)、成瘾、抑郁、行为问题等等（见：[奖励多样性在预防成瘾方面的作用](https://supermemo.guru/wiki/Reward_diversity_in_preventing_addictions)
 
-- 早期学术指导特别有害（见：[放弃早期数学指导！](https://supermemo.guru/wiki/Abandon_early_math_instruction!)
+- 早期学术指导特别有害（见：[放弃早期数学教学！](https://supermemo.guru/wiki/Abandon_early_math_instruction!)
 
 - 学校教育是由基于平均数的基准驱动的，这对那些不符合标准的人造成了难以言喻的伤害
 

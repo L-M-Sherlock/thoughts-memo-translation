@@ -12,7 +12,7 @@
 
 # 总结
 
-**孩子应该经常玩耍！** 等到他们足够成熟了，他们的记忆力会提高，解决问题也变得更容易。在儿童成长早期，过早让孩子记忆数学知识会制造[毒性记忆](https://supermemo.guru/wiki/Toxic_memory)。参见：[停止早期数学教育！](https://supermemo.guru/wiki/Abandon_early_math_instruction!)。Robinson 和 Abdazi 都是正确的（各有各的道理）。
+**孩子应该经常玩耍！** 等到他们足够成熟了，他们的记忆力会提高，解决问题也变得更容易。在儿童成长早期，过早让孩子记忆数学知识会制造[毒性记忆](https://supermemo.guru/wiki/Toxic_memory)。参见：[放弃早期数学教学！](https://supermemo.guru/wiki/Abandon_early_math_instruction!)。Robinson 和 Abdazi 都是正确的（各有各的道理）。
 
 # 答案
 

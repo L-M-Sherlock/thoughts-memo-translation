@@ -2,9 +2,9 @@
 
 原文：[Myth: Unschooling breeds conspiracy theories - supermemo.guru](https://supermemo.guru/wiki/Myth:_Unschooling_breeds_conspiracy_theories)
 
-## 迷思
+## 谬误
 
-> 迷思：当我们任由孩子们自己探索世界时，他们有可能成为阴谋论的受害者。学校是最好的纠正方法。
+> 谬误：当我们任由孩子们自己探索世界时，他们有可能成为阴谋论的受害者。学校是最好的纠正方法。
 
 ## 事实
 
@@ -18,4 +18,4 @@
 
 学校教育涉及所有那些有利于阴谋论的载体（特别是胁迫）。学校不是解药。学校使人更容易受假新闻的影响。
 
-更多细节请见：[迷思：学校防止伪科学思维](https://supermemo.guru/wiki/Myth:_School_prevents_pseudoscientific_thinking)
+更多细节请见：[谬误：学校防止伪科学思维](https://supermemo.guru/wiki/Myth:_School_prevents_pseudoscientific_thinking)

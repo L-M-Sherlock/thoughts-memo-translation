@@ -14,7 +14,7 @@
 
 - 太费力，工作量太大，学习速度过高，引发[干扰](https://supermemo.guru/wiki/Interference)而破坏先前的学习（见：[论老鼠比受过学校教育的人更优越](https://supermemo.guru/wiki/Superiority_of_a_rat_over_a_schooled_human)）
 
-- 违反[学习的基本法则](https://supermemo.guru/wiki/Fundamental_law_of_learning)导致人们普遍讨厌学校教育，甚至讨厌学习（见：[孩子为什么讨厌学校？](https://supermemo.guru/wiki/Why_kids_hate_school%3F))
+- 违反[学习的基本规律](https://supermemo.guru/wiki/Fundamental_law_of_learning)导致人们普遍讨厌学校教育，甚至讨厌学习（见：[孩子为什么讨厌学校？](https://supermemo.guru/wiki/Why_kids_hate_school%3F))
 
 [PISA](https://supermemo.guru/wiki/PISA) 的相关性似乎表明，**家庭作业**对考试结果是有益的。然而，芬兰是一个很好的反面例子：家庭作业很少，但效果很好。
 

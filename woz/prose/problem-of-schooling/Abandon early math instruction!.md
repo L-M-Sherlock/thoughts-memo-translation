@@ -1,4 +1,4 @@
-放弃早期的数学教育！
+# 放弃早期数学教学！
 
 原文：[Abandon early math instruction! - supermemo.guru](https://supermemo.guru/wiki/Abandon_early_math_instruction!)
 
@@ -6,29 +6,29 @@
 
 两个天才头脑的碰撞
 
-我的生命被维基百科的发明者 Sanger(https://supermemo.guru/wiki/Larry_Sanger)永远的改变了。我们有着长达17年“不和”的历史，我非常喜欢他的智慧以及他对自己立场的辩护。当Peter Gray(https://supermemo.guru/wiki/Peter_Gray)在网上发布有关贝内泽特实验(1929-1935)(https://supermemo.guru/wiki/Early_math_instruction_may_backfire)的文章时，我认为这是一个具有巨大启发性的罕见标本。Gray说“早期在学校进行的数学教育可能弊大于利”。相反地，Larry指责Peter是反智主义。在Larry看来，Garry在证据不足的情况下就给出了结论。
+我的人生因为维基百科的发明者 [Larry Sanger](https://supermemo.guru/wiki/Larry_Sanger) 而永久地被改变了。过去我们有着长达 17 年的「不和」，但我非常欣赏他的智慧以及他对自己立场的辩护。当 [Peter Gray](https://supermemo.guru/wiki/Peter_Gray) 在网上发布有关[贝内泽特实验（1929-1935）](https://supermemo.guru/wiki/Early_math_instruction_may_backfire)的文章时，我认为这是一个罕见的标本发现，具有重大的启发意义。Gray 说：“学校的早期数学教育可能弊大于利”。Larry 的观点则恰好相反，并且指责 Peter 是反智主义。在 Larry 看来，Garry 在证据不足的情况下就给出了结论。
 
-维基百科的大众智慧
+## 维基百科的大众智慧
 
-2001年，当我在维基百科写关于睡眠的文章时，拉里·桑格(Larry Sanger)让我坚持维基百科的科学共识。我觉得这是无法忍受的，因为他的共识版本与Encarta的水平一致，Encarta发表了一篇文章(杰罗姆·西格尔博士，著名的“睡眠中的记忆处理”否否者)(https://supermemo.guru/wiki/Sleep_and_memory:_Dr_Jerome_Siegel_and_Dr_Robert_Vertes)。今天，在维基百科上看到了关于睡眠的可爱文章后，我很自豪自己被证明是正确的。我仍然喜欢坚持使用我自己的wiki，用我自己对这一过程的理解来写关于[睡眠中的神经优化](https://supermemo.guru/wiki/Neural_optimization_in_sleep)的文章。这是解放。我相信在10到20年的时间里，在学校教育方面也会出现类似的情况。拉里是这个星球上最著名的信息饕餮之一。这是令人钦佩的。同时，他提出了以成人为中心的教育观点。他是一个非常棒的在家教育的父亲，他仍然相信学校可以改革。我在这里毫不犹豫地宣称:**今天的学校的功能在未来将很少**。仓储功能可能是最难被取代的。否则，学校教育的所有方面都将朝着[学习动力](https://supermemo.guru/wiki/Learn_drive)的方向漂移，以尊重[学习的基本规律](https://supermemo.guru/wiki/Fundamental_law_of_learning)。所有来自神经科学的新闻都支持[Peter Gray](https://supermemo.guru/wiki/Peter_Gray)。维基百科(Wikipedia)关于[非学校教育]的章节(https://supermemo.guru/wiki/Unschooling)将从今天的一个激进的想法，演变为十年或二十年后对教育痼疾的明显治疗。
+想起 2001 年，当我在维基百科编辑关于睡眠的文章时，Larry Sanger 要求我坚持维基百科的科学共识。我觉得这是无法忍受的，因为他的共识版本与 Encarta 的水平一致，Encarta 发表了一篇文章，即[「著名的“睡眠中的记忆处理”否决者」](https://supermemo.guru/wiki/Sleep_and_memory:_Dr_Jerome_Siegel_and_Dr_Robert_Vertes)，作者是 Dr Jerome Siegel 博士。今天，在维基百科上看到了关于睡眠的优质文章后，我很自豪我的观点被证明是正确的。但我仍然坚持使用我自己的 wiki，并基于自己的理解来撰写关于[「睡眠中的神经优化」](https://supermemo.guru/wiki/Neural_optimization_in_sleep)的文章。这是一种解放。我相信在未来 10 到 20 年里，在学校教育方面也会得出类似的结论。Lary 是这个星球上最著名的信息饕餮之一。这是令人钦佩的。同时，他提出了以成人为中心的教育观点。他是一个优秀的父亲，提倡在家上学，不过他仍然坚信学校可以改革。我在此可以负责任地宣称：**今天的学校的功能无法支持其在未来生存**。学校作为一个「仓库」，所具备的仓储功能可能是最难以取代的。否则，学校教育的所有方面都会在尊重[学习的基本规律](https://supermemo.guru/wiki/Fundamental_law_of_learning)的前提下，向着应用[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的方向缓慢移动。所有来自神经科学的新观点都支持 [Peter Gray](https://supermemo.guru/wiki/Peter_Gray)。维基百科关于[非学校教育](https://supermemo.guru/wiki/Unschooling)的章节将从今天的一个激进的想法，逐渐演变为十年或二十年后对教育痼疾的明显治疗。
 
-早期数学教育是不好的
+## 早期数学教育是糟糕的
 
-[Peter Gray](https://supermemo.guru/wiki/Peter_Gray)指出学校教育的弊端是正确的。强制导向的[学校教育](https://supermemo.guru/wiki/Problem_of_schooling) 将会导致有毒的记忆(https://supermemo.guru/wiki/Toxic_memories)。小孩子的[遗忘曲线](https://supermemo.guru/wiki/Forgetting_curve)sh说明了在指导下学习的缺失(见: [SuperMemo does not work for kids](https://supermemo.guru/wiki/SuperMemo_does_not_work_for_kids))
+[Peter Gray](https://supermemo.guru/wiki/Peter_Gray) 指出学校教育的弊端是正确的。[学校教育](https://supermemo.guru/wiki/Problem_of_schooling)中的[胁迫](https://supermemo.guru/wiki/Coercion)会形成[毒性记忆](https://supermemo.guru/wiki/Toxic_memories)。小孩子的[遗忘曲线](https://supermemo.guru/wiki/Forgetting_curve)能够充分说明学习在教学中的缺失(见: [SuperMemo does not work for kids](https://supermemo.guru/wiki/SuperMemo_does_not_work_for_kids))
 
-毫无疑问，Gray 的观点是正确的，所有的强制都应该被根除。在这个方向上，放弃教初等年级的数学是很简单的一步。形式上的数学很容易被 “玩弄数学概念” 所取代。我相信拉里对教育的观点被他自己的[在家上学](https://supermemo.guru/wiki/Homeschooling)的成功所扭曲。他相信教学的魔力。他相信年轻人的头脑可以解决成年人的问题。我会敦促他反思自己在智力上的成功，以及这种成功有多少来自学校，有多少来自他自己永无止境的激情。这种类型的自省对我自己的情况很有帮助。我在学校里待了 22 年，过了近 30 年才意识到学校带来的弊大于利。换句话说，*学校教育价值*的文化烙印让我在成年后的大部分时间里都被蒙住了双眼，尽管我曾深入研究过高效学习的问题！
+毫无疑问，Gray 的观点是正确的，所有的胁迫都应该被根除。放弃低年级的数学教学将是朝这个方向迈出的简单一步。真正的数学很容易被「玩弄数学概念」所取代。我认为 Larry 对教育的观点被扭曲了，原因是他对孩子[在家上学](https://supermemo.guru/wiki/Homeschooling)的试验成功。他坚信教学的魔力。他坚信年轻的头脑可以解决成年人世界中的多数问题。我将会敦促他反思自己在智力上的成功，以及这种成功有多少来自学校，有多少来自他自己永无止境的激情。这样的自省对改善我自己的情况也很有帮助。我在系统里待了 22 年，加起来差不多 30 年才意识到学校的影响是弊大于利。换句话说，在很长的一段时间内，「学校教育价值」的文化烙印给成年的我蒙上了双眼，尽管我曾深入研究过高效学习的问题！
 
 ## 学术教育是一种自我延续的疾病
 
-Larry是对的，从字面上解释Gray，即从学校取消数学，可能确实适得其反。学校教育的问题在于，它使孩子们习惯于听从指示，而自己的贡献很少。这就是为什么孩子们被关在学校的监狱里，没有接受数学教育，在数学方面可能真的没有什么进步。如果他们所有[最好的脑力劳动窗口](https://supermemo.guru/wiki/Optimizing_the_timing_of_brainwork)都被“无聊”的学校覆盖了，他们怎么可能进步呢?这一天剩下的时间里，他们的精神能量就会耗尽。我从来没有见过孩子们在放学后充满激情地进行知识追求。电子游戏(https://supermemo.guru/wiki/Videogames)和YouTube占据了他们小学阶段晚上的兴趣。我记得在1987年，我对写作[SuperMemo] (https://supermemo.guru/wiki/SuperMemo)有过一些激情，但那时我已经到了上大学的年龄，我不需要参加所有的课程，也不需要早起。
+Larry 也是对的，Gray 的言论，即从学校取消数学，确实可能会适得其反。学校教育的问题在于，它总是要求孩子们听从指示，而不是让他们自己做。这就是为什么被关在学校监狱里的孩子，没有了数学教育，在数学方面可能就真的不会有什么进步。如果他们[最好的脑力劳动窗口](https://supermemo.guru/wiki/Optimizing_the_timing_of_brainwork)都被「无聊」的学校给关上了，他们怎么可能会有进步呢？在一天剩下的时间里，他们的精神能量会耗尽。我从未见过一个孩子会在放学后充满激情地做智力方面的追求。对小学生来说，[电子游戏](https://supermemo.guru/wiki/Videogames)和 YouTube 占据了他们晚上大部分的兴趣。记得在 1987 年，那时的我对写 [SuperMemo ](https://supermemo.guru/wiki/SuperMemo)有过一些激情，不过那时我已经是上大学的年龄，我不需要参加所有的课程，更不需要早起。
 
-Gray说我们弊大于利。在教学质量差的情况下，这当然是事实。然而，如果我们采用良好的教学(而不是仅仅提供“良好的灵感”)，这也可能是正确的。最终的结果可能取决于前3-5年学校教育之后的情况。那些继续在学校学习的孩子，可能需要第一年的入门课程来继续在预先确定的数学道路上滚动。另一方面，那些没有接受过教育的人更有可能培养出未来的爱因斯坦和图灵，顺便说一句，这两人都讨厌僵化的学校教育。
+Gray 的观点是弊大于利。在教学质量差的情况下，这当然是事实。然而，如果我们采用好的教学（而不是仅提供「良好的灵感」），这也可能是正确的。最终的结果取决于学校教育开始后的 3-5 年的情况。那些继续在学校学习的孩子，需要通过最初几年的入门课程，以适应在预先确定的数学道路上继续滚动。另一方面，那些没有接受过学校教育的人才更有可能培养出未来的爱因斯坦和图灵。顺便说一句，这两人都讨厌这种僵化的、会使人降智的学校教育。
 
-最后，Gray和Sanger可能都是对的。Gray说得对，在绝大多数情况下，免费教育的孩子可以自己掌握基本的数学知识。这些孩子很容易就会把那些接受过早期学术教育的孩子抛在身后。另一方面，从学校取消数学可能是一个坏主意。我们宁愿把上学的事从这个等式中完全去掉。[民主学校](https://supermemo.guru/wiki/Democratic_schools)的经验表明，孩子们需要长时间的“排毒”(https://supermemo.guru/wiki/Self-learning)，才能在多年的[强制教育](https://supermemo.guru/wiki/Coercion_in_learning)后重新获得[自主学习]的主动性。
+最后，Gray 和 Sanger 可能都是对的。Gray 说得对，因为在绝大多数情况下，自由的孩子能更快地掌握基础数学知识。这些孩子很容易会把接受过早期学术教育的孩子甩在后面。另一方面，取消数学教学可能是一个坏主意。我们宁愿把上学从这个等式中完全去掉。[民主学校](https://supermemo.guru/wiki/Democratic_schools)的经验表明，孩子们需要经历很长一段时间的「排毒期」，在清除多年的[强制教育](https://supermemo.guru/wiki/Coercion_in_learning)的影响后，才能重新获得[自主学习](https://supermemo.guru/wiki/Self-learning)的主动性。
 
-可悲的事实是，一旦投入学校教育，孩子们就会被束缚。这就是我们为此发明[普鲁士教育体系](https://en.wikipedia.org/wiki/Prussian_education_system)应付出的代价
+可悲的事实是，一旦投入学校教育，孩子们就会被束缚。这就是我们为发明[普鲁士教育体系](https://en.wikipedia.org/wiki/Prussian_education_system)应付出的代价。
 
-关于早期数学教学的悲惨结果，请参见:[电子游戏比教师更好](https://supermemo.guru/wiki/Videogames_are_better_than_teachers)。
+关于早期数学教学的悲惨结果，请参见：[电子游戏比教师更好](https://supermemo.guru/wiki/Videogames_are_better_than_teachers)。
 
 ## Peter Gray的《生命之作》
 

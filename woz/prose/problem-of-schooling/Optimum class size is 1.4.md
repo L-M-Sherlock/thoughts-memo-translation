@@ -32,7 +32,7 @@ Malcolm Gladwell 声称最优班级人数很可能介于 18-24 之间。这应�
 
 教育系统按照量产工厂的模式被设计出来，关于班级人数的辩论又完美阐释了这种教育系统的病态。父母或孩子的声音被忽视。社会智力水平在其大脑发育的开端就受到了系统性的打击。
 
-关于班级人数的诡辩消散于[强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling)的内在病理。
+关于班级人数的规模根源于[强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling)的内在病理。
 
 ## 延伸阅读
 
