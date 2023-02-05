@@ -36,6 +36,8 @@
 
 ### 网络霸凌
 
+霸凌现在进入了电子世界。我可以在 Facebook、Twitter 甚至电子邮件上受霸凌。由于是从面对面的互动和自然的情感线索中提取的，对于敏感的个人来说，电子欺凌甚至可能比涉及身体暴力的欺凌更恶毒。电子欺凌可能导致自杀。电子世界需要不同的社交技能，因此现代社会化也必须涉及电子部分。让孩子远离互联网的父母担心受到不良影响，可能会错过那套新的社交技能。很难说这些赤字中有多少可以在以后几年恢复。很难想象社会电子技能会有[关键时期](https://en.wikipedia.org/wiki/Critical_period)，然而，现实世界社会化中的儿童赤字往往难以弥补。这有点像学习外语，一些童年的缺陷或坏习惯以后很难纠正。
+
 ## 霸凌假说：先天 vs. 后天
 
 1954年，诺贝尔奖得主 [William Golding](https://en.wikipedia.org/wiki/William_Golding) 因为他的[《蝇王》](https://en.wikipedia.org/wiki/Lord_of_the_Flies)给孩子带来了坏名声。戈尔丁不是心理学家，他的小说暗示孩子在没有成年人监督的情况下会陷入野蛮混乱。一直以来，坏名声对孩子纠缠不休。[阅读小说会让你成为一个更好的人吗？](https://supermemo.guru/wiki/Does_reading_fiction_make_you_a_better_person%3F)如果小说有误导呢？要是有机会在无人看管的情况下，观察 7-10 岁孩子互动，我们很可能先入为主，重蹈覆辙。
@@ -48,11 +50,21 @@
 
 首先要划清一个界限，我知道的大部分孩子都在学校。Raymond Moore 所痛斥的**[同伴传染](https://supermemo.guru/wiki/Moore:_Socialization_myth)**，以及 Peter Gray 提及的非自然现象：狩猎-采集者和谐，实际上都是学校分年龄段管理的后果。在学校或幼儿园，我们的内在霸凌倾向被放大。原来在家里学，现在被抛在这种环境，这种孩子如果不能想法子自保，很快就会被迫害。这说明学校的社会化很糟糕，不过，没有学校教育的社会化，也因此受到启发。这对未来的理想化社会来说可能很好，亟待我们去建设。
 
+在最后，便如我接下来要说的那样，欺凌的祸根既不是先天也不是后天的，而是源于[博弈论](https://en.wikipedia.org/wiki/Game_theory)。先天放大了博弈论中不可避免的部分。后天可以进一步提供不利条件下的反馈，学校就是一个可悲的例子。
+
 ### 霸凌的祸根
+
+在动物和人类中发生的欺凌现象都有类似零和博弈的根源(暂未注入Markdown)
+
+在进化的路径中，这里有很多有关欺凌的社会适应现象，并在不同的社会环境下予以体现(暂未注入Markdown)
+
+在社会群体、封闭空间、某些个人优势和目标星座中，欺凌是不可避免的。这只是我们基因构成的一部分，也是决定博弈论策略的个人不同目标的反映。
 
 霸凌与生俱来，所有孩子组成的小团体，若是少与外界沟通，都可能发生霸凌，或早或晚。
 
 ### 社会化能减少霸凌
+
+### 博弈论
 
 [![Fitness-achieved-in-varying-populations-of-hawk-dove.jpg](https://supermemo.guru/images/thumb/b/b7/Fitness-achieved-in-varying-populations-of-hawk-dove.jpg/800px-Fitness-achieved-in-varying-populations-of-hawk-dove.jpg)](https://supermemo.guru/wiki/File:Fitness-achieved-in-varying-populations-of-hawk-dove.jpg)
 

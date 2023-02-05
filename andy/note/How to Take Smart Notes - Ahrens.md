@@ -4,13 +4,13 @@
 
 Ahrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers*.
 
-一本关于[笔记方法论](https://notes.andymatuschak.org/zhmLXArqiCMDr9Q13ViqN3hh3SmrKzjQxWAr)实践的核心书籍。Sönke主要关注的是[卡片盒笔记系统](https://zettelkasten.de/introduction/zh/)对学术写作过程的好处。这里的一个核心观点是，创造性的写作可以变得相对封闭和可操作；它可以通过一系列的步骤，绘制成紧密连接的笔记系统，成为可执行的GTD风格。
+一本关于[笔记方法论](https://notes.andymatuschak.org/zhmLXArqiCMDr9Q13ViqN3hh3SmrKzjQxWAr)实践的核心书籍。Sönke主要关注的是[卡片盒笔记系统](https://zettelkasten.de/introduction/zh/)对学术写作过程的好处。这里的一个核心观点是，创造性的写作可以变得相对封闭和可操作；它可以通过一系列的步骤，绘制成紧密连接的笔记系统，成为可执行的 GTD 风格。
 
 ------
 
 ## 关于关联的建议
 
-关键词应该是稀疏的，并经过严格地精选。它们主要是作为一个 "跳板"：笔记之间的联系将成为主要的导航手段。[索引参考 vs. 标签](https://notes.andymatuschak.org/z6ztEgzqZichYTJgabhYQLn4UY4FbC1JMH394) [标签是一种无效的关联结构](https://notes.andymatuschak.org/z3MzhvmesiD2htMaEFQJif7gJgyaHAQvKH49Z)
+关键词应该是稀疏的，并经过严格地精选。它们主要是作为一个「跳板」：笔记之间的联系将成为主要的导航手段。[索引参考 vs. 标签](https://notes.andymatuschak.org/z6ztEgzqZichYTJgabhYQLn4UY4FbC1JMH394) [标签是一种无效的关联结构](https://notes.andymatuschak.org/z3MzhvmesiD2htMaEFQJif7gJgyaHAQvKH49Z)
 
 \- c) 确保你以后能够找到这个笔记，要么从你的索引中链接到它，要么在一篇已经被链接到索引的笔记中做链接，来作为一个讨论或者话题的入口。
 

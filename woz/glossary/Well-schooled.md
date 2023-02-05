@@ -1,4 +1,4 @@
-# 受过良好教育的
+# 受过良好学校教育的
 
 原文：[Well-schooled - supermemo.guru](https://supermemo.guru/wiki/Well-schooled)
 
