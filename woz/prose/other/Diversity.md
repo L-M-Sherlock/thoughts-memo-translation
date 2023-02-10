@@ -70,7 +70,7 @@
 
 在[唐纳德·特朗普的大脑之谜](https://supermemo.guru/wiki/Mystery_of_Donald_Trump's_brain)中，我假设，不重视社会环境**多样性**的[社会化](https://supermemo.guru/wiki/Socialization)可能是唐纳德·特朗普在毫无准备的情况下击败由伟大的大脑组成的共和党人的关键原因，而现代学校教育中典型的 「适当 」隔离式封闭系统社会化的弱点。打比方说，特朗普把他的对手拖到街上，在街头打架中击败他们。
 
-在[幼儿园感染](https://supermemo.guru/wiki/Daycare_infections)中，我坚持认为以最优的剂量和环境接触多样化的病原体和过敏原可以增强儿童和成人的健康。见：[预防普通感冒的配方](https://supermemo.guru/wiki/Formula_for_common_cold_prevention)。
+在[托儿所感染](https://supermemo.guru/wiki/Daycare_infections)中，我坚持认为以最优的剂量和环境接触多样化的病原体和过敏原可以增强儿童和成人的健康。见：[预防普通感冒的配方](https://supermemo.guru/wiki/Formula_for_common_cold_prevention)。
 
 ## 对多样性的限制
 

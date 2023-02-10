@@ -1,6 +1,6 @@
 # Gray：学校即监狱
 
-本[参考资料](https://supermemo.guru/wiki/References)用于注释《[我永远不会送我的孩子去学校](https://supermemo.guru/wiki/Problem_of_Schooling)》(2017) 作者：[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)
+本[参考资料](https://supermemo.guru/wiki/References)用于注释《[我永远不会送我的孩子去学校](https://supermemo.guru/wiki/Problem_of_Schooling)》（2017）作者：[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)
 
 我附近有一所学校，上课时通往外面的门都是锁着的，我很是惊讶。学校一楼的窗户装有栅栏。访客需要在访客登记簿上登记出入。
 

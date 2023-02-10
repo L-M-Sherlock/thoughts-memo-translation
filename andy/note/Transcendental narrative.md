@@ -12,7 +12,7 @@
 
 - 来源于科学哲学：David Deutsch、Carl Sagan、Steven Pinker、Bret Victor
 
-这是由 Neil Postman 在教育的终结中[生造](https://www.firstthings.com/article/1997/01/science-and-the-story-that-we-need)的术语。
+这是由尼尔·波兹曼（译注：《娱乐至死》的作者）在教育的终结中[首创](https://www.firstthings.com/article/1997/01/science-and-the-story-that-we-need)的术语。
 
 另见[社群活动通常围绕特定的传播媒介来形成](https://notes.andymatuschak.org/z2iWqjdgBjh93ZyLaCeDQPS2kknxvEcJftN1p)。
 

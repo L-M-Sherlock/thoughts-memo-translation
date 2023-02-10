@@ -2,7 +2,7 @@
 
 原文：[School ruins Minecraft - supermemo.guru](https://supermemo.guru/wiki/School_ruins_Minecraft)
 
-本[参考资料](https://supermemo.guru/wiki/References)用于注释《[我永远不会送我的孩子去学校](https://supermemo.guru/wiki/Problem_of_Schooling)》(2017) 作者：[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)
+本[参考资料](https://supermemo.guru/wiki/References)用于注释《[我永远不会送我的孩子去学校](https://supermemo.guru/wiki/Problem_of_Schooling)》（2017）作者：[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)
 
 一个简单的方法，能够毁掉任何学习体验，即将这一过程强制化。只要把一些有趣的学习内容塞进[课程](https://supermemo.guru/wiki/Curriculum)里，学生们很快就会开始讨厌它们。这是一场学校和 Minecraft 的殊死搏斗。在争夺年轻人的战斗中，Minecraft 和 Roblox 轻易地取得了胜利。他们受到年轻一代压倒性的喜爱，而学校成为了令人厌恶的一方。沙盒游戏能够模拟现实，并允许自然探索，而学校却还通过无聊的课本来描述现实，令人难以接受的是，这些本该有趣的知识通常是由更无聊的老师来教。一些“先进的”教育工作者尝试在课堂上增加一些 Minecraft 的游戏内容以使课程变得更加有趣。他们会发现模拟感在强制学校教育的无趣环境下进行时，会立即失去吸引力。
 

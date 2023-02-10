@@ -2,7 +2,7 @@
 
 原文：[Papert's visionary call to ditch obsolete letteracy (1993) - supermemo.guru](https://supermemo.guru/wiki/Papert's_visionary_call_to_ditch_obsolete_letteracy_(1993))
 
-本[参考资料](https://supermemo.guru/wiki/References)用于注释《[我永远不会送我的孩子去学校](https://supermemo.guru/wiki/Problem_of_Schooling)》(2017) 作者：[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)
+本[参考资料](https://supermemo.guru/wiki/References)用于注释《[我永远不会送我的孩子去学校](https://supermemo.guru/wiki/Problem_of_Schooling)》（2017）作者：[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)
 
 ## 超凡脱俗的远见者
 

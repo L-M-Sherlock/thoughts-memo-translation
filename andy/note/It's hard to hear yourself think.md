@@ -12,7 +12,7 @@
 
   - [许多人觉得困难的创造性工作在当下大多是不愉快的](https://notes.andymatuschak.org/z2M8gwu3M7qT49TG48bMxH1Ww1yoFmtEYMvt)
 
-- [与他人的对话往往强调一个想法中最为人所理解的部分](https://notes.andymatuschak.org/z2XJiXXqRZX7vvTwTDi6x5c1umxancqrCg4y)
+- [与他人的对话往往强调想法中最为人所理解的部分](https://notes.andymatuschak.org/z2XJiXXqRZX7vvTwTDi6x5c1umxancqrCg4y)
 
 - [将内容写下来会促使人们理解得更清晰](https://notes.andymatuschak.org/z8q1K5a8i95qARkpFwS45qqtQzM8th82TkeUg)
 

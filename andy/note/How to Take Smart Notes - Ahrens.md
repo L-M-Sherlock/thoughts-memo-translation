@@ -1,14 +1,14 @@
-# Ahrens氏卡片笔记写作法
+# 卡片笔记写作法 - Ahrens
 
 原文：[How to Take Smart Notes - Ahrens (andymatuschak.org)](https://notes.andymatuschak.org/z6o5eS2DnpMwe2HnHyhgQAmmGkRCtkKina73u)
 
 Ahrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers*.
 
-一本关于[笔记方法论](https://notes.andymatuschak.org/zhmLXArqiCMDr9Q13ViqN3hh3SmrKzjQxWAr)实践的核心书籍。Sönke主要关注的是[卡片盒笔记系统](https://zettelkasten.de/introduction/zh/)对学术写作过程的好处。这里的一个核心观点是，创造性的写作可以变得相对封闭和可操作；它可以通过一系列的步骤，绘制成紧密连接的笔记系统，成为可执行的 GTD 风格。
+一本关于[§笔记写作系统](https://notes.andymatuschak.org/zhmLXArqiCMDr9Q13ViqN3hh3SmrKzjQxWAr)实践的核心书籍。Sönke 主要关注的是[卡片盒笔记系统](https://zettelkasten.de/introduction/zh/)对学术写作过程的好处。这里的一个核心观点是，创造性的写作可以变得相对封闭和可操作；它可以通过一系列的步骤，绘制成紧密连接的笔记系统，成为可执行的 GTD 风格。
 
 ------
 
-## 关于关联的建议
+## 关于关联的建议…
 
 关键词应该是稀疏的，并经过严格地精选。它们主要是作为一个「跳板」：笔记之间的联系将成为主要的导航手段。[索引参考 vs. 标签](https://notes.andymatuschak.org/z6ztEgzqZichYTJgabhYQLn4UY4FbC1JMH394) [标签是一种无效的关联结构](https://notes.andymatuschak.org/z3MzhvmesiD2htMaEFQJif7gJgyaHAQvKH49Z)
 
@@ -58,7 +58,7 @@ Ahrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writi
 
 ## 笔记帮助你准确思考
 
-在阅读中记笔记是检测理解的一个好方法：你很难总结你不理解的东西。额外的联想步骤，将现在与先前的笔记结合起来，使理解效果更好。[写作让人理解更敏锐](https://notes.andymatuschak.org/z8q1K5a8i95qARkpFwS45qqtQzM8th82TkeUg)
+在阅读中记笔记是检测理解的好方法：你很难总结你不理解的东西。额外的联想步骤，将现在与先前的笔记结合起来，使理解效果更好。[写作让人理解更敏锐](https://notes.andymatuschak.org/z8q1K5a8i95qARkpFwS45qqtQzM8th82TkeUg)
 
 \- 如果我们在这里试图糊弄自己，写下不理解的词语。那么在下一步，当我们试图把文献笔记转变为永久笔记，并把它们与其他笔记联系起来时，我们会发现这个问题。
 
@@ -96,7 +96,7 @@ Ahrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writi
 
 \- 每一项知识性的努力都是从已有的观念开始的。之后这些观念在进一步的探究过程中转化，并能成为后续努力的起点。这基本上就是汉斯·乔治·加达默尔（Hans-Georg Gadamer）所说的解释学循环（Gadamer,2004）。
 
-头脑风暴是一种辅助...
+头脑风暴是辅助...
 
 \-  由于很少人教授或讨论记笔记的正确方法，几乎所有的写作指南都建议从头脑风暴开始，也就不足为奇了。如果你一路上没有写作，大脑的确是唯一可以依赖的去处。就其本身而言，头脑风暴不够好：既不客观也不可靠——在学术或非虚构写作中，这两个方面相当重要。推广从头脑风暴开始的做法更令人惊讶，因为头脑风暴不是大多数想法的起源。预想着通过头脑风暴从脑子中搜罗出的东西，本来也不在脑子里。
 
@@ -144,10 +144,10 @@ Ahrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writi
 
 ##未分类
 
-- 抽象也是分析和比较概念、进行类比和结合思想的关键；这在涉及跨学科工作时尤其如此（Goldstone and Wilensky 2008）。能够抽象和重新指定想法，同样只是等式的一面。如果我们没有一个允许我们将其付诸实践的系统，那是没有任何好处的。在这里，正是笔记的具体标准化只是一种格式，使我们能够真正地把它们洗牌，把一个想法添加到多个背景中，并以创造性的方式进行比较和组合，而不忽视它们真正包含的东西。
+- 抽象是分析和比较概念、进行类比和组织思想的关键，这在涉及跨学科工作时尤其如此（Goldstone and Wilensky 2008）。能够抽象和组织想法，同样只是等式的一面。如果没有一个能将抽象思维化为输出的平台，我们将会一无所获。而笔记，它的具体标准化就能够，使我们将信息综合，把想法结合多个背景，并以创造性的方式进行比较和组合，而且不会忽视背后的真理。
 
-- 我们不需要担心写什么的问题，因为我们已经回答了这个问题--每天都有很多次。每当我们读到一些东西时，我们就会做出决定，什么值得写下来，什么不值得。
+- 我们不需要担心什么该被记下，因为我们已经回答过这个问题--每天都有很多次。每当我们读到一些东西时，就会做出决定，什么值得写下来，什么不值得。
 
-- 正是一开始的一个决定，即把写作作为整个智力工作的手段和终点，彻底改变了寻找话题的作用。现在与其说是寻找写作的主题，不如说是在研究我们通过写作产生的问题。
+- 正是开始时的决定--把写作作为整个智力工作的中心和终点，彻底改变了寻找话题的作用。现在与其说是寻找写作的主题，不如说是在研究通过写作产生的问题。
 
-- 这就是为什么我们需要对它进行阐述。但阐述只不过是以一种有意义的方式将信息与其他信息联系起来。阐述的第一步是对某一信息进行足够的思考，以便我们能够写出它。第二步是思考它对其他背景意味着什么。
+- 这就是为什么我们需要对它进行阐述。阐述只不过是以一种有意义的方式将信息与其他信息联系起来。阐述的第一步是对某一信息进行足够的思考，以便我们能够写下它。第二步是思考它对其他笔记意味着什么。
