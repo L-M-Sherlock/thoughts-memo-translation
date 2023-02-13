@@ -12,13 +12,13 @@
 
 我觉得 LessWrong 的短推送可以充当间隔收件箱——只要自己制作界面，与 LessWrong 通过 API 交互即可。
 
-问题是，有些人觉得在 LW 发帖有点可怕（比如我），而间隔重复收件箱的意义，就是让记笔记的过程更流程。
+问题是，有些人觉得在 LW 发帖有点可怕（比如我），而间隔重复收件箱的意义，就是让记笔记的过程更流畅。
 
 ---
 
-某种「所有笔记」 视图，只是按照创建时间戳或最后修改时间戳按时间顺序列出事情。如果你进入 [https://roamresearch.com/#/app/YOUR\_GRAPH\_NAME/search](https://roamresearch.com/#/app/YOUR_GRAPH_NAME/search)，你会发现 [Roam](https://wiki.issarice.com/index.php?title=Roam&action=edit&redlink=1) 也有这个功能。
+某种「所有笔记」 视图，只是按照创建时间或最后修改时间顺序列出笔记。如果你进入 [https://roamresearch.com/#/app/YOUR\_GRAPH\_NAME/search](https://roamresearch.com/#/app/YOUR_GRAPH_NAME/search)，你会发现 [Roam](https://wiki.issarice.com/index.php?title=Roam&action=edit&redlink=1) 也有这个功能。
 
-我目前在 inbox.txt 中的「间隔收件箱」**只** 有这样的视图。但也应该有一个默认的「收件箱」视图。有点像 Gmail 有收件箱和「所有邮件」。
+我目前在 inbox.txt 中的「间隔收件箱」**只**有这个视图。但也应该有一个默认的「收件箱」视图。有点像 Gmail 有收件箱和「所有邮件」。
 
 ---
 

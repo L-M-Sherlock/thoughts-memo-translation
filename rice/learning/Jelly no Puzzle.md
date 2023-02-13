@@ -1,8 +1,8 @@
 # 果冻拼图
 
-[果冻拼图](https://wiki.issarice.com/wiki/Jelly_no_Puzzle)
+原文：[Jelly no Puzzle](https://wiki.issarice.com/wiki/Jelly_no_Puzzle)
 
-**果冻拼图** 是 Windows 平台的免费解谜游戏（能在 Linux 上通过 Wine 运行）。
+**果冻拼图**是 Windows 平台的免费解谜游戏（能在 Linux 上通过 Wine 运行）。
 
 一些观察：
 

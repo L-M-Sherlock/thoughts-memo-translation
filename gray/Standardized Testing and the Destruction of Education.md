@@ -1,6 +1,6 @@
 # 标准化测试与教育的毁灭
 
-[标准化考试与教育的毁灭 | 今日心理学](https://www.psychologytoday.com/us/blog/freedom-learn/202211/standardized-testing-and-the-destruction-education)
+原文：[Standardized Testing and the Destruction of Education | Psychology Today](https://www.psychologytoday.com/us/blog/freedom-learn/202211/standardized-testing-and-the-destruction-education)
 
 ## 研究表明，我们测试得越多，学生的兴趣就越低。
 
@@ -29,3 +29,41 @@
 2002年，在两党的支持和总统 George W. Bush 的强烈要求下，国会通过了《有教无类》（NCLB）法案。该法律规定，为了获得联邦拨款，以补充州和地方学校的财政，各州必须满足某些要求。其中最重要的是，每个州都需要定期进行标准化考试——每所学校都要进行相同的考试——如果考试成绩逐年没有提高，或者达到“优秀”分数的学生人数太少，学校和教师就会被判定为不合格。
 
 在NCLB之前，教师可能有不同的方法来评估学生的进步。他们可能会在评估时考虑学生不同的性格、兴趣和天赋。但如今，所有学生都用同样的方法来衡量，所有老师都根据学生在这些指标上的得分来评估他们的进步。
+
+当然，这意味着教师将开始应试教学，不需要考试的科目将被取消或减少，与考试无关的创造性活动将被取消，休息时间将被减少或取消，与备考有关的家庭作业将增加。许多最优秀的老教师将辞职，因为他们的经验、[智慧](https://www.psychologytoday.com/us/basics/wisdom)和判断不再受到尊重。自2002年以来，这一切确实一直在发生。（对低年级教学的有关影响，请看[这里](https://www.psychologytoday.com/us/blog/freedom-learn/201912/kindergarten-teachers-are-quitting-and-here-is-why)。）2015年，在总统 Obama 的领导下，国会用《让每个学生都成功》法取代了NCLB，该法案在一定程度上修改并放宽了对各州的要求，使目标更加现实，但没有改变评估学生、教师和学校的标准化测试的要求。
+
+### PISA考试在教育衰落中的作用
+
+经济[合作](https://www.psychologytoday.com/us/basics/teamwork)与发展组织（OECD）启动国际学生评估计划（PISA）仅两年后，NCLB就获得通过，这绝非巧合。这是一套专注于数学、科学和阅读的测试，对所有参与国家的15岁儿童进行。从2000年开始，每三年进行一次测试，每次测试都会有更多的国家报名参加。
+
+每三年才公布一次的结果出炉时，一些国家会经历“PISA冲击”，因为相对于其他国家，它们的分数较低，这导致他们的学校需要更加严格和标准化。例如，2010年公布的结果显示：中国（更具体地说，是中国的某些工业化地区）名列前茅，而美国远远落后。美国教育部长 Arne Duncan 称之为「警钟」，人们纷纷呼吁要改革教育体系，以效仿中国和其他得分高的东亚国家(Zhao, 2012, p 20)。人们没有意识到的是，中国式教育对孩子的[创造力](https://www.psychologytoday.com/us/basics/creativity)、社交能力和心理健康产生了严重影响。
+
+值得注意的是，美国标准化考试的两位主要批评者是赵勇和 Kyung Hee Kim 。赵勇在中国长大，现在是堪萨斯大学的教育学教授； Kyung Hee Kim 在韩国长大，现在在威廉和玛丽教育学院担任教授。东亚学校侧重于让学生为高风险考试做准备，两人就此写过大量文章，论述这种做法的严重影响，并警告人们不要在美国效仿他们的做法。
+
+例如，赵勇（2009、2012、2014）用大量证据证明：与中国的低比例相比，美国的高比例创新和创造力是美国学校相对宽松的结果；与中国学校的僵化和过度控制相比，美国学校允许个性张扬。我在[之前的一篇文章](https://www.psychologytoday.com/us/blog/freedom-learn/201305/be-glad-our-failure-catch-china-in-education)中回顾了赵勇的一些想法和证据。我现在转向 Kim 在一篇最近的学术文章中提出的一些想法和证据（Kim, 2021）。
+
+### Kim 关于以考试为中心的学校教育后果的结论
+
+最受[关注](https://www.psychologytoday.com/us/basics/attention)的PISA分数是科学、数学和阅读。但该测试还包括一些旨在评估创造力和学生学习兴趣的项目，以及询问教师教学方法的项目。在2021的文章中，Kim 描述了她基于2015年PISA测试数据所做的一些分析。具体细节可参阅原文，但以下是她的三个主要结论：
+
+\1. 数据显示，在不同国家，学科测试得分与学习兴趣和创造力指数之间存在很强的*负*相关性。例如，Kim 发现，在科学测试中得分最高的国家，往往在学习科学的兴趣上得分最低(*r* = -.50)，在创造力和自我[激励](https://www.psychologytoday.com/us/basics/motivation)的综合指数上得分最低(*r* = -.90)。毫无疑问，如果你让学生为了考试得高分而“学习”，你就扼杀他们对这门学科可能产生的兴趣，也降低了他们对这门学科进行创造性思考的趋势，这可能会挑战制定课程和考试的权威。
+
+\2. 在美国，与经验丰富的老教师相比，新教师（执教年限相对较短的教师）在课堂上使用创造性方法或征求和讨论学生想法的可能性明显*更小*。Kim 认为，比起在这个体系中工作了较长时间的教师，新教师更容易接受以考试为中心的教学模式。在她看来，这预示着美国教育的未来不妙。
+
+随着时间的推移，学校教育越来越以考试为中心， 美国的创造力标准评估分数不断下降（参见[这里](https://www.psychologytoday.com/us/blog/freedom-learn/201209/children-s-freedom-has-declined-so-has-their-creativity)以获取有关这方面的早期数据）。在这个经济成功特别需要创造力和创新的时代，我们的学校体系却在抑制而不是增强这些能力。
+
+因此，这里的结论与促进标准化测试和缩小学校教育重点的结论完全相反。作为一个国家，如果我们想保持经济强国、创新[领导者](https://www.psychologytoday.com/us/basics/leadership)的地位，我们就需要增强老师和学生的灵活性，为他们提供更多自我指导的机会，而不是更少。
+
+\--------
+
+现在，你对此有何看法？……从某种意义上说，这篇文章给大家提供了交流的平台。无论我们是否认同，你的疑问、想法、故事和观点，都受到我和其他读者的尊重。文章的原网址 Psychology Today 不支持评论，但你可以在我的[脸书](https://www.facebook.com/peter.gray.3572)上留言……关注我之后，我们可以讨论更多有趣的话题。（当然，鼓励大家在这篇文章下面的评论区里发言——译者注）趣。
+
+参考文献
+
+Zhao, Y. (2012), *World class learners: Educating creative and entrepreneurial Students*.
+
+Zhao, Y. (2009), *Catching up or leading the way: America education in the age of globalization*.
+
+Zhao, Y. (2014). *Who's afraid of the big bad dragon*.
+
+Kim, K. H.(2021). Creativity crisis update: America follows Asia in pursuing high test scores over learning. *Roeper Review, 43* (1), 21-41

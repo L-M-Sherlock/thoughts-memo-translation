@@ -106,7 +106,7 @@
 
 在 1991 年 [SuperMemo World](https://supermemo.guru/wiki/SuperMemo_World) 成立之初，我们计划将 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 放在每个桌面上。这个计划的灵感来自于比尔·盖茨和他在 Windows 上的成功。我们没有充分认识到我们前进道路上的[一系列障碍](http://supermemopedia.com/wiki/Why_isn't_SuperMemo_more_popular%3F)。1991 年，与比尔和微软相比，每一个程序员和每一家软件公司都感到力不从心。今天，天才辍学生比尔·盖茨计划拯救教育。我不再觉得自己不够格。我认为他的计划较差。我的听起来好多了。也许又有一系列我看不见的东西？
 
-见：[比尔盖茨对教育观点错误](https://supermemo.guru/wiki/Bill_Gates_is_wrong_about_education)
+见：[比尔·盖茨对教育的看法错了](https://supermemo.guru/wiki/Bill_Gates_is_wrong_about_education)
 
 ## 总结：辍学学生
 

@@ -8,15 +8,15 @@
 
 ## 电路比喻
 
-为了描述[学习内驱力的最优化](https://supermemo.guru/wiki/Optimality_of_the_learn_drive)，我们不妨假设一个[学习内驱力](https://supermemo.guru/wiki/Learn_drive)电路。在输入端，它获取一个人当下的认知背景（也就是[前置知识](https://supermemo.guru/wiki/Prior_knowledge)），和将要评估的新知识。在输出端，它在[前置知识](https://supermemo.guru/wiki/Prior_knowledge)背景下，给定新知识的估计价值。
+为了描述[学习内驱力的最优化](https://supermemo.guru/wiki/Optimality_of_the_learn_drive)，我们不妨假设一个[学习内驱力](https://supermemo.guru/wiki/Learn_drive)电路。在输入端，它获取一个人当下的认知背景（也就是[前置知识](https://supermemo.guru/wiki/Prior_knowledge)），和将要评估的新知识。在输出端，它在[前置知识](https://supermemo.guru/wiki/Prior_knowledge)背景下，给定新知识的估值。
 
 我们说好奇心是**最优解**，实际上是因为其他任何“电路”都不进行对[前置知识](https://supermemo.guru/wiki/Prior_knowledge)的完整访问，都无法作出更好的评估。一位教师尽可以阐释某份知识绝对或相对的重要性，但如此获取的知识将缺乏个人认知背景在价值评估中的参与，故而，知识获取者对其的评估就有可能出岔子，导致这一块知识的碎片将无法嵌入整体知识的宏大[拼图](https://supermemo.guru/wiki/Jigsaw_puzzle)。
 
-当我们获取**一连串数据**时，[学习熵](https://supermemo.guru/wiki/Learntropy)系统就会持续追踪我们一段时间以来产出的[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的均值。在此基础上，我们将对获取外界信息的不同渠道进行分别评估，并根据人类对[学习内驱力](https://supermemo.guru/wiki/Learn_drive)评估的最优化原则，抉择出一条最优的渠道。而[推动区](https://supermemo.guru/wiki/Push_zone)概念却描述了一个在外界强迫下，人可能做出有益转换（包括从一条信息渠道切换到另一条信息渠道）的模型——然而，这一模型并没有否认评估、选择过程中的最优性；它之所以可能有益，是因为当我们只注重于抉择出的一条最优渠道时，其他渠道的信息往往就会被持续忽略。本来，我们的大脑通过探查的方式解决这一问题：即使渠道A取得了比渠道B更高的估值，但若在目前的认知背景下，个人对渠道B保有着好奇心，那么渠道B仍然随时可能被激活，尤其是在渠道A的[学习熵](https://supermemo.guru/wiki/Learntropy)骤降的时候。大脑随机地采取这种探查行为，就像[问题解决](https://supermemo.guru/wiki/Problem_solving)过程中采取创造性中断一样，因为大脑的[学习内驱力](https://supermemo.guru/wiki/Learn_drive)算法是无法保持某一信息渠道的[学习熵](https://supermemo.guru/wiki/Learntropy)稳定的——这也正是我们构建[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)概念的基础。
+当我们获取**一连串数据**时，[学习熵](https://supermemo.guru/wiki/Learntropy)系统就会持续追踪我们一段时间以来产出的[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的均值。在此基础上，我们将对获取外界信息的不同渠道进行分别评估，并根据人类对[学习内驱力](https://supermemo.guru/wiki/Learn_drive)评估的最优化原则，抉择出一条最优的渠道。而[推动区](https://supermemo.guru/wiki/Push_zone)概念却描述了一个在外界强迫下，人可能做出有益转换（包括从一条信息渠道切换到另一条信息渠道）的模型——然而，这一模型并没有否认评估、选择过程中的最优性；它之所以可能有益，是因为当我们只注重于抉择出的一条最优渠道时，其他渠道的信息往往就会被持续忽略。本来，我们的大脑通过探查的方式解决这一问题：即使渠道 A 取得了比渠道 B 更高的估值，但若在目前的认知背景下，个人对渠道 B 保有着好奇心，那么渠道 B 仍然随时可能被激活，尤其是在渠道A的[学习熵](https://supermemo.guru/wiki/Learntropy)骤降的时候。大脑随机地采取这种探查行为，就像[问题解决](https://supermemo.guru/wiki/Problem_solving)过程中采取创造性中断一样，因为大脑的[学习内驱力](https://supermemo.guru/wiki/Learn_drive)算法是无法保持某一信息渠道的[学习熵](https://supermemo.guru/wiki/Learntropy)稳定的——这也正是我们构建[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)概念的基础。
 
 外界强迫者（比如教师或家长）无法作出信息渠道上的最优选择。虽然，在完全偶然的情况下，他们确实可能提升大脑探查信息渠道的频率，从而提升[学习熵](https://supermemo.guru/wiki/Learntropy)的产出。但即使如此，外界的强迫还是应该降低到零，因为这种强迫的有益与否完全不可预料。并且，即使这种渠道的切换是有益的，外界强迫带来的其他负面效应也可能与其抵消（例如，一个逼迫孩子的家长如果没有引发有益的信息渠道切换，他的权威就会被破坏，孩子的[反抗](https://supermemo.guru/wiki/Reactance)行为可能导致信息渠道的估值被扭曲）。
 
-对于**人类族群**来说，那些可能困住[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的局部优化是没有必要的。人类的认知探索的整个过程是随机的，并且可能覆盖了那些最有希望对人类族群有益的发现。像诺贝尔奖这种独一无二的重大发现，我们还是得依靠创造性工作上的好运。信息领域存在着很多搜索算法，但绝大多数都无法匹敌在[学习内驱力](https://supermemo.guru/wiki/Learn_drive)引导下，用健康的头脑武装自己的人类族群。
+对于**人类族群**来说，那些可能困住[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的局部优化是没有必要的。人类的认知探索的整个过程是随机的，并且可能覆盖了那些最有希望对人类族群有益的发现。像诺贝尔奖这种独一无二的重大发现，我们还是得依靠创造性工作上的好运。信息领域存在着很多搜索算法，但绝大多数都无法匹敌在学习内驱力引导下，用健康的头脑武装自己的人类族群。
 
 学习内驱力存在最优性，因为它是唯一能够进行[知识估值](https://supermemo.guru/wiki/Knowledge_valuation)的系统。
 
@@ -42,15 +42,15 @@
 
 参见：
 
-- [学校压抑了学习内驱力](https://supermemo.guru/wiki/Schools_suppress_the_learn_drive)
+- [学校压制学习内驱力](https://supermemo.guru/wiki/Schools_suppress_the_learn_drive)
 
 - [导弹比喻](https://supermemo.guru/wiki/Missile_metaphor)
 
 ## 学习内驱力的标准
 
-AI研究者们知道[好奇心](https://supermemo.guru/wiki/Learn_drive)的相关本质。每个人都有自己的兴趣，认为什么决定了好奇心这一问题没有统一的答案也许是一个诱人的选项。然而，我们每个人的大脑都在出生时得到一套[基于生存和安乐的准则](https://supermemo.guru/wiki/Brain's_development_optimization_criteria)。这些准则适应了这个世界，让生命体得以生存。正是这些准则决定了“什么是有趣的”。所有得以保留的兴趣，都是从这一名为“生存”的种子生长而来。对于AI，如果我们一开始不设定任何优化的准则，智力和熵的法则让它仍然能产生一些东西。这就好像宇宙的产生一样。智力将倾向于自我强化，这一论断，随着我们对宇宙的未来越来越深入的理解，也许很快会成为物理的一条新法则。
+AI 研究者们知道[好奇心](https://supermemo.guru/wiki/Learn_drive)的相关本质。每个人都有自己的兴趣，认为什么决定了好奇心这一问题没有统一的答案也许是一个诱人的选项。然而，我们每个人的大脑都在出生时得到一套[基于生存和安乐的准则](https://supermemo.guru/wiki/Brain's_development_optimization_criteria)。这些准则适应了这个世界，让生命体得以生存。正是这些准则决定了「什么是有趣的」。所有得以保留的兴趣，都是从这一名为“生存”的种子生长而来。对于 AI，如果我们一开始不设定任何优化的准则，智力和熵的法则让它仍然能产生一些东西。这就好像宇宙的产生一样。智力将倾向于自我强化，这一论断，随着我们对宇宙的未来越来越深入的理解，也许很快会成为物理的一条新法则。
 
-学习内驱力是人类智慧的关键。
+学习内驱力是人类智力的关键。
 
 ## 对学习内驱力的损伤
 
