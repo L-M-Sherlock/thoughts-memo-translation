@@ -16,7 +16,7 @@
 
 另见[社群活动通常围绕特定的传播媒介来形成](https://notes.andymatuschak.org/z2iWqjdgBjh93ZyLaCeDQPS2kknxvEcJftN1p)。
 
-相关笔记：[生活价值](https://notes.andymatuschak.org/z2S7Qu1WkAAEH1SSBgwBiJHKNTNP93W8sCakg)
+相关笔记：[活着的意义](https://notes.andymatuschak.org/z2S7Qu1WkAAEH1SSBgwBiJHKNTNP93W8sCakg)
 
 ------
 

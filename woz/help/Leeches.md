@@ -8,25 +8,25 @@
 
 **重点是！SuperMemo 中小部分难点会消耗大量时间**
 
-在 SuperMemo 中，水蛭这一术语被用来指代表述不当的[卡片](https://help.supermemo.org/wiki/Glossary:Item)。如果[元素](https://help.supermemo.org/wiki/Glossary:Element) 符合用户定义的[水蛭](https://help.supermemo.org/wiki/Glossary:Leech)标准（比如：卡片遗忘次数和当前的间隔长度），这个元素便称为水蛭。判断水蛭的参数可以使用查看: 水蛭（*Shift+F3*）。如果一个元素的遗忘次数超过被设置的范围，它就会被划定为水蛭。如果一个元素再次记住并且其间隔超过某个间隔大小，那么它就不再被叫作水蛭（与遗忘次数无关）
+在 SuperMemo 中，**水蛭**这一术语被用来指代表述不当的[卡片](https://help.supermemo.org/wiki/Glossary:Item)。如果[卡片](https://help.supermemo.org/wiki/Glossary:Element)符合用户定义的[水蛭](https://help.supermemo.org/wiki/Glossary:Leech)标准（比如：卡片[遗忘次数](https://help.supermemo.org/wiki/Glossary:Lapse)和当前的[间隔](https://help.supermemo.org/wiki/Glossary:Interval)长度），这个卡片便称为水蛭。判断水蛭的参数可以使用[查看](https://help.supermemo.org/wiki/View_menu)：[其他](https://help.supermemo.org/wiki/View_menu#Other)：[水蛭](https://help.supermemo.org/wiki/Glossary:Leech)（*Shift+F3*）。如果一个[卡片](https://help.supermemo.org/wiki/Glossary:Element)的[遗忘次数](https://help.supermemo.org/wiki/Glossary:Lapse)超过被设置的范围，它就会被划定为水蛭。如果一个卡片再次记住并且其[间隔](https://help.supermemo.org/wiki/Glossary:Interval)超过一定天数，那么它就不再被叫作[水蛭](https://help.supermemo.org/wiki/Glossary:Leech)（与遗忘次数无关）
 
-**困难卡片（水蛭）是人们放弃 SuperMemo 的首要原因之一，处理掉水蛭后，你就能用得更长久
+**困难卡片（水蛭）是人们放弃 SuperMemo 的首要原因之一，处理掉水蛭后，你就能用得更长久！**
 
 ## 水蛭狩猎秘籍
 
 尽管**[View](https://help.supermemo.org/wiki/View_menu)：[Other](https://help.supermemo.org/wiki/View_menu#Other)：Leech**（*Shift+F3*）可以用来审查、删除和重新制定[水蛭](https://help.supermemo.org/wiki/Glossary:Leech)，但解决大多数“水蛭”的最佳方法是在学习过程中逐一详细审查。在**[Toolkit](https://help.supermemo.org/wiki/Toolkit_menu) : [Options](https://help.supermemo.org/wiki/Options) : Leeches**，你可以选择以下“水蛭”管理选项：
 
-- **None** - 不进行水蛭管理。在重复过程中，SuperMemo 将以处理其他[元素](https://help.supermemo.org/wiki/Glossary:Element)相同的方式处理[水蛭](https://help.supermemo.org/wiki/Glossary:Leech)
+- **None** - 不进行水蛭管理。在重复过程中，SuperMemo 将以处理其他[卡片](https://help.supermemo.org/wiki/Glossary:Element)相同的方式处理[水蛭](https://help.supermemo.org/wiki/Glossary:Leech)
 
 - **Wizard** - 在重复学习过程中遇到[水蛭](https://help.supermemo.org/wiki/Glossary:Leech)时，SuperMemo 将打开**Leech Alert！**wizard（见下文）。这是对学习过程进行合理监督的推荐选择
 
-- **Auto-forget** - 在重复过程中遇到[水蛭](https://help.supermemo.org/wiki/Glossary:Leech)时，SuperMemo 会自动将“水蛭”从学习过程中移除，并将其放在[等待队列](https://help.supermemo.org/wiki/Glossary:Pending_queue)的末尾（即等待记忆的元素队列）。
+- **Auto-forget** - 在重复过程中遇到[水蛭](https://help.supermemo.org/wiki/Glossary:Leech)时，SuperMemo 会自动将“水蛭”从学习过程中移除，并将其放在[等待队列](https://help.supermemo.org/wiki/Glossary:Pending_queue)的末尾（即等待记忆的卡片队列）。
 
-- **Auto-postpone** - 在重复过程中遇到[水蛭](https://help.supermemo.org/wiki/Glossary:Leech)时，SuperMemo 会自动重置[元素](https://help.supermemo.org/wiki/Glossary:Element)的学习参数，并在足够长的[间隔](https://help.supermemo.org/wiki/Glossary:Interval)后安排其重复学习。很多时候，从重复[水蛭](https://help.supermemo.org/wiki/Glossary:Leech)中休息一下可能有助于克服错误的记忆模式。例如，如果你会混淆非洲地图上的尼日利亚和尼日尔，休息 50-100 天，不对这个问题进行重复，记忆中的错误混淆痕迹可能会被清理。一旦你有意识地重新记忆这两个国家在地图上的位置，这个问题就可能一劳永逸地解决了。**重要的是！***自动推迟**也可能产生无限的“水蛭”循环，在这种情况下，你将无限期地试图推迟结构不良的材料，但实际上从未解决过这个问题
+- **Auto-postpone** - 在重复过程中遇到[水蛭](https://help.supermemo.org/wiki/Glossary:Leech)时，SuperMemo 会自动重置[卡片](https://help.supermemo.org/wiki/Glossary:Element)的学习参数，并在足够长的[间隔](https://help.supermemo.org/wiki/Glossary:Interval)后安排其重复学习。很多时候，从重复[水蛭](https://help.supermemo.org/wiki/Glossary:Leech)中休息一下可能有助于克服错误的记忆模式。例如，如果你会混淆非洲地图上的尼日利亚和尼日尔，休息 50-100 天，不对这个问题进行重复，记忆中的错误混淆痕迹可能会被清理。一旦你有意识地重新记忆这两个国家在地图上的位置，这个问题就可能一劳永逸地解决了。**重要的是！***自动推迟**也可能产生无限的“水蛭”循环，在这种情况下，你将无限期地试图推迟结构不良的材料，但实际上从未解决过这个问题
 
 [![SuperMemo: Toolkit : Options : Leeches tab](https://help.supermemo.org/images/5/5e/Options_leeches.jpg)](https://help.supermemo.org/wiki/File:Options_leeches.jpg)
 
-**Include semi-leeches **复选框也可以用来收紧水蛭警告的标准。*「准水蛭」是只差一次[忘记](https://help.supermemo.org/wiki/Glossary:Lapse)就成为[水蛭](https://help.supermemo.org/wiki/Glossary:Leech)的[元素](https://help.supermemo.org/wiki/Glossary:Element)。*例如，如果一个水蛭被定义为有 5 个或更多[忘记](https://help.supermemo.org/wiki/Glossary:Lapse)和一个最多[间隔](https://help.supermemo.org/wiki/Glossary:Interval) 60 天的[元素](https://help.supermemo.org/wiki/Glossary:Element)，那么一个有 4 次忘记和 1000 天间隔的元素将是一个*准水蛭*（因为在一个忘记后，它将达到五次忘记和一个短间隔从而成为一个困难卡片）。如果你的[学习集合](https://help.supermemo.org/wiki/Glossary:Collection)结构良好，并且没有遇到很多[水蛭](https://help.supermemo.org/wiki/Glossary:Leech)，你可以打开**Include semi-leeches**打开以加强对水蛭的监视。
+**Include semi-leeches **复选框也可以用来收紧水蛭警告的标准。*「准水蛭」是只差一次[忘记](https://help.supermemo.org/wiki/Glossary:Lapse)就成为[水蛭](https://help.supermemo.org/wiki/Glossary:Leech)的[卡片](https://help.supermemo.org/wiki/Glossary:Element)。*例如，如果一个水蛭被定义为有 5 个或更多[忘记](https://help.supermemo.org/wiki/Glossary:Lapse)和一个最多[间隔](https://help.supermemo.org/wiki/Glossary:Interval) 60 天的[卡片](https://help.supermemo.org/wiki/Glossary:Element)，那么一个有 4 次忘记和 1000 天间隔的卡片将是一个*准水蛭*（因为在一个忘记后，它将达到五次忘记和一个短间隔从而成为一个困难卡片）。如果你的[学习集合](https://help.supermemo.org/wiki/Glossary:Collection)结构良好，并且没有遇到很多[水蛭](https://help.supermemo.org/wiki/Glossary:Leech)，你可以打开**Include semi-leeches**打开以加强对水蛭的监视。
 
 ## 水蛭解决界面（英文：wizard）
 
@@ -64,13 +64,13 @@
 
 - **包括准水蛭** - 允许对准水蛭卡片发出水蛭警报
 
-- **参数** - 编辑[元素参数](https://help.supermemo.org/wiki/Element_parameters)(例如[遗忘指数](https://help.supermemo.org/wiki/Glossary:Forgetting_index))
+- **参数** - 编辑[卡片参数](https://help.supermemo.org/wiki/Element_parameters)(例如[遗忘指数](https://help.supermemo.org/wiki/Glossary:Forgetting_index))
 
 - **重新安排** - 重新安排[水蛭卡片](https://help.supermemo.org/wiki/Glossary:Leech)，制定下一次重复的日期
 
 - **保存布局** - 保存当前的[布局](https://help.supermemo.org/wiki/Glossary:Layout)并保留**困难卡片警报的位置！**
 
-- **好-坏** - 可用于评估你对[困难卡片](https://help.supermemo.org/wiki/Glossary:Leech)提出的问题的回答的成绩（这些成绩的作用与[元素窗口](https://help.supermemo.org/wiki/Element_window)中的成绩按钮相同）。
+- **好-坏** - 可用于评估你对[困难卡片](https://help.supermemo.org/wiki/Glossary:Leech)提出的问题的回答的成绩（这些成绩的作用与[卡片窗口](https://help.supermemo.org/wiki/Element_window)中的成绩按钮相同）。
 
 ## 我建议这么处理水蛭
 
@@ -106,9 +106,9 @@
 
 ## 定义和查看水蛭
 
-**[查看](https://help.supermemo.org/wiki/View_menu)：[其他](https://help.supermemo.org/wiki/View_menu#Other)：水蛭**（*Shift+F3*）选项可以用来找出[集合](https://help.supermemo.org/wiki/Glossary:Collection)中的[水蛭](https://help.supermemo.org/wiki/Glossary:Leech)。这个选项使用**[元素过滤器](https://help.supermemo.org/wiki/Element_filter)**对话框，可以用来查找所有符合标准的[元素](https://help.supermemo.org/wiki/Glossary:Element)，如重复次数、[错误](https://help.supermemo.org/wiki/Glossary:Lapse)的次数、当前[间隔](https://help.supermemo.org/wiki/Glossary:Interval)的长度、状态（[已记忆](https://help.supermemo.org/wiki/Glossary:Memorized_element)、[待处理](https://help.supermemo.org/wiki/Glossary:Pending_element)或[已驳回](https://help.supermemo.org/wiki/Glossary:Dismissed_element) ）、类型（[项目](https://help.supermemo.org/wiki/Glossary:Item)、[主题](https://help.supermemo.org/wiki/Glossary:Topic) 或[任务](https://help.supermemo.org/wiki/Glossary:Task) ）等等。
+**[查看](https://help.supermemo.org/wiki/View_menu)：[其他](https://help.supermemo.org/wiki/View_menu#Other)：水蛭**（*Shift+F3*）选项可以用来找出[集合](https://help.supermemo.org/wiki/Glossary:Collection)中的[水蛭](https://help.supermemo.org/wiki/Glossary:Leech)。这个选项使用**[卡片过滤器](https://help.supermemo.org/wiki/Element_filter)**对话框，可以用来查找所有符合标准的[卡片](https://help.supermemo.org/wiki/Glossary:Element)，如重复次数、[错误](https://help.supermemo.org/wiki/Glossary:Lapse)的次数、当前[间隔](https://help.supermemo.org/wiki/Glossary:Interval)的长度、状态（[已记忆](https://help.supermemo.org/wiki/Glossary:Memorized_element)、[待处理](https://help.supermemo.org/wiki/Glossary:Pending_element)或[已驳回](https://help.supermemo.org/wiki/Glossary:Dismissed_element) ）、类型（[项目](https://help.supermemo.org/wiki/Glossary:Item)、[主题](https://help.supermemo.org/wiki/Glossary:Topic) 或[任务](https://help.supermemo.org/wiki/Glossary:Task) ）等等。
 
-找出[水蛭](https://help.supermemo.org/wiki/Glossary:Leech)的目的，是重新编辑最困难的[项目](https://help.supermemo.org/wiki/Glossary:Item)，以便采取适当的[记忆术](http://super-memory.com/articles/20rules.htm)来辅助记忆。你也可以重置[卡片](https://help.supermemo.org/wiki/Glossary:Element)的间隔（也就是过几天再处理卡片）。当然，你也可以[搁置](https://help.supermemo.org/wiki/Glossary:Dismiss)（只将卡片用作参考材料，比如通过**[搜索](https://help.supermemo.org/wiki/Search_menu)： [查找元素](https://help.supermemo.org/wiki/Find_elements)**来查询卡片），再或者也可以删除。
+找出[水蛭](https://help.supermemo.org/wiki/Glossary:Leech)的目的，是重新编辑最困难的[项目](https://help.supermemo.org/wiki/Glossary:Item)，以便采取适当的[记忆术](http://super-memory.com/articles/20rules.htm)来辅助记忆。你也可以重置[卡片](https://help.supermemo.org/wiki/Glossary:Element)的间隔（也就是过几天再处理卡片）。当然，你也可以[搁置](https://help.supermemo.org/wiki/Glossary:Dismiss)（只将卡片用作参考材料，比如通过**[搜索](https://help.supermemo.org/wiki/Search_menu)： [查找卡片](https://help.supermemo.org/wiki/Find_elements)**来查询卡片），再或者也可以删除。
 
 有一种新的高效方法可用来对抗[水蛭](https://help.supermemo.org/wiki/Glossary:Leech)，是将水蛭卡片发送到你的移动设备（参见：[口袋中的革命](http://super-memory.com/articles/soft/pocket.htm)）。尽管移动设备上刷卡时，注意力不太高，但如果卡片都是水蛭，你的专注力会到达非常强的水平。如果能预期到自己对一张卡片的回忆可能会失败，你对待这张卡片的方式将会不同。在这段时间内，你能够充分理解这些比较困难的材料，并慢慢减少水蛭卡片的负担。
 
@@ -116,11 +116,11 @@
 
 [![SuperMemo: Element filter dialog box which you can use to browse all elements that meet your search criteria (e.g. in leech hunting)](https://help.supermemo.org/images/thumb/f/f9/Element_filter.jpg/594px-Element_filter.jpg)](https://help.supermemo.org/wiki/File:Element_filter.jpg)
 
-以下字段可以指定困难[元素](https://help.supermemo.org/wiki/Glossary:Element)范围的最大值和最小值。
+以下字段可以指定困难[卡片](https://help.supermemo.org/wiki/Glossary:Element)范围的最大值和最小值。
 
-- **重复次数**（Repetitions） - 用来表示[元素](https://help.supermemo.org/wiki/Glossary:Element)被重复的次数。这个标准不适合用来定义[水蛭](https://help.supermemo.org/wiki/Glossary:Leech)，默认情况下是关闭的。
+- **重复次数**（Repetitions） - 用来表示[卡片](https://help.supermemo.org/wiki/Glossary:Element)被重复的次数。这个标准不适合用来定义[水蛭](https://help.supermemo.org/wiki/Glossary:Leech)，默认情况下是关闭的。
 
-- **错误次数**（Lapses） - 特定[元素](https://help.supermemo.org/wiki/Glossary:Element)被遗忘的次数。这是定义[水蛭](https://help.supermemo.org/wiki/Glossary:Leech)的主要方式。例如，如果你想找到所有被遗忘至少5次的[元素](https://help.supermemo.org/wiki/Glossary:Element)，将**最小值**设为5，**最大值**设为100（或其他大于最大[失效](https://help.supermemo.org/wiki/Glossary:Lapse)的值）。
+- **错误次数**（Lapses） - 特定[卡片](https://help.supermemo.org/wiki/Glossary:Element)被遗忘的次数。这是定义[水蛭](https://help.supermemo.org/wiki/Glossary:Leech)的主要方式。例如，如果你想找到所有被遗忘至少 5 次的[卡片](https://help.supermemo.org/wiki/Glossary:Element)，将**最小值**设为 5，**最大值**设为 100（或其他大于最大[错误次数](https://help.supermemo.org/wiki/Glossary:Lapse)的值）。
 
 - **间隔** - 最后一次重复和下一次重复之间的天数。你可能想限制[间隔](https://help.supermemo.org/wiki/Glossary:Interval)区间（例如 1 到 50 天之内的值），这样即使卡片被多次遗忘，如果这张卡片下次复习的间隔已经足够长，也就不算作[水蛭](https://help.supermemo.org/wiki/Glossary:Leech)了。
 
@@ -128,15 +128,15 @@
 
 - **下一次重复** - 从学习过程的第一天到下一次重复日期之间的天数。这个字段不应该用于搜索[水蛭](https://help.supermemo.org/wiki/Glossary:Leech)
 
-- **A-系数** - 某个[元素](https://help.supermemo.org/wiki/Glossary:Element)的 [A-系数](https://help.supermemo.org/wiki/Glossary#A-Factor)值。这不是定义[水蛭](https://help.supermemo.org/wiki/Glossary:Leech)的好标准。如果你想使用它，请选择较低范围的 [A-系数](https://help.supermemo.org/wiki/Glossary:A-Factor)（例如，从 1.2 到 1.5）。
+- **A-系数** - 某个[卡片](https://help.supermemo.org/wiki/Glossary:Element)的 [A-系数](https://help.supermemo.org/wiki/Glossary#A-Factor)值。这不是定义[水蛭](https://help.supermemo.org/wiki/Glossary:Leech)的好标准。如果你想使用它，请选择较低范围的 [A-系数](https://help.supermemo.org/wiki/Glossary:A-Factor)（例如，从 1.2 到 1.5）。
 
-- **遗忘指数** - 在每次重复中遗忘某个[元素](https://help.supermemo.org/wiki/Glossary:Element)的概率。遗忘指数](https://help.supermemo.org/wiki/Glossary:Forgetting_index)是由用户设置的，绝不反映[元素难度](https://help.supermemo.org/wiki/Glossary:Difficulty)。然而，你可以用它来定位优先级较低的[项目](https://help.supermemo.org/wiki/Glossary:Item)（例如，由较高的[遗忘指数](https://help.supermemo.org/wiki/Glossary:Forgetting_index)定义）。通过使用**遗忘指数**字段，你可能会对优先级较低的[元素](https://help.supermemo.org/wiki/Glossary:Element)的水蛭标准进行锐化。例如，你可以决定重置所有的[水蛭](https://help.supermemo.org/wiki/Glossary:Leech)，并对重置[元素](https://help.supermemo.org/wiki/Glossary:Element)更加严格，因为你为其指定了更高的[遗忘指数](https://help.supermemo.org/wiki/Glossary:Forgetting_index)。
+- **遗忘指数** - 在每次重复中遗忘某个[卡片](https://help.supermemo.org/wiki/Glossary:Element)的概率。[遗忘指数](https://help.supermemo.org/wiki/Glossary:Forgetting_index)是由用户设置的，绝不反映[卡片难度](https://help.supermemo.org/wiki/Glossary:Difficulty)。然而，你可以用它来定位优先级较低的[项目](https://help.supermemo.org/wiki/Glossary:Item)（例如，由较高的[遗忘指数](https://help.supermemo.org/wiki/Glossary:Forgetting_index)定义）。通过使用**遗忘指数**字段，你可能会对优先级较低的[卡片](https://help.supermemo.org/wiki/Glossary:Element)的水蛭标准进行锐化。例如，你可以决定重置所有的[水蛭](https://help.supermemo.org/wiki/Glossary:Leech)，并对重置[卡片](https://help.supermemo.org/wiki/Glossary:Element)更加严格，因为你为其指定了更高的[遗忘指数](https://help.supermemo.org/wiki/Glossary:Forgetting_index)。
 
-- **序数** - 被分配给[元素](https://help.supermemo.org/wiki/Glossary:Element)的[序数](https://help.supermemo.org/wiki/Glossary:Ordinal_number)。序数是用户自行设置的，并不能反映元素的[难度](https://help.supermemo.org/wiki/Glossary:Difficulty)。但你可以用序数表示低优先级的[卡片](https://help.supermemo.org/wiki/Glossary:Item)（比如用大序数表示低优先级）。这样你就能清晰表述低优先级作为水蛭[卡片](https://help.supermemo.org/wiki/Glossary:Element)的标准了。
+- **序数** - 被分配给[卡片](https://help.supermemo.org/wiki/Glossary:Element)的[序数](https://help.supermemo.org/wiki/Glossary:Ordinal_number)。序数是用户自行设置的，并不能反映卡片的[难度](https://help.supermemo.org/wiki/Glossary:Difficulty)。但你可以用序数表示低优先级的[卡片](https://help.supermemo.org/wiki/Glossary:Item)（比如用大序数表示低优先级）。这样你就能清晰表述低优先级作为水蛭[卡片](https://help.supermemo.org/wiki/Glossary:Element)的标准了。
 
 如果你不想按照既定标准筛选水蛭，取消勾选这个标准相关字段的复选框即可。如果你想依据某一标准筛查，就勾选复选框，并指定适当的**最小**和**最大**值。
 
-根据定义，所有[水蛭](https://help.supermemo.org/wiki/Glossary:Leech)都是[经过学习](https://help.supermemo.org/wiki/Glossary:Memorized_element)的[卡片](https://help.supermemo.org/wiki/Glossary:Item)。这也是在元素过滤器里「类型」和「状态」被禁用的原因。
+根据定义，所有[水蛭](https://help.supermemo.org/wiki/Glossary:Leech)都是[经过学习](https://help.supermemo.org/wiki/Glossary:Memorized_element)的[卡片](https://help.supermemo.org/wiki/Glossary:Item)。这也是在卡片过滤器里「类型」和「状态」被禁用的原因。
 
 一旦你点击**OK**，所有符合指定标准的[水蛭](https://help.supermemo.org/wiki/Glossary:Leech)将被找到，并在[查看器](https://help.supermemo.org/wiki/Browser)中显示。然后你可以在水蛭浏览器中使用**学习**（*Ctrl+L*），便可只在水蛭子集中进行重复学习。
 

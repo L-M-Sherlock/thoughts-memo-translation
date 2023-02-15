@@ -20,7 +20,7 @@ Sterling 的核心论点是：现代生活使得奖励的多样性骤减，驱�
 
 总而言之，Sterling 提供了一系列指示，改变了起初拟定的教育系统。我认为他没有足够有力地强调他的观点。那么我将着重重申一下：
 
-对于人脑而言，[学习内动力]是无限奖励回馈的源泉
+对于人脑而言，[学习内驱力]是无限奖励回馈的源泉
 
 ## 不尽的资源：人类内驱力
 
@@ -30,9 +30,9 @@ Sterling 的核心论点是：现代生活使得奖励的多样性骤减，驱�
 
 ## 学校和进化相悖并扼杀未来
 
-一众天才会决定我们的存亡。同时，[学校教育](https://supermemo.guru/wiki/Schooling) 是一个完全相反的作用力。强迫输入[不连贯的知识]，用成绩伪造回馈，用退学作为惩罚，学校用这一套系统消除了[学习内驱力回馈](https://supermemo.guru/wiki/Pleasure_of_learning)，并制造了[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)。最终的产物是社会被无助求救的人们充满。如果我们保持现有的方式不作更改，那么我们将会有更多的[川普](https://supermemo.guru/wiki/Donald_Trump) 和脱欧发生。
+一众天才会决定我们的存亡。同时，[学校教育](https://supermemo.guru/wiki/Schooling)则完全反其道而行之 。强迫输入[不连贯的知识]，用成绩伪造回馈，用退学作为惩罚，学校用这一套系统消除了[学习内驱力回馈](https://supermemo.guru/wiki/Pleasure_of_learning)，并制造了[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)。最终的产物是社会被无助求救的人们充满。如果我们保持现有的方式不作更改，那么我们将会有更多的[川普](https://supermemo.guru/wiki/Donald_Trump) 和脱欧发生。
 
-大多数我认识的教师都认识到了问题所在，并且努力尝试着在学校中营造友好的氛围，但是他们不能阻止[课程](https://supermemo.guru/wiki/Curriculum) 和国际压力(cf. [PISA](https://supermemo.guru/wiki/PISA))的力量。标准在不断地提高，诱导性无助的力量不断增强。有一部分尝试获得了成功，但是失败变得更让人痛苦、更是毁灭性的。
+大多数我认识的教师都认识到了问题所在，并且努力尝试着在学校中营造友好的氛围，但是他们不能阻止[课程](https://supermemo.guru/wiki/Curriculum)和国际压力（cf. [PISA](https://supermemo.guru/wiki/PISA)）的力量。标准在不断地提高，诱导性无助的力量不断增强。一部分尝试获得了成功，但是，一旦失败，后果会更为严重、更具毁灭性。
 
 个人轶事。[为什么使用轶事？](https://supermemo.guru/wiki/Why_use_anecdotes%3F)
 

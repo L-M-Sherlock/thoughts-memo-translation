@@ -242,9 +242,9 @@
 
 - 通过SuperMemo建立的长期记忆可以保持终身的兴趣。
 
-- 基于[渐进阅读,]（https://supermemo.guru/wiki/Incremental_reading）的自学被证明是获取知识的最快方式
+- 基于[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)的自学被证明是获取知识的最快方式
 
-- 自主学习导致更快的学习和更丰富的知识
+- 自主学习引发更快的学习和更丰富的知识
 
 - 自学导致了知识的融合，没有交流的中断
 
