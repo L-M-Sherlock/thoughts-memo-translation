@@ -8,7 +8,7 @@
 
 ## 使用
 
-学习过程的统计数据随时间变化的图表。这些图表记录了每日统计数字的变化，如某一天的[记忆](https://help.supermemo.org/wiki/Glossary:Memorized_element)[条目](https://help.supermemo.org/wiki/Glossary:Item)、[测量的遗忘指数](https://help.supermemo.org/wiki/Glossary:Measured_forgetting_index)或[未完成](https://help.supermemo.org/wiki/Glossary:Outstanding_element)[项目](https://help.supermemo.org/wiki/Glossary:Item)的数量。当天的第一个非零值被记录下来。如果该值之后增加，则忽略该增加值（少数情况除外，如新[记忆](https://help.supermemo.org/wiki/Glossary:Memorized_element)[项目](https://help.supermemo.org/wiki/Glossary:Item)的统计，等等）。如果你在学习中中断了，最后记录的非零值将在你没有使用SuperMemo的时期内增加（除了少数情况，如重复次数的统计等）。
+学习过程的统计数据随时间变化的图表。这些图表记录了每日统计数字的变化，如某一天的[记忆](https://help.supermemo.org/wiki/Glossary:Memorized_element)[卡片](https://help.supermemo.org/wiki/Glossary:Item)、[测量的遗忘指数](https://help.supermemo.org/wiki/Glossary:Measured_forgetting_index)或[未完成](https://help.supermemo.org/wiki/Glossary:Outstanding_element)[项目](https://help.supermemo.org/wiki/Glossary:Item)的数量。当天的第一个非零值被记录下来。如果该值之后增加，则忽略该增加值（少数情况除外，如新[记忆](https://help.supermemo.org/wiki/Glossary:Memorized_element)[项目](https://help.supermemo.org/wiki/Glossary:Item)的统计，等等）。如果你在学习中中断了，最后记录的非零值将在你没有使用SuperMemo的时期内增加（除了少数情况，如重复次数的统计等）。
 
 要放大图表的一部分（如下面的图片），用鼠标扫过要删除的图表部分，即指向焦点日期，向左移动鼠标并释放鼠标按钮。这样就会在鼠标移动的方向上切掉部分图形。你也可以使用*Ctrl+Left*和*Ctrl+Right*按钮来放大（见[下文](https://help.supermemo.org/wiki/Analysis#Use_context_menu)）。
 
@@ -22,9 +22,9 @@
 
       - **回忆时间（Recall time）** - 你每天花在试图回忆问题答案上的总时间
 
-      - **重复项目(Repetitions)** - 你每天记录的[条目(item)）](https://help.supermemo.org/wiki/Glossary:Item)和[文本(topic)](https://help.supermemo.org/wiki/Glossary:Topic)的复习数量
+      - **重复项目(Repetitions)** - 你每天记录的[卡片(item)）](https://help.supermemo.org/wiki/Glossary:Item)和[文本(topic)](https://help.supermemo.org/wiki/Glossary:Topic)的复习数量
 
-      - **条目重复（Item repetitions）** - 你每天记录的[条目（item）](https://help.supermemo.org/wiki/Glossary:Item)重复次数
+      - **卡片重复（Item repetitions）** - 你每天记录的[卡片（item）](https://help.supermemo.org/wiki/Glossary:Item)重复次数
 
       - **文本复习(topic reviews)** - 你每天的[文本(topic)](https://help.supermemo.org/wiki/Glossary:Topic)fuxi记录
 
@@ -220,7 +220,7 @@
 
 >
 
-> ***时间（归一化）**代表[射频矩阵](https://help.supermemo.org/wiki/Glossary:U-Factor)每个条目的最大[U-系数](https://help.supermemo.org/wiki/Glossary:RF_matrix)的100%。**Decay**代表[遗忘曲线]的衰减常数(https://help.supermemo.org/wiki/Glossary:Forgetting_curve)。**Cases**表示绘制图表时使用的[重复](https://help.supermemo.org/wiki/Glossary:Repetition)案例的数量。**Repetitions**代表确定[R-Factors](https://help.supermemo.org/wiki/Glossary:R-Factor)时执行的[重复次数](https://help.supermemo.org/wiki/Glossary:Repetition)。**偏差**是数据和近似的[遗忘曲线](https://help.supermemo.org/wiki/Glossary:Forgetting_curve)之间的平均平方根。*。
+> ***时间（归一化）**代表[射频矩阵](https://help.supermemo.org/wiki/Glossary:U-Factor)每个卡片的最大[U-系数](https://help.supermemo.org/wiki/Glossary:RF_matrix)的100%。**Decay**代表[遗忘曲线]的衰减常数(https://help.supermemo.org/wiki/Glossary:Forgetting_curve)。**Cases**表示绘制图表时使用的[重复](https://help.supermemo.org/wiki/Glossary:Repetition)案例的数量。**Repetitions**代表确定[R-Factors](https://help.supermemo.org/wiki/Glossary:R-Factor)时执行的[重复次数](https://help.supermemo.org/wiki/Glossary:Repetition)。**偏差**是数据和近似的[遗忘曲线](https://help.supermemo.org/wiki/Glossary:Forgetting_curve)之间的平均平方根。*。
 
 ## 稳定
 
@@ -324,7 +324,7 @@
 
 - **OF矩阵** - 由重复号和[A因素](https://help.supermemo.org/wiki/Glossary:A-Factor)索引的[最佳因素](https://help.supermemo.org/wiki/Glossary:O-Factor)矩阵（除了第一个[重复](https://help.supermemo.org/wiki/Glossary:Repetition)，[A因素](https://help.supermemo.org/wiki/Glossary:A-Factor)被替换成[记忆缺失](https://help.supermemo.org/wiki/Glossary:Lapse)）。
 
-- **RF案例** - 用于计算[RF矩阵](https://help.supermemo.org/wiki/Glossary:RF_matrix)的相应条目的重复案例矩阵(双击一个条目可查看相关的[遗忘曲线](https://help.supermemo.org/wiki/Glossary:Forgetting_curve))。这个矩阵可以手动编辑（例如，如果你想改变重复过程中某些测量的权重）。
+- **RF案例** - 用于计算[RF矩阵](https://help.supermemo.org/wiki/Glossary:RF_matrix)的相应卡片的重复案例矩阵(双击一个卡片可查看相关的[遗忘曲线](https://help.supermemo.org/wiki/Glossary:Forgetting_curve))。这个矩阵可以手动编辑（例如，如果你想改变重复过程中某些测量的权重）。
 
 [![SuperMemo:工具箱：统计：矩阵。间隔显示从OF矩阵得出的最佳间隔矩阵](https://help.supermemo.org/images/thumb/3/39/Intervals_matrix.jpg/600px-Intervals_matrix.jpg)](https://help.supermemo.org/wiki/File:Intervals_matrix.jpg)
 

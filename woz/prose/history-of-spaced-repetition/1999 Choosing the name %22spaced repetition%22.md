@@ -22,7 +22,7 @@ Frank N. Dempster 的一篇开创性文章 [*The Spacing Effect A Case Study in 
 
 ## 间隔重复这一名词的未来
 
-截至 1999 年，「[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)」这个术语已经在谈及抽认卡程序的文章和只言片语中被广泛使用（很大程度上是因为我们的钦定），这里面还包括那些基于[莱特纳系统](https://supermemo.guru/wiki/Leitner_system)的程序。有人希望，它能在科学文献中也成为共识。虽然任何作者更倾向沿用他们惯用了好几年、几十年的称呼，然而维基百科这个加速术语化的推手，它上面的主导称谓是**间隔重复**。虽然记忆科学家们倾向于用户「间隔提取」或「分散练习」（这是一个更广泛的概念）。此外，还有像「间隔学习」这样的**孤儿条目**，被垃圾邮件机器人认为是 [Paul Kelly](https://loop.frontiersin.org/people/95418/bio)（当时的蒙克萨顿高中校长）写的。
+截至 1999 年，「[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)」这个术语已经在谈及抽认卡程序的文章和只言片语中被广泛使用（很大程度上是因为我们的钦定），这里面还包括那些基于[莱特纳系统](https://supermemo.guru/wiki/Leitner_system)的程序。有人希望，它能在科学文献中也成为共识。虽然任何作者更倾向沿用他们惯用了好几年、几十年的称呼，然而维基百科这个加速术语化的推手，它上面的主导称谓是**间隔重复**。虽然记忆科学家们倾向于用户「间隔提取」或「分散练习」（这是一个更广泛的概念）。此外，还有像「间隔学习」这样的**孤儿卡片**，被垃圾邮件机器人认为是 [Paul Kelly](https://loop.frontiersin.org/people/95418/bio)（当时的蒙克萨顿高中校长）写的。
 
 这种混乱造成了[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)的研究和流行应用之间的脱节，但合并和统一只是一个时间问题。维基百科是使用了一个**合并请求**的概念。科学家们可能会反对将他们 “干净的清教徒文章” 与夹杂着商业链接的流行克隆体合并。然而此乃天命，安敢在此饶舌？今天有一些研究[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)的科学家不知道[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)这个词，也没有听说过 [SuperMemo](https://supermemo.guru/wiki/SuperMemo)。还有一些实质上从事间隔重复算法的工程师，对该领域的记忆研究知之甚少。统一术语，能给减少这脱节开个头，剩下的就交给谷歌了。
 

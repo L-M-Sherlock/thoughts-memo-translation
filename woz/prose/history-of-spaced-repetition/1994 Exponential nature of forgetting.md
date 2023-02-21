@@ -38,7 +38,7 @@
 
 [我 1985 年的实验](https://supermemo.guru/wiki/Birth_of_SuperMemo)也可以被看作是收集[遗忘曲线](https://supermemo.guru/wiki/Forgetting_curve)数据的一个未去干扰的尝试。然而，最初 SuperMemos 并不关心[遗忘曲线](https://supermemo.guru/wiki/Forgetting_curve)。优化的本质是开关型控制，尽管今天，收集[保留率](https://supermemo.guru/wiki/Retention)数据似乎是如此明显的解决方案（就像在 1985 年）。
 
-直到我开始用 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 软件收集数据，每个记忆条目都能单独研究，我才从我早期关于遗忘的错误想法中完全恢复过来。
+直到我开始用 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 软件收集数据，每个记忆卡片都能单独研究，我才从我早期关于遗忘的错误想法中完全恢复过来。
 
 [DOS 版 SuperMemo 1](https://supermemo.guru/wiki/SuperMemo_for_DOS)（1987）能收集完整的重复历史，因此便有可能确定遗忘性质。然而，短短 10 天内（1987 年 12 月 23 日），我不得不抛弃全部的重复记录。当时，我的磁盘空间是 360KB，所以不得不如此。我在老式的 5.25 英寸软盘中运行 SuperMemo。经过 [Janusz Murakowski](https://supermemo.guru/wiki/Janusz_Murakowski) 博士卓绝努力，记录完整重复历史的功能在 8 年后（1996 年 2 月 15 日）才回到 SuperMemo 中，他认为如果没有这项功能，每一分钟都是在浪费宝贵的数据，丢失未来算法和记忆研究的动力。20 年后，我们的数据多到处理不完。
 

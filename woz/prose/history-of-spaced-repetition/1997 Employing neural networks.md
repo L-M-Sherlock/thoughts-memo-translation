@@ -26,9 +26,9 @@
 
 在有限维的轨迹优化中，有了不错的初始状态猜测，收敛速度就能很快。不过在 SuperMemo 中不是这样，因为[最优间隔](https://supermemo.guru/wiki/Optimum_interval)函数只有简简单单 3 个维度。在一般情况下，对解的搜索可能会失败，而优化也不会成功。与旧版 SuperMemo 中用于研究目的的单价矩阵不同，神经网络算法如果没有经过预训练，结果会是一团乱麻。这就是为什么先前的学习数据被用来更新 SuperMemo 中使用的平均或低于平均的学生模型，以达到最大的收敛速度。
 
-请注意，在 [SM-17 算法](https://supermemo.guru/wiki/Algorithm_SM-17)中，这个平均学生模型更加不重要，因为 SM-17 算法对学习过程中多个参数和函数使用了最佳拟合（比如条目难度，稳定性增长函数）。因此 SuperMemo 总能充分利用现有数据，给出最好结果（使用我们目前最先进的记忆模型知识）。
+请注意，在 [SM-17 算法](https://supermemo.guru/wiki/Algorithm_SM-17)中，这个平均学生模型更加不重要，因为 SM-17 算法对学习过程中多个参数和函数使用了最佳拟合（比如卡片难度，稳定性增长函数）。因此 SuperMemo 总能充分利用现有数据，给出最好结果（使用我们目前最先进的记忆模型知识）。
 
-一个多世纪以来，[遗忘曲线](https://supermemo.guru/wiki/Forgetting_curve)的大致形状已经为人所知（见：[艾宾浩斯遗忘曲线的错误](https://supermemo.guru/wiki/Error_of_Ebbinghaus_forgetting_curve)）。SuperMemo 收集了关于不同[难度](https://supermemo.guru/wiki/Difficulty)和不同记忆[稳定性](https://supermemo.guru/wiki/Stability)的[条目](https://supermemo.guru/wiki/Item)的遗忘曲线形状的精确数据。从遗忘曲线中，SuperMemo 很容易得出[最优间隔](https://supermemo.guru/wiki/Optimum_interval)。数据只来自一个学生，每一次重复都有助于提高计算精度。换句话说，随着你每一分钟使用 SuperMemo，程序都会越来越了解你。不仅如此，在一两个月后，它就足够了解你了。你永远不需要担心算法的效率问题。
+一个多世纪以来，[遗忘曲线](https://supermemo.guru/wiki/Forgetting_curve)的大致形状已经为人所知（见：[艾宾浩斯遗忘曲线的错误](https://supermemo.guru/wiki/Error_of_Ebbinghaus_forgetting_curve)）。SuperMemo 收集了关于不同[难度](https://supermemo.guru/wiki/Difficulty)和不同记忆[稳定性](https://supermemo.guru/wiki/Stability)的[卡片](https://supermemo.guru/wiki/Item)的遗忘曲线形状的精确数据。从遗忘曲线中，SuperMemo 很容易得出[最优间隔](https://supermemo.guru/wiki/Optimum_interval)。数据只来自一个学生，每一次重复都有助于提高计算精度。换句话说，随着你每一分钟使用 SuperMemo，程序都会越来越了解你。不仅如此，在一两个月后，它就足够了解你了。你永远不需要担心算法的效率问题。
 
 神经网络周围笼罩着神秘的光环。神经网络能够揭示所研究现象的隐藏属性。我们很容易忘记，如果输入了错误的信息，或者缺少一些重要信息，神经网络很容易失败。这就是唯一一例有效应用于间隔重复的神经网络的问题：[David Calinski 的 MemAid](https://supermemo.guru/wiki/History_of_spaced_repetition_(print)#David_Calinski_and_FullRecall)。
 
@@ -74,7 +74,7 @@ MemAid 的神经网络设计，错在了使用间隔和重复次数作为输入�
 
 重复间隔问题包括在人类学习的过程中计算最优的重复间隔。这些间隔是针对单个信息（后来被称为项目）和给定的个人而计算的。整个输入数据是学生在学习过程中的项目重复中获得的成绩。到目前为止，这个问题通过一系列连续的算法得到了最有效的解决，这些算法在商业上被称为 [SuperMemo](https://supermemo.guru/wiki/SuperMemo)，由[沃兹尼亚克]博士(https://supermemo.guru/wiki/Piotr_Wozniak)在波兰的 [SuperMemo World](https://supermemo.guru/wiki/SuperMemo_World) 开发。沃兹尼亚克在开发最新版本的算法（[算法SM-8](https://supermemo.guru/wiki/Algorithm_SM-8)）时使用的[神经统计学记忆模型](https://supermemo.guru/wiki/Neurostatistical_Model_of_Memory)不能被视为对人类长期记忆的最终代数描述。最值得注意的是，突触模式的复杂性和项目难度之间的关系还不太广为人知。一旦采用神经网络来提供记忆状态、评分和项目难度之间的充分映射，就可能让人对这种关系有更多的了解。
 
-若使用目前最先进的解决方案，在实时学习过程中应用神经网络的技术可能性，还取决于对神经网络遇到问题给出可用定义，而定义这些问题时，合理应用当前对学习过程的理解不可或缺。面对数千条目的重复中得到的历史评分输入，神经网络不可能当即生成出解决方案。实时生成解决方案的计算复杂度和空间复杂度，自然会远远超出网络的实时学习和反应能力。
+若使用目前最先进的解决方案，在实时学习过程中应用神经网络的技术可能性，还取决于对神经网络遇到问题给出可用定义，而定义这些问题时，合理应用当前对学习过程的理解不可或缺。面对数千卡片的重复中得到的历史评分输入，神经网络不可能当即生成出解决方案。实时生成解决方案的计算复杂度和空间复杂度，自然会远远超出网络的实时学习和反应能力。
 
 利用 Wozniak 的长期记忆双组分模型，我们推测以下神经网络解决方案可能会加快收敛，提升高重复间隔的准确性。
 
@@ -94,7 +94,7 @@ MemAid 的神经网络设计，错在了使用间隔和重复次数作为输入�
 
 利用公式（1），给定稳定性，可以得出可提取性随时间的变化；与此同时，给定稳定性和遗忘指数，我们也能确定最佳的重复间隔。
 
-描述重复后稳定性变化的函数的确切代数形状尚不清楚。不过有实验数据表明，对于时机适当的重复，稳定性通常会增加 1.3 到 3 倍，其增量取决于条目难度（难度越大，增加越少）。为让神经网络计算[稳定性函数](https://supermemo.guru/wiki/Search_for_a_universal_memory_formula)，其预训练可以使用最优间隔重复的估计值，这些值来自 [SM-8 算法](https://supermemo.guru/wiki/Algorithm_SM-8) 的优化矩阵的实验数据。
+描述重复后稳定性变化的函数的确切代数形状尚不清楚。不过有实验数据表明，对于时机适当的重复，稳定性通常会增加 1.3 到 3 倍，其增量取决于卡片难度（难度越大，增加越少）。为让神经网络计算[稳定性函数](https://supermemo.guru/wiki/Search_for_a_universal_memory_formula)，其预训练可以使用最优间隔重复的估计值，这些值来自 [SM-8 算法](https://supermemo.guru/wiki/Algorithm_SM-8) 的优化矩阵的实验数据。
 
 > (2) Si+1=fs(R,Si,D,G)
 
@@ -108,7 +108,7 @@ MemAid 的神经网络设计，错在了使用间隔和重复次数作为输入�
 
 > - R 是重复前的可提取性
 
-> - D 是条目难度
+> - D 是卡片难度
 
 > - G 是第 i 次重复的评分
 
@@ -122,7 +122,7 @@ MemAid 的神经网络设计，错在了使用间隔和重复次数作为输入�
 
 >
 
-> - Di 是第 i 次重复后的条目难度近似值
+> - Di 是第 i 次重复后的卡片难度近似值
 
 > - R 是重复前的可提取性
 
@@ -180,7 +180,7 @@ MemAid 的神经网络设计，错在了使用间隔和重复次数作为输入�
 
 - 项目难度解释：与[算法 SM-8](https://supermemo.guru/wiki/Algorithm_SM-8) 中相同，即由 [A-系数](https://supermemo.guru/wiki/A-Factor)定义
 
-- 对每个条目存储以下内容：最后一次重复日期，[稳定性](https://supermemo.guru/wiki/Stability)(最后一次重复时的)，[可提取性](https://supermemo.guru/wiki/Retrievability)(最后一次重复时的)，[项目难度](https://supermemo.guru/wiki/Complexity)，最后评分
+- 对每个卡片存储以下内容：最后一次重复日期，[稳定性](https://supermemo.guru/wiki/Stability)(最后一次重复时的)，[可提取性](https://supermemo.guru/wiki/Retrievability)(最后一次重复时的)，[项目难度](https://supermemo.guru/wiki/Complexity)，最后评分
 
 - 默认[遗忘指数](https://supermemo.guru/wiki/Forgetting_index): 10%
 
@@ -226,7 +226,7 @@ MemAid 的神经网络设计，错在了使用间隔和重复次数作为输入�
 
 > (3) Di+1=fd(R, S, Di, G)
 
-输入给定的 R、S、D 和 G，神经网络应该输出稳定性（S）和条目难度（D）：
+输入给定的 R、S、D 和 G，神经网络应该输出稳定性（S）和卡片难度（D）：
 
 > (4) (Ri, Si, Di, Gi) => (Di+1,Si+1)
 
@@ -242,15 +242,15 @@ MemAid 的神经网络设计，错在了使用间隔和重复次数作为输入�
 
 > - Si+1 是第 i 次重复后的稳定性
 
-> - Di 是第 i 次重复前的条目难度
+> - Di 是第 i 次重复前的卡片难度
 
-> - Di+1 是第 i 次重复后的条目难度
+> - Di+1 是第 i 次重复后的卡片难度
 
 > - Gi 是第 i 次复习时的评分
 
 **针对难度 D 的错误修正**
 
-目标难度定义为 [SM-8 算法](https://supermemo.guru/wiki/Algorithm_SM-8)中，第二个间隔和第一个间隔的比率。；[神经网络插件](http://super-memory.com/archive/english/algplug.htm) (NN.DLL)将记录对所有条目记录目标难度，并将其用于训练网络：
+目标难度定义为 [SM-8 算法](https://supermemo.guru/wiki/Algorithm_SM-8)中，第二个间隔和第一个间隔的比率。；[神经网络插件](http://super-memory.com/archive/english/algplug.htm) (NN.DLL)将记录对所有卡片记录目标难度，并将其用于训练网络：
 
 > (5) Do=I2/I1
 
@@ -262,9 +262,9 @@ MemAid 的神经网络设计，错在了使用间隔和重复次数作为输入�
 
 > - Do 是用于误差修正的指导性难度（Do 越高，难度越小）
 
-> - I1 是为有关条目计算的第一个最优间隔（对所有条目都一样）
+> - I1 是为有关卡片计算的第一个最优间隔（对所有卡片都一样）
 
-> - I2 是为该条目计算的第二个最优间隔
+> - I2 是为该卡片计算的第二个最优间隔
 
 重要! 最优间隔 I1 和 I2 不是网络在验证前提出的间隔，而是在提出的间隔已经执行和验证后用于误差修正的间隔（见[稳定性 S 的误差修正](https://supermemo.guru/wiki/History_of_spaced_repetition_(print)#Stability)）!
 
@@ -404,7 +404,7 @@ FullRecall 神经网络的设计并不符合这些标准：
 
 - 输入：real_interval_since_last_review [0-2048天] （与上面的注释相同）
 
-- 输入：number_of_repetitions_of_an_item_so_far （目前为止条目的重复次数）[0-128]
+- 输入：number_of_repetitions_of_an_item_so_far （目前为止卡片的重复次数）[0-128]
 
 - 输入: current_grade（目前评分）[0-5, 5 是最好的]
 
@@ -416,7 +416,7 @@ FullRecall 神经网络的设计并不符合这些标准：
 
 只有用户分毫不差地按照最优间隔重复安排复习，神经网络才能有不错的表现。要实现这点，神经网络只有经过预训练才可行，比如使用 [SM-2 算法](https://supermemo.guru/wiki/Algorithm_SM-2) 预训练。此时神经网络会很不稳定，也无法收敛到最优解，因为有很多偏离最优安排的复习，比如神经网络误差导致的复习，这些复习会让神经网络偏离原始状态，而原始状态下神经网络还能根据输入计算记忆情况。
 
-在理想化的情况下，稳定性和可提取性对于单一的单突触关联来说是足够的。在现实生活中，参与联想的语义网络很可能涉及一些这样的理想单元记忆。这就是为什么 SuperMemo 使用绝对条目难度。在 [SM-17 算法](https://supermemo.guru/wiki/Algorithm_SM-17)中，绝对条目难度是由默认的[遗忘指数](https://supermemo.guru/wiki/Forgetting_index)为 10% 时，第一次优化安排的复习的记忆[稳定性](https://supermemo.guru/wiki/Stability)的最大增幅决定的。FullRecall 网络没有输入项目难度的可靠衡量，因而神经网络低效问题更加严重。
+在理想化的情况下，稳定性和可提取性对于单一的单突触关联来说是足够的。在现实生活中，参与联想的语义网络很可能涉及一些这样的理想单元记忆。这就是为什么 SuperMemo 使用绝对卡片难度。在 [SM-17 算法](https://supermemo.guru/wiki/Algorithm_SM-17)中，绝对卡片难度是由默认的[遗忘指数](https://supermemo.guru/wiki/Forgetting_index)为 10% 时，第一次优化安排的复习的记忆[稳定性](https://supermemo.guru/wiki/Stability)的最大增幅决定的。FullRecall 网络没有输入项目难度的可靠衡量，因而神经网络低效问题更加严重。
 
 根据用户报告，FullRecall 网络似乎工作得相当好。根据目前的分析，该网络可能采用了精心选择的边界条件，然而，这样就相当于回到了 SuperMemo 旧版本中采用的[算法 SM-2](https://supermemo.guru/wiki/Algorithm_SM-2)。不用说，那个老的 SuperMemo 算法比 SuperMemo 中新的基于矩阵的代数算法更有偏见，可塑性更差。
 
@@ -446,4 +446,4 @@ SuperMemo 将沿用其代数算法，理由如下：
 
 总之，神经网络可以用来计算间隔，但从计算能力、研究价值、稳定性以及重中之重的收敛速度来看，神经网络似乎不是最好的工具。设计最优神经网络会遇到与设计代数优化程序类似的困难。最后，在「经典」[SuperMemo](https://supermemo.guru/wiki/SuperMemo)中设置的边界条件也会迟早出现在网络设计中（可以看：[神经网络 SuperMemo](https://supermemo.guru/wiki/History_of_spaced_repetition_(print)#Neural_Network_SuperMemo:_Design))。
 
-与其他函数逼近手段一样，工具选择不同，或是对算法稍一微调，收敛速度和映射准确性便有天壤之别。神经网络可用于求算一些所知尚少的附属函数，这些附属函数可用于加快代数算法的收敛速度。例如，时至今日，[条目难度](https://supermemo.guru/wiki/Complexity)估计问题还没有完全破解。我们只是告诉用户要让知识表述简单。任何教育家，只要意识到人类记忆存在限制，都会提出这一建议的。
+与其他函数逼近手段一样，工具选择不同，或是对算法稍一微调，收敛速度和映射准确性便有天壤之别。神经网络可用于求算一些所知尚少的附属函数，这些附属函数可用于加快代数算法的收敛速度。例如，时至今日，[卡片难度](https://supermemo.guru/wiki/Complexity)估计问题还没有完全破解。我们只是告诉用户要让知识表述简单。任何教育家，只要意识到人类记忆存在限制，都会提出这一建议的。

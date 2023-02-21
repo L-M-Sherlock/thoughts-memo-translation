@@ -74,7 +74,7 @@
 
 ### 已记忆
 
-在学习过程中引入的[元素:Element](https://help.supermemo.org/wiki/Glossary:Element)的总数，选项包括**[学习:Learn](https://help.supermemo.org/wiki/Learn)**或**[记忆:Remember](https://help.supermemo.org/wiki/Glossary:Remember)**。如果一个[条目:item](https://help.supermemo.org/wiki/Glossary:Item)参加了[重复:Repetition](https://help.supermemo.org/wiki/Glossary:Repetition)，它就是一个[已记忆:Memorized](https://help.supermemo.org/wiki/Glossary:Memorized_element)[条目:Item](https://help.supermemo.org/wiki/Glossary:Item)。这并不意味着它是一个记住的[条目:item](https://help.supermemo.org/wiki/Glossary:Item)。一部分[已记忆_元素:Memorized_element](https://help.supermemo.org/wiki/Glossary:Memorized_element)[条目:item](https://help.supermemo.org/wiki/Glossary:Item)总是被遗忘。*呈现的[集合 Collection](https://help.supermemo.org/wiki/Glossary:Collection)有 635,699 个[元素 Element](https://help.supermemo.org/wiki/Glossary:Element)在学习过程中，这些元素占所有注定要进入学习过程的元素的100.0%，即`记忆的/（记忆的+待定的）=100.0`。这表明推迟=0（见[推迟Pending]（https://help.supermemo.org/wiki/Statistics#Pending））*。
+在学习过程中引入的[元素:Element](https://help.supermemo.org/wiki/Glossary:Element)的总数，选项包括**[学习:Learn](https://help.supermemo.org/wiki/Learn)**或**[记忆:Remember](https://help.supermemo.org/wiki/Glossary:Remember)**。如果一个[卡片:item](https://help.supermemo.org/wiki/Glossary:Item)参加了[重复:Repetition](https://help.supermemo.org/wiki/Glossary:Repetition)，它就是一个[已记忆:Memorized](https://help.supermemo.org/wiki/Glossary:Memorized_element)[卡片:Item](https://help.supermemo.org/wiki/Glossary:Item)。这并不意味着它是一个记住的[卡片:item](https://help.supermemo.org/wiki/Glossary:Item)。一部分[已记忆_元素:Memorized_element](https://help.supermemo.org/wiki/Glossary:Memorized_element)[卡片:item](https://help.supermemo.org/wiki/Glossary:Item)总是被遗忘。*呈现的[集合 Collection](https://help.supermemo.org/wiki/Glossary:Collection)有 635,699 个[元素 Element](https://help.supermemo.org/wiki/Glossary:Element)在学习过程中，这些元素占所有注定要进入学习过程的元素的100.0%，即`记忆的/（记忆的+待定的）=100.0`。这表明推迟=0（见[推迟Pending]（https://help.supermemo.org/wiki/Statistics#Pending））*。
 
 ### 已记忆项目
 
@@ -98,13 +98,13 @@
 
 > ```
 
-> `总计=主题+条目`（[概念](https://help.supermemo.org/wiki/Glossary:Concept)和[任务](https://help.supermemo.org/wiki/Glossary:Task)用**主题**统计法计算）
+> `总计=主题+卡片`（[概念](https://help.supermemo.org/wiki/Glossary:Concept)和[任务](https://help.supermemo.org/wiki/Glossary:Task)用**主题**统计法计算）
 
 被删除的[元素](https://help.supermemo.org/wiki/Glossary:Element)不会对[集合](https://help.supermemo.org/wiki/Glossary:Collection)中的元素总数有所贡献。*在图片中，所展示的集合由727,259个[元素](https://help.supermemo.org/wiki/Glossary:Element)组成（目前用户报告的最大[集合](https://help.supermemo.org/wiki/Glossary:Collection)数量高达到50万元素以上）*。
 
-### 条目
+### 卡片
 
-[集合](https://help.supermemo.org/wiki/Glossary:Collection)中的[条目](https://help.supermemo.org/wiki/Glossary:Item)的数量。*在这个例子中，集合包括 207,443个条目**。
+[集合](https://help.supermemo.org/wiki/Glossary:Collection)中的[卡片](https://help.supermemo.org/wiki/Glossary:Item)的数量。*在这个例子中，集合包括 207,443个卡片**。
 
 ### 主题
 
@@ -330,7 +330,7 @@
 
 ### 补充说明
 
-- [条目](https://help.supermemo.org/wiki/Glossary:Item)不仅在标准重复期间被添加到[最终演练](https://help.supermemo.org/wiki/Glossary:Final_drill)，当你对一个[元素](https://help.supermemo.org/wiki/Glossary:Element)的评分低于**良好(4)**。诸如**记忆**（*Ctrl+M*）、**冻结**（*Alt+Z*）和**添加到钻头**（*Shift+Ctrl+D*）等操作也会添加到【最终钻头队列】(https://help.supermemo.org/wiki/Glossary:Final_drill_queue)。只有当你取消了**[工具包](https://help.supermemo.org/wiki/Toolkit_menu)：[选项](https://help.supermemo.org/wiki/Options)：[学习](https://help.supermemo.org/wiki/Learning_tab_in_Options)：跳过最终演练**，才会自动创建[最终演练队列](https://help.supermemo.org/wiki/Glossary:Final_drill_queue)
+- [卡片](https://help.supermemo.org/wiki/Glossary:Item)不仅在标准重复期间被添加到[最终演练](https://help.supermemo.org/wiki/Glossary:Final_drill)，当你对一个[元素](https://help.supermemo.org/wiki/Glossary:Element)的评分低于**良好(4)**。诸如**记忆**（*Ctrl+M*）、**冻结**（*Alt+Z*）和**添加到钻头**（*Shift+Ctrl+D*）等操作也会添加到【最终钻头队列】(https://help.supermemo.org/wiki/Glossary:Final_drill_queue)。只有当你取消了**[工具包](https://help.supermemo.org/wiki/Toolkit_menu)：[选项](https://help.supermemo.org/wiki/Options)：[学习](https://help.supermemo.org/wiki/Learning_tab_in_Options)：跳过最终演练**，才会自动创建[最终演练队列](https://help.supermemo.org/wiki/Glossary:Final_drill_queue)
 
 - **统计**窗口的一些字段可以被编辑。比如说。**警报**，**总时间**，**报告数**，等等。要编辑一个条目，点击它，输入新的数值，然后按*Enter*。如果该条目不能被修改，SuperMemo会警告你（例如："*保留率条目不能被修改*"）。
 

@@ -1,4 +1,4 @@
-# 普及具有新颖认知支持的写作媒体需要普及计算机阅读
+# 普及具有新颖认知支持的文字媒体需要普及电子阅读
 
 原文：[Mass adoption of written media with novel cognitive supports requires mass adoption of reading on computers (andymatuschak.org)](https://notes.andymatuschak.org/z4ANG1DVEjkbEwkhbeKtMYRGYbHGUW3mcc9aA)
 

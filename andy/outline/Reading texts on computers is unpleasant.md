@@ -16,4 +16,4 @@
 
 - [背光显示器限制计算机只能在室内使用](https://notes.andymatuschak.org/z7b7UyNrbU2chF5wehyKRvh3ABrFeHXiD5d4t)
 
-这是一个重要的问题，因为[要采用电子阅读应对大规模数字化新媒体的文本阅读](https://notes.andymatuschak.org/z4ANG1DVEjkbEwkhbeKtMYRGYbHGUW3mcc9aA)。
+这是一个重要的问题，因为[普及具有新颖认知支持的文字媒体需要普及电子阅读](https://notes.andymatuschak.org/z4ANG1DVEjkbEwkhbeKtMYRGYbHGUW3mcc9aA)。

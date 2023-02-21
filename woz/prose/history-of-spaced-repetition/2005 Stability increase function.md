@@ -246,7 +246,7 @@ repeat
 
 > 图：SInc 随着时间变化的图像。该图是用公式 [SInc2005](https://supermemo.guru/wiki/SuperMemo_Algorithm:_30-year-long_labor#SInc2005) 对 S=240 产生的。
 
-*SInc* 对时间的近乎线性相关反映在 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 中，通过用 [O-Factor](https://supermemo.guru/wiki/O-Factor) 乘以实际使用的重复间隔，而不是之前计算的[最优间隔](https://supermemo.guru/wiki/Optimum_interval)来计算新的最优间隔（在 SuperMemo 中，O-Factor 是一个二维矩阵 OF[S,D] 的条目，代表 R=0.9 的 *SInc*）。
+*SInc* 对时间的近乎线性相关反映在 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 中，通过用 [O-Factor](https://supermemo.guru/wiki/O-Factor) 乘以实际使用的重复间隔，而不是之前计算的[最优间隔](https://supermemo.guru/wiki/Optimum_interval)来计算新的最优间隔（在 SuperMemo 中，O-Factor 是一个二维矩阵 OF[S,D] 的卡片，代表 R=0.9 的 *SInc*）。
 
 ### 稳定性增长期望
 

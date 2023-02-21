@@ -6,7 +6,7 @@
 
 发布于2022年11月17日 | [审稿人：Hara Estroff Marano](https://www.psychologytoday.com/us/docs/editorial-process)
 
-在过去几个世纪或更长的时间里，我们所知道的学校教育从来都不是好的 [教育](https://www.psychologytoday.com/us/basics/education) 手段。它依赖于强制。它以错误的假设为前提，即：假设每个人在其发展过程中，可以且应该以相同的方式，在同一时间学习同样的东西。它使人们逐渐失去内在好奇心，削弱了人们了解世界的本能欲望，使学习变成了苦差事。但在几十年前，学校教育并不像今天这么糟糕。
+在过去几个世纪或更长的时间里，我们所知道的学校教育从来都不是好的[教育](https://www.psychologytoday.com/us/basics/education) 手段。它依赖于强制。它以错误的假设为前提，即：假设每个人在其发展过程中，可以且应该以相同的方式，在同一时间学习同样的东西。它使人们逐渐失去内在好奇心，削弱了人们了解世界的本能欲望，使学习变成了苦差事。但在几十年前，学校教育并不像今天这么糟糕。
 
 在其他文章中（例如 [此处](https://www.amazon.com/Free-Learn-Unleashing-Instinct-Self-Reliant/dp/0465084990/ref=sr_1_1?crid=2JZQHKNK6I7JR&keywords=Peter+Gray+Free+to+Learn+Paperback&qid=1668623856&s=digital-text&sprefix=peter+gray+free+to+learn+paperback%2Cdigital-text%2C74&sr=1-1-catcorr) ），我将20世纪50年代我上小学时的学校教育，与今天的学校教育进行了对比。那时上学最大的优势是：它需要的时间更少。当时（在美国）的学年平均比现在短5了周（[此处](https://www.columnfivemedia.com/work/infographic-americas-schools-1950s-vs-today/)）。每天上学的时间平均要少半个小时。在小学里，这一天通常包括一个小时的休息时间和一小时的午餐时间，对我们大多数人来说，这是额外的休息时间。此外，当下午放学的铃声响起时，学校的一天就结束了。小学几乎没有家庭作业，中学的家庭作业也比现在少得多。
 
