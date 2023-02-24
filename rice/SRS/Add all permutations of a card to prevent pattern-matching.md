@@ -2,7 +2,7 @@
 
 原文：[Add all permutations of a card to prevent pattern-matching](https://wiki.issarice.com/wiki/Add_all_permutations_of_a_card_to_prevent_pattern-matching)
 
-写卡片（尤其是[完型填空](https://wiki.issarice.com/index.php?title=Cloze_deletion&action=edit&redlink=1)卡片）时的一个常见问题是，大脑只是模式匹配卡片的「形状」，而不是真正处理卡片上的信息，因此你可以不用真正思考就给出正确的答案。发生这种情况是因为你的大脑知道哪些卡片在你的 Anki 牌组里，哪些卡片不在里面。防止这种模式匹配的一种方法是，把一张卡片的所有「排列」都加进去，这样你的大脑就必须做一些额外的工作来区分哪张卡片是刚刚出现的那张。
+写卡片（尤其是[挖空](https://wiki.issarice.com/index.php?title=Cloze_deletion&action=edit&redlink=1)卡）时的一个常见问题是，大脑只是模式匹配卡片的「形状」，而不是真正处理卡片上的信息，因此你可以不用真正思考就给出正确的答案。发生这种情况是因为你的大脑知道哪些卡片在你的 Anki 牌组里，哪些卡片不在里面。防止这种模式匹配的一种方法是，把一张卡片的所有「排列」都加进去，这样你的大脑就必须做一些额外的工作来区分哪张卡片是刚刚出现的那张。
 
 下面是一个例子：
 
