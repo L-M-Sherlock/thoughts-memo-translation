@@ -1,4 +1,4 @@
-# 直接教学法阻碍了前往伟大发现之路
+# 直接教学法阻碍了通往伟大发现之路
 
 原文：[Direct instruction blocks pathways to great discoveries - supermemo.guru](https://supermemo.guru/wiki/Direct_instruction_blocks_pathways_to_great_discoveries)
 

@@ -80,7 +80,7 @@ Lary 把他的孩子们从学校带走了，为此他的孩子们应该终身感
 
 一个古老的数学笑话是这样说的：**船上载着 20 只绵羊和 16 只山羊。请问船长的年龄是多少？**当我发现很大一部分孩子的答案是 36 时，我感到难以置信。我尝试与严重脱轨的大脑产生共情。我开玩笑地在一位一年级学生身上测试这个问题，得到的结果并不太令人惊讶。“答案是 50”！“因为我妈妈 25 岁了！我认为队长应该会更聪明一点，所以我觉得 50 岁应该差不多。”我被孩子的自信逗乐了，但同时也注意到他妈妈有些不舒服了。仿佛她在害怕自己会是下一个回答者。这需要进一步的测试。我无情地问了一道数学题（译者注，应该是求绵羊和山羊的总数）。当妈妈宣布那个臭名昭著的结论时，我震惊了！即答案 36。我立刻意识到，这是一种[毒性记忆](https://supermemo.guru/wiki/Toxic_memories)。这位女士因为心中对数学的恐惧而陷于瘫痪了，她认为答案一定是数字，就像膝跳反应一样，不需要任何思考。她像一个[成功被学校驯化的机器人](https://supermemo.guru/wiki/Asemantic_learning)自动地给出了答案。糟糕的数学训练对年轻人的影响只有无用的恐惧！这是一种毫无目的的恐惧，以自由和长时间在学校课桌上不断地进行枯燥训练为代价。有趣的是，这位女士是一名导购员，她似乎对数字很敏感。正是那个由数学老师提出的经典问题，激活了脑中的毒性记忆，使她的头脑混乱，破坏了这一天的快乐。于此形成鲜明对比的是一个未受损害的孩子，他无畏地做出了假设。对此，我只希望他的自由思想不会在学校受到损害
 
-我是这样看待一个恐慌的数学大脑中所发生的事件的。这一切都始于对一项经典的数学任务的认识。它会立即触发[毒性记忆](https://supermemo.guru/wiki/Toxic_memory)，将数学与焦虑状态联系起来。对数学的恐惧会麻痹智力能力，从而无法得到一个合理的解决方案。用神经学的术语来说，经过良好优化的网络会触发快速、高性能、高[稳定性](https://supermemo.guru/wiki/Stability)的电路，这些电路会立即接管寻找解决方案的工作。这些电路的特点是低[连贯性](https://supermemo.guru/wiki/Coherence)，不能很好地与世界知识集成。它们的目标是通过快速思考提供机器人式的解决方案。多年来，通过[干扰](https://supermemo.guru/wiki/Interference)，寻找解决方案的算法可能已经失去了对任务中涉及的实际逻辑输入的响应的所有痕迹。相反，大脑将问题剥离到最基本的部分，并遵循算法：
+这是我对恐慌性数学思维中所发生事件的理解。它始于对典型数学任务的识别，瞬间触发与焦虑状态相关联的[毒性记忆](https://supermemo.guru/wiki/Toxic_memory)。对数学的恐惧会麻痹所有可能导致合理解决方案的智力能力。在神经学中，经过充分优化的网络会触发快速、高性能、高[稳定性](https://supermemo.guru/wiki/Stability)电路，这些电路立即接管找解决方案的任务。这些电路的特点是低[连贯性](https://supermemo.guru/wiki/Coherence)，不能与世界知识集成。它们的目标是通过快速思考提供机械化的解决方案。算法可能因为多年[干扰](https://supermemo.guru/wiki/Interference)，已经失去了对任务所涉及逻辑输入的实际响应，而将问题简化为最基本的部分，遵循该算法。
 
 - 如果一个数学任务中出现了两个数字，使用了 4 个基本运算符：+，-，*，:，并选择最合理的结果
 
@@ -88,31 +88,31 @@ Lary 把他的孩子们从学校带走了，为此他的孩子们应该终身感
 
 - 如果数字太大，无法使用算符，那么就放弃，跳到下一个测试来解决。在现实生活中，玩一个转移注意力的游戏，掩盖你的行踪。确保你不会因为无知被抓到，让人看到你脱下数学裤子的样子
 
-“掩盖”的最后一部分可能会加重“毒性记忆”(https://supermemo.guru/wiki/Toxic_memories)，导致*数学焦虑*。
+“掩盖”的最后一部分可能会加重[毒性记忆](https://supermemo.guru/wiki/Toxic_memories)，导致*数学焦虑*。
 
-与此形成对比的是，一个刚学会走路的孩子玩乐高积木，他会不断地重新洗牌那堵砖墙，直到它变得平衡，并为进入下一个阶段提供了空间。小鼻涕虫会将数字感内在化，并[连贯地](https://supermemo.guru/wiki/Coherence)和[一致地](https://supermemo.guru/wiki/Consistency)利用他的[学习内驱力](https://supermemo.guru/wiki/Learn_drive)和他的[知识估值网络](https://supermemo.guru/wiki/Knowledge_valuation_network)将其与他的世界知识整合起来。
+与此形成对比的是，一个刚学会走路的幼儿玩乐高积木，他会不断地重新搭建那堵积木墙，直到它变得平衡，并为进入下一个阶段提供了空间。这个小家伙会透过[学习内驱力](https://supermemo.guru/wiki/Learn_drive)和[知识估值网络](https://supermemo.guru/wiki/Knowledge_valuation_network)将数字感内化，并[连贯](https://supermemo.guru/wiki/Coherence)且[一致地](https://supermemo.guru/wiki/Consistency)将其融入他的世界知识之中。
 
-从表面上看，我们抽象的成年人大脑可以看到同样的数学问题需要解决。我们的同理心太弱，无法逃离抽象。另一方面，对于一个不成熟的大脑，同样强大的[学习机制](https://supermemo.guru/wiki/Learn_drive)可以用于两种完全不同的工作:(1)解决现实生活中的数学问题，或(2)在教室里生存。
+从表面上看，我们成年人的抽象大脑可以看到同样的数学问题需要解决。但我们的同理心太弱，无法逃离抽象的世界。相反，对于一个不成熟的大脑，同样强大的[学习机制](https://supermemo.guru/wiki/Learn_drive)可以用于两种完全不同的工作：（1）解决现实生活中的数学问题，或（2）在课堂中生存。
 
-[学习内驱力](https://supermemo.guru/wiki/Learn_drive)——进化过程中形成的天才神经机制——的失用是[现代大众教育的悲剧]的关键(https://supermemo.guru/wiki/Problem_of_schooling)
+[学习内驱力](https://supermemo.guru/wiki/Learn_drive)——进化过程中形成的天才神经机制。它的失用是[现代大众教育的悲剧](https://supermemo.guru/wiki/Problem_of_schooling)的关键
 
 ## 我在学校没学过数学
 
-以下是我个人的偏见:
+以下是我个人的偏见：
 
-个人轶事：[为什么使用轶事？](https://supermemo.guru/wiki/Why_use_anecdotes%3F)
+个人轶事。[为什么使用轶事？](https://supermemo.guru/wiki/Why_use_anecdotes%3F)
 
-我曾在数学老师的教室里待过很多年，黑板上写着无聊的方程式，由于我的近视，我甚至看不清(https://supermemo.guru/wiki/Harm_of_eyeglasses)。我这辈子学的所有数学，都是我自己学的。我掌握的所有最好的工具都需要长时间在纸上或电脑上摆弄。我希望所有的孩子都有更多的自由、时间和精力去探索。因此，我们不能把他们关在学校的监狱里。如果时间允许，我计划写一篇关于学习数学的长篇文章，在那里我将展示学术指导和真正的学习之间的区别
+我在教室里跟随数学老师度过了许多年，黑板上写满了无聊的方程式，而由于[我的近视问题](https://supermemo.guru/wiki/Harm_of_eyeglasses)，我甚至看不清楚。但是我这一生所学的数学，都是自学的。掌握所有最好的工具都需要在纸上或电脑上花费数小时摆弄。我希望所有的孩子都有更多的自由、时间和精力来探索数学。为此，我们不能将他们禁锢在学校的牢笼中。如果时间允许，我计划撰写一篇更长的文章，探讨学习数学的方法，揭示学术指导与真正学习之间的差异。
 
 ## 天才思维的谬误
 
-这个星球上最聪明的人似乎对教育的看法是最错误的，这并非巧合。[伟大的教育改革](https://supermemo.guru/wiki/Education_Reform)的最大障碍之一是，成年人的大脑存在一种错觉，认为两个孩子之间的大脑相似，并按照相似的原理工作。天才很难与普通人产生共鸣。对于一个可能处于[增殖阶段](https://supermemo.guru/wiki/Childhood_amnesia)或处于修剪阶段的正在生长的大脑来说，这就更难强调了。这种成长过程是一种严重的障碍，忽视[学习的基本规律](https://supermemo.guru/wiki/Fundamental_law_of_learning)尤其危险。培养一个强大的抽象大脑需要30年，再花20-30年把它提升到人类智慧的最高水平。这个高度抽象的成人大脑可能会设定抽象的目标，随意吞噬抽象的知识。这在年轻的大脑中是不可能的，因为他们不能[受到外在激励](https://supermemo.guru/wiki/Extrinsic_motivation)，并且与抽象动机作斗争。知识必须先有回报。然后大脑会慢慢转向基于目标的奖励，在几十年之后，理性的大脑可以在纯粹理性的基础上选择目标。即便如此，老人的大脑里还是住着一个孩子，我们根据时尚、情感、小奖励、习惯、弱点、扭曲的偏好等因素进行挑选。[比尔·盖茨想知道](https://supermemo.guru/wiki/Bill_Gates_is_wrong_about_education)为什么一堂可爱的晶体学讲座会有很高的辍学率。[Larry Sanger](https://supermemo.guru/wiki/Larry_Sanger)坚持认为，早期的数学学术教育可能会带来优势。就连[Peter Gray（彼得 · 格雷）](https://supermemo.guru/wiki/Peter_Gray)也犯了无知的错误。在他的儿子因拒绝上学而发脾气把他送进学校的地狱之前，格雷接受了一个标准的思想钢印的假设:“学校很好”。我自己的转变始于与[讨厌上学的孩子们](https://supermemo.guru/wiki/Why_kids_hate_school)的长谈。多年来，我的默认想法是:“这只是一个糟糕的老师。”这只是一所糟糕的学校”*等等。我从未停止鼓励孩子们。我总是让他们考虑上大学的事。我花了数年时间对知识获取过程进行详细分析，才明白这一角度。我们需要认识到，天才的头脑是有机生长的。不能灌注一些东西给它。它无法被训练。学习和思考的自由是关键的第一步。成人天才不是借口。它也需要退让，让孩子们按照自己的方式成长。
+这个星球上最聪明的人似乎对教育的看法是最错误的，这并非巧合。实现[伟大的教育改革](https://supermemo.guru/wiki/Education_Reform)的最大障碍之一是成年人认为孩子的大脑类似并按照相似的原则运作的错觉。天才难以同普通人产生共鸣，但更难以同处于[增殖阶段](https://supermemo.guru/wiki/Childhood_amnesia)或修剪阶段的大脑产生共鸣。这些成长过程构成了严重的障碍，忽视[学习的基本规律](https://supermemo.guru/wiki/Fundamental_law_of_learning)尤其危险。培养一个强大的抽象大脑需要 30 年，再花 20-30 年达到人类智慧的巅峰。这个高度抽象的成人大脑可以自由地设定抽象目标并吞噬抽象知识。然而，对于年轻的大脑而言，这是不可能的，因为他们无法[从外部获得激励](https://supermemo.guru/wiki/Extrinsic_motivation)并且难以理解抽象的动机。知识在一开始必须是其自身的回报。然后大脑可以逐渐转向基于目标的奖励，并在几十年后，理性大脑可以基于纯理性的基础选择目标。即便如此，老年人的大脑内部仍然存在一个孩子，我们根据时尚、情感、小奖励、习惯、弱点、扭曲的偏好等因素进行选择。[比尔·盖茨想知道](https://supermemo.guru/wiki/Bill_Gates_is_wrong_about_education)为什么一场可爱的晶体学讲座会有很高的辍学率。[Larry Sanger](https://supermemo.guru/wiki/Larry_Sanger) 坚持认为，在数学方面的早期学术教育可能会提供一个优势。就连 [Peter Gray](https://supermemo.guru/wiki/Peter_Gray) 也有无知的时候。在他的儿子因为拒绝上学而发脾气导致他被送进学校之前，Gary 坚信一种文化传递的假设：“学校是好的”。而我自己的转变则始于与[讨厌上学的孩子们](https://supermemo.guru/wiki/Why_kids_hate_school)的长谈。多年来，我一直默认认为：“这只是一个糟糕的老师。这只是一所糟糕的学校。”我从未停止鼓励孩子们，并鼓励他们考虑上大学的可能性。但是，只有经过对知识获取过程的多年详细分析，我才看到了问题的本质。我们需要认识到，天才的头脑是有机生长的，它不能被灌输，也不能被训练。学习和思考的自由是关键的第一步。成年人的天才也不是理由，他们也需要退后一步，让孩子们按照自己的方式成长。
 
 ## 学校教育扭曲现实
 
-为了解释[学校教育的问题](https://supermemo.guru/wiki/Problem_of_schooling)，我试图将人类知识与现实联系起来描绘为一个表面。这个表面与现实世界接触，现实世界形成了它自己的暴露面。当这两个表面接触时，学习就发生了。接触表面的形状是由大脑的目标决定的。由于所有的知识估值都是通过[知识估值网络](https://supermemo.guru/wiki/Knowledge_valuation_network)过滤的，目标决定了人类知识与现实世界联系的表面。目标的改变就像一个看不见的画家，重新描绘和重新着色的现实。当目标从[仅仅学习](https://supermemo.guru/wiki/Learn_drive)转变为考试、成绩和分数时，学校教育扭曲了现实，极大地改变了大脑的发展轨迹。
+为了阐述[学校教育的问题](https://supermemo.guru/wiki/Problem_of_schooling)，我试图将人类知识与现实的联系描绘为一个表面。这个表面与现实世界接触，现实世界形成了它自己的暴露面。当这两个表面接触时，学习就发生了。接触表面的形状是由大脑的目标决定的。由于所有的知识估值都是通过[知识估值网络](https://supermemo.guru/wiki/Knowledge_valuation_network)过滤的，目标决定了人类知识与现实世界接触的表面。目标的变化就像一个看不见的画家重新描绘和重新着色现实一样。当目标从[仅仅学习](https://supermemo.guru/wiki/Learn_drive)转变为考试、成绩和分数时，学校教育扭曲了现实，极大地改变了大脑的发展轨迹。
 
-受过学校教育的大脑所掌握的知识只有丰富环境中[学习动力](https://supermemo.guru/wiki/Learn_drive)所能提供的一小部分。此外，学校传授的知识具有低[连贯性](https://supermemo.guru/wiki/Coherence)的特点，这会破坏其[稳定性](https://supermemo.guru/wiki/Stability)，增加[遗忘](https://supermemo.guru/wiki/Forgetting)，并增加[对其他知识领域的干扰](https://supermemo.guru/wiki/Interference)。最重要的是，作为创造力基础的知识的联想能力被削弱了。这对[解决问题]的能力有巨大的影响(https://supermemo.guru/wiki/How_to_solve_any_problem%3F)。
+受过学校教育的大脑所掌握的知识只有丰富环境中[学习内驱力](https://supermemo.guru/wiki/Learn_drive)所能提供的一小部分。此外，学校传授的知识常常缺乏[连贯性](https://supermemo.guru/wiki/Coherence)，这不利于其[稳定性](https://supermemo.guru/wiki/Stability)，增加[遗忘](https://supermemo.guru/wiki/Forgetting)的程度，并会增加[对其他知识领域的干扰](https://supermemo.guru/wiki/Interference)。最重要的是，作为创造力基础的知识的联想能力被削弱了。这对[解决问题](https://supermemo.guru/wiki/How_to_solve_any_problem%3F)的能力有巨大的影响。
 
 经过多年的学校教育，大脑在解决问题方面准备不足
 

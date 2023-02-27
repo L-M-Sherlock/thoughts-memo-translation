@@ -1,4 +1,4 @@
-# 被索引的参考资料与标签
+# 索引参考 vs. 标签
 
 原文：[Indexed references vs. tags (andymatuschak.org)](https://notes.andymatuschak.org/z6ztEgzqZichYTJgabhYQLn4UY4FbC1JMH394)
 
