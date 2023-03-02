@@ -1,3 +1,39 @@
-# 在读取网页内容时内嵌写入间隔重复提示的接口
+# 在读取网页内容时内置写入间隔重复提示的接口
 
 原文：[Interface for writing spaced repetition prompts inline while reading web content (andymatuschak.org)](https://notes.andymatuschak.org/z6NAUU151tRAwC9JCEbi5aW7PVU2BFiwmsFWt)
+
+[助记媒介可以扩展到个人笔记](https://notes.andymatuschak.org/z5ARNXtS5VxteskEW91S1yYTgAcLABNXsZuJE)；这种方式为我的提示提供了结构，并让我更流畅、更自信地编写它们。但是在阅读材料和笔记之间来回切换仍然不流畅。而且，在阅读笔记中的提示时，我有时仍然会感到迷惑，因为[散文笔记中关于源材料的提示缺乏上下文](https://notes.andymatuschak.org/z39cc5AFaeVExHJkKKEEjAohRNZxz7iuZWSTX)。我的直觉是，某种内置交互会在这里有所帮助。
+
+在[2022-12-22](https://notes.andymatuschak.org/2022-12-22)我做了一个类似的工作流原型。
+
+- 我使用[Hypothes.is](https://notes.andymatuschak.org/z24wddcuZTB2YvHTA4LkZ759DhydyufhrzCh)来编写内置提示（使用的格式与[我的个人助记媒介实现](https://notes.andymatuschak.org/z4mAF1uBV96r72e4NjLcDaujEyTPGiUQJEj8C)中所述的格式相同）
+
+- [Obsidian](https://notes.andymatuschak.org/z3aPTeVY2CVJqs61k26bHCvTZnniAK3hMEk3B)的[插件](https://github.com/weichenw/obsidian-hypothesis-plugin)将这些内置提示导入到我的 Markdown 笔记中（模板字符串：[20211227122651 ](https://notes.andymatuschak.org/20211227122651)）
+
+- [Orbit](https://notes.andymatuschak.org/z72ioKyd4X48WndtAsfkhnKwsD8o5PaaT384o)的‘笔记同步’功能导入这些提示。
+
+## 日志
+
+[2022-12-30(https://notes.andymatuschak.org/z6WvCc6W6ikmyPRRzxD1PCZ2ntTw7txyg9rCZ)：[Ozzie Kirkby](https://notes.andymatuschak.org/zn9igQGgecLncBSpKbgv5123mC5YEAP3hnfP)尝试将机器生成的提示与我的提示相匹配！[他的笔记](https://gist.github.com/kirkbyo/3530442c3bcdfc3cd5a5b95cafde9d0e)。
+
+- Ozzie的一个深思熟虑的问题帮我注意到：“在大多数情况下，我阅读时是在实时编写提示。我注意到，与平时阅读时相比，这样做的阻力要小很多。我认为降低阻力会使单次阅读更易处理。
+
+------
+
+[2022-12-27](https://notes.andymatuschak.org/zgTBe9eLWVyAosrskDqtgd1RRoQn-WXPitXut)：迄今为止得到的观察结果。
+
+- 与将这些提示写在我的笔记中相比，将它们内置写入感觉要好得多，这让我感到惊讶。
+
+- 我注意到上下文切换更加轻量级。切入我的笔记和返回需要在每个环境中定位自己：我在哪里？下一张卡片在哪里？当切换回之后：我在当前页面的什么位置？
+
+- 标重点功能让我对“覆盖范围”有一些非常粗略的印象。当我在文章笔记中写提示时，我认为我正在做一些心理簿记，以最终我写了什么卡片，我没有写什么。
+
+  - 有时，我需要“找到”我写的关于某个概念的卡片，我可以通过滚动到文本中介绍该概念的位置，然后单击合适的标重点轻松地做到这一点。
+
+- 当我查看我已经编写的卡片时，[Hypothes.is](https://notes.andymatuschak.org/z24wddcuZTB2YvHTA4LkZ759DhydyufhrzCh)界面是这样的，我几乎总是在上下文中查看它 —— 我同时看到“邻近”的文本。这太棒了！
+
+- 原则上，在这里极大的优点*应该是*空间性——即卡片位置和文本位置之间的物理关联。不幸的是，这种效果在我目前的原型中减弱了，因为[Hypothes.is](https://notes.andymatuschak.org/z24wddcuZTB2YvHTA4LkZ759DhydyufhrzCh)的注释并没有真正空间化，就像谷歌办公软件的注解一样：它们位于侧边栏中的线性列表中。
+
+  - 这意味着我不能简单地滚动到我感兴趣的页面部分，并查看“邻近”卡片。相反，我必须先滚动到页面的一部分，接着点击随机的标重点，以将侧边栏滚动到右侧“附近”，然后从那里浏览，但哪里没有明确标明附近的“边缘”。
+
+  - 我很惊讶他们没有在空间上分布注解，因为他们努力在侧边栏的槽中构建非常精细的“提示”，这些“提示”确实是空间化的。

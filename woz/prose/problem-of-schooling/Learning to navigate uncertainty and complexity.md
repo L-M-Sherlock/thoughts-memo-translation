@@ -36,7 +36,7 @@
 
 [![Creative handwriting may be penalized at school](https://supermemo.guru/images/thumb/5/5b/Creative_handwriting_penalized_at_school.png/400px-Creative_handwriting_penalized_at_school.png)](https://supermemo.guru/wiki/File:Creative_handwriting_penalized_at_school.png)
 
-> 图：孩子们被安排手写作业后，往往会感到不耐烦。在平板电脑和笔记本电脑的时代，触摸板或触摸屏似乎才是正途。如果孩子对抄写大写字母不耐烦，他可能会因为创造性的解决方案而受到斥责：大量写出字母 A。这是值得赞扬的，而不应批评。这是学校破坏创造力的许多现实例子之一。
+> 图：孩子们被安排手写作业后，往往会感到不耐烦。在平板电脑和笔记本电脑的时代，触摸板或触摸屏似乎才是正途。如果孩子对抄写大写字母不耐烦，他可能会因为创造性的解决方案而受到斥责：重复书写字母 A。这是值得赞扬的，而不应批评。这是学校破坏创造力的许多现实例子之一。
 
 ## 学校教育对智力的影响
 
