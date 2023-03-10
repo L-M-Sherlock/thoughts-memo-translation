@@ -128,7 +128,7 @@
 
 - [学校教育的徒劳](https://supermemo.guru/wiki/Futility_of_schooling)
 
-## 摘要
+## 总结
 
 - 小孩子采用[语义学习](https://supermemo.guru/wiki/Semantic_learning)，他们的元认知能力很差。
 

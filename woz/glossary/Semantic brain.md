@@ -16,6 +16,8 @@
 
 学校的早期学习是以无语义学习(https://supermemo.guru/wiki/Asemantic_learning)为目的的。例如，孩子们通过唱歌的方式记忆字母表。诗歌记忆是从幼儿园时期开始的一种早期的学习技巧。有无数种对于数学计算的助记法。所有这些帮助记忆的工具都能够让我们从记忆中背诵出来一些事实，但无论如何，他们都会为学习习惯带来负面的影响。在多年的[学校教育](https://supermemo.guru/wiki/Schooling)之后，孩子们可能习惯地尝试采用助记法去完成对于新知识的记忆。这削弱了[实用性](https://supermemo.guru/wiki/Applicability)和[智力](https://supermemo.guru/wiki/Intelligence)。见：[50个在学校会养成的坏习惯](https://supermemo.guru/wiki/50_bad_habits_learned_at_school)。
 
+[学校教育](https://supermemo.guru/wiki/Schooling)和[课程体系](https://supermemo.guru/wiki/Curriculum)的全部进化过程是被不断增加的对于无语义内容的强调驱动的。这完全是因为这种内容类型似乎很难被完全掌握，尤其是在幼儿时期。这就是为什么数学乘法表在与现代人脑对[解决问题](https://supermemo.guru/wiki/Problem_solving)的能力关联越来越弱的情况下，已经逐渐成为了幼儿数学素养的评估要素。完整的阅读教育被推到了越来越低的年龄段，如果阅读成绩令人不满意，对神经科学知之甚少的教育者的世界会推动早期阅读的发展，作为一种预防文盲的手段。相反地，很少的孩子们的老师能够频繁地观察到无语义教学造成的损害的程度。（例：[没有孩子掉队]之后(https://supermemo.guru/wiki/No_Child_Left_Behind)）。
+
 ## 自由和记忆
 
 ## 学校的习惯
@@ -25,6 +27,8 @@
 当年纪更大一点的时候，这些无语义习惯可能导致毒性记忆(https://supermemo.guru/wiki/Toxic_memories)以及在面对复杂的讲堂、演讲、文章、视频等等时的恐慌。幼童和还没受过学校教育的孩子们从不会在面对复杂的知识或者其他人丰富的阅历、渊博的学识时感到惊慌。在最坏的情况下，他们才会因为价值流的不足而感到无聊(i.e. [learntropy](https://supermemo.guru/wiki/Learntropy))。
 
 ##  无语义学习
+
+对于一个小孩子来说，[SuperMemo所提供的理论不太奏效](https://supermemo.guru/wiki/SuperMemo_does_not_work_for_kids)。即使是与[学校教育](https://supermemo.guru/wiki/Schooling)令人不快的背景有关的物体，也能够成为小孩子的[毒性记忆](https://supermemo.guru/wiki/Toxic_memory)。如果这个[物体](https://supermemo.guru/wiki/Item)携带着很好的连接性和[语义点击](https://supermemo.guru/wiki/Semantic_learning)，那么它的成功是理所应当的。无论如何，任何事物都不能与“真实生活”在创造[语义记忆](https://supermemo.guru/wiki/Semantic_learning)的效率相匹敌。这些记忆能够在[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)中被有效地保留。
 
 在较小的年龄段中，[自由学习](https://supermemo.guru/wiki/Free_learning)的效率是无与伦比的。而外界对其的干预会通常会产生一定的危害。
 

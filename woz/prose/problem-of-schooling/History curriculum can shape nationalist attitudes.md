@@ -68,7 +68,7 @@ Dzierzgowska 和 Laskowski 的评论描绘了波兰小学历史课标的悲哀�
 
 - [自由学习：学习历史](https://supermemo.guru/wiki/Learning_history:_school_vs._self-directed_learning)
 
-- [禁止家庭教育](https://supermemo.guru/wiki/Ban_on_homeschooling)
+- [禁止在家上学](https://supermemo.guru/wiki/Ban_on_homeschooling)
 
 - [强制学校教育必须结束](https://supermemo.guru/wiki/Compulsory_schooling_must_end)
 

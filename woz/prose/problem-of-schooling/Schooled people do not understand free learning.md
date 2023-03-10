@@ -18,6 +18,8 @@
 
 有毒的学校教育
 
+童年的激情
+
 进步无法被衡量
 
 [![Exploration pathways at school and in unschooling.png](https://supermemo.guru/images/thumb/8/87/Exploration_pathways_at_school_and_in_unschooling.png/500px-Exploration_pathways_at_school_and_in_unschooling.png)](https://supermemo.guru/wiki/File:Exploration_pathways_at_school_and_in_unschooling.png)

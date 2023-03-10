@@ -104,7 +104,7 @@
 
     >…这可能是因为有指定阅读材料的讲座对老师来说是最容易的。此外，医学的学习很少在听完一节课或第一次阅读新材料后立即进行测试，然后在几天或几周后再次测试，因此这种方法导致的低保留率可能不会被广泛认可。[4](https://www.gwern.net/docs/www/pdfs.semanticscholar.org/191557c35430cc1408868f124af48e4a6c9f80fc.pdf)难怪那些没有启用或加强实践策略的正式医学教育会议对实践和医疗保健结果的影响相对较小。[8](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.556.6124&rep=rep1&type=pdf)⁠，[9](https://www.gwern.net/docs/spaced-repetition/1998-davis.pdf)⁠，[10](https://www.gwern.net/docs/spaced-repetition/1995-davis.pdf)
 
-13.    关于死记硬背的一项研究表明 [“Cramming: A barrier to student success, a way to beat the system or an effective learning strategy?”](https://www.researchgate.net/publication/232606103_Cramming_A_Barrier_to_Student_Success_a_Way_to_Beat_the_System_or_an_Effective_Learning_Strategy)⁠⁠, Vacha et al 1993，摘要：
+13.    关于死记硬背的一项研究表明 [“Cramming: A barrier to student success, a way to beat the system or an effective learning strategy?”](https://www.researchgate.net/publication/232606103_Cramming_A_Barrier_to_Student_Success_a_Way_to_Beat_the_System_or_an_Effective_Learning_Strategy)⁠⁠, Vacha et al 1993，总结：
 
     > 通过检查166名大学生的每周学习日记，来验证填鸭式学习是一种无效的学习策略这种假说。所有学生完成了一份学期末问卷，以调查他们的学习习惯。学生被分为以下几种学习模式：理想、自信、热情或死记硬背。与假设相反，研究结果表明，填鸭式学习是一种有效的方法，在使用课后随笔考试和主要研究论文的课程中最为普遍。填鸭式学习者的成绩与使用其他的学生一样好，甚至更好；学生在大学里呆的时间越长，填鸭式学习的可能性就越大。填鸭式学习者比大多数学生学习的时间更长，并且和其他学生一样对他们的课程感兴趣。
 
@@ -168,7 +168,7 @@
 
 23.    这种指数级的增长就是间隔重复程序处理卡片的持续输入的方式：如果卡片安排在固定的时间间隔，就像每隔一天，那么复习很快就会变得不现实——我在 Mnemosyne 有超过 18000 个项目，但我没有时间每天复习 9,000 个问题！[↩︎](https://www.gwern.net/Spaced-repetition#fnref23)
 
-24.    见 2008 [元分析](https://en.wikipedia.org/wiki/Meta-analysis)⁠, [“Learning Styles: Concepts and Evidence”](https://www.gwern.net/docs/www/www.psychologicalscience.org/821181b73696073302c8b70bbe3215dca60763e6.pdf) ([APS press release](https://www.psychologicalscience.org/index.php/news/releases/learning-styles-debunked-there-is-no-evidence-supporting-auditory-and-visual-learning-psychologists-say.html)); 来自该文摘要：
+24.    见 2008 [元分析](https://en.wikipedia.org/wiki/Meta-analysis)⁠, [“Learning Styles: Concepts and Evidence”](https://www.gwern.net/docs/www/www.psychologicalscience.org/821181b73696073302c8b70bbe3215dca60763e6.pdf) ([APS press release](https://www.psychologicalscience.org/index.php/news/releases/learning-styles-debunked-there-is-no-evidence-supporting-auditory-and-visual-learning-psychologists-say.html)); 来自该文总结：
 
     > …为了证明最优的学习效果，需要学生接受所谓适合他们学习风格的教学，实验必须揭示学习风格和教学方法之间的一种特定的互动类型：对某一种学习风格的学生，那些证明最有效的教学方法，对其他学习风格的学生来说，往往没那么有效。
 
@@ -244,7 +244,7 @@
 
     > …该处理在第一次考试中产生的效应量（F2）为 0.013，在第二次考试中为 0.029，在第四次考试中为 0.035，对期末课程百分比成绩的影响为 0.040。虽然效果似乎很小，但实验组在每一种情况下都比对照组得分高。第一次、第二次和第四次考试的平均差异为 5.13 个百分点，这对实验组的学生来说意味着大约三分之一的字母成绩的优势。此外，由实验组获得的较高的最低分数可以指示分布式练习法用于消除极低分数（参见表 3）…奇怪的是，分散练习法并没有对期末考试成绩产生[统计上]显著的影响。造成这种差异的一个可能原因是 USAFA 的政策，即免除表现最好的学生参加期末考试。在 16 名免考学生中，有 11 名来自实验组，只有 5 名来自对照组。
 
-41.    Balch 2006 摘要:
+41.    Balch 2006 总结:
 
     > 两个心理学导论班（*N* = 145）参加了一个平衡的课堂实验，该实验展示了间隔效应，通过类推，证明了分散学习的好处。在听了两次集中或分散呈现的单词后，参与者回忆了这些单词，并对他们回忆的方案进行了评分，他们可靠地记住了更多分散学习的单词而不是集中学习的单词。在多项选择题测试中，测试后的分数平均约为测试前的两倍，表明了在传达内容方面的练习的有效性。学生的主观评分表明，该实验有助于说服他们相信分散学习的好处。
 

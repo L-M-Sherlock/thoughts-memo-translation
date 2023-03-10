@@ -200,7 +200,7 @@ Robert Sapolsky 博士经常引用的研究表明，我们可能对其他事物�
 
 - [错误模型的价值](https://supermemo.guru/wiki/Value_of_wrong_models)
 
-##摘要
+##总结
 
 - 对社会媒体的审查可能导致危险的社会无知
 

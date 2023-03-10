@@ -120,7 +120,7 @@ Wolfram 的科学对小孩子来说本来就有吸引力。他的图表很吸引
 
 科学的未来将取决于丰富的新鲜和不同的[概念化](https://supermemo.guru/wiki/Conceptualization)大脑，它们将利用[自由学习](https://supermemo.guru/wiki/Free_learning)的原则来促进智力[多样性](https://supermemo.guru/wiki/Diversity)
 
-## 摘要
+## 总结
 
 - 大脑配备了一个最佳适应引导装置：[学习内驱力](https://supermemo.guru/wiki/Learn_drive)系统（见：[学习内驱力的最优化](https://supermemo.guru/wiki/Optimality_of_the_learn_drive)
 

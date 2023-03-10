@@ -210,7 +210,7 @@
 
 在这一点上，有趣的是注意到交错可能对有心理成分的任务也有帮助：根据  [Hatala et al 2003](https://www.gwern.net/docs/spaced-repetition/2003-hatala.pdf)⁠，[Helsdingen et al 2011](https://pdfs.semanticscholar.org/7e0c/1bb80cbc332f07bda26a75a163a9cf76d591.pdf)⁠，[Huang et al 2013](https://www.gwern.net/docs/www/jeffhuang.com/cbc151c00097845b3fdaa8cceb79a03a07af44ef.pdf)，XBOX*[光环：Reach](https://en.wikipedia.org/wiki/Halo%3A_Reach)*视频游戏玩家在技能比赛中的进步率从分布中很好地预测了：每周玩 4-8 场比赛的玩家，在每场比赛的技能进步，高于玩更多(分散)的玩家 ；但每周的进步速度低于打更多(集中)的比赛的玩家 。(另见 [Stafford & Haasnoot 2016](http://eprints.whiterose.ac.uk/97780/)⁠.)
 
-##### [摘要](https://www.gwern.net/Spaced-repetition#abstraction)
+##### [总结](https://www.gwern.net/Spaced-repetition#abstraction)
 
 另一个可能的反对意见[52](https://www.gwern.net/Spaced-repetition#sn52)是，间隔重复从本质上阻碍了各种抽象学习和思考，因为相关的材料没有放在一起回顾——从而能比较、推理——而是分散到几天或几个月的间隔。Ernst A.Rothkopf 说：「间隔是回忆的朋友，却是归纳的敌人」(Kornell & Bjork, 2008, p. 585)。根据一些早期的研究[53](https://www.gwern.net/Spaced-repetition#sn53)，这似乎是合理的，但我知道的最近的 4 个研究都直接检验了这个问题，这些研究都发现间隔重复有助于抽象和一般回忆：
 
@@ -246,7 +246,7 @@
 
 12. Gluckman et al, [“Spacing Simultaneously Promotes Multiple Forms of Learning in Children’s Science Curriculum”](https://www.gwern.net/docs/www/babytalk.psych.ucla.edu/e6efd4fcb3e27fc46908642a0f0c6a00fe4d17ea.pdf)
 
-### [综述摘要](https://www.gwern.net/Spaced-repetition#review-summary)
+### [综述总结](https://www.gwern.net/Spaced-repetition#review-summary)
 
 总结要旨就是：
 

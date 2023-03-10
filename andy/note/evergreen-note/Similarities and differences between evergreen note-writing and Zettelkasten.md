@@ -14,7 +14,7 @@
 
 - 怦然相遇之妙（[笔记应该让你吃惊](https://notes.andymatuschak.org/z4KZ9973AoHhvM9Pj5Qrds48JXNbMEwVJmVRw)）
 
-- 看重自我想法的生发及其成长，而不仅仅是积累、摘要他人的想法（[常青笔记是发展大胆想法的安全场所](https://notes.andymatuschak.org/z8RTzukqNLKFXzqLwx25HrUrg5E5jiziGznWB)，[自我思考](https://notes.andymatuschak.org/z4enRPbLXdD8X8hCfVjaRkcGkronvhcfrgSQw)，而非[庸常之书](https://notes.andymatuschak.org/z3SqGJPwaWsZpbAZJLdCaAKfLcLJqZ4BqsRN7)
+- 看重自我想法的生发及其成长，而不仅仅是积累、总结他人的想法（[常青笔记是发展大胆想法的安全场所](https://notes.andymatuschak.org/z8RTzukqNLKFXzqLwx25HrUrg5E5jiziGznWB)，[自我思考](https://notes.andymatuschak.org/z4enRPbLXdD8X8hCfVjaRkcGkronvhcfrgSQw)，而非[庸常之书](https://notes.andymatuschak.org/z3SqGJPwaWsZpbAZJLdCaAKfLcLJqZ4BqsRN7)
 
     - 强调使用自己的话，即使在描述别人的观点时也是如此（[围绕所读内容写笔记，以求深刻内化文本](https://notes.andymatuschak.org/zg3fYweZpbHeBTpcYke5mF4ZfrJutYcQEtFo))
 

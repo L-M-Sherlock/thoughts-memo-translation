@@ -1,6 +1,6 @@
 # 概率和统计是具有可探索媒介的领域
 
-原文：https://wiki.issarice.com/wiki/Probability_and_statistics_as_fields_with_an_exploratory_medium
+原文：[Probability and statistics as fields with an exploratory medium](https://wiki.issarice.com/wiki/Probability_and_statistics_as_fields_with_an_exploratory_medium)
 
 对于概率和统计学，我注意到的一点是，当我在研究一些东西（最近，我在思考[[1]](https://wiki.issarice.comhttps://stacky.net/wiki/index.php?title=Against_the_odds:_a_caution_to_practical_Bayesians))，而不太确定答案是什么时，我常常可以简单编写一个 Python 程序，来测试我的想法/检查我的工作。尽管有概率编程这种更高级的玩意，但目前我甚至不需要这些，仅仅是简单的蒙特卡洛式的采样+计算各种数字的程序，就已经是很不错的「可探索媒介」和验证机制了。
 
@@ -12,10 +12,10 @@
 
 ---
 
-1.[↑](https://wiki.issarice.com#cite_ref-1) 我认为建立这样一个问题库会相当有趣 : 你不必解决整个问题，但你可以提交一个高水平的想法，或想出三个想法并提交。然后这个问题库可以回应这个高水平的策略是否有效。你便能训练直觉，了解哪些高层次的策略是有效的，而不需要经历所有低层次的细枝末节。
+1. [↑](https://wiki.issarice.com#cite_ref-1) 我认为建立这样一个问题库会相当有趣 : 你不必解决整个问题，但你可以提交一个高水平的想法，或想出三个想法并提交。然后这个问题库可以回应这个高水平的策略是否有效。你便能训练直觉，了解哪些高层次的策略是有效的，而不需要经历所有低层次的细枝末节。
 
 ## 链接到本文
 
 * [可探索媒介中的有限性假设](https://wiki.issarice.com/wiki/Finiteness_assumption_in_explorable_media) ([←链接](https://wiki.issarice.com/index.php?title=Special:WhatLinksHere&target=Finiteness+assumption+in+explorable+media))
 
-* [可探索解释](https://wiki.issarice.com/wiki/Explorable_explanation) ‎ ([← 链接](https://wiki.issarice.com/index.php?title=Special:WhatLinksHere&target=Explorable+explanation))
+* [可探索的解释](https://wiki.issarice.com/wiki/Explorable_explanation) ‎ ([← 链接](https://wiki.issarice.com/index.php?title=Special:WhatLinksHere&target=Explorable+explanation))

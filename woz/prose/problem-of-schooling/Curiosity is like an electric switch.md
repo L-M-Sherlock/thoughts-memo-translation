@@ -2,7 +2,7 @@
 
 [Curiosity is like an electric switch - supermemo.guru](https://supermemo.guru/wiki/Curiosity_is_like_an_electric_switch)
 
-## 摘要
+## 总结
 
 好奇心像一个开关，控制着高效的学习。它对于我们来说是最优解，因为它也是通往高效学习的唯一解。一旦我们把孩子送去学校，我们就承担着破坏这一开关的风险。如果没有持续的数据供给，我们的智力将无法据此构建现实世界的模型，世界上任何的知识也就失去了价值。而好奇心开关恰恰是做到这一点的关键。**为了智力，我们需要好奇心**！
 
