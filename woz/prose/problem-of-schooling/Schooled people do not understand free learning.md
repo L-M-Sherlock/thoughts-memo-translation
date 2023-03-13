@@ -10,6 +10,8 @@
 
 比喻。[为什么使用比喻？](https://supermemo.guru/wiki/Why_use_metaphors%3F)
 
+- **知识是一棵树**：知识可被可视化为一棵树。所有单个的知识叶都需要建立在[前置知识]（https://supermemo.guru/wiki/Prior_knowledge）的基础之上：[知识树]（https://supermemo.guru/wiki/Knowledge_tree）的树枝和分支。就像如果不了解能源、化学、核物理学、天文学等，就很难理解太阳。
+
 比喻。[为什么使用比喻？](https://supermemo.guru/wiki/Why_use_metaphors%3F)
 
 有感情的树
