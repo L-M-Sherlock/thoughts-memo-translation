@@ -1,4 +1,4 @@
-# 2A: 领域
+# 2A1: 领域
 
 原文：[Domains | Refold](https://refold.la/roadmap/stage-2/a/domains)
 

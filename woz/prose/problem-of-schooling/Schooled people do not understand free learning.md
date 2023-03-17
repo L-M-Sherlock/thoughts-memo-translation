@@ -12,6 +12,8 @@
 
 - **知识是一棵树**：知识可被可视化为一棵树。所有单个的知识叶都需要建立在[前置知识]（https://supermemo.guru/wiki/Prior_knowledge）的基础之上：[知识树]（https://supermemo.guru/wiki/Knowledge_tree）的树枝和分支。就像如果不了解能源、化学、核物理学、天文学等，就很难理解太阳。
 
+- **知识的来源是光**：知识之树积极寻求新知识的光。每束光线都为知识的进一步增长提供了能量。每片树叶都参与寻找新的光源。这在森林中尤为重要
+
 比喻。[为什么使用比喻？](https://supermemo.guru/wiki/Why_use_metaphors%3F)
 
 有感情的树
@@ -21,6 +23,8 @@
 有毒的学校教育
 
 童年的激情
+
+[自由学习]（https://supermemo.guru/wiki/Free_learning）为[学校教育胁迫] （https://supermemo.guru/wiki/Coercion_in_learning）提供自然防御
 
 进步无法被衡量
 
