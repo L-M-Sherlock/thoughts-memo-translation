@@ -2,11 +2,11 @@
 
 原文：[Sal Khan - supermemo.guru](https://supermemo.guru/wiki/Sal_Khan)
 
-**萨尔 · 可汗**，生于 1976 年，教育革新家，创办了[可汗学院](https://supermemo.guru/wiki/Khan_Academy)。萨尔小时候没有成绩的压力，这对自我发展是有益的。他在 14 岁意识到自己有些落后，并自发地开始努力学习。
+**萨尔 · 可汗**，生于 1976 年，教育革新家，创办了[可汗学院](https://supermemo.guru/wiki/Khan_Academy)。萨尔小时候没有成绩的压力，这对自我发展很有益。他在 14 岁意识到自己有些落后，并自发地开始努力学习。
 
-在 2006 年，他开设了 Youtube 账户，并开始为家人和观众上传数学视频。这是一个开端，他发表了大量深受儿童成人欢迎的珍贵教育视频。可汗一直很喜欢录制教学内容。
+在 2006 年，他开设了 YouTube 账号，并开始为家人和观众上传数学视频。这是一个开端，他发表了大量深受儿童和成人欢迎的珍贵教育视频。可汗一直很喜欢录制教学内容。
 
-在 2014 年，基于[可汗学院](https://supermemo.guru/wiki/Khan_Academy)的经验，可汗创建了可汗实验学校，以探索他的经验能否推广到传统的实体学校。他能跟亲自和孩子交流，因为学校就在他办公室下面一层楼。对于这位真正的革新者，这所学校是完美的研究场所。
+在 2014 年，基于[可汗学院](https://supermemo.guru/wiki/Khan_Academy)的经验，可汗创建了可汗实验学校，以探索他的经验能否推广到传统的实体学校。他能跟亲自和孩子交流，因为学校就在他办公室的下一层。对于这位真正的革新者，这所学校是完美的研究场所。
 
 Khan 很快就在现实生活中重现了 [John Holt](https://supermemo.guru/wiki/John_Holt) 或 [John Taylor Gatto](https://supermemo.guru/wiki/John_Taylor_Gatto) 的推理。如果学生[自我安排节奏](https://supermemo.guru/wiki/Self-paced)，那么我们不应该把他们按照能力分组。我们也不该把他们按照年龄分组。那么，为什么要安排特定的上学时间和放假时间（也就是[遗忘](https://supermemo.guru/wiki/Forgetting)的时间）？尽管 Sal Khan 没有这么说，这样的推理必然导向最终的结论：[强制学校教育必须终止](https://supermemo.guru/wiki/Compulsory_schooling_must_end)。
 
@@ -24,7 +24,7 @@ Khan 很快就在现实生活中重现了 [John Holt](https://supermemo.guru/wik
 
 - 学习过程设置结构，安排顺序是必要的（参见：[学习的建房比喻](https://supermemo.guru/wiki/House_building_metaphor_of_learning)）
 
-- 教师是必要的（参见：[我们需要老师吗](https://supermemo.guru/wiki/Do_we_need_teachers%3F)）
+- 教师是必要的（参见：[我们需要老师吗？](https://supermemo.guru/wiki/Do_we_need_teachers%3F)）
 
 欲了解更多，请参阅：
 
