@@ -120,6 +120,6 @@ Lary 把他的孩子们从学校带走了，为此他的孩子们应该终身感
 
 ## Gray 和 Sanger 的纪念碑
 
-将来会有 Larry Sanger 和 Peter Gray 的纪念碑。Sanger 希望看到一个新的智慧星球。虽然他的方法有点传统，很难大获成功。另一方面，Gray 并不反智，而是学校反智。Gray 是这个星球上极少数真正了解[学习内驱力(https://supermemo.guru/wiki/Learn_drive)机制及其对人类未来价值的人之一。
+将来会有 Larry Sanger 和 Peter Gray 的纪念碑。Sanger 希望看到一个新的智慧星球。虽然他的方法有点传统，很难大获成功。另一方面，Gray 并不反智，而是学校反智。Gray 是这个星球上极少数真正了解[学习内驱力](https://supermemo.guru/wiki/Learn_drive)机制及其对人类未来价值的人之一。
 
 通向更好教育的道路将是漫长而曲折的。我们最大的敌人是现行的教育体系，它在我们的头脑中灌输了[丰富的谬误](https://supermemo.guru/wiki/Mythology_that_keeps_the_archaic_school_system_alive)。即使是最聪明的头脑，如果没有来自[神经科学](https://supermemo.guru/wiki/Pleasure_of_learning)的良好支持，也会与真理背道而驰。详情请参见：[学校教育问题](https://supermemo.guru/wiki/Problem_of_schooling)。
