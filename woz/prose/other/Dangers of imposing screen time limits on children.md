@@ -178,17 +178,17 @@ Rich 对常受谴责的流行游戏《堡垒之夜》发表评论：
 
 ## 对 3 岁儿童的强制学校教育
 
-执着于屏幕的危害会使[学校教育问题](https://supermemo.guru/wiki/Problem_of_schooling)恶化。
+一味纠结于屏幕的危害会使[学校教育问题](https://supermemo.guru/wiki/Problem_of_schooling)恶化。
 
-Emmanuel Macron 有一颗改革的心。然而，急切的改革与对大脑的不了解相结合，会导致一场灾难。大量的教育改革者相信这样一个神话：早期教育是成长为一个更聪明的社会的好方法。现实是，它可能是干扰自然发展的最危险方式之一。我们最终得到的可能不是一代快乐的问题解决者，而是一个**[病态社会](https://supermemo.guru/wiki/War_of_the_networks)**。我讨论了早期教育的一系列危害，其中[母体分离](https://supermemo.guru/wiki/Maternal_separation)在 3 岁时可能是最重要的（见：[日托的痛苦](https://supermemo.guru/wiki/Daycare_misery)）。然而，在限制屏幕时间的背景下，值得注意的是，[强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling)的一个良好动机是防止儿童滥用屏幕。
+Emmanuel Macron 有一颗改革的心，但若对大脑了解不足，则改革的热情可能会引发灾难。大量的教育改革者将此奉为圭臬：早期教育有利于提升整个社会的智力水平。但实际上，它十分危险地干扰了自然的发展，因此产生的可能不是一代快乐的问题解决者，而是**[病态的社会](https://supermemo.guru/wiki/War_of_the_networks)**。我讨论了早期教育的一系列危害，其中最严重的一点可能是三岁时发生的[母体分离](https://supermemo.guru/wiki/Maternal_separation)（见：[日托的痛苦](https://supermemo.guru/wiki/Daycare_misery)）。然而，在讨论屏幕时间限制问题时，我们应该注意到[强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling)的一个出自好心的目的是防止儿童滥用屏幕。
 
-国家教育部长 [Jean-Michel Blanquer](https://en.wikipedia.org/wiki/Jean-Michel_Blanquer) 是一位法律博士；而不是一位大脑博士。他以打击学校中的移动设备而闻名。2018 年，他宣称（[来源](https://www.skillogs.com/en/2018/04/12/compulsory-schooling-at-age-3/)）：
+国家教育部长 [Jean-Michel Blanquer](https://en.wikipedia.org/wiki/Jean-Michel_Blanquer) 是一位法律博士，而不是大脑的博士。他以打击学校中的移动设备而闻名。2018 年，他宣称（[来源](https://www.skillogs.com/en/2018/04/12/compulsory-schooling-at-age-3/)）：
 
-> 滥用屏幕对睡眠质量或儿童的注意力有影响。而且正如神经精神病学家指出的那样，它可以改变他们的语言表现。孩子越小，情况越严重，但当情况发生变化时，越能恢复。因此，幼儿园必须参与预防屏幕滥用，特别是在 7 岁之前
+> 滥用屏幕对影响睡眠质量或儿童的注意力。且神经精神病学家指出，它会改变他们的语言表现。孩子越小，情况越严重，但恢复的可能性越高。因此，幼儿园必须设法预防屏幕滥用，特别是针对7 岁以下的儿童
 
-如果我们把探索的自由来换成严格的教学，我们最终会有一代孩子把智力的奴役视为理所当然。这种奴役是跨时代的。所有的后代都可能会努力摆脱这个枷锁。一旦成为奴隶，就永远是奴隶。在托儿所长大的父母对早期教育的危害没有足够的同情和理解。
+如果我们用探索的自由来交换严格的命令，最终会养出一代孩子把思考的奴役视为理所当然。这种奴役是跨时代的，他们所有的后代都要奋力从枷锁中挣脱。一旦成为奴隶，就永远是奴隶。在托儿所长大的父母对早期教育的危害没有足够的同情和理解。
 
-由于在葬礼上谈论遗产是不好的，所以补充说关于早期[强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling)的新法律将创造大量的就业机会也是不好的。这样一来，我们就用后代的心理健康来换取今天成人的小舒适。
+正如不该在葬礼上谈论遗产，所以也不该补充说关于早期[强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling)的新法律将创造大量的就业机会。这样一来，我们就是在用未来后代的心理健康来换取今天成人一时的舒适。
 
 ## 缺乏跨领域的专业知识
 

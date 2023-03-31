@@ -88,15 +88,15 @@ Dev 的情况由于他的气管有问题而变得更糟，这使他毫无抵抗�
 
 ## 被破坏的概念化
 
-如果不了解[概念网络](https://supermemo.guru/wiki/Concept_network)和[概念化](https://supermemo.guru/wiki/Conceptualization)过程的动态，就很难解释为什么[学校教育](https://supermemo.guru/wiki/Schooling)是一个如此糟糕的想法。从一个普通教师的角度来看，学校教育似乎相当有效和简单：你把东西放在输入端（例如 7x8=56），大脑就会编码。如果它拒绝编码，孩子就应该重复这个过程，然后更加努力地重复它。如果事情一直被遗忘，每个人都会经历挫折：老师、辅导员、家人和孩子本身。上帝不允许有人在这种情况下想出[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)的想法（见：[讨厌SuperMeMo](https://supermemo.guru/wiki/Hating_SuperMemo)）。相反，世界上所有的教育工作者都应该得到这个助记软件。
+如果不了解[概念网络](https://supermemo.guru/wiki/Concept_network)和[概念化](https://supermemo.guru/wiki/Conceptualization)过程的动态，就很难解释为什么[学校教育](https://supermemo.guru/wiki/Schooling)是一个如此糟糕的想法。从一个普通教师的角度来看，学校教育似乎相当有效和简单：你把东西放在输入端（例如 7x8=56），大脑就会编码。如果它拒绝编码，孩子就应该重复这个过程，然后更加努力地重复它。如果事情一直被遗忘，每个人都会经历挫折：老师、辅导员、家人和孩子本身。上帝不允许有人在这种情况下想出[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)的想法（见：[讨厌 SuperMeMo](https://supermemo.guru/wiki/Hating_SuperMemo)）。相反，世界上所有的教育工作者都应该得到这个助记软件。
 
 记忆事物可能是有害的
 
-记忆[不连贯](https://supermemo.guru/wiki/Coherence)知识的危害不仅是由[毒性记忆](https://supermemo.guru/wiki/Toxic_memory)的可能性引起的。还有一个不太为人所知、不太被人理解的危害，就是对[概念化](https://supermemo.guru/wiki/Conceptualization)过程的干扰。
+记忆[不连贯](https://supermemo.guru/wiki/Coherence)的知识的危害不仅是由[毒性记忆](https://supermemo.guru/wiki/Toxic_memory)的可能性引起的。还有一个不太为人所知、不太被人理解的危害，就是对[概念化](https://supermemo.guru/wiki/Conceptualization)过程的干扰。
 
 粗略估计，**概念化**可以被视为连接组的进化。当前的线路、当前的大脑状态和输入将决定进化的方向性。学习的顺序很重要。在学习阅读之前先学习数学，会产生一个与之相反的大脑（先阅读后数学）。两者同时进行会有不同的结果。没有最佳的布线，因为每个适应和每个环境都会有自己的最佳状态。这就是为什么课堂学习是如此低效的原因（见：[课堂教育的固有问题](https://supermemo.guru/wiki/Inherent_problems_of_classroom_schooling)）。这也是为什么最好的适应是通过接触目标环境来实现的，而目标环境具有最佳的混合多样性，可以促进[泛化](https://supermemo.guru/wiki/Generalization)。例如，对于一个未来的雕塑家来说，很少有东西能像接触他自己父亲的艺术研究那样有利于发展。对于一个未来的标枪投掷冠军来说，来自他的奥运老爸的灵感可以在幼年时期留下持久的印记。家庭对孩子有这种强大的印记并不是巧合。如果我们放弃这种价值，让大脑适应幼儿园的嘈杂环境，我们就不太可能培养出未来的艺术家或未来的冠军。
 
-日托所是一种人工设计，其中密集和同质的社会互动主导了对大脑的有意义输入。日托所不太可能促进社会[多样性](https://supermemo.guru/wiki/Diversity)。在日托所里，孩子会完美地适应社会环境，其中打架和争抢玩具可能成为核心影响因素。如果幼儿园引入早期的数学和阅读，而不是伟大的思想，最终可能会培育出终生讨厌数学和书籍的人。最终可能会出现那些知道如何玩弄制度的人，即做最少的工作来获得最大的社会认可。这就是学校教育的一个典型结果。
+托儿所是一种人工设计，其中密集和同质的社会互动主导了对大脑的有意义输入。托儿所不太可能促进社会[多样性](https://supermemo.guru/wiki/Diversity)。在日托所里，孩子会完美地适应社会环境，其中打架和争抢玩具可能成为核心影响因素。如果幼儿园引入早期的数学和阅读，而不是伟大的思想，最终可能会培育出终生讨厌数学和书籍的人。最终可能会出现那些知道如何玩弄制度的人，即做最少的工作来获得最大的社会认可。这就是学校教育的一个典型结果。
 
 如果我们把大脑想象成一组电线，把大脑输入想象成头骨上的小孔，教师可能会被诱惑去连接太近的小孔。近距离的连接似乎可以保证短距离的布线，而且成本不高。老师看不到的是，大脑是如何穿线的。也许这个简单的数学运算需要一根电缆绕着头骨运行一圈。这个距离和成本可能是个天文数字。它可能与之前的布线相冲突。大脑会拒绝这种连接。它将吸收它。这种连接将被遗忘。这是对低效布线的一种自然防御。然而，一个顽固的老师可能坚持认为这种连接是正确的。他可能会一次又一次地尝试连接它。这类似于波兰经典喜剧中的一个即兴建筑师，他不喜欢一个住宅区的设计，决定将湖泊与建筑交换。这个操作在模拟模型上很容易。这在现实生活中是不可能的。观众们都笑了。如果一个老师在孩子的大脑中进行这种重新洗牌，没有人能够看到这个笑话的悲剧性。所有的成本都由孩子来承担。[毒性记忆](https://supermemo.guru/wiki/Toxic_memory)是相关挫折的结果。然而，中断的[概念化](https://supermemo.guru/wiki/Conceptualization)会影响大脑的线路。紊乱的写入会影响到[智力](https://supermemo.guru/wiki/Intelligence)。
 
@@ -104,19 +104,19 @@ Dev 的情况由于他的气管有问题而变得更糟，这使他毫无抵抗�
 
 唯一明智的选择是采用[概念网络](https://supermemo.guru/wiki/Concept_network)的自然动态，通过神经元的发芽和修剪，按需布线。这很容易通过[知识达尔文主义](https://supermemo.guru/wiki/Knowledge_darwinism)来实现，它总能找到一个完美的[语义框架](https://supermemo.guru/wiki/Semantic_framework)，确保高度的[一致性](https://supermemo.guru/wiki/Coherence)和高度的[适用性](https://supermemo.guru/wiki/Applicability)。如果采用[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)来延续良好的布线，我们可能会得到（与教师布线）相反的效果。增加[抽象知识](https://supermemo.guru/wiki/Abstract_knowledge)和增加[智力](https://supermemo.guru/wiki/Intelligence)。唯一的前提条件是[学习的乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)。大脑可以自己照顾自己。[自我指导的学习](https://supermemo.guru/wiki/Self-directed_learning)是有效和廉价的。
 
-早期的[强制学习](https://supermemo.guru/wiki/Coercive_learning)可能对大脑线路和[智力]产生负面影响(https://supermemo.guru/wiki/Intelligence)
+童年的[强迫学习](https://supermemo.guru/wiki/Coercive_learning)可能对大脑线路和[智力](https://supermemo.guru/wiki/Intelligence)产生负面影响
 
 ## 科学的未来
 
 Stephen Wolfram 可能是周围最明亮的天才之星。当我们不理解一件我们知道或直觉上认为是伟大的作品时，我们会急切地抛出天才这个词。Wolfram 的新型科学和新物理学就属于这一类。他的基于简单超图规则的新物理学模型可能会给科学注入一种新的活力（Stephen 说）。这似乎很有道理，特别是考虑到沃尔弗拉姆的实用性成就。这些模型确实简单得令人难以置信，它们允许复杂的进化，据说强大到足以表达导致宇宙诞生的力量（见由[图片](https://www.wolframcloud.com/obj/wolframphysics/technical-introduction/8-potential-relation-to-physics/8.9-elementary-particles.nb)带来的粗略直觉）。
 
-人类的天才来自于良好的基因。然而，这些基因并不是精英基因。这些是塑造[概念化](https://supermemo.guru/wiki/Conceptualization)过程的基因，使大脑成为一个**完美的适应性设备**。Wolfram 的天才并不是靠母亲的乳汁来的。它是通过多年来对现实的数学解释的不懈和热情的研究而来的。如果其他人未能与沃尔夫拉姆的成就相提并论，那就是因为失去了能力和机会，而这是由生活中残酷的事件所服务的。当许多人倒在身边的时候，Wolfram 是幸存者。他通过不受学术压力的影响，成功地为创造性的努力开辟了一个不错的位置。他的生命和创造性的努力是由 Mathematica 支撑的。
+人类的天才来自于良好的基因。然而，这些基因并不是精英基因。这些是塑造[概念化](https://supermemo.guru/wiki/Conceptualization)过程的基因，使大脑成为一个**完美的适应性设备**。Wolfram 的天才并不是靠母亲的乳汁来的。它是通过多年来对现实的数学解释的不懈和热情的研究而来的。如果其他人未能与 Wolfram 的成就相提并论，那就是因为失去了能力和机会，而这是由生活中残酷的事件所服务的。当许多人倒在身边的时候，Wolfram 是幸存者。他通过不受学术压力的影响，成功地为创造性的努力开辟了一个不错的位置。他的生命和创造性的努力是由 Mathematica 支撑的。
 
 有一个简单的公式，可以把 Wolfram 的工作带到一个新的水平。这个公式并不涉及 Wolfram 本人，而是涉及一个由小 Wolfram 们组成的军团。我们所需要的是有探索自由的孩子。孩子们对学习的热爱不会被填鸭式的乘法表或被强迫写一百遍自己的名字所破坏（见：[直接教学阻碍了伟大发现的途径](https://supermemo.guru/wiki/Direct_instruction_blocks_pathways_to_great_discoveries)）。这些孩子唯一需要的是尽早了解 Wolfram 思想的魅力。
 
 Wolfram 的科学对小孩子来说本来就有吸引力。他的图表很吸引人，很有美感。如果我们设法让小孩子用超图来思考，他们会把斯蒂芬的努力远远超过他自己能做到的。这就是为什么我们不能强制执行强制性的课程，窃取孩子的时间和激情。如果一个孩子做出了自己的选择，他应该能够探索 Wolfram 世界，以及许多其他的宇宙。如果年轻的大脑[概念化](https://supermemo.guru/wiki/Conceptualization)在超图的炖煮中，他的推理可能会改变一生。他可能比爱因斯坦或 Wolfram 本人更能在头脑中模拟物理过程。新皮层及其白质连接性是在年轻时形成的。这并没有说明培养天才的正确年龄。它只是说，新型的科学需要新型的推理。天才的种类，而不是其程度，是与[概念化](https://supermemo.guru/wiki/Conceptualization)的年龄有关的。一个年轻的大脑可以被优化为新的思维方式。这种思维可以使新的科学成为儿童游戏。今天，只有 Wolfram 和他的追随者在这个新的科学游乐场里涉足。在未来，一群小脑袋可以享受同样的乐趣，并发现我们从未梦想过的东西。
 
-你还记得我之前提到的 Dev 吗？如果我有机会，我会给 Dev 看 Wolfram 书中的图表。希望我能够报告一些有趣的反馈。学校有权利把 Dev 标记为有缺陷的产品吗？我希望能阻止这种自我实现的预言实现。
+你还记得我之前提到的 Dev 吗？如果我有机会，我会给 Dev 看 Wolfram 书中的图表。希望我能够报告一些有趣的反馈。学校有权把 Dev 标记为有缺陷的产品吗？我希望能阻止这种自我实现的预言实现。
 
 科学的未来将取决于丰富的新鲜和不同的[概念化](https://supermemo.guru/wiki/Conceptualization)大脑，它们将利用[自由学习](https://supermemo.guru/wiki/Free_learning)的原则来促进智力[多样性](https://supermemo.guru/wiki/Diversity)
 
@@ -156,10 +156,10 @@ Wolfram 的科学对小孩子来说本来就有吸引力。他的图表很吸引
 
 - [直接教学](https://supermemo.guru/wiki/Direct_instruction)阻止了探索，阻碍了[创造力](https://supermemo.guru/wiki/Creativity)，并可能在神经[概念化](https://supermemo.guru/wiki/Conceptualization)的过程中保留旧的思维方式
 
-- [强制学习](https://supermemo.guru/wiki/Coercive_learning)可能会破坏发展中的[最佳大脑布线](https://supermemo.guru/wiki/Conceptualization)过程。
+- [强迫学习](https://supermemo.guru/wiki/Coercive_learning)可能会破坏发展中的[最佳大脑布线](https://supermemo.guru/wiki/Conceptualization)过程。
 
 - [日托所](https://supermemo.guru/wiki/Daycare)在为最优适应成人生活提供丰富环境方面，远远不如健康的家庭。
 
-- 关于大脑适应性的明显主张被一套巩固和延续学校系统的迷思所阻挠（见：[让陈旧的学校系统继续存活的谬误](https://supermemo.guru/wiki/Mythology_that_keeps_the_archaic_school_system_alive)）。
+- 关于大脑适应性的明显主张被一套巩固和延续学校系统的谬误所阻挠（见：[让陈旧的学校系统继续存活的谬误](https://supermemo.guru/wiki/Mythology_that_keeps_the_archaic_school_system_alive)）。
 
 - 学校教育系统的诞生，部分源于征服他人的欲望。孩子们经常把学校比作监狱，把学校教育比作奴隶制。[强制学校教育必须结束](https://supermemo.guru/wiki/Compulsory_schooling_must_end)

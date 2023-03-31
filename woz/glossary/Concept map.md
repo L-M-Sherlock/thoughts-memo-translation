@@ -2,6 +2,10 @@
 
 原文：[Concept map - supermemo.guru](https://supermemo.guru/wiki/Concept_map)
 
-概念图是源自计算机科学的术语。概念图可用来表示知识结构之间的语义联系，或用来表示神经创造力。为了将思考过程可视化，概念图可能与概念细胞和概念联系相关联。
+**[概念图](https://en.wikipedia.org/wiki/Concept_map)** 是源自计算机科学的术语。概念图可用来表示知识结构之间的语义联系（例如，在[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)或[神经创造力](https://supermemo.guru/wiki/Neural_creativity)中）。为了将思考过程可视化，概念图可能对应于[概念细胞]和概念联系（神经元间连接）的系统。
+
+在[概念化]的过程中(https://supermemo.guru/wiki/Conceptualization)，**概念图**经历了[泛化](https://supermemo.guru/wiki/Generalization)这倾向于简化它们的结构。泛化是基于在不同上下文中对映射子组件交集的选择性激活。[概念](https://supermemo.guru/wiki/Concept)不太相关的属性受制于[遗忘](https://supermemo.guru/wiki/Forgetting)。这种不完全结晶的概念在文献中被称为**细胞组件**。泛化过程的最终产物可能是[祖母细胞](https://supermemo.guru/wiki/Grandmother_cell)的涌现（见：[关于祖母细胞的真相](https://supermemo.guru/wiki/The_truth_about_grandmother_cells)）。有关基于**概念图**的思维过程模型，请参阅：[如何解决任何问题？](https://supermemo.guru/wiki/How_to_solve_any_problem%3F)
+
+在 [SuperMemo Guru](https://supermemo.guru/wiki/SuperMemo_Guru)中，符合上下文时，我倾向于用* “概念图” *来替代术语* “神经网络” *。因为我将大脑视为在思维过程中会被激活的**概念图**构成的网络。当使用术语*“神经网络”*时，它为连结机制模型的不适用情况留下了漏洞。
 
 本[术语表](https://supermemo.guru/wiki/Glossary)条目用于解释 [SuperMemo Guru](https://supermemo.guru/wiki/SuperMemo_Guru) 系列中关于记忆、学习、创造力和问题解决的文本。

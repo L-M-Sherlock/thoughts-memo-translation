@@ -2,11 +2,11 @@
 
 原文：[Language Acquisition | Refold](https://refold.la/roadmap/stage-0/a/language-acquisition)
 
-语言学家 Stephen Krashen（克拉申）表示，形成语言能力有两条路：习得和 非沉浸学习（或者也可以说是刻意学习、有意识学习）。[1](https://refold.la/roadmap/stage-0/a/language-acquisition#footnote-1)
+语言学家 Stephen Krashen（克拉申）表示，形成语言能力有两条路：习得和非沉浸学习（或者也可以说是刻意学习、有意识学习）。[1](https://refold.la/roadmap/stage-0/a/language-acquisition#footnote-1)
 
 「习得」语言意味着建立语言知识的条件反射（语言直觉）。我们所有人都是通过习得掌握母语的。绝大多数人是不知道自己母语的语法规则的：我们只知道什么听起来是对的，什么听起来是错误的，当我们说话时，我们不必刻意思考语法或者词汇，我们我们想传达什么意思，然后词汇就这么自然的流畅表达出来了。
 
-比如，如果你英语相当流利了，你肯定会认同，the big red dog 听起来比 the red big dog 更自然，但你极有可能并不清楚其中的复杂语法规则[2]()。
+比如，如果你英语相当流利了，你肯定会同意，the big red dog 听起来比 the red big dog 更自然，但你极有可能并不清楚其中复杂的语法规则 [2](https://refold.la/roadmap/stage-0/a/language-acquisition#footnote-2)。
 
 另一条路，“有意识学习”语言是学习关于这门语言的知识的动作。仅仅通过有意识地学习语言知识被称为“技能培养法”，大多数语言学习方案关注于“技能培养法”而不是“习得”，他们教你词汇和语法，如同建立构建句子的积木，用这种方法，你能把你的想法从母语翻译成目标语言。
 
@@ -34,8 +34,8 @@
 
 ### 脚注：
 
-  - 1：Stephen Krashen（克拉申）使用术语“learning”（而非studying）对比“acquisition”（习得）。
+  - 1：Stephen Krashen（克拉申）使用术语 "learning"（而非 studying）对比 "acquisition"（习得）。
 
-因为 learning 这个词被用滥了，我们在这使用 study
+因为 learning 这个词被用滥了，我们在这使用 study。
 
 - 2: [Adjectives order, Cambridge Dictionary](https://dictionary.cambridge.org/ja/grammar/british-grammar/adjectives-order)
