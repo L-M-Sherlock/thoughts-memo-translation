@@ -12,7 +12,7 @@
 
 ## 反面典型：Manfred Spitzer
 
-建立这个网页的根本动机是[Manfred Spitzer](https://supermemo.guru/wiki/Manfred_Spitzer)博士的一系列讲座，他因反对数字技术而臭名昭著，同时也是[数字痴呆症](https://supermemo.guru/wiki/Digital_Dementia)一词的创始人。Spitzer 非常受认为学校比[教育自由](https://supermemo.guru/wiki/Educational_freedom)更重要的家长认可。他发表演讲充斥着迷人的特朗普式风格：什么都是最坏的，最好的或最伟大的，或「最春的」（原文如此！）（译注：应为“蠢”，拼写错误）。据 Spitzer 说，所有儿童的最大威胁就是数字技术，因为它破坏了对「世界上最好的东西」——学校——的热情。Spitzer 来自欧洲儿童教育权利最有限的国家之一，这并非巧合。德国社会的纪律性很强，而学习自由很少。[在家上学]（https://supermemo.guru/wiki/Homeschooling）在德国是非法的。
+建立这个网页的根本动机是[Manfred Spitzer](https://supermemo.guru/wiki/Manfred_Spitzer)博士的一系列讲座，他因反对数字技术而臭名昭著，同时也是[数字痴呆症](https://supermemo.guru/wiki/Digital_Dementia)一词的创始人。那些认为学校比[教育自由](https://supermemo.guru/wiki/Educational_freedom)更重要的家长对其推崇备至。他发表演讲充斥着迷人的特朗普式风格：什么都是最坏的，最好的或最伟大的，或「最春的」（原文如此！）（译注：应为“蠢”，此为讽刺）。据 Spitzer 说，所有儿童的最大威胁就是数字技术，因为它破坏了对「世界上最好的东西」——学校——的热情。Spitzer 来自欧洲儿童教育权利最有限的国家之一，这并非巧合。德国社会的纪律性很强，而学习自由很少。[在家上学]（https://supermemo.guru/wiki/Homeschooling）在德国是非法的。
 
 Spitzer的主张特别诱人，因为他是一名 "神经精神病学 "教授，并在他的讲座中时而支持好想法，如锻炼、人际关系、面对面的互动、家庭、孙辈、户外活动、自然的价值等等，我们都本能地知道这些观点是对的。
 
