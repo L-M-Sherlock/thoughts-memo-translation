@@ -8,7 +8,7 @@
 
 - [在电子阅读时，保持多个阅读位置很困难](https://notes.andymatuschak.org/z7ZNevNutwN3wT5hTRLUipssHBNbxUWSyDHrr)
 
-- [平行阅读在电子阅读中大多是不可能的](https://notes.andymatuschak.org/z8KaXwxWaMdUbhKa3RC2zN8ZB36gfvWcoWmwR)
+- [电子阅读时，并排阅读基本上不可能](https://notes.andymatuschak.org/z8KaXwxWaMdUbhKa3RC2zN8ZB36gfvWcoWmwR)
 
 - [很少有电子阅读环境支持旁注](https://notes.andymatuschak.org/z4Hk27FK5Q9QiwKZGktJ7uMjkYj7SMs8RJGVR)
 

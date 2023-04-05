@@ -192,19 +192,19 @@ Emmanuel Macron 有一颗改革的心，但若对大脑了解不足，则改革�
 
 ## 缺乏跨领域的专业知识
 
-我对游戏和精神病学的了解还不足以做出全面的陈述。我的推理主要来自学习理论，可能并不完整。
+我对游戏和精神病学的了解不足，无法做出全面的论述。论述的依据主要来自学习理论，可能并不完整。
 
 [Mike Brooks](https://www.psychologytoday.com/us/experts/mike-brooks-phd) 博士是[科技一代：在一个超级连接的世界中培养平衡的孩子](https://www.amazon.com/gp/product/0190665297/ref=dbs_a_def_rwt_bibl_vppi_i0)的作者。
 
-他是那种最有资格谈论屏幕时间的心理学家。他不仅拥有该领域的知识。他不仅与有问题的青少年打交道。他还承认自己是一个狂热的游戏者。最重要的是，当他本着自由和自律的精神抚养自己的孩子时，他似乎是在履行自己的诺言。只有一个拥有心理学校历的游戏玩家才能采取这种平衡的观点。
+他是那种最有资格谈论屏幕时间的心理学家。他不仅拥有该领域的知识，还与有问题的青少年打交道，并承认自己是狂热的游戏爱好者。最重要的是，他似乎履行了自己的诺言，的确在以自由和自律的精神抚养后代。只有取得了心理学学位的游戏玩家才能有如此平衡的观点。
 
-对于任何担心[世卫组织指导方针](https://supermemo.guru/wiki/Dangers_of_imposing_screen_time_limits_on_children#WHO_guidelines)的人，我推荐 https://techhappylife.com/，它提供了谨慎和平衡的反驳。Brooks 博士还开设了[他自己的轻松的 YouTube 频道](https://www.youtube.com/channel/UCBlzEgiD7nohlAyRu-eSSqw)，提供丰富的育儿建议。
+如果你对[世卫组织指导方针](https://supermemo.guru/wiki/Dangers_of_imposing_screen_time_limits_on_children#WHO_guidelines)有所顾虑，那么我推荐这个网站： https://techhappylife.com/，它提供了谨慎和平衡的反驳。Brooks 博士还开设了[轻松的 YouTube个人频道](https://www.youtube.com/channel/UCBlzEgiD7nohlAyRu-eSSqw)，以提供丰富的育儿建议。
 
-随着谴责使用数字设备的主张大行其道，TechHappyLife.com 的 Stephanie Ware 谈到了心理学和精神病学的一个更高层次的问题，让我觉得非常有意义（[来源](https://techhappylife.com/the-real-harm-of-screen-time/)）（对比我自己的：[我有 ADHD，我喜欢它](https://supermemo.guru/wiki/I_have_ADHD_and_I_love_it)）。
+随着对电子设备的谴责大行其道，TechHappyLife.com 的 Stephanie Ware 谈到了一个涉及心理学和精神病学的更高层次的问题，让我觉得非常有意义（[来源](https://techhappylife.com/the-real-harm-of-screen-time/)）（对比我自己的文章：[我有 ADHD，我喜欢它](https://supermemo.guru/wiki/I_have_ADHD_and_I_love_it)）。
 
-> 关于屏幕时间的影响的争论实际上被归入社会科学中一个更广泛的问题。我们正处于社会科学革命的初期，部分原因是重现危机。简而言之，在心理学中我们认为是“真实”的东西，很多都不是。重现许多具有里程碑意义的研究的努力都落空了。其中一些问题可能是由于研究人员的偏见、出版偏见、统计缺陷、设计不当的研究、偷梁换柱的结果、黑客攻击、自负、自欺欺人和盲点。虽然造成重现危机的因素是多种多样的，但总的效果是，现在心理学家的许多主张都笼罩着阴影
+> 对屏幕时间影响的争论实际上属于社会科学中一个更广泛的问题。部分源于可重复性危机（译者注：许多科学研究的结果难以被复制，则其成果的可靠性与有效性无法得到保障，这威胁到了许多学科领域），我们正处于社会科学革命的初期。简而言之，在心理学中，我们对很多事物真实性的认识并不如想象中的可靠。许多重现具有里程碑意义的研究的努力都落空了。部分原因可能是研究人员的偏见、出版偏见、统计缺陷、研究设计缺陷、数据的选择性保留、P值篡改（译者注：在心理学领域中，P值有极其重要的作用，显著的P值代表着研究者关注的效应可能真实存在）、自负、自欺欺人和盲点（译者注：指研究者未注意到的内容，如一些被忽略的额外变量）。虽然造成可重复性危机的因素是多种多样的，但总的来说，如今心理学界笼罩在乌云之中（即心理学所取得成果的有效性受到了威胁）
 
-与 Brooks 和 Ware 的观点一致，我的正确平衡公式相当简单，因为它也依赖于自由和自律。见：[解决方案](https://supermemo.guru/wiki/Dangers_of_imposing_screen_time_limits_on_children#Solution)
+与 Brooks 和 Ware 的观点一致，我所取得恰当平衡的方法相当简单，因为它也基于自由和自律。见：[解决方案](https://supermemo.guru/wiki/Dangers_of_imposing_screen_time_limits_on_children#Solution)
 
 ## 解决方案：自我平衡的自由
 

@@ -1,0 +1,9 @@
+# 在我的记忆系统研究中通过亲密关系产生影响
+
+原文：[Towards impact through intimacy in my memory system research | Patreon 上的 Andy Matuschak](https://www.patreon.com/posts/towards-impact-76438674?utm_medium=post_notification_email&utm_source=post_link&utm_campaign=patron_engagement&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWRpc19rZXkiOiJpYTpiM2EyNDFmNC00OTFjLTRkZjctODQ4Ny1lOWZkN2M2ZjY3YTgiLCJwb3N0X2lkIjo3NjQzODY3NCwicGF0cm9uX2lkIjo2ODgzMzkzM30.5uvx_icm3zIfClKtE0rSIf89o9afeR9MOeehkj_t3xQ#renderPageContentWrapper)
+
+反思我自己在助记媒介方面的工作，我注意到：在问题的广度和规模上，我取得了很好的进展，但在更重要的深度和影响方面上还远远不够。这并不是因为我缺乏尝试——对于后者的尝试，我总是以失败告终。但如今，我想明白了其中的原因，至少是想到可能的解决方法。在新的一年里，我想积极地重新调整我的工作方向，专注于这个核心问题：*如何建立一个更强大的记忆系统，一个可以轻松对复杂的概念材料建立深入、灵活和持久理解的系统？*
+
+在这篇文章中，我将阐述现状，并讲述我应对的最佳想法。除了帮助自己理解，我的目标是为与其他人的对话创造一个良好的环境，这些人可以帮助我改进计划。在这里讨论的问题，我会对其中不少观点感到困惑，所以这应该被理解为一个过渡性质的临时讨论，但我希望它是一个通往更好道路的有用讨论。
+
+### 我对记忆系统如此感兴趣的原因

@@ -26,15 +26,15 @@
 
 8. [享乐主义与知识](https://supermemo.guru/wiki/Goodness_of_knowledge#Hedonism_and_knowledge)
 
-9.[宗教与知识](https://supermemo.guru/wiki/Goodness_of_knowledge#Religion_and_knowledge)
+9. [宗教与知识](https://supermemo.guru/wiki/Goodness_of_knowledge#Religion_and_knowledge)
 
-10.[科学价值论和知识](https://supermemo.guru/wiki/Goodness_of_knowledge#Scientific_axiology_and_knowledge)
+10. [科学价值论和知识](https://supermemo.guru/wiki/Goodness_of_knowledge#Scientific_axiology_and_knowledge)
 
-11.[价值冲突](https://supermemo.guru/wiki/Goodness_of_knowledge#Clash_of_values)-伦理体系的争执和知识的冲击
+11. [价值冲突](https://supermemo.guru/wiki/Goodness_of_knowledge#Clash_of_values)-伦理体系的争执和知识的冲击
 
-12.[有偏见的知识](https://supermemo.guru/wiki/Goodness_of_knowledge#Biased_knowledge)-当知识无助于伦理和解时
+12. [有偏见的知识](https://supermemo.guru/wiki/Goodness_of_knowledge#Biased_knowledge)-当知识无助于伦理和解时
 
-13.[是否可以对价值体系进行调和？](https://supermemo.guru/wiki/Goodness_of_knowledge#Can_systems_of_value_be_reconciled.3F)-即使是表面上的和解也有助于抵制邪恶
+13. [是否可以对价值体系进行调和？](https://supermemo.guru/wiki/Goodness_of_knowledge#Can_systems_of_value_be_reconciled.3F)-即使是表面上的和解也有助于抵制邪恶
 
 14. [共同的内在价值并不保证普适的调和](https://supermemo.guru/wiki/Goodness_of_knowledge#Universal_intrinsic_value_does_not_guarantee_universal_reconciliation)-价值论的复杂性
 
@@ -85,3 +85,7 @@
 - 我们的大脑悬浮在一个由人工控制的输入提供虚假感觉印象的大桶中
 
 无论真实的现实是什么，我们时下都无法摆脱目前的现实。换句话说，我们别无选择，只能接受正确的输入公理，将现实模型视为正解，如此活着。
+
+所有人对 “我们的现实” 都有大致相同的理解。换句话说，我们（理性的）都相信自己生活在地球上，地球是银河系太阳系的一部分。自己由器官、组织和细胞组成。我们有相似的感受和判断机制，大多使用相同的逻辑规则。逻辑告诉我们，如果地球比火星离太阳更近，那么地球就不能同时离太阳更远。一个关于真理的正确表述不可能同时是真的和假的。谎言者悖论没有 “正确表述”，因此说明了 “一个真理” 前提无法被反驳。*“这句话不能被证明是正确的”* 是自我指涉的，对关于现实中的真实定理没有建设意义。*“这件外套是红色的”*这句话的真伪可能会受到色盲或个人简单判断力问题影响，然而，毛衣反射的真实光谱是可以测量的。光谱定义了真相，而非对红色的视觉感知。
+
+如果你不同意 *一个真理* 原则，你最好不要再读下去。本文的其余推理是基于一个不可避免的前提，即我们都生活在同一个现实中，事情不可能同时既真又假。我们能够通过感官习得知识，并且基于这些知识断明真理。
