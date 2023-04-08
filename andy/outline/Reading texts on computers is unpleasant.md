@@ -2,7 +2,7 @@
 
 原文：[Reading texts on computers is unpleasant (andymatuschak.org)](https://notes.andymatuschak.org/z7yjjydTNu3bujTeFc7Hey1iFbz513SnN6oss)
 
-- [电子阅读中的连续滚动不适地破坏了对象的持续性](https://notes.andymatuschak.org/z6cxCDMXRWBritiSgzs4cdKd737H5U9XLBaFr)
+- [连续滚动式的电子阅读扰乱了物体恒存性，令人不适](https://notes.andymatuschak.org/z6cxCDMXRWBritiSgzs4cdKd737H5U9XLBaFr)
 
 - [在电子阅读中，糟糕的性能会破坏非线性阅读](https://notes.andymatuschak.org/z239u1Bav77BRcx7xyD49wF62wdvPY81S51Qv)
 
