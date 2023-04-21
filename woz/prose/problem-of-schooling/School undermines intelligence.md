@@ -6,25 +6,25 @@
 
 ## 适应性悖论
 
-两种说法之间似乎存在矛盾：（1）大脑是一个完美的适应性设备，（2）我们在学校失去了大量的适应能力。如果大脑如此伟大，学校怎么会如此轻易地损害它？
+两种说法之间似乎存在矛盾：（1）大脑是一个完美的适应性设备，（2）我们在学校失去了大量的适应能力。如果大脑如此优越，那么学校是如何轻易地损害它的呢？
 
 常见问题。[什么是常见问题？](https://supermemo.guru/wiki/What_are_FAQs%3F)
 
-*一位朋友注意到：*你说，大脑是一个完全可以适应的装置。你说，它使孩子有可能适应任何环境。如果是这样，你怎么能同时宣称孩子离开学校时适应能力很差？他们怎么会失去适应能力而变得无助？我认为这个问题与世界的复杂性有关。毕业生们必须面对越来越复杂的现实
+**一位朋友注意到：**你说，大脑是一个完美的适应性设备。你说，这使得孩子可以适应任何环境。如果是这样，那么你怎么同时声称，孩子们在离开学校后调节能力很差呢？他们怎么会失去适应能力而变得无助？我认为这个问题与世界的复杂性有关。毕业生必须面对日益复杂的现实。
 
 适应性和容易产生无助感之间并不存在矛盾。[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)只是对混乱控制的一种适应形式（如下所述）。
 
 ## 伤害适应性的适应方式
 
-适应性是大脑[概念网络](https://supermemo.guru/wiki/Concept_network)的一个属性，而[学习内驱力](https://supermemo.guru/wiki/Learn_drive)只是该网络的一部分。适应性可能涉及关闭[学习内驱力](https://supermemo.guru/wiki/Learn_drive)，而这正是在学校发生的事情。孩子们失去了对学习的热爱，干脆停止学习。如果学习驱动力本身被调出控制系统，[学习驱动力的优化](https://supermemo.guru/wiki/Optimality_of_the_learn_drive)就没有价值。如果适应导致神经元死亡或大脑线路的改变，我们最终可能会出现[不可逆转的逆适应](https://supermemo.guru/wiki/Irreversible_maladaptability)。
+适应性是大脑[概念网络](https://supermemo.guru/wiki/Concept_network)的属性，而[学习内驱力](https://supermemo.guru/wiki/Learn_drive)只是该网络的一部分。适应性可能涉及关闭[学习内驱力](https://supermemo.guru/wiki/Learn_drive)，而这正是在学校发生的事情。孩子们失去了对学习的热爱，干脆停止学习。如果学习内驱力本身被调出控制系统，[学习内驱力的最优性](https://supermemo.guru/wiki/Optimality_of_the_learn_drive)就没有价值。如果适应导致神经元死亡或大脑线路的改变，我们可能会陷入[不可逆转的逆适应](https://supermemo.guru/wiki/Irreversible_maladaptability)。
 
-大脑本身对非适应性的伤害并不是密封的。它可以为集中营中的生存提供完美的适应性。然而，一旦不良的营养开始挖掘大脑的蛋白质结构，神经细胞将开始渗出营养，失去功能，或死亡。控制系统会出现混乱。适应性是大脑的领地，而大脑本身是寄存在一个更高级别的控制生态系统中的。
+大脑本身对非适应性的伤害并不是密封的。它可以为集中营中的生存提供完美的适应性。然而，一旦恶劣的营养开始侵蚀大脑蛋白质结构，神经细胞会开始流失营养物质、失去功能或死亡。控制系统会出现混乱。适应性是大脑的领地，而大脑本身是寄存在一个更高级别的控制生态系统中的。
 
-我们也可以在几个小时内破坏大脑的适应能力。很大一部分人都是[睡眠不足](https://supermemo.guru/wiki/Sleep_deprivation)的。[自稳态驱动](https://supermemo.guru/wiki/Homeostatic)是[睡眠控制系统](https://supermemo.guru/wiki/Sleep_control_system)的一个重要部分。然而，当我们通过长时间保持清醒来推翻它时，我们不分青红皂白地伤害了大脑中的**所有**控制系统（包括[学习内驱力](https://supermemo.guru/wiki/Learn_drive)）。完美的适应性很容易被增加控制装置的错误率所湮灭。困倦的大脑不仅适应性差。它实际上可以撤销先前的适应性，例如通过[干扰](https://supermemo.guru/wiki/Interference)，由于在睡眠不足的状态下失去了控制（见：[睡眠不足的瑞士奶酪模型](https://supermemo.guru/wiki/Swiss_cheese_model)）。
+我们还可以在几个小时内削弱大脑的适应性。很大一部分人都[睡眠不足](https://supermemo.guru/wiki/Sleep_deprivation)的。[自稳态内驱力](https://supermemo.guru/wiki/Homeostatic)是[睡眠控制系统](https://supermemo.guru/wiki/Sleep_control_system)的一个重要部分。然而，当我们通过长时间保持清醒来推翻它时，我们不分青红皂白地伤害了大脑中的**所有**控制系统（包括[学习内驱力](https://supermemo.guru/wiki/Learn_drive)）。完美的适应性很容易被增加控制装置的错误率所湮灭。困倦的大脑不仅适应性差。它实际上可以撤销先前的适应性，例如通过[干扰](https://supermemo.guru/wiki/Interference)，由于在睡眠不足的状态下失去了控制（见：[睡眠不足的瑞士奶酪模型](https://supermemo.guru/wiki/Swiss_cheese_model)）。
 
-## 导弹隐喻
+## 导弹比喻
 
-学校对[智力](https://supermemo.guru/wiki/Intelligence)的影响可以用一个**智能导弹的比喻来说明。这个比喻解释了适应性如何导致不适应性。
+学校对[智力](https://supermemo.guru/wiki/Intelligence)的影响可以用一个**智能导弹比喻**来说明。这个比喻解释了适应性如何导致不适应性：
 
 比喻。[为什么使用比喻？](https://supermemo.guru/wiki/Why_use_metaphors%3F)
 

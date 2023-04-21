@@ -58,7 +58,7 @@
 
 ## 延伸阅读
 
-- [抗压力韧性](https://supermemo.guru/wiki/Stress_resilience)
+- [抗压韧性](https://supermemo.guru/wiki/Stress_resilience)
 
 - [良性压力的机制](https://supermemo.guru/wiki/Mechanics_of_eustress)
 

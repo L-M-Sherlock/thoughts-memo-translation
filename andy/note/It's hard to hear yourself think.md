@@ -6,7 +6,7 @@
 
 - [原创思想需要独自沉思](https://notes.andymatuschak.org/zx7FC6fx77bMkBj26dRPy7BRbYFrj8Lehed)
 
-- [用别人的想法填补空闲时间是文化上默认的行为](https://notes.andymatuschak.org/zDoZS3Wt316napbdaBGU8C8WLVuyPeAu5Bi)
+- [用别人的想法填满闲暇时间是一种文化习惯](https://notes.andymatuschak.org/zDoZS3Wt316napbdaBGU8C8WLVuyPeAu5Bi)
 
   - [人们更喜欢活动而不是思考](https://notes.andymatuschak.org/zMHvnEVNVQyuU8Uhf4Wij7HnsCD3GgKpAds)
 

@@ -12,7 +12,7 @@
 
 然而，在与环境交互时，我们经常需要学习能够确保生存的知识。其中一些知识可以让我们逃离死神的魔爪。从长远来看，这些知识可以确保我们能够最大限度地进行探索，而不遭受死亡或伤害。
 
-与探索相关的算法涉及[问题评估网络](https://supermemo.guru/wiki/Problem_valuation_network)，而压力是记忆的封印剂。
+与探索相关的算法涉及[问题估值网络](https://supermemo.guru/wiki/Problem_valuation_network)，而压力是记忆的封印剂。
 
 [![Problem valuation optimum for problem difficulty](https://supermemo.guru/images/thumb/8/84/Problem_valuation.jpg/300px-Problem_valuation.jpg)](https://supermemo.guru/wiki/File:Problem_valuation.jpg)
 
@@ -26,7 +26,7 @@
 
 小婴儿生来不会害怕蜘蛛、狗、飞驰的汽车，甚至不会恐高。所有与狗和汽车相关的恐惧都是由经验形成的。很有可能，到了认真探索的时候，汹涌的河流会与一定程度的健康的忧虑联系起来。
 
-想象一棵果实累累的树将激发渡过河流的动力。这将诱发压力（恐惧反应）。然而，如果利益足够高，而恐惧足够低，动物可能会尝试渡河。在踏入水中后，它可以重新计算，退回，重新组合，并重新巩固。也许在一个晚上，一个噩梦将有助于建立对威胁的更好理解。算法将不断迭代，直到最终的成功，或最终的决定：渡过这条河的死亡概率太高，于是放弃渡河。在每次迭代中，入水的技巧将更加专业，并可能允许深入探索更安全的地点。游泳的生存技巧，以及逆行的技巧将在途中被学会。即使没有最终的果实奖励，进入河中的富有成效的进展也可能会感觉良好。这种感觉是有益的[良性压力](https://supermemo.guru/wiki/Eustress)，使渡河的记忆不可磨灭。仅仅几次渡河就能将技能保持一生。每一个重大的错误或与死亡擦肩而过都会导致急性压力，这种压力会在睡眠中解决，或者重新概念化为一种恐惧，这可能会终生远离渡过河流的想法，除非有更大的果树出现，展现其无与伦比的吸引力。这一切都取决于[问题估值网络](https://supermemo.guru/wiki/Problem_valuation_network)，对阻碍与压力进行最优分配，以使成功的可能性最大化。不受约束的自我控制对于富有成效的探索是至关重要的。见：[发展中的行为空间优化](https://supermemo.guru/wiki/Optimization_of_behavioral_spaces_in_development)。
+想象一棵果实累累的树将激发渡河的动力。这将诱发压力（恐惧反应）。然而，如果利益足够高，而恐惧足够低，动物可能会尝试渡河。在踏入水中后，它可以重新计算，退回，重新组合，并重新巩固。也许在一个晚上，一个噩梦将有助于建立对威胁的更好理解。算法将不断迭代，直到最终的成功，或最终的决定：渡过这条河的死亡概率太高，于是放弃渡河。在每次迭代中，入水的技巧将更加专业，并可能允许深入探索更安全的地点。游泳的生存技巧，以及逆行的技巧将在途中被学会。即使没有最终的果实奖励，进入河中的富有成效的进展也可能会感觉良好。这种感觉是有益的[良性压力](https://supermemo.guru/wiki/Eustress)，使渡河的记忆不可磨灭。仅仅几次渡河就能将技能保持一生。每一个重大的错误或与死亡擦肩而过都会导致急性压力，这种压力会在睡眠中解决，或者重新概念化为一种恐惧，这可能会终生远离渡过河流的想法，除非有更大的果树出现，展现其无与伦比的吸引力。这一切都取决于[问题估值网络](https://supermemo.guru/wiki/Problem_valuation_network)，对阻碍与压力进行最优分配，以使成功的可能性最大化。不受约束的自我控制对于富有成效的探索是至关重要的。见：[发展中的行为空间优化](https://supermemo.guru/wiki/Optimization_of_behavioral_spaces_in_development)。
 
 基于应对[良性压力](https://supermemo.guru/wiki/Eustress)的高度[抗压力韧性](https://supermemo.guru/wiki/Stress_resilience)来自于自由的探索
 

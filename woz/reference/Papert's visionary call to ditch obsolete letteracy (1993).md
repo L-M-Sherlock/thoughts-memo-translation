@@ -14,7 +14,7 @@ Papert 对教育问题的诊断，就像对四分之一个世纪后的[学校教
 
 ## 自由学习的力量
 
-Papert 用自己话为 [SuperMemo Guru](https://supermemo.guru/wiki/SuperMemo_Guru) 上的几篇重要论文作了序：
+Papert 用自己话为 [SuperMemo Guru](https://supermemo.guru/wiki/SuperMemo_Guru) 上的几篇重要论题作了序：
 
 - [学习内驱力](https://supermemo.guru/wiki/Learn_drive)在学校受到抑制
 
@@ -22,49 +22,49 @@ Papert 用自己话为 [SuperMemo Guru](https://supermemo.guru/wiki/SuperMemo_Gu
 
 - [学习内驱力](https://supermemo.guru/wiki/Learn_drive)和[创造力](https://supermemo.guru/wiki/Creativity)往往在成人生活中恢复，这是成人自由的结果。
 
-- 学校赞成从探索性学习过渡到模仿（见：[教育抵制进化](https://supermemo.guru/wiki/Education_counteracts_evolution))
+- 学校促进了从探索学习到模仿的过渡（见：[教育抵消进化](https://supermemo.guru/wiki/Education_counteracts_evolution)）
 
-- 学校实行错误的 3R 崇拜（见：[无语义课程](https://supermemo.guru/wiki/Asemantic_curriculum))
+- 学校实行错误的 3R\* 崇拜（见：[无语义课程](https://supermemo.guru/wiki/Asemantic_curriculum))（\*译注：即 reading, writing and arithmetic，阅读、写作和算术）
 
 - 学校偏爱「字识（letteracy）」，抑制了思想的[多样性](https://supermemo.guru/wiki/Diversity)。
 
 - 未来的教育将基于[知识机器](https://supermemo.guru/wiki/Knowledge_Machine)的概念，它启发了[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)
 
-- 未来的教育将利用蓬勃发展的[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的力量
+- 未来的教育将善用蓬勃发展的[学习内驱力](https://supermemo.guru/wiki/Learn_drive)
 
 ## 字识（letteracy）
 
-下面是 Papert 对三 R 的陈腐立场的抱怨：
+下面是 Papert 对 3R 的陈腐立场的抱怨：
 
-> 将学校教育与 3R（阅读、写作和算术）相提并论的老话，可能是教育变革的最顽固障碍。这些「基础知识」的核心作用从未被讨论过；它被认为是明显的。因此，教育政策制定者没有认识到新技术最重要的后果。
+> 那些滑稽的陈腔滥调，将学校教育与 3R——阅读、写作和算术——联系在一起，可能表露了教育改革中最顽固的阻碍。这些「基本功」的核心作用从未被讨论过；人们认为这是显而易见的。因此，教育政策制定者并未意识到新技术带来的最重要的影响。
 
 ## 新媒介
 
 Papert 预测了[电子游戏](https://supermemo.guru/wiki/Videogames)、VR 和 YouTube 的影响（比其诞生早 12 年）：
 
-> 将阅读从其在学校课程中的特权地位降级，只是[知识机器](https://supermemo.guru/wiki/Knowledge_Machine)的众多后果之一。一个在这种机器提供的自由探索中成长起来的孩子，不会静静地坐在今天大多数学校提供的标准[课程](https://supermemo.guru/wiki/Curriculum)中。孩子们已经被学校的缓慢和他们在电子游戏和电视中体验到的更刺激的节奏之间的对比弄得越来越烦躁。但是，当他们可以自由地进入非洲的动物或古希腊的战争的虚拟现实时，这种不安只是一个苍白的先兆。
+> 降低阅读在学校课程中的特权地位，只是[知识机器](https://supermemo.guru/wiki/Knowledge_Machine)的众多影响之一。一个在这种机器提供的自由探索中成长起来的孩子，不会安静地接受现今大多数学校提供的标准[课程](https://supermemo.guru/wiki/Curriculum)。如今，孩子们在电子游戏和电视中体验到更加刺激的节奏，而学校的缓慢节奏让他们越来越不耐烦。然而，这种不耐烦只是一个微弱的前兆。当他们可以自由进入非洲动物或古希腊战争的虚拟现实时，局面将会发生更大的变化。
 
-我在*莫尔斯密码星球*的比喻中描述了儿童不可避免的反叛，以及成人世界不可避免的抵抗：[学校字识（letteracy）的隧道视野](https://supermemo.guru/wiki/Tunnel_vision_of_school_letteracy)。
+我在《莫尔斯密码星球》的比喻中描述了儿童不可避免的反叛，以及成人世界不可避免的反对：[学校字识的隧道视野](https://supermemo.guru/wiki/Tunnel_vision_of_school_letteracy)。
 
 ## 被动学校教育的倾覆
 
-[自由学习](https://supermemo.guru/wiki/Free_learning)和[被动学校教育](https://supermemo.guru/wiki/Passive_schooling)之间的冲突将不可避免地导致旧制度的崩溃。[彼得-格雷](https://supermemo.guru/wiki/Peter_Gray)在他的许多文章和书籍中描述了这一点（见：[强制制度的崩溃](https://supermemo.guru/wiki/Gray:_Coercive_school_system_will_collapse_soon)）。我在[强制学校教育必须结束](https://supermemo.guru/wiki/Compulsory_schooling_must_end)中写到了这一点。帕珀特在1993年就已经知道了这一点。也许唯一难以预料的是，学校会劫持新技术，但却把旧的材料拿出来。换句话说，学校教育的[学习熵](https://supermemo.guru/wiki/Learntropy)增加了，但自由是一个顽固不化的问题。
+[自由学习](https://supermemo.guru/wiki/Free_learning)和[被动学校教育](https://supermemo.guru/wiki/Passive_schooling)之间的冲突将不可避免地导致旧系统的崩溃。[Peter Gray](https://supermemo.guru/wiki/Peter_Gray) 在他的许多文章和书籍中描述了这一点（见：[强制系统的崩溃](https://supermemo.guru/wiki/Gray:_Coercive_school_system_will_collapse_soon)）。我在[强制学校教育必须结束](https://supermemo.guru/wiki/Compulsory_schooling_must_end)一文中也谈到了这个问题。Papert 在 1993 年就已经意识到这一点。也许唯一难以预料的是，学校会劫持新技术，仅仅为了传授旧的教材，新瓶装旧酒。换句话说，学校教育的[学习熵](https://supermemo.guru/wiki/Learntropy)增加了，但自由始终是一个顽强不屈的议题。
 
-> 对[知识机器](https://supermemo.guru/wiki/Knowledge_Machine)的想象所带来的是一种确定性，即学校要么会发生非常彻底的变化，要么会简单地崩溃。可以预见的是（尽管仍然令人吃惊），教育机构除了利用新技术来做它过去一直在做的事情，即教授相同的课程之外，看不到更远的地方。我曾建议，新媒体通过降低课程的核心要素，从根本上改变课程的概念。但我想走得更远。自由探索知识世界的可能性使人们对管理性课程的概念产生了质疑。
+> 从想象一台[知识机器](https://supermemo.guru/wiki/Knowledge_Machine)出发，我们可以肯定，学校要么发生极大的变革，要么干脆崩溃。教育机构只关注利用新技术传授过去一直在教的相同课程，这种现象尽管令人惊讶，但却是可以预见的。我曾建议，新媒体通过降低课程的核心要素，从根本上改变课程的概念。但我想走得更远：自由探索知识世界的可能性让我们质疑设置一个管理型课程的存在意义。
 
 ## 长颈鹿是如何睡觉的？
 
-[Papert](https://supermemo.guru/wiki/Papert) 举了一个例子：一个4岁的孩子在健康的[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的驱动下。她问了一个问题「长颈鹿是怎么睡觉的？」。为了回答这个孩子的问题，Papert 继续用他图书馆里的一摞书来研究长颈鹿的睡眠。他把自己的树枝状探索性学习过程描绘成一个模型，即儿童在未来使用[现代学习技术](https://supermemo.guru/wiki/Incremental_reading)访问网络时将会经历什么（即他所说的[知识机器](https://supermemo.guru/wiki/Knowledge_Machine)）。
+[Papert](https://supermemo.guru/wiki/Papert) 举了一个例子：一个 4 岁的孩子在健康的[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的驱动下。她问了一个问题「长颈鹿是怎么睡觉的？」。为了回答这个孩子的问题，Papert 继续用他图书馆里的一摞书来研究长颈鹿的睡眠。他把自己的树枝状探索性学习过程描绘成一个模型，即儿童在未来使用[现代学习技术](https://supermemo.guru/wiki/Incremental_reading)访问网络时将会经历什么（即他所说的[知识机器](https://supermemo.guru/wiki/Knowledge_Machine)）。
 
 > 我的活动遵循一种模式，很容易让人联想到一个正在玩耍的孩子。我获得的知识不是我在书本上读到的命题的集合，而是在我的思维以非线性方式在这里和那里跳动时形成的直觉[连接](https://supermemo.guru/wiki/Semantic_framework)。
 
 Papert 只需要一个例子。我每天都会看到几十次类似的例子。这是[自由学习](https://supermemo.guru/wiki/Free_learning)的常态（特别是在[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)）。
 
-在 Papert 特的文章发表 26 年后，当我问及长颈鹿的睡眠问题时，谷歌是这样告诉我的（搜索时间低于 500 毫秒，2019 年 9 月 3 日）：
+在 Papert 的文章发表 26 年后，当我问及长颈鹿的睡眠问题时，谷歌是这样告诉我的（搜索时间低于 500 毫秒，2019 年 9 月 3 日）：
 
 [![How do giraffes sleep.png](https://supermemo.guru/images/thumb/9/9f/How_do_giraffes_sleep.png/600px-How_do_giraffes_sleep.png)](https://supermemo.guru/wiki/File:How_do_giraffes_sleep.png)
 
-> *图：1993年，[Seymour Papert](https://supermemo.guru/wiki/Seymour_Papert) 预言，新媒体（网络）将改变儿童的学习方式。他指出，[旧的教育系统](https://supermemo.guru/wiki/Prussian_education_system)将崩溃。他的设想启发了[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)等发明。他用一个 4 岁孩子想知道长颈鹿如何睡觉的例子来说明他的想法（见：帕珀特有远见地呼吁抛弃过时的信条（1993））。
+> 图：1993 年，[Seymour Papert](https://supermemo.guru/wiki/Seymour_Papert) 预言，新型媒体（网络）将改变儿童的学习方式。他指出，[旧的教育系统](https://supermemo.guru/wiki/Prussian_education_system)将崩溃。他的设想启发了[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)等发明。他用一个 4 岁孩子想知道长颈鹿如何睡觉的例子来说明他的想法（见：Papert 有远见地呼吁抛弃过时的字识（letteracy）（1993））。
 
 ------
 

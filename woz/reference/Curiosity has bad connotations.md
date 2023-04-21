@@ -1,4 +1,4 @@
-# 「好奇心」的负面涵义
+# 「好奇心」具有负面涵义
 
 原文：[Curiosity has bad connotations - supermemo.guru](https://supermemo.guru/wiki/Curiosity_has_bad_connotations)
 

@@ -6,7 +6,7 @@
 
 相关笔记：
 
-- [用别人的想法填补空闲时间是文化上默认的行为](https://notes.andymatuschak.org/zDoZS3Wt316napbdaBGU8C8WLVuyPeAu5Bi)
+- [用别人的想法填满闲暇时间是一种文化习惯](https://notes.andymatuschak.org/zDoZS3Wt316napbdaBGU8C8WLVuyPeAu5Bi)
 
  - [许多人觉得困难的创造性工作在当下大多是不愉快的](https://notes.andymatuschak.org/z2M8gwu3M7qT49TG48bMxH1Ww1yoFmtEYMvt)
 
@@ -16,7 +16,7 @@
 
 问：有什么生动的实验能证明人们更喜欢行动而不是思考？
 
-答：Wilson 等人要求人们静坐思考 15 分钟，但给了他们一个可以用来给自己电击的设备，尽管之前他们表示愿意花钱免遭电击，很多人还是选择了给自己电击！
+答：Wilson 等人要求人们静坐思考 15 分钟，并给了他们一个可以用来给自己电击的设备，尽管之前他们表示愿意花钱免遭电击，但很多人还是选择了给自己电击！
 
 ## 参考文献
 
