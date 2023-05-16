@@ -16,6 +16,8 @@
 
 -**社会是一片森林**：在森林中，每棵树都会优化其周围空间的利用。它会利用树冠中所有可用的空间。知识之树会避免已经被占据的黑暗空间，并关注那些仍然被照亮的树冠区域。社会中的每个个体都会最优地适应，以找到自己的知识匹配，满足其他人的需求。
 
+树木的生长是由简单的规则决定的。叶子向着光源生长，就像[学习驱动](https://supermemo.guru/wiki/Learn_drive)寻求高[学习熵](https://supermemo.guru/wiki/Learntropy)的来源一样。我们发现有用的东西很有趣。如果我们遵循自然的兴趣，我们就会长出一棵知识的大树
+
 知识就像一棵树，它总是寻求新的知识来扩大它的树冠。
 
 学校的直筒夹克
@@ -27,6 +29,8 @@
 有感情的树
 
 比喻。[为什么使用比喻？](https://supermemo.guru/wiki/Why_use_metaphors%3F)
+
+理解[自由学习](https://supermemo.guru/wiki/Free_learning)的愉悦之处，我们需要将树的隐喻扩展为提供[知识的估值](https://supermemo.guru/wiki/Knowledge_valuation)和学习愉悦的神经系统，以及[学习的快乐](https://supermemo.guru/wiki/Pleasure_of_learning)。每一束照射在叶子上的光线都有潜力在树脑中产生快乐的冲动。这种冲动将取决于先前的学习经历以及光线能够为树增加的新叶子的质量。
 
 有毒的学校教育
 

@@ -8,19 +8,19 @@
 
 - [用别人的想法填满闲暇时间是一种文化习惯](https://notes.andymatuschak.org/zDoZS3Wt316napbdaBGU8C8WLVuyPeAu5Bi)
 
-  - [人们更喜欢活动而不是思考](https://notes.andymatuschak.org/zMHvnEVNVQyuU8Uhf4Wij7HnsCD3GgKpAds)
+  - [人们更喜欢行动而不是思考](https://notes.andymatuschak.org/zMHvnEVNVQyuU8Uhf4Wij7HnsCD3GgKpAds)
 
   - [许多人觉得困难的创造性工作在当下大多是不愉快的](https://notes.andymatuschak.org/z2M8gwu3M7qT49TG48bMxH1Ww1yoFmtEYMvt)
 
-- [与他人的对话往往强调想法中最为人所理解的部分](https://notes.andymatuschak.org/z2XJiXXqRZX7vvTwTDi6x5c1umxancqrCg4y)
+- [与他人交流时，我们往往只强调对某个想法最为了解的部分](https://notes.andymatuschak.org/z2XJiXXqRZX7vvTwTDi6x5c1umxancqrCg4y)
 
-- [将内容写下来会促使人们理解得更清晰](https://notes.andymatuschak.org/z8q1K5a8i95qARkpFwS45qqtQzM8th82TkeUg)
+- [写作促使人们更加深入地理解](https://notes.andymatuschak.org/z8q1K5a8i95qARkpFwS45qqtQzM8th82TkeUg)
 
   - [自主思考](https://notes.andymatuschak.org/z4enRPbLXdD8X8hCfVjaRkcGkronvhcfrgSQw)
 
   - [文献笔记是次要的和分离的](https://notes.andymatuschak.org/z2Eg5jPPg8nBJWLGqJwNo5d15TAoEAXamYV7n)
 
-- [深度研究需要比业内工作更慢的节奏](https://notes.andymatuschak.org/zhY2FQgMFwzqH7FKB8bnMvNGng9jmKtYshbu)
+- [深度研究需要比技术行业具备更慢的节奏](https://notes.andymatuschak.org/zhY2FQgMFwzqH7FKB8bnMvNGng9jmKtYshbu)
 
 有用的忠告：[变得好奇](https://notes.andymatuschak.org/zKvtqpdyujNByokN4fSahKrgNgXxCAWD5gRv)；[变得无聊](https://notes.andymatuschak.org/zrQz6Eqcnrf3QqEf4A92J5bMSwED9KtMZje)；[变得爱玩](https://notes.andymatuschak.org/ziHJKnDvMUWnBBpTEsVg3iVNxKrCieEUaEr)
 
@@ -48,7 +48,7 @@
 
 - Focus.app 从早上 7 点到下午 5 点运行，阻止邮件、Twitter 时间线、分散注意力的网站，等等。
 
-  - 我不确定这是不是一个好的做法：[对「焦点」的僵化固定会损害创造性工作](https://notes.andymatuschak.org/z8BENejnm5iyqRUodaqyScehdgnuu9b1vn669)。工作时间块在晚上结束，所以我倾向于在那时做我的漫游，但我不知道这是否太僵硬。
+  - 我不确定这是不是一个好的做法：[拘泥于「专注」会损害创造性工作](https://notes.andymatuschak.org/z8BENejnm5iyqRUodaqyScehdgnuu9b1vn669)。工作时间块在晚上结束，所以我倾向于在那时做我的漫游，但我不知道这是否太僵硬。
 
 - 通常在晚上或感觉精力不足时分批回复文件
 

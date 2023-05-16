@@ -1,4 +1,4 @@
-# 学校削弱了智力
+# 学校侵蚀智能的基石
 
 原文：[School undermines intelligence - supermemo.guru](https://supermemo.guru/wiki/School_undermines_intelligence)
 
@@ -6,59 +6,59 @@
 
 ## 适应性悖论
 
-两种说法之间似乎存在矛盾：（1）大脑是一个完美的适应性设备，（2）我们在学校失去了大量的适应能力。如果大脑如此优越，那么学校是如何轻易地损害它的呢？
+两种说法之间似乎存在矛盾：（1）大脑是一个具有完美适应能力的装置，（2）我们在学校失去了大量的适应能力。如果大脑如此优越，那么学校是如何轻易地令其损坏的呢？
 
 常见问题。[什么是常见问题？](https://supermemo.guru/wiki/What_are_FAQs%3F)
 
-**一位朋友注意到：**你说，大脑是一个完美的适应性设备。你说，这使得孩子可以适应任何环境。如果是这样，那么你怎么同时声称，孩子们在离开学校后调节能力很差呢？他们怎么会失去适应能力而变得无助？我认为这个问题与世界的复杂性有关。毕业生必须面对日益复杂的现实。
+**一位朋友注意到：**你说，大脑是一个具有完美适应能力的装置。你说，这使得孩子可以适应任何环境。如果真是如此，那么你又怎么能同时声称，孩子们在离开学校后的调节能力很差呢？他们怎么会失去适应能力而变得无助？我认为这个问题与世界的复杂性有关。毕业生必须面对日益复杂的现实。
 
 适应性和容易产生无助感之间并不存在矛盾。[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)只是对混乱控制的一种适应形式（如下所述）。
 
-## 伤害适应性的适应方式
+## 损害适应性的适应方式
 
-适应性是大脑[概念网络](https://supermemo.guru/wiki/Concept_network)的属性，而[学习内驱力](https://supermemo.guru/wiki/Learn_drive)只是该网络的一部分。适应性可能涉及关闭[学习内驱力](https://supermemo.guru/wiki/Learn_drive)，而这正是在学校发生的事情。孩子们失去了对学习的热爱，干脆停止学习。如果学习内驱力本身被调出控制系统，[学习内驱力的最优性](https://supermemo.guru/wiki/Optimality_of_the_learn_drive)就没有价值。如果适应导致神经元死亡或大脑线路的改变，我们可能会陷入[不可逆转的逆适应](https://supermemo.guru/wiki/Irreversible_maladaptability)。
+适应性是大脑[概念网络](https://supermemo.guru/wiki/Concept_network)的属性，而[学习内驱力](https://supermemo.guru/wiki/Learn_drive)只是该网络的一部分。适应性可能涉及关闭[学习内驱力](https://supermemo.guru/wiki/Learn_drive)，而这正是在学校发生的事情。孩子们失去了对学习的热爱，干脆停止学习。如果学习内驱力本身被控制系统屏蔽，[学习内驱力的最优性](https://supermemo.guru/wiki/Optimality_of_the_learn_drive)就毫无价值。如果适应导致神经元死亡或大脑线路的改变，我们可能最终会陷入[不可逆转的适应力低下](https://supermemo.guru/wiki/Irreversible_maladaptability)。
 
-大脑本身对非适应性的伤害并不是密封的。它可以为集中营中的生存提供完美的适应性。然而，一旦恶劣的营养开始侵蚀大脑蛋白质结构，神经细胞会开始流失营养物质、失去功能或死亡。控制系统会出现混乱。适应性是大脑的领地，而大脑本身是寄存在一个更高级别的控制生态系统中的。
+大脑本身对非适应性的伤害并不是密封的。它可以完美地适应在集中营生存。然而，一旦恶劣的营养开始侵蚀大脑蛋白质结构，神经细胞会开始流失营养物质、失去功能或凋亡。控制系统会出现混乱。适应性是大脑的领地，而大脑本身是寄存在一个更高级别的控制生态系统中的。
 
-我们还可以在几个小时内削弱大脑的适应性。很大一部分人都[睡眠不足](https://supermemo.guru/wiki/Sleep_deprivation)的。[自稳态内驱力](https://supermemo.guru/wiki/Homeostatic)是[睡眠控制系统](https://supermemo.guru/wiki/Sleep_control_system)的一个重要部分。然而，当我们通过长时间保持清醒来推翻它时，我们不分青红皂白地伤害了大脑中的**所有**控制系统（包括[学习内驱力](https://supermemo.guru/wiki/Learn_drive)）。完美的适应性很容易被增加控制装置的错误率所湮灭。困倦的大脑不仅适应性差。它实际上可以撤销先前的适应性，例如通过[干扰](https://supermemo.guru/wiki/Interference)，由于在睡眠不足的状态下失去了控制（见：[睡眠不足的瑞士奶酪模型](https://supermemo.guru/wiki/Swiss_cheese_model)）。
+我们还可以在短短几小时内削弱大脑的适应性。很大一部分人都[睡眠不足](https://supermemo.guru/wiki/Sleep_deprivation)。[自稳态内驱力](https://supermemo.guru/wiki/Homeostatic)是[睡眠控制系统](https://supermemo.guru/wiki/Sleep_control_system)的一个重要组分。然而，当我们通过长时间保持清醒来推翻它的控制时，我们不分青红皂白地伤害了大脑中的**所有**控制系统（包括[学习内驱力](https://supermemo.guru/wiki/Learn_drive)）。完美的适应能力很容易被控制装置的错误率不断增加所湮灭。困倦的大脑不仅适应力低下。它实际上可以消除先前的适应性，例如通过[干扰](https://supermemo.guru/wiki/Interference)，由于在睡眠不足的状态下失去了控制（见：[睡眠不足的瑞士奶酪模型](https://supermemo.guru/wiki/Swiss_cheese_model)）。
 
 ## 导弹比喻
 
-学校对[智力](https://supermemo.guru/wiki/Intelligence)的影响可以用一个**智能导弹比喻**来说明。这个比喻解释了适应性如何导致不适应性：
+学校对[智能](https://supermemo.guru/wiki/Intelligence)的影响可以用一个**智能导弹类比**来说明。这个类比解释了适应性如何导致适应力低下：
 
 比喻。[为什么使用比喻？](https://supermemo.guru/wiki/Why_use_metaphors%3F)
 
-想象一下，一个完美的可适应的低空飞行的导弹，它可以学习在地形障碍物上航行以寻找一个目标。就像人脑适应环境一样，导弹也能适应在困难地形中的导航。随着每小时的飞行，导弹在应对不可预测的情况时将变得越来越有效。然而，如果我们试图手动控制导弹，就像发生在学校里的大脑一样，这种适应可能会导致控制不力。让我们想象一下，导弹飞入一个长长的黑暗隧道。很快，导弹就会掌握保持航线的艺术。在隧道里，没有复杂的控制，也没有必要的先进导航。在隧道里呆了很多年后，当我们把导弹放回复杂地形的自由地带时，它很可能会坠毁，因为它已经因为多年的废弃而失去了导航能力。在学校里，我们确实得到了一些知识，可能有助于[学习驱动](https://supermemo.guru/wiki/Learn_drive)恢复的过程。然而，这些知识相当于带上了一车的导航手册。离开隧道后，导弹需要导航。阅读有理解力的手册可能来得太晚。智能导航需要流畅地做出选择。这种流畅性并不直接来自于教科书的知识，而是需要数小时或数年的练习。
+想象一下，一个适应性极强的低空巡航导弹，它可以学习在充满障碍物的地形上巡航以寻找目标。就像人脑适应环境一样，导弹也能适应在困难地形中的巡航。随着飞行时间不断增加，导弹将变得越来越能够应对不可预测的情况。然而，如果我们试图手动控制导弹，就像对学校里的孩子所做的那样，这种适应可能会导致控制能力下降。让我们想象一下，导弹飞入一个长长的黑暗隧道。很快，导弹就会掌握保持直线的艺术。在隧道里，没有复杂的控制，先进的导航也没必要。在隧道里呆了很多年后，当我们把导弹放回充满复杂地形的自由地带时，它很可能会坠毁，因为它的导航能力已经由于多年的弃用而丧失了。在学校里，我们确实得到了一些知识，可能有助于[学习内驱力](https://supermemo.guru/wiki/Learn_drive)恢复的过程。然而，这些知识相当于带上了一车的导航手册。离开隧道后，导弹需要导航。带着理解阅读手册可能已经太迟了。智能导航需要流畅地做出选择。这种流畅性并不直接来自于教科书的知识，而是需要数小时或数年的练习。
 
 另见动物学习界的一个类似的例子：[论老鼠比受过学校教育的人更优越](https://supermemo.guru/wiki/On_the_superiority_of_a_rat_over_a_schooled_human)
 
-在学校获得的知识具有低[一致性](https://supermemo.guru/wiki/Coherence)、低[稳定性](https://supermemo.guru/wiki/Stability)和低[适用性](https://supermemo.guru/wiki/Applicability)。从大脑的角度来看，它背负着低[估价](https://supermemo.guru/wiki/Valuation)的负担。这就是为什么这种类型的知识会通过[干扰](https://supermemo.guru/wiki/Interference)被迅速[遗忘](https://supermemo.guru/wiki/Forgetting)。最重要的是，低[抽象性](https://supermemo.guru/wiki/Abstractness)和低[适用性](https://supermemo.guru/wiki/Applicability)的知识对于提高[智力](https://supermemo.guru/wiki/Intelligence)不会有太大帮助。
+在学校获得的知识，不仅[一致性](https://supermemo.guru/wiki/Coherence)低、[稳定性](https://supermemo.guru/wiki/Stability)低，[适用性](https://supermemo.guru/wiki/Applicability)也低。从大脑的角度来看，它背负着低[估价](https://supermemo.guru/wiki/Valuation)的负担。这就是为什么这种类型的知识会因为[干扰](https://supermemo.guru/wiki/Interference)而被迅速[遗忘](https://supermemo.guru/wiki/Forgetting)。最重要的是，低[抽象性](https://supermemo.guru/wiki/Abstractness)和低[适用性](https://supermemo.guru/wiki/Applicability)的知识对于提高[智能](https://supermemo.guru/wiki/Intelligence)没有多少帮助。
 
-穿过隧道的飞行可能被比作给导弹喂食相互矛盾的数据。[学习驱动](https://supermemo.guru/wiki/Learn_drive)说*"学习化学 "*，而老师说*"学习物理 "*。这就像你的妻子不停地告诉你*"我爱你"、"我恨你"、"我爱你 "*，等等。在某些时候，妻子的信号会被忽略，因为它毫无意义（大脑会把它调出来）。这样，大脑开始忽略来自[学习驱动](https://supermemo.guru/wiki/Learn_drive)系统的信息。它变得被成绩和荣誉所驱动，或许是惩罚。在最坏的情况下，无助的大脑只专注于在学校多活一天。有着虚假激励的学校堪比一个嘈杂的指导输入数据。
+在隧道中飞行可能被比作给导弹喂食相互矛盾的数据。[学习内驱力](https://supermemo.guru/wiki/Learn_drive)说「学习化学」，而老师说「学习物理」。这就像你的妻子不停地告诉你「我爱你」、「我恨你」、「我爱你」，等等。在某些时候，妻子的信号会被忽略，因为它毫无意义（大脑会自动屏蔽）。类似地，大脑会开始忽略来自[学习内驱力](https://supermemo.guru/wiki/Learn_drive)系统的信息。它变得被成绩和荣誉所驱动，或许还有惩罚。在最坏的情况下，无助的大脑只专注于在学校多活一天。有着虚假激励的学校堪比一个嘈杂的指导输入数据。
 
-如果一枚导弹收到随机数据，或一个负担沉重的噪音的信号，它的控制系统将很快学会忽略这些噪音。这就好比导弹在隧道里飞行，没有任何有趣的输入。导弹失去了它的智慧。当它存在隧道中时，它就会在风和重力的摆布下飞行。
+如果一枚导弹收到随机数据，或一个带有大量噪音的信号，它的控制系统将很快学会忽略这些噪音。这就好比导弹在隧道里飞行，没有任何有趣的输入。导弹失去了它的智能。它在隧道中飞行，任由风和重力的摆布。
 
-矛盾的是，在学校，我们通过失去适应性来适应可控性。
+自相矛盾的是，在学校，我们通过失去适应性来适应被操控。
 
-学校通过加速[概念化](https://supermemo.guru/wiki/Conceptualization)（例如由于压力的影响）来伤害适应性。适应性的方向是使大脑成为知识的被动容器。在成年后恢复[学习动力](https://supermemo.guru/wiki/Learn_drive)是很难的，因为[概念化](https://supermemo.guru/wiki/Conceptualization)过程是收敛的，而且由于[记忆稳定性](https://supermemo.guru/wiki/Memory_stability)的平均增加，很难逆转（见：[不可逆转的适应性不良](https://supermemo.guru/wiki/Irreversible_maladaptability)）。
+学校通过加速[概念化](https://supermemo.guru/wiki/Conceptualization)（例如由于压力的影响）来损害适应性。适应的方向是使大脑成为被动接受知识的容器。在成年后恢复[学习内驱力](https://supermemo.guru/wiki/Learn_drive)很难，因为[概念化](https://supermemo.guru/wiki/Conceptualization)过程是收敛的。而且由于平均[记忆稳定性](https://supermemo.guru/wiki/Memory_stability)的增加，这一过程很难逆转（见：[不可逆转的适应力低下](https://supermemo.guru/wiki/Irreversible_maladaptability)）。
 
-当毕业生回到生活中时，没有学校的指导，他们很容易迷失方向。他们已经失去了[智力]的关键成分（https://supermemo.guru/wiki/Intelligence）。在学校的适应性被用来培养被动性。
+当毕业生重获新生时，如果没有学校的指导，他们很容易迷失方向。他们已经失去了[智能](https://supermemo.guru/wiki/Intelligence)的关键成分。在学校的适应性被用来培养被动性。
 
-在学校接受了20年的指导后，学生可能发现很难走到现实世界中去。
+在学校接受了 20 年的指导后，学生可能发现很难走到现实世界中去。
 
-[！[虫子的好奇心、创造力和习得性无助.png](https://supermemo.guru/images/thumb/e/ed/Curiosity%2C_creativity_and_learned_helplessness_in_a_worm.png/500px-Curiosity%2C_creativity_and_learned_helplessness_in_a_worm.png)](https://supermemo.guru/wiki/File:Curiosity,_creativity_and_learned_helplessness_in_a_worm.png)
+[![Curiosity, creativity and learned helplessness in a worm.png](https://supermemo.guru/images/thumb/e/ed/Curiosity%2C_creativity_and_learned_helplessness_in_a_worm.png/500px-Curiosity%2C_creativity_and_learned_helplessness_in_a_worm.png)](https://supermemo.guru/wiki/File:Curiosity,_creativity_and_learned_helplessness_in_a_worm.png)
 
-> ***图：**优雅动物的神经系统仅由302个神经元组成。然而，这足以实现一种探索性的算法，让人联想到人类的好奇心、创造力和问题的解决。当蠕虫发现一片食物时，它将探索它。然而，偶尔它也会出人意料地朝一个随机的方向冲去，寻找新的斑块（细菌）。类似的算法可以在其他动物身上找到，然而，人类的[学习驱动]（https://supermemo.guru/wiki/Learn_drive）要复杂得多。它是基于[知识评估](https://supermemo.guru/wiki/Knowledge_valuation)，探索性的休息是为[学习动力](https://supermemo.guru/wiki/Learntropy)下降到远低于预期值的时期保留的。人类的创造力也是基于知识的，而在蠕虫中，它的唯一方面是对方向的随机选择。对于蠕虫来说，一片新的细菌是一个问题的解决，而对于人类来说，它可能是一个改造火星的新想法。最后但并非最不重要的是，在原始动物中诱导[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)（标记为 "学校"）的隐喻工具，反而只会有驱动习惯的形式。尽管如此，小虫子可能提出了一个令人信服的说明，比智能导弹的隐喻要普遍得多，也可能与原始神经系统有关。*更多关于学习驱动力的普遍性，见：https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4635443/
+> 图：秀丽隐杆线虫的神经系统仅由 302 个神经元组成。然而，这足以实现类似人类好奇心、创造力和问题解决能力的探索算法。当线虫找到一块食物时，它就会开始探索。偶尔，它会冲向某个随机的方向，寻找新的食物（细菌）。类似的算法也在其他动物中找到。然而，人类的[学习内驱力](https://supermemo.guru/wiki/Learn_drive)要复杂得多。它基于[知识估值](https://supermemo.guru/wiki/Knowledge_valuation)，并且随机探索的行为会被留到[学习熵](https://supermemo.guru/wiki/Learntropy)远远低于预期的时候才被触发。人类的创造力基于知识，而线虫只是采取完全随机的行为。对于线虫来说，找到一块新食物就是「解决问题」；而人类的「解决问题」可能是关于火星地貌改造的新想法。最后但同样重要的是，我们对[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)（图中记作「学校」）的形成所作的比喻，在原始动物身上也许只会体现为染上了一种「驱动习惯」。然而，在解释我们的观点方面，这种小线虫可能比「智力导弹」的比喻要更具说服力，因为它更加普遍，并且可能与原始神经系统有关。欲了解更多关于学习内驱力的普遍性，请参阅：https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4635443/
 
-##学习驱动力是适应性的
+## 学习内驱力是可适应的
 
-我们生来就有一个健康的[学习动力](https://supermemo.guru/wiki/Learn_drive)。婴儿对世界充满好奇，甚至在出生前就开始学习。
+我们生来就有健康的[学习内驱力](https://supermemo.guru/wiki/Learn_drive)。婴儿对世界充满好奇，甚至在出生前就开始学习。
 
-学习动力是由[知识评价](https://supermemo.guru/wiki/Knowledge_valuation)提供的，这种评价是分层次的，可以通过学习来扩展。我们学得越多，就越能看到新的有趣的东西来学习。带着乐趣学习会鼓励更多的学习。我们学得越多，我们的好奇心就越强。
+学习内驱力由[知识估值](https://supermemo.guru/wiki/Knowledge_valuation)驱动，这种估值是分层次的，可以通过学习来扩展。我们学得越多，就越能看到新的有趣的东西来学习。带着乐趣学习会鼓励更多的学习。我们学得越多，我们的好奇心就越强。
 
 起初，孩子可能出于自负的原因想成为一个重要人物。他可能会努力成为一名科学家。不久，他可能发现化学或物理是科学的有趣分支。孩子可能会重视化学，因为它将导致目标的实现。很快，他可能会喜欢各种爆炸性的化学实验。对这个神话专家的孩子来说，玩强酸肯定是最有价值的。
 
-然而，在学校里，孩子似乎对化学来说还太小，而且有很多语法和拼写的练习。也有一些地理知识。成绩和惩罚将决定新的[知识的价值](https://supermemo.guru/wiki/Knowledge_valuation)。孩子可能想读化学书，但需要继续学习乘法表。由于神经决定冲突，如果学校教育的压力足够大，化学的价值将被压制。被压制的学习会有一种网络化的负面评价，从化学书的[概念](https://supermemo.guru/wiki/Spreading_activation)，通过与实验相关的[概念](https://supermemo.guru/wiki/Concept)，通过对化学的一般热爱，向成为科学家的目标方向[传播](https://supermemo.guru/wiki/Spreading_activation)。最薄弱的底层环节将首先被抹去，以防止控制冲突。
+然而，在学校里，孩子似乎对化学来说还太小，而且有很多语法和拼写的练习。也有一些地理知识。成绩和惩罚将决定新的[知识的估值](https://supermemo.guru/wiki/Knowledge_valuation)。孩子可能想读化学书，但需要继续学习乘法表。由于神经决定冲突，如果学校教育的压力足够大，化学的固执将被压制。被压制的学习会有一种网络化的负面估值，从化学书的[概念](https://supermemo.guru/wiki/Spreading_activation)，通过与实验相关的[概念](https://supermemo.guru/wiki/Concept)，通过对化学的一般热爱，向成为科学家的目标方向[传播](https://supermemo.guru/wiki/Spreading_activation)。最薄弱的底层环节将首先被抹去，以防止控制冲突。
 
 激情可能很难熄灭，但学校在执行其要求时可能同样艰难。在反转学习的过程中，我们解除了以前的价值观念。它们变得颠倒了。我们可能会逐渐失去所有的激情、对学习的兴趣、对解决问题的兴趣，而重新关注成绩和奖励，或关注惩罚，或只是关注以最小的痛苦代价熬过学校的日子。
 
@@ -66,9 +66,9 @@
 
 通过诱导[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)，学校教育增加了抑郁症和成瘾的风险。
 
-##知识贬值
+## 贬低知识
 
-学习动力](https://supermemo.guru/wiki/Learn_drive)依赖于[知识评价](https://supermemo.guru/wiki/Knowledge_valuation)，它是分层次的：目标决定了子目标的价值，而知识的价值是基于它能帮助实现的目标。
+[学习内驱力](https://supermemo.guru/wiki/Learn_drive)依赖于[知识估值](https://supermemo.guru/wiki/Knowledge_valuation)，它是分层次的：目标决定了子目标的价值，而知识的价值是基于它能帮助实现的目标。
 
 学校条件反射有一种反转学习的形式，其中[学习驱动力](https://supermemo.guru/wiki/Learn_drive)指导和学校设置的激励系统之间存在冲突（为了对称，我称之为[学校驱动力](https://supermemo.guru/wiki/School_drive)）。研究人员在习得性无助实验中观察到类似的现象（例如，通过将老鼠囚禁在水箱中，没有逃跑的路线）。
 

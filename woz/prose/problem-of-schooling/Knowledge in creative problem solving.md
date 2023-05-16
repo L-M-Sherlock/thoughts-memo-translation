@@ -1,4 +1,4 @@
-# 知识在创造性解决问题方面的应用
+# 知识之于创造性解决问题
 
 原文：[Knowledge in creative problem solving - supermemo.guru](https://supermemo.guru/wiki/Knowledge_in_creative_problem_solving)
 
