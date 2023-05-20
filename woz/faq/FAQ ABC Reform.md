@@ -1,4 +1,4 @@
-# 常见问题：教育改革的基本法
+# 常见问题：教育改革基本法
 
 原文：[FAQ: ABC Reform - supermemo.guru](https://supermemo.guru/wiki/FAQ:_ABC_Reform)
 
@@ -6,7 +6,7 @@
 
 一旦我们停止强迫孩子上学，世界将更加美好（见：[强制学校教育必须结束](https://supermemo.guru/wiki/Compulsory_schooling_must_end)）。
 
-Coercion will end when we universally adopt the [Declaration of Educational Emancipation](https://supermemo.guru/wiki/Declaration_of_Educational_Emancipation) (supported by Dr [Peter Gray](https://supermemo.guru/wiki/Peter_Gray)).
+一旦[教育解放宣言](https://supermemo.guru/wiki/Declaration_of_Educational_Emancipation)（承蒙 [Peter Gray](https://supermemo.guru/wiki/Peter_Gray) 博士的支持）普遍采用，胁迫将会走向尾声。
 
 我们计划从波兰开始，以激励世界其他地区。
 
@@ -44,7 +44,7 @@ Coercion will end when we universally adopt the [Declaration of Educational Eman
 
 ## 学校应该私有化
 
-- **问：学校应该都被私有化。市场的力量将导致学校系统的自组织**
+- **问：学校应该都被私有化。市场的力量将引起学校系统的自组织**
 
 - 答：私有化不是必要的，因为私立和公立学校在学券市场上将在同等的条件下运作。唯一的区别在于控制来源（尤其是选择校长）。对于私立学校，控制来源将是私人所有者。对于公立学校，是地方政府。这可能导致略有不同的优化。私立学校可能更注重盈利。公立学校可能会根据当地人口需求进行优化。这样，（1）我们避免了强制性的私有化，（2）我们通过适应性演变最大限度地减少了破坏，（3）我们避免了为富人创造教育的批评。私立学校可能会满足市场的所有主要需求。但是，改革的潜在反对者会质疑市场的「神奇之手」。这样，意见分歧将通过诚实的市场力量解决。
 
