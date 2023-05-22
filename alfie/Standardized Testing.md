@@ -2,9 +2,9 @@
 
 原文：[Standardized Testing: Separating Wheat Children from Chaff Children - Alfie Kohn](https://www.alfiekohn.org/article/standardized-testing/)
 
-### 将儿童区分为优质麦穗与劣质糠秕
+### 将儿童区分为优等麦穗与劣等糠秕
 
-节选自 Susan Ohanian 的《课间休息去哪了，为什么我们的孩子在幼儿园里挣扎？》（纽约：McGraw-Hill，2002 年）的序言
+摘自 Susan Ohanian 的《课间休息去哪了，为什么我们的孩子在幼儿园里挣扎？》（纽约：McGraw-Hill，2002 年）的序言
 
 作者：Alfie Kohn
 

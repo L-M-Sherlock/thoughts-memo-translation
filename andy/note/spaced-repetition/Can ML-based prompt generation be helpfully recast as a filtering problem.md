@@ -1,8 +1,8 @@
-# 基于机器学习的 Prompt 生成可以被有效的重定义为过滤问题吗
+# 基于机器学习的卡片生成可以被有效的重定义为过滤问题吗？
 
-[基于机器学习的卡片生成，或许看作筛选问题会有帮助？](https://notes.andymatuschak.org/zQ4E1DXZoZTTitsik89ZcvXMu8dQMkJzRUS)
+原文：[Can ML-based prompt generation be helpfully recast as a filtering problem? (andymatuschak.org)](https://notes.andymatuschak.org/zQ4E1DXZoZTTitsik89ZcvXMu8dQMkJzRUS)
 
-当我开始专注于 [使用机器学习模型生成好的间隔重复 prompt](https://notes.andymatuschak.org/z2DY7qsP5iHsiA5hxUHheV8hu7Xe96vdGyYX)，我认为这个问题主要在于如何让系统产生我想要的输出。但在体验过一些模型后，我注意到
+当我开始专注 [使用机器学习模型来生成高质量的间隔重复卡片](https://notes.andymatuschak.org/z2DY7qsP5iHsiA5hxUHheV8hu7Xe96vdGyYX)，我认为这个问题主要在于如何让系统产生我想要的输出。但在体验过一些模型后，我注意到
 
 生成卡片的问题，跟让模型生成可接受的输出的问题完全不一样。或许可以开发一些过滤器，在模型生成问题之后筛选，以找出我们需要的问题。此外，我们也可以开发一个界面来辅助这个筛选问题。
 
@@ -12,4 +12,4 @@
 
 ## 参考文献
 
-我在[2021年 9 月 6日](https://notes.andymatuschak.org/zYhPmghQMv93jZsGwPfLcZx7E4npiQc87xX) 与[Yuval Milo](https://notes.andymatuschak.org/zJ55L18u5sagXqnMWh5szwfZ388oGQbyfW3)的电话会谈里意识到这点。
+我在 [2021年 9 月 6日](https://notes.andymatuschak.org/zYhPmghQMv93jZsGwPfLcZx7E4npiQc87xX) 与[Yuval Milo](https://notes.andymatuschak.org/zJ55L18u5sagXqnMWh5szwfZ388oGQbyfW3)的电话会谈里意识到了这点。
