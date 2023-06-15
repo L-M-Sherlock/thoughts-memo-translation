@@ -4,7 +4,7 @@
 
 ## 定义
 
-**语义大脑**是一种对于健康的大脑发育早期的假想状态，可以被用来当作是通向高[智力]的跳板(https://supermemo.guru/wiki/Intelligence)。在元认知技能发展之前，陈述性大脑完全依赖于[语义学习](https://supermemo.guru/wiki/Semantic_learning)。这把学习的效率最大化了。**语义大脑**的特点是高度的[创造力](https://supermemo.guru/wiki/Creativity)，对于[解决问题](https://supermemo.guru/wiki/Problem_solving)的精通和匮乏的[无语义记忆](https://supermemo.guru/wiki/Asemantic_learning)。高效的[语义学习](https://supermemo.guru/wiki/Semantic_learning)和元认知记忆本领的结合为高[智力](https://supermemo.guru/wiki/Intelligence)的发展奠定了基础。
+**语义大脑**是一种对于健康的大脑发育早期的假想状态，可以被用来当作是通向高[智力](https://supermemo.guru/wiki/Intelligence)的跳板。在元认知技能发展之前，陈述性大脑完全依赖于[语义学习](https://supermemo.guru/wiki/Semantic_learning)。这把学习的效率最大化了。**语义大脑**的特点是高度的[创造力](https://supermemo.guru/wiki/Creativity)，对于[解决问题](https://supermemo.guru/wiki/Problem_solving)的精通和匮乏的[无语义记忆](https://supermemo.guru/wiki/Asemantic_learning)。高效的[语义学习](https://supermemo.guru/wiki/Semantic_learning)和元认知记忆本领的结合为高[智力](https://supermemo.guru/wiki/Intelligence)的发展奠定了基础。
 
 ## 主动遗忘
 

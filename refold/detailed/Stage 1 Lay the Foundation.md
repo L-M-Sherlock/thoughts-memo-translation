@@ -1,6 +1,6 @@
-### 阶段 1：奠定基础
+# 阶段 1：奠定基础
 
-[阶段 1：奠定基础]()
+原文：[Stage 1: Lay the Foundation | Refold](https://refold.la/roadmap/stage-1/overview)
 
 学习一门语言并不是一蹴而就的。它需要一段时间，所以重要的是建立坚实的技能、工具、习惯和知识基础，为你的旅程做好准备。
 

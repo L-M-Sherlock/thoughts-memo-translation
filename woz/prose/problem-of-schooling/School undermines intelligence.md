@@ -28,13 +28,13 @@
 
 比喻。[为什么使用比喻？](https://supermemo.guru/wiki/Why_use_metaphors%3F)
 
-想象一下，一个适应性极强的低空巡航导弹，它可以学习在充满障碍物的地形上巡航以寻找目标。就像人脑适应环境一样，导弹也能适应在困难地形中的巡航。随着飞行时间不断增加，导弹将变得越来越能够应对不可预测的情况。然而，如果我们试图手动控制导弹，就像对学校里的孩子所做的那样，这种适应可能会导致控制能力下降。让我们想象一下，导弹飞入一个长长的黑暗隧道。很快，导弹就会掌握保持直线的艺术。在隧道里，没有复杂的控制，先进的导航也没必要。在隧道里呆了很多年后，当我们把导弹放回充满复杂地形的自由地带时，它很可能会坠毁，因为它的导航能力已经由于多年的弃用而丧失了。在学校里，我们确实得到了一些知识，可能有助于[学习内驱力](https://supermemo.guru/wiki/Learn_drive)恢复的过程。然而，这些知识相当于带上了一车的导航手册。离开隧道后，导弹需要导航。带着理解阅读手册可能已经太迟了。智能导航需要流畅地做出选择。这种流畅性并不直接来自于教科书的知识，而是需要数小时或数年的练习。
+想象一下，一个适应性极强的低空巡航导弹，它可以学习在充满障碍物的地形上巡航以寻找目标。就像人脑适应环境一样，导弹也能适应在复杂地形中的巡航。随着飞行时间不断增加，导弹将变得越来越能够应对不可预测的情况。然而，如果我们试图手动控制导弹，就像对学校里的孩子所做的那样，这种适应可能会导致控制能力下降。让我们想象一下，导弹飞入一个长长的黑暗隧道。很快，导弹就会掌握保持直线的艺术。在隧道里，没有复杂的控制，先进的导航也没必要。在隧道里呆了很多年后，当我们把导弹放回充满复杂地形的自由地带时，它很可能会坠毁，因为它的导航能力已经由于多年的弃用而丧失了。在学校里，我们确实得到了一些知识，可能有助于[学习内驱力](https://supermemo.guru/wiki/Learn_drive)恢复的过程。然而，这些知识相当于带上了一车的导航手册。离开隧道后，导弹需要巡航。带着理解阅读手册可能已经太迟了。智能巡航需要流畅地做出选择。这种流畅性并不直接来自于教科书的知识，而是需要数小时或数年的练习。
 
 另见动物学习界的一个类似的例子：[论老鼠比受过学校教育的人更优越](https://supermemo.guru/wiki/On_the_superiority_of_a_rat_over_a_schooled_human)
 
 在学校获得的知识，不仅[一致性](https://supermemo.guru/wiki/Coherence)低、[稳定性](https://supermemo.guru/wiki/Stability)低，[适用性](https://supermemo.guru/wiki/Applicability)也低。从大脑的角度来看，它背负着低[估价](https://supermemo.guru/wiki/Valuation)的负担。这就是为什么这种类型的知识会因为[干扰](https://supermemo.guru/wiki/Interference)而被迅速[遗忘](https://supermemo.guru/wiki/Forgetting)。最重要的是，低[抽象性](https://supermemo.guru/wiki/Abstractness)和低[适用性](https://supermemo.guru/wiki/Applicability)的知识对于提高[智能](https://supermemo.guru/wiki/Intelligence)没有多少帮助。
 
-在隧道中飞行可能被比作给导弹喂食相互矛盾的数据。[学习内驱力](https://supermemo.guru/wiki/Learn_drive)说「学习化学」，而老师说「学习物理」。这就像你的妻子不停地告诉你「我爱你」、「我恨你」、「我爱你」，等等。在某些时候，妻子的信号会被忽略，因为它毫无意义（大脑会自动屏蔽）。类似地，大脑会开始忽略来自[学习内驱力](https://supermemo.guru/wiki/Learn_drive)系统的信息。它变得被成绩和荣誉所驱动，或许还有惩罚。在最坏的情况下，无助的大脑只专注于在学校多活一天。有着虚假激励的学校堪比一个嘈杂的指导输入数据。
+在隧道中飞行可能类似于给导弹输入相互矛盾的数据。[学习内驱力](https://supermemo.guru/wiki/Learn_drive)说「学习化学」，而老师说「学习物理」。这就像你的妻子不停地告诉你「我爱你」、「我恨你」、「我爱你」，等等。在某些时候，妻子的信号会被忽略，因为它毫无意义（大脑会自动屏蔽）。类似地，大脑会开始忽略来自[学习内驱力](https://supermemo.guru/wiki/Learn_drive)系统的信息。它变得被分数和表扬所驱动，或许还有惩罚。在最坏的情况下，无助的大脑只专注于在学校多活一天。有着虚假激励的学校堪比一个嘈杂的制导输入数据。
 
 如果一枚导弹收到随机数据，或一个带有大量噪音的信号，它的控制系统将很快学会忽略这些噪音。这就好比导弹在隧道里飞行，没有任何有趣的输入。导弹失去了它的智能。它在隧道中飞行，任由风和重力的摆布。
 
@@ -44,7 +44,7 @@
 
 当毕业生重获新生时，如果没有学校的指导，他们很容易迷失方向。他们已经失去了[智能](https://supermemo.guru/wiki/Intelligence)的关键成分。在学校的适应性被用来培养被动性。
 
-在学校接受了 20 年的指导后，学生可能发现很难走到现实世界中去。
+在学校接受了 20 年的指导后，学生可能会发现很难走进现实世界。
 
 [![Curiosity, creativity and learned helplessness in a worm.png](https://supermemo.guru/images/thumb/e/ed/Curiosity%2C_creativity_and_learned_helplessness_in_a_worm.png/500px-Curiosity%2C_creativity_and_learned_helplessness_in_a_worm.png)](https://supermemo.guru/wiki/File:Curiosity,_creativity_and_learned_helplessness_in_a_worm.png)
 
@@ -56,29 +56,29 @@
 
 学习内驱力由[知识估值](https://supermemo.guru/wiki/Knowledge_valuation)驱动，这种估值是分层次的，可以通过学习来扩展。我们学得越多，就越能看到新的有趣的东西来学习。带着乐趣学习会鼓励更多的学习。我们学得越多，我们的好奇心就越强。
 
-起初，孩子可能出于自负的原因想成为一个重要人物。他可能会努力成为一名科学家。不久，他可能发现化学或物理是科学的有趣分支。孩子可能会重视化学，因为它将导致目标的实现。很快，他可能会喜欢各种爆炸性的化学实验。对这个神话专家的孩子来说，玩强酸肯定是最有价值的。
+起初，孩子可能出于自负的原因想成为一个重要人物。他可能会努力成为一名科学家。不久，他可能发现化学或物理是科学的有趣分支。孩子可能会重视化学，因为它有助于实现目标。很快，他可能会喜欢各种爆炸性的化学实验。对这个《流言终结者》的孩子来说，玩强酸肯定是最有价值的。 
 
-然而，在学校里，孩子似乎对化学来说还太小，而且有很多语法和拼写的练习。也有一些地理知识。成绩和惩罚将决定新的[知识的估值](https://supermemo.guru/wiki/Knowledge_valuation)。孩子可能想读化学书，但需要继续学习乘法表。由于神经决定冲突，如果学校教育的压力足够大，化学的固执将被压制。被压制的学习会有一种网络化的负面估值，从化学书的[概念](https://supermemo.guru/wiki/Spreading_activation)，通过与实验相关的[概念](https://supermemo.guru/wiki/Concept)，通过对化学的一般热爱，向成为科学家的目标方向[传播](https://supermemo.guru/wiki/Spreading_activation)。最薄弱的底层环节将首先被抹去，以防止控制冲突。
+然而，在学校里，这个孩子似乎还太小，不能学化学，而且有很多语法和拼写的练习要做。也有一些地理知识。分数和惩罚将决定新的[知识估值](https://supermemo.guru/wiki/Knowledge_valuation)。孩子可能想读化学书，但需要继续学习乘法表。由于神经决策冲突，如果学校教育的压力足够大，化学的估值将被抑制。被抑制的学习将会形成网络化的负估值，从化学书的[概念](https://supermemo.guru/wiki/Spreading_activation)，通过与实验相关的[概念](https://supermemo.guru/wiki/Concept)，通过对化学的一般热爱，向成为科学家的目标方向[传播](https://supermemo.guru/wiki/Spreading_activation)。最薄弱的底层连接将首先被抹去，以防止控制冲突。
 
-激情可能很难熄灭，但学校在执行其要求时可能同样艰难。在反转学习的过程中，我们解除了以前的价值观念。它们变得颠倒了。我们可能会逐渐失去所有的激情、对学习的兴趣、对解决问题的兴趣，而重新关注成绩和奖励，或关注惩罚，或只是关注以最小的痛苦代价熬过学校的日子。
+激情可能很难熄灭，但学校在执行其要求时可能同样强硬。在逆学习过程中，我们抹掉了以前的估值。它们反转了。我们可能会逐渐失去所有的激情、对学习的兴趣、对解决问题的兴趣，而重新关注分数和奖励，或关注惩罚，或者仅仅是在痛苦中以最小的代价度过学校的日子。
 
-当我们把[学习动力](https://supermemo.guru/wiki/Learn_drive)调出来时，我们就关闭了生活中奖励的主要来源之一。因此，无助的成年人将容易受到[抑郁症](https://supermemo.guru/wiki/Depression)和[成瘾](https://supermemo.guru/wiki/Addiction)的影响。
+注释掉[学习内驱力](https://supermemo.guru/wiki/Learn_drive)后，我们就关闭了生活中奖励的主要来源。因此，无助的成年人将很容易[抑郁](https://supermemo.guru/wiki/Depression)和[成瘾](https://supermemo.guru/wiki/Addiction)。
 
-通过诱导[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)，学校教育增加了抑郁症和成瘾的风险。
+通过诱导[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)，学校教育提高了抑郁和成瘾的风险。
 
-## 贬低知识
+## 知识贬值
 
-[学习内驱力](https://supermemo.guru/wiki/Learn_drive)依赖于[知识估值](https://supermemo.guru/wiki/Knowledge_valuation)，它是分层次的：目标决定了子目标的价值，而知识的价值是基于它能帮助实现的目标。
+[学习内驱力](https://supermemo.guru/wiki/Learn_drive)依赖于[知识估值](https://supermemo.guru/wiki/Knowledge_valuation)，它是层级式的：目标决定子目标的价值，而知识的价值则基于它有助于实现的目标。
 
-学校条件反射有一种反转学习的形式，其中[学习驱动力](https://supermemo.guru/wiki/Learn_drive)指导和学校设置的激励系统之间存在冲突（为了对称，我称之为[学校驱动力](https://supermemo.guru/wiki/School_drive)）。研究人员在习得性无助实验中观察到类似的现象（例如，通过将老鼠囚禁在水箱中，没有逃跑的路线）。
+学校操练是一种逆学习过程，其中[学习内驱力](https://supermemo.guru/wiki/Learn_drive)引导系统和学校设置的激励系统之间存在冲突（为了对称，我称之为[学校外驱力](https://supermemo.guru/wiki/School_drive)）。研究人员在习得性无助实验中观察到类似的现象（例如，通过将老鼠囚禁在水箱中，没有逃跑的路线）。
 
-雷-库兹韦尔用以下的话描述了[概念计算]（https://supermemo.guru/wiki/Conceptual_computation）。
+Ray Kurzweil 是这样描述[概念计算](https://supermemo.guru/wiki/Conceptual_computation)的：
 
-> 信号在概念层次上有上有下。一个向上的信号意味着，*"我检测到了一个模式。"*一个向下的信号意味着，*"我正在期待你的模式出现。"*本质上是一种预测。向上和向下的信号都可以是兴奋性或抑制性的。
+> 信号在概念层次上有上有下。一个向上的信号意味着，「我检测到了一个模式」。一个向下的信号意味着，「我正在期待你的模式出现」。这本质上是一种预测。向上和向下的信号都可以是兴奋性或抑制性的。
 
-使用库兹韦尔的语言，我们可以说，[学习驱动](https://supermemo.guru/wiki/Learn_drive)发出了一个兴奋的信号。*"我已经检测到一个有价值的知识模式 "*。然而，这个信号被一个抑制性的[学习驱动力](https://supermemo.guru/wiki/School_drive)信号所取代。*"我希望这个模式没有价值。这方面的知识并不重要。不要打扰！"*。
+用 Kurzweil 的话来说，[学习内驱力](https://supermemo.guru/wiki/Learn_drive)发出了兴奋信号：「我已经检测到有价值的知识模式」。然而，这个信号被[学校外驱力,](https://supermemo.guru/wiki/School_drive)的抑制信号所取代：「我希望这个模式没有价值。这方面的知识并不重要。别费心了！」。
 
-这幅图显示了可能发生在[知识评价网络](https://supermemo.guru/wiki/Knowledge_valuation_network)任何层面的概念冲突。当学校的惩罚足够强大时，估值树就会被打乱，负面的估值会向目标传播。
+这幅图显示了可能发生在[知识估值网络](https://supermemo.guru/wiki/Knowledge_valuation_network)任何层级的概念冲突。只要学校的惩罚足够强大，估值树就会被打乱，负估值会向目标传播：
 
 [![Neural competition between the learn drive and the system of rewards at school.png](https://supermemo.guru/images/thumb/2/27/Neural_competition_between_the_learn_drive_and_the_system_of_rewards_at_school.png/500px-Neural_competition_between_the_learn_drive_and_the_system_of_rewards_at_school.png)](https://supermemo.guru/wiki/File:Neural_competition_between_the_learn_drive_and_the_system_of_rewards_at_school.png)
 
@@ -86,61 +86,61 @@
 
 > 版权说明：你可以在知识共享许可下重新发布这张图片，并注明 [SuperMemo World](https://supermemo.guru/wiki/SuperMemo_World)，[这里](https://supermemo.guru/wiki/File:Neural_competition_between_the_learn_drive_and_the_system_of_rewards_at_school.png)查看最新的版本
 
-通过长期压抑进行的价值去化，将与建立[知识价值]网络的过程相反(https://supermemo.guru/wiki/Knowledge_valuation)。知识贬值将通过[概念网络](https://supermemo.guru/wiki/Concept_network)在建立知识价值的同一过程中分层传播。而不是[知识评价网络](https://supermemo.guru/wiki/Knowledge_valuation_network)，同样的结构将形成反方向的知识贬值网络（评价从知识的目标到细节，而贬值则从底层开始，通过长期的压抑和联系的消除来调节低层次的兴趣，并在层次上向上蔓延）。大脑中知识贬值的目的是找到最近的估值链接，可以被打破以消除冲突。
+长期抑郁导致的价值逆适应，将与建立[知识估值](https://supermemo.guru/wiki/Knowledge_valuation)网络的过程相反。知识贬值将通过[概念网络](https://supermemo.guru/wiki/Concept_network)在建立知识价值的同一过程中分层传播。而不是[知识估值网络](https://supermemo.guru/wiki/Knowledge_valuation_network)，同样的结构将形成反方向的知识贬值网络（估值从知识的目标到细节，而贬值则从底层开始，通过长期的抑郁和联系的消除来调节低层次的兴趣，并在层次上向上蔓延）。大脑中知识贬值的目的是找到最近的估值链接，可以被打破以消除冲突。
 
-适应学校生活是建立[学习动力](https://supermemo.guru/wiki/Knowledge_valuation)的层次性[知识评价](https://supermemo.guru/wiki/Learn_drive)过程的反面。
+适应学校生活是建立[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的层级[知识估值](https://supermemo.guru/wiki/Knowledge_valuation)过程的反面。
 
-处于废弃过程中的断裂链接可能会被永久性地移除。如果冲突是暴力的，我们可能会有[网络的战争](https://supermemo.guru/wiki/War_of_the_networks)，并对[概念网络](https://supermemo.guru/wiki/Concept_network)进行快速改变。这些变化促成了学校可以诱发快速变化的说法。他们确实如此。这些变化消耗了可能用于建立[智力]的神经基质(https://supermemo.guru/wiki/Intelligence)。
+处于废弃过程中的断裂链接可能会被永久性地移除。如果冲突是暴力的，我们可能会引发[网络战争](https://supermemo.guru/wiki/War_of_the_networks)，并对[概念网络](https://supermemo.guru/wiki/Concept_network)进行快速改变。这些变化促成了学校可以诱发快速变化的说法。他们确实如此。这些变化消耗了可能用于建立[智力](https://supermemo.guru/wiki/Intelligence)的神经基质。
 
-在学校加速的可见的小好处，隐藏着未来学习能力的无形的大损失
+学校加速带来的可见小好处，隐藏着未来学习能力的无形大损失
 
-当学生在大学或成人生活中重新获得自由时，持续的学习将导致[学习动力]的恢复（https://supermemo.guru/wiki/Learn_drive）。激情和兴趣可能会恢复。然而，[概念化](https://supermemo.guru/wiki/Conceptualization)过程主要朝着增加[记忆稳定性](https://supermemo.guru/wiki/Memory_stability)的方向进行。这就是为什么经过多年的忽视，被压抑的[学习动力](https://supermemo.guru/wiki/Learn_drive)很难逆转。古老的谚语说。*"很难教给一只老狗新的技巧 "*。这个真实的说法与大脑的老化没有什么关系。它主要是基于这样一个事实，即[概念化](https://supermemo.guru/wiki/Conceptualization)倾向于使大脑结构结晶，年轻时的所有形式的疏忽都很难逆转。
+当学生在大学或成人生活中重新获得自由时，持续的学习将导致[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的恢复。激情和兴趣可能会恢复。然而，[概念化](https://supermemo.guru/wiki/Conceptualization)过程主要朝着增加[记忆稳定性](https://supermemo.guru/wiki/Memory_stability)的方向进行。这就是为什么经过多年的忽视，被压抑的[学习动力](https://supermemo.guru/wiki/Learn_drive)很难逆转。古老的谚语说：「很难教给一只老狗新的技巧」。这个真实的说法与大脑的老化没有什么关系。它主要是基于这样一个事实，即[概念化](https://supermemo.guru/wiki/Conceptualization)倾向于使大脑结构结晶，年轻时的所有形式的疏忽都很难逆转。
 
-由于[概念化](https://supermemo.guru/wiki/Conceptualization)的过程，在学校对知识的贬低可能会影响到对生活的热爱。
+由于[概念化](https://supermemo.guru/wiki/Conceptualization)的过程，在学校的知识贬值可能会影响到对生活的热爱。
 
 ## 复杂的世界
 
-世界可能变得越来越复杂，但从个人的角度来看，它却越来越容易处理。这来自于知识获取的永无止境的进步，知识资源的永久扩展，以及我们可以表达复杂概念的[抽象性](https://supermemo.guru/wiki/Abstractness)水平的永无止境的提高。人类智慧擅长使用简单的模型来感知复杂的现实。
+世界可能变得越来越复杂，但从个人的角度来看，它却越来越容易处理。这来自于知识获取途径永无止境的进步、知识资源的永久扩展，以及我们可以表达复杂概念的[抽象性](https://supermemo.guru/wiki/Abstractness)水平的永无止境的提高。人类智慧擅长使用简单的模型来感知复杂的现实。
 
-知识量的增加是无足轻重的。它并不妨碍任何人扫描谷歌的前5个选择，以获得对一个概念的首次洞察力。这只会变得更好。今天，一个孩子可以通过从成千上万的资源中选择与她先前的知识相匹配的资源来学习相对论。该理论可以在比爱因斯坦推理时使用的模型更简单的模型上进行解释。等效原理可以被解释为简单的乘坐电梯。
+知识量的增加是无足轻重的。它并不妨碍任何人浏览谷歌的前 5 个搜索结果，以获得对一个概念的首次洞见。这只会变得更好。今天，一个孩子可以通过从成千上万的资源中选择与她先前的知识相匹配的资源来学习相对论。该理论可以在比爱因斯坦推理时使用的模型更简单的模型上进行解释。等效原理可以被解释为简单的乘坐电梯。
 
 如果我们体验到改进的可观察性和改进的可控制性，那么复杂性的增加是不重要的。世界上的机器越来越复杂，但它得到了相对更多的传感器，它也有丰富的新执行器。生活越来越容易了。
 
-为了在日益复杂的情况下保存人类[智慧](https://supermemo.guru/wiki/Intelligence)，我们需要。
+为了在日益复杂的世界下保护人类[智力](https://supermemo.guru/wiki/Intelligence)，我们需要：
 
 - 促进自由
 
-- 培养[学习动力](https://supermemo.guru/wiki/Learn_drive)
+- 促进[学习内驱力](https://supermemo.guru/wiki/Learn_drive)
 
-- 在学习（和科学）中强调[知识达尔文主义]（https://supermemo.guru/wiki/Knowledge_darwinism）
+- 在学习（和科学）中强调[知识达尔文主义](https://supermemo.guru/wiki/Knowledge_darwinism)
 
 - 促进研究
 
-越来越难处理复杂世界的想法可能是一些试图提高学校教育压力的基础。如果目前的学校教育是不够的，也许更多的学校教育会有帮助？因此，这种对复杂性的思考可能是相当有害的。相反，我们需要在[学习动力]（https://supermemo.guru/wiki/Learn_drive）的指导下，努力进行更好的学习。
+越来越难处理复杂世界的想法可能是一些试图提高学校教育压力的基础。如果目前的学校教育是不够的，也许更多的学校教育会有帮助？因此，这种对复杂性的思考可能是相当有害的。相反，我们需要在[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的指导下，努力进行更好的学习。
 
-世界的复杂性最好用丰富的[抽象知识]来解决(https://supermemo.guru/wiki/Abstract_knowledge)
+世界的复杂性最好用丰富的[抽象知识](https://supermemo.guru/wiki/Abstract_knowledge)来解决
 
-## ＃＃＃相反的研究
+## 相反的研究
 
-学校教育的危害对任何了解智力根源的人来说都是显而易见的。对任何研究伟大发明或发现的历史的人来说，这都是显而易见的。如果不明显，不需要多问附近学校的孩子们关于学校教育的智力影响。
+学校教育的危害对任何了解智力根源的人来说都是显而易见的。对任何研究伟大发明或发现的历史的人来说，这都是显而易见的。如果这还不明显，那么向附近学校的孩子们询问学校教育对智力的影响也不难。
 
-然而，如果没有任何研究的支持，[学校教育的工厂模式](https://supermemo.guru/wiki/Factory_model_of_schooling)的整个机器会很快停滞不前。为了纳税人的钱，研究人员发明了荒谬的学习、[创造力](https://supermemo.guru/wiki/Creativity)和[智力](https://supermemo.guru/wiki/Intelligence)指标。只要挖出一点数据，不需要太多，就可以衡量学校教育的好处。
+然而，如果没有任何研究的支持，[学校教育的工厂模式](https://supermemo.guru/wiki/Factory_model_of_schooling)的整个机器会很快停滞不前。为了纳税人的钱，研究人员发明了荒谬的学习、[创造力](https://supermemo.guru/wiki/Creativity)和[智力](https://supermemo.guru/wiki/Intelligence)的指标。只要挖出一点数据，不需要太多，就可以衡量学校教育的好处。
 
-例如，研究人员可以声称，学校可以提高智力，因为智商分数与受教育年限相关。他们也可以声称，成绩与智力相关。最后，我们可能会发现，提高成绩可以提高孩子的智力，这显然是荒谬的。
+例如，研究人员可能声称，学校可以提高智力，因为智商分数与受教育年限相关。他们也可以声称，分数与智力相关。最后，我们可能会发现，提高分数可以提高孩子的智力，这显然是荒谬的。
 
-成绩可能反映顺从性。它们也可能反映出学生与生俱来的聪明才智。[补习](https://supermemo.guru/wiki/Cramming)可以提高成绩，但是，它也可能对智商分数产生积极的影响，而智商分数是基于在学校钻研的技能（3R）（见：[智商是衡量智力的一个糟糕的标准](https://supermemo.guru/wiki/IQ_is_a_dismal_measure_of_intelligence)）。
+分数可能反映服从性。它们也可能反映出学生与生俱来的聪明才智。[死记硬背](https://supermemo.guru/wiki/Cramming)可以提高分数，但是，它也可能对智商分数产生积极的影响，而智商分数是基于在学校钻研的技能（3R）（见：[智商是衡量智力的一个糟糕的标准](https://supermemo.guru/wiki/IQ_is_a_dismal_measure_of_intelligence)）。
 
-当我的兴趣与学校的要求相吻合时，我自己的成绩就很好。但在大多数时候，我的成绩都很糟糕。我的智商成绩在我关心的时候很好。但有时也很糟糕（例如，在半夜做实验时）。在我的情况下，相关关系是没有意义的。结果将是不可预测的。然而，[同行评议](https://supermemo.guru/wiki/Peer_review)和 "不发表就灭亡 "的规则确保了有大量的研究来支持监管者的愿望，他们经常声称，更多的学校教育意味着更多的教育，这意味着更好的经济。
+当我的兴趣与学校的要求相吻合时，我的分数就很高。但在大多数时候，我的分数都很糟糕。我的智商分数在我关心的时候很好。但有时也很糟糕（例如，在半夜做实验时）。在我的情况下，相关关系是没有意义的。结果将是不可预测的。然而，[同行评议](https://supermemo.guru/wiki/Peer_review)和「不发表就灭亡」的规则确保了有大量的研究来支持监管者的愿望，他们经常声称，更多的学校教育意味着更多的教育，这意味着更好的经济。
 
-当你读到学校能提高[智力](https://supermemo.guru/wiki/Intelligence)时，你应该认真地重新审视数据、来源或动机。
+当你读到学校能提高[智力](https://supermemo.guru/wiki/Intelligence)的文字时，你应该认真地重新审视数据、来源或动机。
 
-使用任何形式胁迫的学校都是对社会智力的严重威胁
+使用任何形式胁迫的学校都是对社会智能的严重威胁
 
 ## 儿童感知未来
 
-普鲁士学校系统](https://supermemo.guru/wiki/Prussian_school_system)的终结已经临近。大人们可能看不到，但孩子们已经感觉到他们在学校的生活与世界的需求之间的差距越来越大。
+[普鲁士学校系统](https://supermemo.guru/wiki/Prussian_school_system)的终结已经临近。大人们可能看不到，但孩子们已经感觉到他们在学校的生活与世界的需求之间的差距越来越大。
 
-最后注意到崩溃的人将是教育者和教师，因为他们的[鱼缸视角](https://supermemo.guru/wiki/Fish_tank_perspective)和多年来沿着错误模式的训练。[概念网络](https://supermemo.guru/wiki/Concept_network)是完全可以适应的，但其适应性会随着知识的[稳定性](https://supermemo.guru/wiki/Stability)而下降。老一代的教育工作者在推动错误的方向上效率很高。他们将是最后一个醒来的人（见：[老年人学习较慢](https://supermemo.guru/wiki/Older_people_learn_slower)）。
+教育者和教师将是最后注意到崩溃的人，这是因为他们的[鱼缸视角](https://supermemo.guru/wiki/Fish_tank_perspective)和多年来沿着错误模式的训练。[概念网络](https://supermemo.guru/wiki/Concept_network)是完美的适应装置，但其适应性会随着知识的[稳定性](https://supermemo.guru/wiki/Stability)而下降。老一代的教育工作者在错误方向上的推动效率很高。他们将是最后一个醒来的人（见：[老年人学习较慢](https://supermemo.guru/wiki/Older_people_learn_slower)）。
 
 见：
 

@@ -1,4 +1,4 @@
-# 用户界面新颖的创意是公共物品
+# 新颖的用户界面创意是公共物品
 
 原文：[Novel user interface ideas are public goods (andymatuschak.org)](https://notes.andymatuschak.org/zXseK39g1SHgQvMXLbnaB1AUZ2WL5ffDzsbZ)
 
