@@ -10,7 +10,7 @@
 
 - 参考资料
 
-  - Max Roser, 2020-06-15，指出，在某些方面，OWiD 更像是一个增强的电子表格，而不是增强的散文。
+  - Max Roser, 2020-06-15，指出，在某些方面，OWiD\* 更像是一个增强的电子表格，而不是增强的散文。（\*译注：Our World in Data，由牛津大学的学者们建立，旨在以数据的方式，让我们更全面，更精确的了解这个世界）
 
   - [Cell Biology by the Numbers](https://notes.andymatuschak.org/zXBk7GLFDaxgd6oMsRd5Jdr17dnCtik3MQ8) 以一种有趣的方式介于两者之间……它也像一个增强的电子表格，但解释性的散文增加了很多丰富性，类似于[助记媒介卡片依赖于调用外部经验（来自叙事，来自现实世界的经验）](https://notes.andymatuschak.org/zBnpJjh6V7yrWbNBJ39Gx2TXiyXVQ4jByPc)
 
@@ -22,7 +22,7 @@
 
 这些体裁和平台知识之间的一个显著差异是用户差异的显著增加ーー无论是在动机/目的方面，还是在预备知识方面。我预计这将需要媒介变得更加灵活。[助记媒介如何适应读者不同的背景和目标？](https://notes.andymatuschak.org/z287gqhS79WChEm7zRiB5vcuVAXYCnn3GCXv)
 
-我猜想，关键方法是少用这种媒介来建立详细的记忆，而多用[助记媒介使读者与材料保持长久联系](https://notes.andymatuschak.org/z7tjqSxGsJ53tXsGkRpchsECWcMsW3sFUw86U)。
+我猜想，关键方法是少用这种媒介建立详细的记忆，而多用[助记媒介使读者与材料保持长久联系](https://notes.andymatuschak.org/z7tjqSxGsJ53tXsGkRpchsECWcMsW3sFUw86U)。
 
 与这个问题有关的一个框架：[如果助记媒介被重新设计成一种更深入地参与文本的手段会怎样？](https://notes.andymatuschak.org/z8ByVmn3qYHQmkzLRGN1958M1aYLZ2yzLbvGs)
 

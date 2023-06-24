@@ -26,7 +26,7 @@
 
 - 富有成效的清晨为大脑在压力条件下的高效运作做好准备
 
-- 矛盾的是，**创造性的大脑可能会在解决问题时增加压力**，并且一定程度的[自稳态](https://supermemo.guru/wiki/Homeostatic)疲劳可能是有益的
+- 矛盾的是，**创造性的大脑可能会在解决问题时增加压力**，而一定程度的[自稳态](https://supermemo.guru/wiki/Homeostatic)疲劳可能是有益的
 
 - 如果压力带来浪费时间的感觉，那么富有成效的早晨就是一种「主动[泄压阀](https://supermemo.guru/wiki/Stress_valve)」
 
@@ -54,11 +54,11 @@
 
 阻止负面情绪的[解压阀](https://supermemo.guru/wiki/Stress_valve)有时可能会失效。它们不会阻止近亲死亡的痛苦。在这些情况下，大脑对[慢性压力](https://supermemo.guru/wiki/Chronic_stress)的自然防御会启动，导致一定程度的脑细胞死亡。然而，痛苦最终会过去。自然[慢性压力](https://supermemo.guru/wiki/Chronic_stress)防御系统在那些在大多数日子里能摆脱慢性压力的人身上是最强的。一个健康的大脑有助于对抗压力。
 
-健康的大脑和[抗压能力](https://supermemo.guru/wiki/Stress_resilience)生活在一个积极的反馈循环中：一个促进另一个。
+健康的大脑和[抗压韧性](https://supermemo.guru/wiki/Stress_resilience)处于一个积极的反馈循环中：相互促进。
 
-与[抗压力韧性](https://supermemo.guru/wiki/Stress_resilience)的正反馈循环相反，是压力脆弱性的类似反馈循环。[慢性压力](https://supermemo.guru/wiki/Chronic_stress)可能会破坏所有参与学习的大脑结构（例如，海马体的大小可测量的下降就是证明）。这破坏了对压力源的主要防御措施之一：学习的能力。由于这个原因，生活方式的微小变化可能导致力量平衡的重大变化。从理论上讲，同一个人，从长远来看，可能会陷入疯狂的创造力，也可能陷入临床抑郁症。这就是为什么压力的昼夜节律管理，[自然创造力周期](https://supermemo.guru/wiki/Natural_creativity_cycle)，以及简单生活的概念可能对大脑健康具有巨大的重要性。
+与[抗压韧性](https://supermemo.guru/wiki/Stress_resilience)的正反馈循环相反，是压力脆弱性的类似反馈循环。[慢性压力](https://supermemo.guru/wiki/Chronic_stress)可能会破坏所有参与学习的大脑结构（例如，海马体的大小可测量的下降就是证明）。这破坏了对压力源的主要防御措施之一：学习的能力。由于这个原因，生活方式的微小变化可能导致力量平衡的重大变化。从理论上讲，同一个人，从长远来看，可能会陷入疯狂的创造力，也可能陷入临床抑郁症。这就是为什么压力的昼夜节律管理，[自然创造力周期](https://supermemo.guru/wiki/Natural_creativity_cycle)，以及简单生活的概念可能对大脑健康具有巨大的重要性。
 
-生活方式的微小改变可能导致大脑健康结果的重大变化
+生活方式的微小改变可能导致大脑健康的重大变化
 
 ## 斯多葛主义的力量
 
@@ -66,7 +66,7 @@
 
 如果同样的问题在错误的[昼夜节律时间](https://supermemo.guru/wiki/Circadian_time)发生，例如在创意时段之前，斯多葛主义可能是唯一的办法。然而，即使是自我控制大师们中最坚忍的那位也无法避免压力对有效学习或创造力的负面影响。对干扰的补救措施总是从主动分心到被动非特异性抑制[概念图](https://supermemo.guru/wiki/Concept_map)激活，这会破坏创造力（有关[概念图激活](https://supermemo.guru/wiki/Concept_map_activation)的更多信息，请参阅：[如何解决任何问题?](https://supermemo.guru/wiki/How_to_solve_any_SuperMemoSuperMemoproblem%3F))。
 
-适当的[昼夜节律](https://supermemo.guru/wiki/Circadian_phase)使我们有可能将[急性压力](https://supermemo.guru/wiki/Acute_stress)的能量转化为决议，而不是采用斯多葛主义的做法。
+适当的[昼夜节律](https://supermemo.guru/wiki/Circadian_phase)使我们有可能将[急性压力](https://supermemo.guru/wiki/Acute_stress)的能量转化为决心，而不是采用斯多葛主义的做法。
 
 ##  限制压力
 
@@ -114,4 +114,4 @@
 
 - **遏制**：夜间睡眠，如果不受压力干扰，是遏制所有负面激活的最佳方式。[睡眠中的记忆优化]。(https://supermemo.guru/wiki/Memory_optimization_in_sleep)将创造性地解决问题作为其主要目标之一。噩梦是由白天收集的消极激活产生的。幸运的是，在健康的睡眠中，我们不会做梦。当我们醒来时，这些梦带来了新的创造性解决方案的果实。亲人的死亡是无法挽回的，然而，在早上(或之后的几个早上)会出现庆祝他或她生命的新方式。如果所有的[压力阀](https://supermemo.guru/wiki/Stress_valve)都按计划工作，大脑将准备迎接新的光明的一天。
 
-[解压阀](https://supermemo.guru/wiki/Stress_valve)通过建立关系，找到合理的解决方案或重新解释问题，从而预防[慢性压力](https://supermemo.guru/wiki/Chronic_stress)
+[泄压阀](https://supermemo.guru/wiki/Stress_valve)通过建立关系，找到合理的解决方案或重新解释问题，从而预防[慢性压力](https://supermemo.guru/wiki/Chronic_stress)

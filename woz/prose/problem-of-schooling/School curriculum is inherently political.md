@@ -1,10 +1,10 @@
-# 学校课程本质上是政治性的
+# 学校课程并非无关政治
 
 原文：[School curriculum is inherently political - supermemo.guru](https://supermemo.guru/wiki/School_curriculum_is_inherently_political)
 
-## 课程的政治性
+## 政治的课程
 
-通常意义上的理想工业国家，其教育体系往往以强制[课程](https://supermemo.guru/wiki/Curriculum)为基础。强制课程是对人权的侵犯，也是对[教育自由](https://supermemo.guru/wiki/On_freedom_of_education_and_freedom_of_information)的侵犯。在[禁止家庭教育](https://supermemo.guru/wiki/Ban_on_homeschooling)的活动当中，经常提到课程对思想的影响。见：[强制学校教育必须结束](https://supermemo.guru/wiki/Compulsory_schooling_must_end)
+通常意义上的理想工业国家，其教育体系往往以义务[课程](https://supermemo.guru/wiki/Curriculum)为基础。这种课程一方面带来了普惠性，学生得以低成本的享受教育权，某种意义上又限制了学生的权力，也是对[教育自由](https://supermemo.guru/wiki/On_freedom_of_education_and_freedom_of_information)的限制。在[禁止家庭教育](https://supermemo.guru/wiki/Ban_on_homeschooling)的活动当中，经常提到课程对思想的影响。见：[强制学校教育必须结束](https://supermemo.guru/wiki/Compulsory_schooling_must_end)
 
 ## 对思维编程
 
@@ -22,9 +22,9 @@
 
 ### 交流 vs. 灌输
 
-所有健康的人都在试图影响他人的思想。简单说，这就是交流的目的。我也在试图用这段文字影响你的思想。比如说，[高级英语（Advanced English）](https://supermemo.guru/wiki/Advanced_English) 的集合中有大量的特斯拉的图片，却没有一张大众汽车的图片。[课程](https://supermemo.guru/wiki/Curriculum)同样也是灌输的工具，毕竟它起源于教义问答，这意味着它至少有两千年的历史。
+所有健康的人都在试图影响他人的思想。简单说，这就是交流的目的。我也在试图用这段文字影响你的思想。比如说，[高级英语（Advanced English）](https://supermemo.guru/wiki/Advanced_English) 的集合中有大量的特斯拉的图片，却没有一张大众汽车的图片。[课程](https://supermemo.guru/wiki/Curriculum)同样也是灌输的工具，毕竟它起源于教理问答，这意味着它至少有两千年的历史。
 
-最重要的是，强制性[课程](https://supermemo.guru/wiki/Curriculum)是对人权的侵犯。我在本文中的言论是一种自由言论上的表达，可能无法说服任何人。通过在[强制学校教育](https://supermemo.guru/wiki/Curriculum)中安排[课程](https://supermemo.guru/wiki/Compulsory_schooling)进行强制灌输，无非是一种智力奴役的形式。即使是简单的科学事实也不应该被强制灌输。就算灌输有用，知识的同质化也是有害的。今天我们学习日心说，但 500 年前的必修课程肯定会包括托勒密的地心说模型。同样，我们可能会把年轻人的思想囚禁在拒绝探索的惰性中，这种惰性会破坏集体智慧，并且可能会有一天给人类带来厄运。
+最重要的是，义务性[课程](https://supermemo.guru/wiki/Curriculum)是对 ** 的侵犯。本文中的言论是一种自由言论，可能无法说服任何人。通过在[强制学校教育](https://supermemo.guru/wiki/Curriculum)中安排[课程](https://supermemo.guru/wiki/Compulsory_schooling)进行强制灌输，是一种在智力上驱役的形式。即使是简单的科学事实也不应该被强制灌输。就算灌输有用，知识的同质化也是有害的。今天我们学习日心说，但 500 年前的必修课程肯定会包括托勒密的地心说模型。同样，我们可能会把年轻人的思想囚禁在拒绝探索的惰性中，这种惰性会破坏集体智慧，并且可能会有一天给人类带来厄运。
 
 社会中不断发展的知识多样性对人类生存至关重要
 
@@ -32,7 +32,7 @@
 
 个人轶事。[为什么使用轶事？](https://supermemo.guru/wiki/Why_use_anecdotes%3F)
 
-我的人生，因为灌输的失败，发生了有趣的转折。小时候，我被学校的共产主义课程和教会的天主教轮流灌输。显然，这两个观点相互冲突，但对我来说这不重要，我并不在意这件事。学校丝毫不起作用，作为灌输工具，它们弱得可怜。在我的 DIY 课上，我制作了一个木质托盘，上面用热铁蚀刻着几个大字：**「光荣属于共产党」**。我妈妈感到很自豪，非常喜欢这个托盘，并用了很多年。似乎从未有人注意过这个愚蠢的标语。同时，教堂里的布道甚至比学校里的课程更无聊。在学校里，聊天和走动是被允许的，这也使在学校的[无聊](https://supermemo.guru/wiki/Boredom)变得更容易忍受。哪种灌输在我脑中占主导地位？都不。我曾读过一本关于生物进化的书，它比成人世界所有的哗众取宠更令人着迷。我在 10 岁的时候就退出了教会。至于共产主义意识形态，它留下的种子至今尚存。我仍然喜欢为社会做贡献，其中一些的动机是自然的和本能的，有些则来自于理性的认识，即我的小贡献将会从他人的贡献那里得到丰厚的回报。我喜欢维基百科，它是这种理想的体现。我从小就是一个爱国者，但后来[我不再爱国](https://supermemo.guru/wiki/I_stopped_being_patriotic)了。学校里所有共产主义的灌输在我身上都失败了，而且常常适得其反。时至今日，我也还没有从对波兰文学经典的负面情绪中恢复过来（见：[为什么我不读小说](https://supermemo.guru/wiki/Why_I_do_not_read_fiction)）。**[强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling)就像逼着你吃巧克力：它可以让你对世界上最美好的事情产生厌恶**。
+我的人生，因为灌输的失败，发生了有趣的转折。小时候，我被学校的共产主义课程和教会的天主教轮流灌输。显然，这两个观点相互冲突，但对我来说这不重要，我并不在意这件事。学校丝毫不起作用，作为灌输工具，它们弱得可怜。在我的 DIY 课上，我制作了一个木质托盘，上面用热铁蚀刻着几个大字：**「光荣属于共产党」**。我妈妈感到很自豪，非常喜欢这个托盘，并用了很多年。似乎从未有人注意过这个幼稚的标语。同时，教堂里的布道甚至比学校里的课程更无聊。在学校里，聊天和走动是被允许的，这也使在学校的[无聊](https://supermemo.guru/wiki/Boredom)变得更容易忍受。哪种灌输在我脑中占主导地位？都不。我曾读过一本关于生物进化的书，它比成人世界所有的哗众取宠更令人着迷。我在 10 岁的时候就退出了教会。至于共产主义意识形态，它留下的种子至今尚存。我仍然喜欢为社会做贡献，其中一些的动机是自然的和本能的，有些则来自于理性的认识，即我的小贡献将会从他人的贡献那里得到丰厚的回报。我喜欢维基百科，它是这种理想的体现。我从小就是一个爱国者，但后来[我不再爱国](https://supermemo.guru/wiki/I_stopped_being_patriotic)了。学校里所有共产主义的灌输在我身上都失败了，而且常常适得其反。时至今日，我也还没有从对波兰文学经典的负面情绪中恢复过来（见：[为什么我不读小说](https://supermemo.guru/wiki/Why_I_do_not_read_fiction)）。**[强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling)就像逼着你吃巧克力：它可以让你对世界上最美好的事情产生厌恶**。
 
 ## 灌输的钟摆
 
@@ -48,11 +48,11 @@
 
 ## 中国
 
-中国是课程演变的一个有趣的研究案例。这个国家值得夸耀的是其五千年来建立的宏大的文化传统。中国的教育一直以来都是以分散的形式被很好地管理着，而且相对自由，直到共产党掌权，这一切被迅速改变了。从那时起，地缘政治力量和文化革命产生了一波波分裂的灌输趋势，延续至今。课程改革的各个阶段在[崔允漷和朱岩教授的这篇文章](https://journals.openedition.org/ries/3846)中都有详细描述。下面的内容只是一个简单的总结。
+中国是课程演变的一个有趣的研究案例。这个国家值得夸耀的是其五千年来建立的宏大的文化传统。中国的教育一直以来都是以分散的形式被很好地管理着，而且相对自由，直到现代，这一切被迅速改变了。从那时起，地缘政治力量和文化革命产生了一波波分裂的灌输趋势，延续至今。课程改革的各个阶段在[崔允漷和朱岩教授的这篇文章](https://journals.openedition.org/ries/3846)中都有详细描述。下面的内容只是一个简单的总结。
 
 ### 大陆
 
-在中国内地，我们可以看到从轻视人文和社会科学的苏联模式，到 1958-1968 年提倡**「社会主义和农业教育  」**的复兴，到 1966 年的文化大革命，再到 1985 年的课程管理权力下放，重视职业教育不断地被重视，艺术创作的空间不断地在缩小。
+在中国内地，我们可以看到从轻视人文和社会科学的苏联模式，到 1958-1968 年提倡**「社会主义和农业教育  」**的复兴，到  60 年代的大运动，再到 1985 年的课程管理权力下放，重视职业教育不断地被重视，艺术创作的空间不断地在缩小。
 
 最后，在 1999 年，新的改革带来了不少新鲜理念，如对学习方法的探索、选修课程、关注终身学习、[语义学习](https://supermemo.guru/wiki/Semantic_learning)等等。也许这个系统最终会朝着[我的建议](https://supermemo.guru/wiki/Reform)发展？
 
@@ -64,11 +64,11 @@
 
 香港青少年的 [PISA](https://supermemo.guru/wiki/PISA) 分数非常[突出](http://factsmaps.com/pisa-worldwide-ranking-average-score-of-math-science-reading/)。然而，高分对于心理健康可能是一个[风险因素](https://supermemo.guru/wiki/Dangers_of_being_a_Straight_A_student)，甚至更糟。孩子的学习成绩完全是依靠[补习班](https://en.wikipedia.org/wiki/Cram_schools_in_Hong_Kong)支撑起来的。「[可怕的父母](https://en.wikipedia.org/wiki/Monster_parents)」将他们养育成人，从小拥有「[无压力](https://supermemo.guru/wiki/Stress_resilience) 」和优越的成长环境。这便是[「香港孩子」](https://en.wikipedia.org/wiki/Hong_Kong_Kids_phenomenon)。
 
-在香港紧张而忙碌的生活之外，大陆因为它的特殊的政治制度对香港的教育进行干涉，这导致又增加了一个因素：为[课程](https://supermemo.guru/wiki/Curriculum)而战。被称作[「德育及國民教育科」](https://en.wikipedia.org/wiki/Moral_and_National_Education_controversy)的新课程显然是面向共产主义和民族主义宣传的。它引发了一波抗议浪潮，包括由学生自己发起的抗议（见[图片](https://en.wikipedia.org/wiki/File:Scholarism_2012.jpg)）。
+在香港紧张而忙碌的生活之外，特殊的干涉也导致了另外一个因素：为[课程](https://supermemo.guru/wiki/Curriculum)而战。被称作[「德育及國民教育科」](https://en.wikipedia.org/wiki/Moral_and_National_Education_controversy)的新课程显然是面向共产主义和民族主义宣传的。它引发了一波抗议浪潮（见[图片](https://en.wikipedia.org/wiki/File:Scholarism_2012.jpg)）。
 
 2017 年，Henry Kwok [对新课程的描述](https://www.hongkongfp.com/2017/10/15/can-hong-kongs-revived-chinese-history-curriculum-serve-cement-national-identity/) 似乎放诸四海而皆准：
 
-> 其依据与教学无关，而是带有明显的政治目的的，即培养一种**盲目的爱国主义、无往不利的中国人的身份认同**。学生和教师需要认同自己是中国人，无论如何都要热爱他们所谓的 「祖国」。[…] 这呼应了习近平的病态控制欲，即加强对中国社会生活全方面的控制，并消灭异见人士 […] 通过复兴带有浓厚政治历史规定的课程，政府正在开倒车，积极推行**教育政治化**的议程 […] 儿童不是空荡的容器，用来装满民族主义神话，从而更认同自己是中国人。政府是时候应该停止利用其可悲的**思想控制**的癖好来欺负我们的孩子了。
+> 其依据与教学无关，而是带有明显的政治目的的。儿童不是空荡的容器，用来装满民族主义神话。（大段删减）
 
 ### 中国台湾
 
