@@ -12,4 +12,4 @@
 
 ## 参考文献
 
-我在 [2021年 9 月 6日](https://notes.andymatuschak.org/zYhPmghQMv93jZsGwPfLcZx7E4npiQc87xX) 与[Yuval Milo](https://notes.andymatuschak.org/zJ55L18u5sagXqnMWh5szwfZ388oGQbyfW3)的电话会谈里意识到了这点。
+我在 [2021年 9 月 6 日](https://notes.andymatuschak.org/zYhPmghQMv93jZsGwPfLcZx7E4npiQc87xX)与 [Yuval Milo](https://notes.andymatuschak.org/zJ55L18u5sagXqnMWh5szwfZ388oGQbyfW3) 的电话会谈里意识到了这点。
