@@ -128,7 +128,7 @@ Peter Gray受[民主学校](https://supermemo.guru/wiki/Democratic_school)的经
 
 ## 社会化：使用暴力的两难
 
-现代社会中暴力的作用日益递减。家长们应该使孩子接触暴力行为吗？（虽然学校里几乎总是会发生暴力行为）不接触会损害社交技巧吗？我认为处理暴力行为应当根据[博弈论](https://en.wikipedia.org/wiki/Game_theory)，且接触程度应当同预期的未来需要相称。这些技巧的重要性正在下降，不重视这方面也不太可能导致孩子终身能力被削弱。
+现代社会中暴力的作用日益递减。家长们应该使孩子接触暴力行为吗？（虽然学校里几乎总是会发生暴力行为）不接触暴力行为会损害社交技巧吗？我认为处理暴力行为应当根据[博弈论](https://en.wikipedia.org/wiki/Game_theory)，且接触程度应当同预期的未来需要相称。这些技巧的重要性正在下降，不重视这方面也不太可能导致孩子终身能力被削弱。
 
 一些父母鼓励他们的孩子在受到攻击或欺凌时反击。 他们不同意[普遍性推荐避免暴力和对抗](https://www.psychologytoday.com/blog/resilience-bullying/201205/principle-number-six-turn-the-other-cheek)。 处理暴力的教科书方案是通知学校当局。 在我上学的时候，「打小报告」甚至不在考虑之列。 霸权之争中，唯有[实战才能雪耻](https://supermemo.guru/wiki/School_fights)。 我怀疑提出通用对策是否总是出于为过于简化的伦理考量。 因此，有人呼吁报复我既不谴责也不赞成。 我接受这个选择属于特定家庭环境、文化、气质、环境或特定情况。 我们不能忽视这个事实：无论反击有哪些风险和缺点，至少具有三个重要功能：（1）可能对压迫者进行惩罚（这是一预防霸凌的方式），（2）发展打斗技能，以及（3）培养自信，自信在各种社会环境中都非常有用。
 
@@ -148,7 +148,7 @@ Peter Gray受[民主学校](https://supermemo.guru/wiki/Democratic_school)的经
 
 ### 伦理考量
 
-基督教总是教诲人逆来顺受，这样做有许多缺点。它固然能占领道德制高点。也能带来自律。然而，从博弈论的角度来看，这么做只在[鸽派](https://en.wikipedia.org/wiki/Chicken_(game))社会中才奏效。在[鹰派](https://en.wikipedia.org/wiki/Chicken_(game))主导的混合社会中这么做效果不佳。 如果 [Mahatma Gandhi](https://en.wikipedia.org/wiki/Mahatma_Gandhi) 没有一套总体原则，我们可能永远不会听说他，但是，他的策略在大屠杀时期似乎行不通：「[「如果这些先生们要占领你们的家园，就把他们赶出去」](http://www.mkgandhi.org/mynonviolence/chap46.htm)」。
+基督教总是教诲人逆来顺受，这样做有许多缺点。它固然能占领道德制高点，也能带来自律。然而，从博弈论的角度来看，这么做只在[鸽派](https://en.wikipedia.org/wiki/Chicken_(game))社会中才奏效。在[鹰派](https://en.wikipedia.org/wiki/Chicken_(game))主导的混合社会中这么做效果不佳。 如果 [Mahatma Gandhi](https://en.wikipedia.org/wiki/Mahatma_Gandhi) 没有一套总体原则，我们可能永远不会听说他，但是，他的策略在大屠杀时期似乎行不通：「[「如果这些先生们要占领你们的家园，就把他们赶出去」](http://www.mkgandhi.org/mynonviolence/chap46.htm)」。
 
 ### 有关现实生活的问题
 
