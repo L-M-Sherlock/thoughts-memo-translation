@@ -58,13 +58,13 @@ Squid 当时 15 岁，感觉自己像是一个困在学校系统中的囚徒。�
 
 关注并支持我们在 Youtube 上的频道：[End School Slavery](https://www.youtube.com/channel/UCtrKs7I5tNeTB-7tzr8IIww)。
 
-## 罢课
+## 罢学
 
-我们做出的第一个努力就是在波兰积极参与了一次学校罢课（2022 年 3 月 21 日）。学生团体联合起来反对学校的胁迫。这项工作为将来如何在其他国家开展类似的相关工作提供了一个很好的学习基础。
+我们做出的第一个努力就是在波兰积极参与了一次罢学（2022 年 3 月 21 日）。学生团体联合起来反对学校的胁迫。这项工作为将来如何在其他国家开展类似的相关工作提供了一个很好的学习基础。
 
-罢课的最终目标是在波兰宣布[结束学校奴役](https://youtu.be/_UHOoILQ-Fo)。然而罢课并没有持续多久，参与的学生们不断地收到恐吓，实际情况也几乎没有任何改变。参与其中的一个反对教育制度的学生组织 [Sussen](https://www.facebook.com/sussenpolska/) 宣布，他们会向任何感觉受到学校胁迫的人提供帮助。Sussen 采取了一些激进的措施来更好地帮助单亲妈妈与学校制度做斗争，因为学校正在把她们的孩子逼进少管所，或者尝试这么做。
+罢学的最终目标是在波兰宣布[结束学校奴役](https://youtu.be/_UHOoILQ-Fo)。然而罢学并没有持续多久，参与的学生们不断地收到恐吓，实际情况也几乎没有任何改变。参与其中的一个反对教育制度的学生组织 [Sussen](https://www.facebook.com/sussenpolska/) 宣布，他们会向任何感觉受到学校胁迫的人提供帮助。Sussen 采取了一些激进的措施来更好地帮助单亲妈妈与学校制度做斗争，因为学校正在把她们的孩子逼进少管所，或者尝试这么做。
 
-点击链接查看[波兰学生罢课](https://supermemo.guru/wiki/Student_strike_in_Poland_(assessment))的更多详细信息。
+点击链接查看[波兰学生罢学](https://supermemo.guru/wiki/Student_strike_in_Poland_(assessment))的更多详细信息。
 
 ## Discord
 

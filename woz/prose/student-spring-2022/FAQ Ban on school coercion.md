@@ -14,11 +14,11 @@
 
 - [给波兰人权专员的请愿书](https://supermemo.guru/wiki/Petition_to_the_Ombudsman_to_End_School_Coercion)
 
-- [计划在 2022 年春季罢课](https://supermemo.guru/wiki/Student_Spring_2022)
+- [计划在 2022 年春季罢学](https://supermemo.guru/wiki/Student_Spring_2022)
 
 - 拟向议会提交的法案草案
 
-- 建立新教育法的圆桌辩论会（在罢课后）
+- 建立新教育法的圆桌辩论会（在罢学后）
 
 这份文件是为对没有[强迫学习](https://supermemo.guru/wiki/Coercion_in_learning)的世界的疑惑提供简单答案。
 
@@ -96,11 +96,11 @@
 
 - 答：相关关系不是因果关系。正确的解释是与你相反。强制学校教育的成本很高，很难实施。如果它容易维持，它可能会早一个世纪到来。贫穷和「教育自由」之间的相关性是相反的。穷国负担不起普及学校教育。第一个在学校教育中禁止胁迫的发达国家将经历人口福祉的快速提升。由于财富、福祉、[创造力](https://supermemo.guru/wiki/Creativity)和生产力相互促进，这一变化将在发展中的大脑、经济和文化之间产生更强的反馈回路。见[阿曼的例子](https://en.wikipedia.org/wiki/Education_in_Oman)（富裕的国家，在教育方面没有强制性的法律）
 
-## 罢课无用
+## 罢学无用
 
-- **问：罢课的意义何在？大多数罢课都被忽视并淡出视野**
+- **问：罢学的意义何在？大多数罢学都被忽视并淡出视野**
 
-- 答：[学生罢课](https://supermemo.guru/wiki/Student_Spring_2022)比较容易维持。这是学生的一种休假形式。只要有决心，加班加点，罢课就不会被忽视。罢课得到了 [Peter Gray](https://supermemo.guru/wiki/Peter_Gray) 博士的祝福，他早就预测到了[强制学校教育的崩溃](https://supermemo.guru/wiki/Gray:_Coercive_school_system_will_collapse_soon)。另见：[革命的计划](https://supermemo.guru/wiki/Plan_for_the_Revolution)
+- 答：[学生罢学](https://supermemo.guru/wiki/Student_Spring_2022)比较容易维持。这是学生的一种休假形式。只要有决心，加班加点，罢学就不会被忽视。罢学得到了 [Peter Gray](https://supermemo.guru/wiki/Peter_Gray) 博士的祝福，他早就预测到了[强制学校教育的崩溃](https://supermemo.guru/wiki/Gray:_Coercive_school_system_will_collapse_soon)。另见：[革命的计划](https://supermemo.guru/wiki/Plan_for_the_Revolution)
 
 ## 请愿无用
 
@@ -114,15 +114,15 @@
 
 - [学习中的强迫](https://supermemo.guru/wiki/Coercion_in_learning)总是有害的，因为它在[知识估值网络](https://supermemo.guru/wiki/Knowledge_valuation_network)中产生了冲突。它破坏了[学习的乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)。见：[胁迫的危害](https://supermemo.guru/wiki/File:Neural_competition_between_the_learn_drive_and_the_system_of_rewards_at_school.png)
 
-## 罢课的平息
+## 罢学的平息
 
-- **问：学校罢课会很容易被大人平息。当局可以快速制定法律，惩罚逃学者的父母**
+- **问：罢学会很容易被大人平息。当局可以快速制定法律，惩罚逃学者的父母**
 
 - 答：以下是我们感到乐观的一些原因：
 
   - 气候罢工证明了这一点。大型抗议活动可以使学校系统瘫痪，并引发[教育圆桌会议](https://supermemo.guru/wiki/Educational_round_table)
 
-  - 还有许多其他的罢课，都得到了合理的尊重和耐心的对待。学生罢课有很多特性，实际上可能会让它持续得更久。详见[本帖评论（波兰语）](https://www.facebook.com/groups/741918749980449/posts/1029813437857644/)
+  - 还有许多其他的罢工，都得到了合理的尊重和耐心的对待。罢学有很多特性，实际上可能会让它持续得更久。详见[本帖评论（波兰语）](https://www.facebook.com/groups/741918749980449/posts/1029813437857644/)
 
   - 法不责众，逃学的处罚很难落实到个人身上。大规模的抗议将是最好的防御。专制的反应实际上可能会助长学生（和家长）的决心
 

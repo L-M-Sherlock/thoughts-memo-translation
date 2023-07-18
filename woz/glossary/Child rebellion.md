@@ -16,4 +16,4 @@
 
 另见：[父母管理培训](https://en.wikipedia.org/wiki/Parent_management_training)
 
-比较一下：[学生罢课](https://supermemo.guru/wiki/School_strike)
+比较一下：[学生罢学](https://supermemo.guru/wiki/School_strike)

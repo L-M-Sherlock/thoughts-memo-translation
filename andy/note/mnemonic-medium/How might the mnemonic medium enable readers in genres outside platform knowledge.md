@@ -4,7 +4,7 @@
 
 [助记媒介对于平台知识特别有价值](https://notes.andymatuschak.org/z2bwNMKjXjzp9tGrK6Hm7PXpoEeNAG9M65JW6)，但我们怀疑它是否能够帮助读者更深入地联系到其他体裁的材料，例如：
 
-- 说服性写作
+- 议论文
 
 - 非正式讨论
 
@@ -12,7 +12,7 @@
 
   - Max Roser, 2020-06-15，指出，在某些方面，OWiD\* 更像是一个增强的电子表格，而不是增强的散文。（\*译注：Our World in Data，由牛津大学的学者们建立，旨在以数据的方式，让我们更全面，更精确的了解这个世界）
 
-  - [Cell Biology by the Numbers](https://notes.andymatuschak.org/zXBk7GLFDaxgd6oMsRd5Jdr17dnCtik3MQ8) 以一种有趣的方式介于两者之间……它也像一个增强的电子表格，但解释性的散文增加了很多丰富性，类似于[助记媒介卡片依赖于调用外部经验（来自叙事，来自现实世界的经验）](https://notes.andymatuschak.org/zBnpJjh6V7yrWbNBJ39Gx2TXiyXVQ4jByPc)
+  - [Cell Biology by the Numbers](https://notes.andymatuschak.org/zXBk7GLFDaxgd6oMsRd5Jdr17dnCtik3MQ8) 以一种有趣的方式介于两者之间……它也像一个增强的电子表格，但说明文使其更加充实，类似于[助记媒介卡片依赖于调用外部经验（来自叙事，来自现实世界的经验）](https://notes.andymatuschak.org/zBnpJjh6V7yrWbNBJ39Gx2TXiyXVQ4jByPc)
 
 - 学术论文
 
@@ -20,7 +20,7 @@
 
 到目前为止，工作中遇到的一些挑战：[将助记媒介应用于非技术性文章的经验教训](https://notes.andymatuschak.org/ztWkeRtP1VRttCcrGPmDH6trs3vobziJMHT)
 
-这些体裁和平台知识之间的一个显著差异是用户差异的显著增加ーー无论是在动机/目的方面，还是在预备知识方面。我预计这将需要媒介变得更加灵活。[助记媒介如何适应读者不同的背景和目标？](https://notes.andymatuschak.org/z287gqhS79WChEm7zRiB5vcuVAXYCnn3GCXv)
+这些体裁和平台知识之间的主要区别包括用户差异的显著增加ーー无论是在动机/目的方面，还是在预备知识方面。我预计这要求媒介更加灵活。[助记媒介如何适应读者不同的背景和目标？](https://notes.andymatuschak.org/z287gqhS79WChEm7zRiB5vcuVAXYCnn3GCXv)
 
 我猜想，关键方法是少用这种媒介建立详细的记忆，而多用[助记媒介使读者与材料保持长久联系](https://notes.andymatuschak.org/z7tjqSxGsJ53tXsGkRpchsECWcMsW3sFUw86U)。
 

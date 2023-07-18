@@ -4,7 +4,7 @@
 
 ## 对 SuperMemo Guru 的批评
 
-我曾收到针对我文章的严厉批评：[ADHD将创造力与 ADHD 混淆](https://supermemo.guru/wiki/Confusing_creativity_with_ADHD)。这些批评来自一位曾经使用过 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 的用户，他饱受 ADHD折磨，对他来说，医疗干预可以称得上一种幸福。以下是批评的具体内容：*"[你关于 ADHD 的文章大错特错，应该被删除](http://supermemopedia.com/wiki/Your_article_about_ADHD_is_outrageously_wrong_and_should_be_deleted) "*。
+我收到了针对我文章的严厉批评：[将创造力与 ADHD 混淆](https://supermemo.guru/wiki/Confusing_creativity_with_ADHD)。这些批评来自一位 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 的前用户，他饱受 ADHD折磨，对他来说，医疗干预是一种福音。以下是批评的具体内容：*"[你关于 ADHD 的文章大错特错，应该被删除](http://supermemopedia.com/wiki/Your_article_about_ADHD_is_outrageously_wrong_and_should_be_deleted) "*。
 
 下面，我将尝试解释，ADHD 的标签囊括了整个谱系的表面下的原因，而且用于 ADHD 分类的症状可能包括一些健康人脑的高度受欢迎的特性的衍生物。
 
@@ -16,7 +16,7 @@
 
 [对我的文章的批评](http://supermemopedia.com/wiki/Your_article_about_ADHD_is_outrageously_wrong_and_should_be_deleted)包含大量不准确的事实。对我的文章也有错误的归因。很多时候，一个小小的混淆，例如**「减轻 」**和**「治愈 」**之间的混淆，就会导致重大误解。我不会讨论所有这些问题。网络上充满了错误的信息，包括关于 ADHD 的错误信息。纠正别人的错误是西西弗式的努力。
 
-然而，批评实际上是对于ADHD 的一种非常健康的表达。它是曲折前行的，它基于困惑，也包含了大量的误解，然而，这也体现了它的最佳价值。它显示了一个会走弯路的创造性的大脑是如何工作的，以及干扰如何促进灵感产生。
+然而，批评实际上是对于 ADHD 的一种非常健康的表达。它是曲折前行的，它基于困惑，也包含了大量的误解，然而，这也体现了它的最佳价值。它显示了一个会走弯路的创造性的大脑是如何工作的，以及干扰如何促进灵感产生。
 
 这里我只谈与我的文本有关的关键点。我再次断言：
 
