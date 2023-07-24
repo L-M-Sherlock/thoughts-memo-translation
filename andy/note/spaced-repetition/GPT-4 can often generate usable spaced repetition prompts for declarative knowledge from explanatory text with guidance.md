@@ -1,4 +1,4 @@
-GPT-4 在指导下，通常能够从说明文中为陈述性知识生成可用的间隔重复卡片
+# GPT-4 在指导下，通常能够从说明文中为陈述性知识生成可用的间隔重复卡片
 
 原文：[GPT-4 can often generate usable spaced repetition prompts for declarative knowledge from explanatory text with guidance (andymatuschak.org)](https://notes.andymatuschak.org/z2VVmj24FLixtrijdAbkKty91JQruAaZGbHE6)
 
@@ -6,7 +6,7 @@ GPT-4 在指导下，通常能够从说明文中为陈述性知识生成可用�
 
 - [对于卡片生成任务，选择强化目标和为这些目标编写卡片是两个独立的问题](https://notes.andymatuschak.org/z62s1nNLEfhGbDmpb8Z7dZiYyi3kaSziuLVXd)。在这些例子中，我负责选择目标（例如，通过指向更大篇幅中的短语）。模型的任务是根据这些给定的目标，生成有效的卡片。
 
-- [ 对于卡片生成任务，如果提供了编写卡片的原则，大型语言模型（LLM）的表现可能会有所提升](https://notes.andymatuschak.org/zrqgkr9n3eCMNsAPDsRozt3HLd8nRT5nVASc)；我提供了这些原则。
+- [对于卡片生成任务，如果提供了编写卡片的原则，大型语言模型（LLM）的表现可能会有所提升](https://notes.andymatuschak.org/zrqgkr9n3eCMNsAPDsRozt3HLd8nRT5nVASc)；我提供了这些原则。
 
 - [对于卡片生成任务，大型语言模型（LLM）经常需要额外的提示来确定需要强化何种角度](https://notes.andymatuschak.org/zomoPzCNzSi5GqtfTeVWgm7RjmiArjS8vvM5)；我提供了这些提示。
 
