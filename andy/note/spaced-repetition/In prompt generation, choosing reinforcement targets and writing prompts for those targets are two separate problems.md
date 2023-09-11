@@ -1,4 +1,4 @@
-# 对于卡片生成任务，选择强化目标和为这些目标编写卡片是两个独立的问题
+# 卡片生成任务中，选择要强化的目标概念，和为这些目标概念编写卡片，是两个独立的问题
 
 原文：[In prompt generation, choosing reinforcement targets and writing prompts for those targets are two separate problems (andymatuschak.org)](https://notes.andymatuschak.org/z62s1nNLEfhGbDmpb8Z7dZiYyi3kaSziuLVXd)
 

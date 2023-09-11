@@ -6,7 +6,7 @@
 
 一些例子：
 
-* 在《关于数学证明与发展》一文中，Thurston 网罗了各种各样的导数思考角度。
+* 在《关于数学证明与发展》一文中，Thurston 网罗了各种各样思考导数的角度。
 
 * [Michael Nielsen](https://wiki.issarice.com/wiki/Michael_Nielsen) 发过一条推文，讲的是很大一部分数学知识其实就在用各种方式来思考同一个数学概念。
 

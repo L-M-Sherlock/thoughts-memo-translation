@@ -114,4 +114,4 @@
 
 - **遏制**：夜间睡眠，如果不受压力干扰，是遏制所有负面激活的最佳方式。[睡眠中的记忆优化]。(https://supermemo.guru/wiki/Memory_optimization_in_sleep)将创造性地解决问题作为其主要目标之一。噩梦是由白天收集的消极激活产生的。幸运的是，在健康的睡眠中，我们不会做梦。当我们醒来时，这些梦带来了新的创造性解决方案的果实。亲人的死亡是无法挽回的，然而，在早上(或之后的几个早上)会出现庆祝他或她生命的新方式。如果所有的[压力阀](https://supermemo.guru/wiki/Stress_valve)都按计划工作，大脑将准备迎接新的光明的一天。
 
-[泄压阀](https://supermemo.guru/wiki/Stress_valve)通过建立关系，找到合理的解决方案或重新解释问题，从而预防[慢性压力](https://supermemo.guru/wiki/Chronic_stress)
+[泄压阀](https://supermemo.guru/wiki/Stress_valve)通过建立连接，找到合理的解决方案或重新解释问题，从而预防[慢性压力](https://supermemo.guru/wiki/Chronic_stress)

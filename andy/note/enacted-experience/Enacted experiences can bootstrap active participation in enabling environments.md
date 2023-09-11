@@ -2,7 +2,7 @@
 
 原文：[Enacted experiences can bootstrap active participation in enabling environments (andymatuschak.org)](https://notes.andymatuschak.org/z2FDTR2NfpW1AtA4SAETevmKC2uDGEHfKrbhG)
 
-[赋能环境着重于环境所赋能的事](https://notes.andymatuschak.org/z6tuZZKaNeLM7c9jPZwNVGURGTuXLy8jesv5i)，但[赋能环境中的新手往往不能做被赋能的事情](https://notes.andymatuschak.org/z3XsSKarN8i3pV4WjPiJ7pVGG6akRVQvU7ngK)。精心设计的[情景体验](https://notes.andymatuschak.org/z3KASfpz5AmNmqM2m517Jbs1EvXrLN7NkeYWH)能让参与者立即体验到环境所赋能的事。
+[赋能环境着重于环境所赋能的事](https://notes.andymatuschak.org/z6tuZZKaNeLM7c9jPZwNVGURGTuXLy8jesv5i)，但[赋能环境中的新手往往不能做被赋能的事情](https://notes.andymatuschak.org/z3XsSKarN8i3pV4WjPiJ7pVGG6akRVQvU7ngK)。精心设计的[情景体验](https://notes.andymatuschak.org/z3KASfpz5AmNmqM2m517Jbs1EvXrLN7NkeYWH)能让参与者立即体验**做**环境所赋能的事。
 
 例如，假设一家软件公司拥有特殊的测试基础设施，使其工程师能够自信地完成重大更改。现在经理要向新入职的工程师介绍这一设施，他便可以让新人实现一项新功能，其中需要他修改经过充分测试的旧有代码。这位工程师会注意到这些代码都提及了测试框架，因此他也会如法炮制，添加上新代码并使用测试框架。在代码审查环节，他也许会和审查者讨论这些测试，会很有价值。测试基础设施让工程师能够自信地实现这项功能。因此，他未来测试新功能也会非常顺利。
 

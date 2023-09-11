@@ -30,7 +30,7 @@ Duolingo 使用了这些学习技巧/技术：
 
 ## 另见：
 
-* [多邻国学数学](https://wiki.issarice.com/wiki/Duolingo_for_math)
+* [面向数学的多邻国](https://wiki.issarice.com/wiki/Duolingo_for_math)
 
 ## 链接到本文
 

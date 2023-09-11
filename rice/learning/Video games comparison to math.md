@@ -6,4 +6,4 @@
 
 * [数学概念有不同的心理表征，这对于制作数学探索媒介是个挑战](https://wiki.issarice.com/wiki/Different_mental_representations_of_mathematical_objects_is_a_blocker_for_an_exploratory_medium_of_math)
 
-* [Braid 学数学](https://wiki.issarice.com/wiki/Braid_for_math) 
+* [面向数学的 Braid](https://wiki.issarice.com/wiki/Braid_for_math) 

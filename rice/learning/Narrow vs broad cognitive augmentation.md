@@ -26,7 +26,7 @@
 
 * [宽泛认知增强](https://wiki.issarice.com/index.php?title=Broad_augmentation&redirect=no) (redirect page) ‎ ([← 链入](https://wiki.issarice.com/index.php?title=Special:WhatLinksHere&target=Broad+augmentation))
 
-	+ [Braid 学数学](https://wiki.issarice.com/wiki/Braid_for_math) ‎ ([← 链入](https://wiki.issarice.com/index.php?title=Special:WhatLinksHere&target=Braid+for+math))
+	+ [面向数学的 Braid](https://wiki.issarice.com/wiki/Braid_for_math) ‎ ([← 链入](https://wiki.issarice.com/index.php?title=Special:WhatLinksHere&target=Braid+for+math))
 
 * [狭域增强](https://wiki.issarice.com/index.php?title=Narrow_augmentation&redirect=no) (redirect page) ‎ ([← links](https://wiki.issarice.com/index.php?title=Special:WhatLinksHere&target=Narrow+augmentation))
 

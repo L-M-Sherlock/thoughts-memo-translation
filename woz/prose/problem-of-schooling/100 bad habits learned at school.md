@@ -112,7 +112,7 @@ SuperMemo 插入。[什么是SuperMemo？](https://supermemo.guru/wiki/What_is_S
 
 欲了解更多，请参阅：
 
-- [教育阻碍进化](https://supermemo.guru/wiki/Education_counteracts_evolution)
+- [教育抵消进化](https://supermemo.guru/wiki/Education_counteracts_evolution)
 
 - [论老鼠比受过学校教育的人更优越](https://supermemo.guru/wiki/On_the_superiority_of_a_rat_over_a_schooled_human)
 

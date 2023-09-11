@@ -1,6 +1,6 @@
 # 1C2：间隔重复软件 SRS 最佳实践
 
-[间隔重复软件 SRS 最佳练习](https://refold.la/roadmap/stage-1/c/srs-best-practices)
+原文：[SRS Best Practices | Refold](https://refold.la/roadmap/stage-1/c/srs-best-practices)
 
 ### 培养习惯
 

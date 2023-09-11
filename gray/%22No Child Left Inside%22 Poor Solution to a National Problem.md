@@ -1,12 +1,12 @@
-#“没有孩子留在里面”：国家问题的糟糕解决方案
+#“不让孩子留在室内”：国家问题的糟糕解决方案
 
-[“没有孩子留在里面”：国家问题的糟糕解决方案|今日心理学]（https://www.psychologytoday.com/us/blog/freedom-learn/200810/no-child-left-inside-poor-solution-national-problem）
+[“No Child Left Inside”: Poor Solution to a National Problem | Psychology Today](https://www.psychologytoday.com/us/blog/freedom-learn/200810/no-child-left-inside-poor-solution-national-problem)
 
-##这项立法将加剧它旨在解决的问题。
+##这项法规将恶化它旨在解决的问题。
 
-发布于2008年10月8日
+发表于 2008 年 10 月 8 日
 
-9月18日，美国众议院以293票对109票的压倒性票通过了其“没有孩子留在里面”法案的版本。参议院版本尚未投票表决。这项立法是由环保主义者、教育工作者、公共卫生专家和商业团体组成的联盟推动的，该联盟被称为“不让孩子留在里面”联盟。
+9 月 18 日，美国众议院以 293 票对 109 票的压倒性票通过了其「不让孩子留在室内」法案的版本。参议院版本尚未投票表决。这项立法是由环保主义者、教育工作者、公共卫生专家和商业团体组成的联盟推动的，该联盟被称为「不让孩子留在室内」联盟。
 
 我同意联盟的所有关切，至少正如联盟网站上所表达的那样。我是一个热心的环保主义者，非常关注对我们星球的强奸及其潜在的未来可居住性。我担心我们这么多公民对户外活动非常无知。我担心我们今天很少看到孩子在户外玩耍。我担心，今天经常被称为户外“游戏”的是高度结构化、由成人监督的运动，这与户外的发现几乎没有关系。今天，我担心[童年]（https://www.psychologytoday.com/us/basics/child-development）肥胖和[抑郁]（https://www.psychologytoday.com/us/basics/depression）的流行率，我同意联盟的观点，即这些比率至少部分是儿童生活中没有户外冒险的结果。
 
