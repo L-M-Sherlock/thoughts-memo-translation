@@ -2,11 +2,11 @@
 
 原文：[Learning history: school vs. self-directed learning - supermemo.guru](https://supermemo.guru/wiki/Learning_history:_school_vs._self-directed_learning)
 
-这段文字选自《[我永远不会送我的孩子上学](https://supermemo.guru/wiki/Problem_of_Schooling)》，作者是[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)（2017）
+本文选自《[我永远不会送我的孩子上学](https://supermemo.guru/wiki/Problem_of_Schooling)》，作者是[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)（2017）
 
 # 学校是否缓解无知？
 
-我经常听到这种怀疑的问题：「[自我导向学习](https://supermemo.guru/wiki/Self-directed_learning)能使学生很好地覆盖知识领域，确保一个人在社会中的和谐健康地位，这种可能性有多大？」
+我经常听到这种充满怀疑的问题：「[自我导向学习](https://supermemo.guru/wiki/Self-directed_learning)能使学生很好地覆盖知识领域，并能够在社会中的和谐健康地生存吗？如果可以，这种可能性有多大？」
 
 这种担忧是可以理解的，也是普遍的。我们都需要知道，在离开公共厕所后需要洗手。我们需要知道环境污染和气候变化的危险性。我们需要了解法律和民主的基本规则。然而，我们也需要意识到，统一的思维会扼杀创造性的突破。
 

@@ -1,4 +1,4 @@
-# 对于卡片生成任务，大型语言模型（LLM）经常需要额外的提示来确定强化的视角
+# 对于卡片生成任务，大型语言模型（LLM）经常需要额外的提示，来确定从何种角度制卡
 
 原文：[In prompt generation, LLMs often need extra hints about what angle to reinforce (andymatuschak.org)](https://notes.andymatuschak.org/zomoPzCNzSi5GqtfTeVWgm7RjmiArjS8vvM5)
 

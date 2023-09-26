@@ -1,4 +1,4 @@
-# 实时数学视频
+# 直播数学视频
 
 原文：[Live math video](https://wiki.issarice.com/wiki/Live_math_video)
 
