@@ -1,123 +1,123 @@
-# 2A4：理解力等级
+# 2A4：理解等级
 
-[Levels of Comprehension | Refold](https://refold.la/roadmap/stage-2/a/levels-of-comprehension)
+原文：[Levels of Comprehension | Refold](https://refold.la/roadmap/stage-2/a/levels-of-comprehension)
 
-理解力等级模型为评估外语的理解力提供了一个直接的系统。我们创建这个模型的目的是为了在语言学习过程中提供清晰而具体的指导，并为学习者提供一个强有力的框架来思考和讨论他们的进步。
+这个「理解等级」模型为评估外语理解能力提供了一个简单明了的系统。我们创建这个模型是为了给语言学习过程提供清晰、具体的指导，同时也为学习者在思考和讨论他们的进展提供了一个坚实的框架。
 
-### 关于模型
+### 模型简介
 
-该模型将理解力的范围分为六个级别，从完全的初学者到毫不费力的掌握者。该模型同样适用于听力和阅读。
+该模型将理解的范围分为六个级别，从初学者到轻松掌握。这个模型对听力和阅读都同样适用。
 
-该模型并不描述你对整个语言的理解力，而是描述你在阅读某一特定内容时的理解程度。
+这个模型并不是描述你对整个语言的全面理解，而是关注于你在接触某个特定内容时的理解程度。
 
-在使用该模型时，要根据你在不查定义或不看翻译的情况下的理解程度进行评估。
+使用这个模型时，你的评估应基于在不查阅字典或阅读翻译的情况下，你能理解到什么程度。
 
-大多数沉浸式学习者在评估理解力时，都依赖于一个基于百分比的系统。我们积极决定不以百分比来定义水平。要准确定义某个百分比的理解力意味着什么，是非常困难的。30%的理解力 "是指理解30%的单词，30%的一般含义，还是30%的母语者会掌握的全部细微差别？每个人都有不同的解释。相反，我们是围绕着你所理解的意义的多少来建立模型的。
+大部分沉浸学习者用百分比来衡量自己的理解水平。我们故意没用这种方式，因为很难明确说「理解了多少百分比」到底是什么意思。30% 的理解是指懂了 30% 的词汇，还是 30% 的大致含义，还是像个母语者那样理解了 30% 的微妙之处？每个人都有不同的解释。因此，我们的模型是围绕你理解的含义量来构建的。
 
-### 理解力不是静态的
+### 理解不是静态的
 
-一般来说，理解力往往是基于特定领域的。例如，在阅读悬疑小说时，你的理解力一般在5级左右，但在看新闻时，你的理解力在3级左右。此外，即使在单一领域内，你的理解力也可能因具体内容的不同而不同。
+通常，理解水平和具体领域有关。比如说，你看侦探小说可能理解得有模有样，大约是 5 级，但看新闻可能就是 3 级。而且，就算在同一个领域，你的理解水平也可能因为具体的内容而起伏不定。
 
-你的理解力在每天甚至每小时都有很大的变化，这是完全正常的。甚至在同一电视节目中，每一集的理解力也会有所不同，理解力受到许多因素的影响，包括你的情绪、能量水平和你正在投入的沉浸内容。
+你的理解水平每天，甚至每小时都有很大的波动，这很正常。甚至在同一个电视节目的不同集里也可能不一样。影响理解的因素有很多，包括你的心情、精力，以及你对所接触内容的投入程度。
 
-偶尔觉得自己的理解力突然变差也是正常的。这是一种错觉，随着你理解力的提高，你会更加意识到你仍然不理解的东西，这种意识到自己无知范围地提升是导致主观体验到理解力突然变差的原因。这实际上是一个好现象，而不是一个坏现象!
+有时候，你可能会觉得自己的理解水平突然下滑了。这其实是假象。随着你理解水平的提高，你更容易察觉到自己还有哪些不懂。这种对自己无知更深刻的认识，会让你觉得好像理解水平下降了。其实这是好事，不是坏事！
 
 ![subjective comprehension](https://refold.la/static/8e6638a88e032f832f563b862aa50c7e/0a47e/subjective-comprehension.png)
 
 ### 具体模型
 
-#### 等级 0：啥都没有
+#### 等级 0：啥都不会
 
-你才刚刚开始沉浸式学习，掌握的语言内容就只有叽里呱啦的无意义声音。
+你刚开始沉浸学习，这门语言对你来说完全是天书。
 
-#### 等级 1：有点东西了
+#### 等级 1：一星半点
 
-掌握的语言内容仍大部分只有叽里呱啦的无意义声音，但开始听起来/看起来熟悉了，你已经获得了偶尔识别出单词的能力。
+大部分内容还是天书，但总算觉得有几个字或音似曾相识。你能偶尔认出个别字或词。
 
-你仍然不知道在讲些啥。
+但整体来说，你还是摸不着头脑。
 
-#### 等级 2：零星片段
+#### 等级 2：零零碎碎
 
-大部分句子中你会认得一两个单词，而且隔一段时间你就能有一次理解一整个句子的情况。
+在大多数句子里，你能认出一两个词，偶尔甚至能理解一个完整的句子。
 
-你对正在谈论的内容有一个极其模糊的感觉。
+你对谈论的内容有个大概的、模糊的认识。
 
-#### 等级 3：主旨
+#### 等级 3：懂得要旨
 
-你能识别出至少一半单词量，而且对你来说完全理解整个句子已经是经常能够发生的事了。
+你能认出大半的词汇，而且时不时能完全理解整个句子。
 
-你能跟上大多数所表达的主要观点，但会丢失许多小细节。
+你能跟上大部分主要的观点，但很多小细节还是不甚了了。
 
-#### 等级 4：故事
+#### 等级 4：明了情节
 
-你能跟上所表达的绝大多数观点，但时不时会丢失一些细节。
+你能跟上大多数表达的想法，但偶尔会有一些细节遗漏。
 
-当你无法识别出所有单词时，你很大程度上依赖上下文语境来判断在说什么，当你不能理解某些内容，你经常无法说出到底为什么你不能理解。
+你极度依赖语境推断来理解不明确的词语。当你无法理解某个部分时，通常也搞不清楚**为什么**会这样。
 
-#### 等级 5：舒服
+#### 等级 5：轻松晓畅
 
-你能理解几乎所有的事情，但一些微妙的细微差别会被忽略。你不难跟上所说的一切，但演讲者或作家的一些聪明才智或工艺可能会被忽视。
+你几乎能理解一切，但有时会错过一些微妙之处。你能轻易地跟上所有的对话，但有时可能会忽略演讲者或作者的一些巧妙手法。
 
-当你不理解某件事情时，你通常可以通过查找你所遗漏的内容来确定原因并澄清你的理解。
+当你不理解的时候，通常能找出问题所在，并通过查阅资料来弄清楚。
 
-在这个水平上，理解语言的行为仍有很大的努力。
+在这个等级，你理解内容还是需要付出一番努力。
 
-#### 等级 6：自动化
+#### 等级 6：浑如天成
 
-你可以毫不费力地理解几乎所有的东西。几乎不会丢失任何细节。能完全掌握最微妙的细微差别。
+你能毫不费力地理解几乎所有内容，几乎不会漏掉任何细节。能够完全领会到最微妙的意涵。
 
-这是母语者在投入他们熟悉的内容时的体验。
+也就是说，你理解的程度和母语者在接触他们熟悉的内容时几乎一样。
 
 ### 案例：哈利波特
 
 以下是《哈利-波特与魔法石》的第一段内容。
 
-Mr. and Mrs. Dursley, of number four, Privet Drive, were proud to say that they were perfectly normal, thank you very much. They were the last people you’d expect to be involved in anything strange or mysterious, because they just didn’t hold with such nonsense.\n杜斯利先生和杜斯利夫人住在普利维特路四号，他们可以自豪地说，他们是完全正常的，非常感谢你。他们是你认为最不可能参与任何奇怪或神秘的事情的人，因为他们根本就不相信这种无稽之谈。
+> *Mr. and Mrs. Dursley, of number four, Privet Drive, were proud to say that they were perfectly normal, thank you very much. They were the last people you’d expect to be involved in anything strange or mysterious, because they just didn’t hold with such nonsense.*
 
 下面，我们演示一下，如果你是一个英语学习者，试图阅读《哈利-波特》，每个级别会是什么感觉。
 
-未知的单词已被替换成胡言乱语（gibberish）。其他单词和短语被替换成类似的英语单词，以表示学习者知道这个单词，但不能掌握它在特定语境中的用法，我们已经用 "*"标记了这些。
+生词已被替换为胡言乱语（gibberish）。其他单词和短语也用相似的英文单词进行了替换，以表示学习者**知道**这个单词，但在特定情境下无法理解其用法。我们用「*」标记了这些词。
 
-#### 等级 1：有点东西了
+#### 等级 1：一星半点
 
-Pe and Per Dursley, of camer embe, Privet Unfax, were preth to say that quiga were counges kepter, *gratitude very slamy. Quiga were the pilso olical themic novatial to be vitimese in theoloney unittlem or writuence, because quiga atter inson voler rotes evere disgushese.
+> *Pe and Per Dursley, of camer embe, Privet Unfax, were preth to say that quiga were counges kepter, \*gratitude very slamy. Quiga were the pilso olical themic novatial to be vitimese in theoloney unittlem or writuence, because quiga atter inson voler rotes evere disgushese.*
 
-You recognize some individual words such as “and”, “to”, “were”, and “thank you”, but you don’t have the slightest idea what the paragraph is about.
+你能认出一些单独的单词，比如「and」、「to」、「were」和「thank you」，但你对整个段落的意思一无所知。
 
-#### 等级 2：零星片段
+#### 等级 2：零零碎碎
 
-Pe and Per Dursley, of camer four, Privet Unfax, were preth to say that they were counges kepter, *gratitude very slamy. They were the pilso people themic novatial to be vitimese in theoloney unittlem or writuence, because they just didn’t voler with such disgushese.
+> *Pe and Per Dursley, of camer four, Privet Unfax, were preth to say that they were counges kepter, \*gratitude very slamy. They were the pilso people themic novatial to be vitimese in theoloney unittlem or writuence, because they just didn’t voler with such disgushese.*
 
-你能理解大约一半的单个单词，这使你能够慢慢了解到这段话似乎是在谈论一群人。
+你大概能理解一半的单词。这让你大致能推测出，这个段落似乎是在谈论一群人。
 
-#### 等级 3：主旨
+#### 等级 3：懂得要旨
 
-Mr. and Mrs. Dursley, of letter four, Privet Move, were preth to say that they were counges normal, I show you gratitude. They were the final people you’d expect to be vitimese in anything strange or writuence, because they just didn’t *carry with such disgushese.
+> *Mr. and Mrs. Dursley, of letter four, Privet Move, were preth to say that they were counges normal, \*I show you gratitude. They were the \*final people you’d expect to be vitimese in anything strange or writuence, because they just didn’t \*carry with such disgushese.*
 
-你明白这段话说的是两个叫 "杜斯利先生和杜斯利夫人 "的人，你很确定这一段的重点是把他们描述为 "正常"。
+你明白这个段落是在谈论两个名叫「Mr. and Mrs. Dursley」的人。你相当确定这个段落的重点是描述他们是「normal」的。
 
-你知道大部分的字，但有几个字你以前从未见过。你不明白 "4号，Privet Drive "是什么意思，因为你认为 "开车 "是指 "移动汽车"。你知道 "非常感谢 "是什么意思，但你把它解释为 "我向你表示感谢"，所以你很困惑，为什么在这种情况下使用它。你知道 "最后 "这个词的意思是 "最终"，但你无法理解这个特殊的用法。"hold "和 "carry "也是如此。尽管如此，你还是能够从上下文中推断出这句话很可能是在说杜斯莱家族并不奇怪。
+你认识大多数单词，但也有几个你从未见过。你不明白「number four, Privet Drive」是什么意思，因为你认为「drive」是「开车」的意思。你知道「thank you very much」的意思，但你把它解释为「我向你表示感激」，所以你不明白为什么在这种情境下会用到它。你知道「last」意味着「最后的」，但你无法理解这个特定用法。「hold」和「carry」也是如此。尽管如此，你还是能从上下文中推断出，这句话很可能是在说 Dursleys 家一点也**不**奇怪。
 
-#### 等级 4：故事
+#### 等级 4：明了情节
 
-Mr. and Mrs. Dursley, of number four, Privet Drive, were proud to say that they were perfectly normal, I show you gratitude. They were the last people you’d expect to be involved in anything strange or writuence, because they just didn’t carry with such nonsense.
+> *Mr. and Mrs. Dursley, of number four, Privet Drive, were proud to say that they were perfectly normal, \*I show you gratitude. They were the last people you’d expect to be involved in anything strange or writuence, because they just didn’t \*carry with such nonsense.*
 
-只有一个词你不知道。你明白这段话说的是两个叫 "杜斯利先生和杜斯利夫人 "的人，他们对 "正常 "有强烈的感觉，甚至可能对 "不正常 "的人有厌恶。
+你只有一个单词不认识。你明白这个段落是在谈论两个名叫「Mr. and Mrs. Dursley」的人，他们非常重视自己是「normal」的，甚至可能不喜欢那些「not normal」的人。
 
-你仍然对第一句末尾的 "非常感谢你 "的作用感到困惑。你不熟悉第二句中 "持有 "的特殊用法，但你可以从上下文中推断出，它的意思可能是 "他们不容忍这种无稽之谈"。
+你仍然对第一句末尾的「thank you very much」感到困惑。你对第二句中「hold」的特定用法不太熟悉，但你能从上下文中推断，它可能意味着「他们不会容忍这种胡说八道」。
 
-#### 等级 5：舒服
-
-> *Mr. and Mrs. Dursley, of number four, Privet Drive, were proud to say that they were perfectly normal, thank you very much. They were the last people you’d expect to be involved in anything strange or mysterious, because they just didn’t hold with such nonsense.*
-
-没有不认识的字，你完全明白这段话的核心含义是什么。
-
-到此为止，你只是错过了细微的差别。你对 "非常感谢 "在这种情况下的含义有了大致的了解，但你并没有完全掌握这种语气所传达的杜氏家族是骄傲而顽固的人，你明白 "you'd "的意思是 "你会"，但你无法觉察到这种缩略语的使用如何巧妙地改变了句子的感觉，你也没有注意到 "just"在最后一句中增加强调的微妙方式。
-
-你需要思考这些细微的差别，但母语人士却能自动和本能地感知它们。
-
-#### 等级 6：自动
+#### 等级 5：轻松晓畅
 
 > *Mr. and Mrs. Dursley, of number four, Privet Drive, were proud to say that they were perfectly normal, thank you very much. They were the last people you’d expect to be involved in anything strange or mysterious, because they just didn’t hold with such nonsense.*
 
-你毫不费力地理解这段话，并自动感知其所有的细微差别和微妙之处，你的理解力达到了母语水平。
+你没有生词，而且完全明白段落的核心意义。
+
+到这一步，你只是错过了一些细微的差别。你大致明白「thank you very much」在这个语境中的意义，但你没有完全理解这个语气表达了 Dursleys 夫妇是多么的自豪和固执。你明白「you'd」意味着「you would」，但你无法察觉这种缩写词的使用如何微妙地改变了句子的感觉。你也没有注意到最后一句中「just」用于强调的微妙方式。
+
+你需要思考这些微妙和细微的差别，但对于母语者来说，他们会自动和本能地察觉到这些。
+
+#### 等级 6：浑如天成
+
+> *Mr. and Mrs. Dursley, of number four, Privet Drive, were proud to say that they were perfectly normal, thank you very much. They were the last people you’d expect to be involved in anything strange or mysterious, because they just didn’t hold with such nonsense.*
+
+你毫不费力地理解了这段话，并自动地捕捉到了所有的细微差别和微妙之处。你的理解能力实际上已经达到了母语水平。
