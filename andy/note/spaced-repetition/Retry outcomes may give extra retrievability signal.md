@@ -6,7 +6,7 @@
 
 但在典型的 [SRS 重试机制](https://notes.andymatuschak.org/z2GB3wDnERaJr2337zGJdb5Gnr7tURrfmoxu)中，假设读者在第一次尝试后不久的重试中仍未能记住。那么，你对第一次尝试时的可提取性的估计就应该降低。若失败次数增多，应进一步降低估计。
 
-我不确定如何实际构建一个包含这个因素的模型。在每次后续失败后，可提取性估计应该下降多少？我不确定如何在这里找到「确凿的依据」。
+我不确定如何在现实中构建一个包含这个因素的模型。在每次后续失败后，可提取性估计应该下降多少？我不确定如何在这里找到「人工标注」。
 
 这种信号在学术文献中**有所**体现，其中常见的做法是要求受试者不断练习项目，直至成功。尝试次数有时会被当作一个变量来分析。在 [Ebbinghaus, H. (1913). Memory: A Contribution to Experimental Psychology (H. A. Ruger & C. E. Bussenius, Trans.). (Original work published 1885)](https://notes.andymatuschak.org/zKo9oLfGnps2DZxPMotN9EiTdwAi6dZrTqX) 一书中，[赫尔曼·艾宾浩斯](https://notes.andymatuschak.org/z27aRzfKv9AhrdENveH1MhBGWj9HzTe5R1pZ)几乎将尝试次数作为唯一的信号（一种较为粗糙的可提取性信号）。
 

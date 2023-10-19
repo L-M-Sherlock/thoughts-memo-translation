@@ -1,17 +1,21 @@
-# 不适的时间压力往往会毁掉创造性工作
+# 不当的时间压力往往会毁掉创造性工作
 
 原文：[Inappropriate time pressures often harm creative work (andymatuschak.org)](https://notes.andymatuschak.org/zv3oHi3CgUz3yjrKceuSznBQXYQeEWVW7KW)
 
-[约束往往会带来创造力](https://notes.andymatuschak.org/zfsf2tFq4u5TuCgCMyWgFhwrTSMofHby1ae)，但是，当约束的性质与手头的工作完全不兼容时，就另当别论了。例如, when you’re not what direction to head next in a design, “Crazy Eights” can help: fold a piece of paper into eight parts, then spend one minute sketching an idea into each part. Great! If you’ve got momentum on a project, setting a timeline can help you make better trade-offs, satisfice into “done”, and sometimes even focus. But if you’re trying to finish up a major creative project before some deadline, and you find yourself in a state that’s incompatible with the deadline, then that time pressure isn’t going to provide helpful focus: it’s going to make you feel like a failure ([Scarcity mindset](https://notes.andymatuschak.org/znutNAv4ejW7nWwtzCnXQfAbbK8jS8DeAC3)) and make the work even worse.
+[约束往往会带来创造力](https://notes.andymatuschak.org/zfsf2tFq4u5TuCgCMyWgFhwrTSMofHby1ae)，但是，当约束的性质与手头的工作完全不兼容时，就另当别论了。比如，当你在设计过程中迷失方向，用「疯狂八格（Crazy Eights）」法或许有用：把一张纸折成八块，每块里用一分钟草拟一个构思。这样不错！如果项目进展顺利，设个时间表能帮你做出更明智的取舍，把事情做到「够好就行」，有时甚至能提高你的专注度。但若你正在赶一个大型创意项目的截止日期，发现自己的状态和截止时间简直是水火不容，那这压力就不会帮你集中注意力了，反而会让你有挫败感（产生[稀缺心态](https://notes.andymatuschak.org/znutNAv4ejW7nWwtzCnXQfAbbK8jS8DeAC3)），甚至还会让成品更加糟糕。
 
-这是[在创造性工作中执着于产出往往弄巧成拙](https://notes.andymatuschak.org/zWhZZuWVtFXsPNL8Ph3po7R8BEDztTSsN1X)的特例。另一个也相关的笔记：[深度研究需要比科技行业更慢的节奏](https://notes.andymatuschak.org/zhY2FQgMFwzqH7FKB8bnMvNGng9jmKtYshbu)
+这其实是[在创造性工作中执着于产出往往适得其反](https://notes.andymatuschak.org/zWhZZuWVtFXsPNL8Ph3po7R8BEDztTSsN1X)的一个具体例子。另一个也相关的笔记：[深度研究需要比技术行业具备更慢的节奏](https://notes.andymatuschak.org/zhY2FQgMFwzqH7FKB8bnMvNGng9jmKtYshbu)
 
 ## 统计书的故事
 
-这里有一个有关我的经历的实打实的呃故事。我正在制造一个有关新设计的大型演示视频的途中。 I’d previously set myself the goal of finishing the video by the end of the month. At the start of the week, I sketched out what I’d need to do to make that happen. It looked just barely possible, but everything needed to go perfectly all week to make it happen.
+这是我个人经历里的一个真实案例。当时我正忙于制作一个新设计的大型演示视频。我曾自设目标，要在月底前搞定这个视频。周一刚开始，我就粗略地规划了一下怎样才能达成这个目标。看似勉强可行，但得确保整周的每一件事都得完美执行。
 
-在最后一周的周二晚上，我逐渐熟练读完了该统计读本，我试图去适应该视频。The sections I’d previously prepared wouldn’t work with the script after all; I needed to use a later chapter. So I flipped to the later chapter and started looking for a passage I could adapt. This is where the trouble started. Because I was in a hurry, I wasn’t really *reading* the textbook; I was just pattern matching for something that would solve my problem. I didn’t give myself enough time to really understand what was being said, so nothing seemed to match. I’d get harried and flip to the next section, which I’d understand even less well. But I didn’t really understand that this was what was happening—I thought I just needed to keep searching for the right spot. After somehow burning 90 minutes of flailing without any real progress, I finally realized that I needed to stop and actually read the textbook. I did that, and after 30 minutes I had what I needed.
+到了那最后一周的周二早上，我在一个统计学的教科书上遇到了难题。原先准备用于视频的那些部分跟剧本不搭界，我得用后面的章节。于是，我翻到了后面的章节，开始寻找能适用的内容。这时倒霉事开始了。因为赶时间，我其实没有仔细**阅读**那本书，只是在盲目地找能填补空缺的东西。没给自己留出足够的时间去深入理解，结果啥都对不上号。越是急，越是看不懂下一节。当时我并没意识到问题出在哪——我以为只需继续找就行了。在浪费了近 90 分钟却没有任何实质性进展后，我终于意识到需要停下来，真正去阅读这本教材。这么做后，30 分钟内我就找到了所需的内容。
 
-所以，这个故事直接看来大概传递了这个道理：好吧，慢下来，要用正确的方法做事，乱打乱撞会浪费更多的时间。但我认为更重要的是，我在那整个时期都感到压力重重，不快乐——即使我最后真的停下来且仔细阅读！这是因为，我那时仍想着要在逼近的截止日期前完成所有事情。我脑袋中的[守时者](https://notes.andymatuschak.org/z23CNTLfky3W29Za785v2tnASVogtczGW77x)主导着我的情绪。在这种心态下，每个挫折都变成了一种威胁——一个需要解决的问题，而非[激发好奇心](https://notes.andymatuschak.org/zKvtqpdyujNByokN4fSahKrgNgXxCAWD5gRv)的动力，而且很难[变得轻松愉快](https://notes.andymatuschak.org/ziHJKnDvMUWnBBpTEsVg3iVNxKrCieEUaEr)。这不仅令人不悦，而且也不能成为我做我喜爱的事的方式。
+所以，这个故事最初的寓意大概是：好吧，慢下来，用对的方法，否则你会浪费更多时间乱打一气。但我觉得更重要的寓意是，我在那整个时期都感到压力重重，不快乐——即便是我决定仔细阅读的时候也是如此！这是因为，我那时仍想着要在逼近的截止日期前完成所有事情。我脑袋中的[计时员](https://notes.andymatuschak.org/z23CNTLfky3W29Za785v2tnASVogtczGW77x)主导着我的情绪。在这样的心态下，任何小挫折都变成了大问题——一个需要解决的难题，而非[激发好奇心](https://notes.andymatuschak.org/zKvtqpdyujNByokN4fSahKrgNgXxCAWD5gRv)的契机，而且很难[变得好玩](https://notes.andymatuschak.org/ziHJKnDvMUWnBBpTEsVg3iVNxKrCieEUaEr)。这样的状态不仅令人不悦，也难以进入我希望的工作节奏。
 
-中午的时候，我出去散了步，但仍然对早上的那段工作感到紧张。突然之间，我意识到我不快乐的经历完全是自己造成的，根本没有必要，我笑了起来。我对自己说：“你知道的，*下周*发布这个演示没什么关系——无论你是否喜欢，这显然就是将要发生的事情”，于是，所有的紧张感立刻消失了。取而代之的是[丰盈感](https://notes.andymatuschak.org/zRCKm3mveX2C2LVCSZEGuSphQNmW5zGd2Rc)。更有趣的是：客观地看，在我没有给自己施加强烈的时间压力的那段时间，我完成的工作量和现在差不多！是，也许会稍微少一点；而且有时我会陷入困境，这种困境在有明确的截止日期时便可以避免。但没有时间压力时，我更可能偶然产生重要的深刻见解。对于我的工作而言，深刻见解而非工作量的产出密度是最重要的衡量标准。
+了中午，我出去散了个步，还是对早上的工作感到紧张。然后，我突然意识到我的不愉快完全是自找的，完全没必要，就笑了出来。我对自己说：「其实，推迟到**下周**发布这个演示也无妨，这明摆着就是早晚要发生的事。」说完，一切紧张感立刻烟消云散。[富足感](https://notes.andymatuschak.org/zRCKm3mveX2C2LVCSZEGuSphQNmW5zGd2Rc)。更有意思的是：如果不给自己设置严格的时间压力，我完成的工作量几乎一样多！可能会稍微少一点，有时候我会陷入我本可以在明确的期限下避免的「兔子洞」。但在没有时间压力的情况下，我更容易发现重要的洞见。对我来说，洞见的密度，而不是产出的密度，才是最重要的工作指标。
+
+问：回想一下你在临近期限时试图改编统计学教材的经历，午后散步时有何感悟？
+
+答：...（如有需要，请看笔记）

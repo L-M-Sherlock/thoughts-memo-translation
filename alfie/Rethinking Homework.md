@@ -43,3 +43,43 @@
 **6. 建议老师只布置自己设计的作业。** 在大多数情况下，学生只应该做老师设计的作业，而不是事先制作好的、一成不变的习题或从教科书上复印的普通习题。此外，给整个班级的学生布置相同的作业几乎没有意义，因为大多数学生没有从中获益。做这种作业，对于已经理解概念的学生来说，是在浪费时间，而对于还不理解的学生来说，则会慢慢失去信心。没有一个完美的作业能够激发每个学生的学习兴趣，因为一个标准无法适应所有人。在真正需要布置作业时候，教师应根据学生的不同兴趣和能力布置多种作业。但是，与其给每个人布置相同的作业，不如直接不布置作业。
 
 **7. 让作业成为学生参与决策的机会。**  评判课堂质量的一个方法是看学生参与[决策](https://www.alfiekohn.org/choices-children/)的程度。最优秀的教师都知道，学生是通过做决策来学会做出正确的决定，而不是仅仅按照指示行事。学生对他们要学什么、在什么情况下学，以及如何（何时）评价他们的学习、教室如何布置、如何解决冲突等等，都应该有发言权。
+
+一般教育如此，家庭作业更是如此。至少有两位研究人员发现，（根据不同的标准定义的）最出色的教师往往会让学生参与决定作业的内容，而不仅仅是告诉他们在家里要做什么。看到孩子的家庭作业后，家长第一个合理的问题应该是：“孩子们在决定如何完成、何时完成，以及是否真的需要在家完成这项作业上有多大的发言权？”
+
+讨论家庭作业是否有用（以及为什么有用）本身就很有价值。如果意见不一，那么当大家不能达成一致时该怎么办——投票决定？继续讨论直至达成共识？寻找折中方案？——这都会促进社交技能和智力的发展。而这种发展正是因为教师提出问题而不是命令。如果你建议那些经常与学生沟通的教师，孩子们会对家庭作业或任何需要努力的事情说不，他们会激烈地摇头。他们会告诉你，这根本不是事实。如果学生受到尊重，如果作业值得做时，大多数孩子都乐于接受挑战。
+
+反之，如果学生对家庭作业嗤之以鼻，或想方设法逃避作业，一般是因为他们的作业太多了，或因为作业布置得漫不经心、连篇累牍，或仅仅是因为他们对作业无话可说。如果学生感到 "被动参与"，而不是 "主动合作"，那么即使是高质量的作业，其效益也是有限的。
+
+**8. 帮助教师远离打分。** 你的教师可能需要你的支持、鼓励和切实可行的建议，以帮助他们摒弃作业检查或打分的模式，因为这样做的目的是强制学生遵守规定，而在这种模式下，学生们可以相互解释和探讨他们所做的事情——他们对所读的书有什么喜欢和不喜欢的地方，他们有什么困难，他们想到了什么新问题。正如杰出的教育家 Martin Haberman 所说，最好的课堂上的家庭作业“不是被检查——而是分享”。如果学生得出的结论是，没有必要花时间做不会被收集或记录的作业，那么这不是为了设置贿赂和威胁以及不信任的气氛的论据；这是对作业本身的控诉。
+
+**9. 实验。** 请那些不愿意重新思考长期以来对传统作业的依赖的教师试一试，看看在某一周或某一课程单元中，如果不布置作业会发生什么。当然，任何相信作业有益的人都应该愿意通过调查不布置家庭作业的后果来验证这一假设。暂停布置作业对学生的成绩、学习兴趣、情绪以及课堂气氛有什么影响？同样，学校作为一个整体，也可以在试行一项新的政策，比如我提出的改变默认值的做法，然后再永久性地执行。
+
+--- 
+
+校长们要处理的危机层出不穷；他们要解决抱怨，安抚受伤的自尊心，协商解决方案，努力让每个人都满意，总之要让火车（或者说公共汽车）准时运行。在这样的岗位上，有一种强烈的诱惑，那就是回避那些对现状提出质疑的新举措。 尤其是在 "提高标准 "和 "更高标准 "等词被用来为愚蠢、不恰当甚至令人发指的做法辩护的时代，处理家庭作业这样的问题需要相当大的勇气。当然，校长的最终责任是为孩子们做正确的事，保护他们免受有害的规定和做法的伤害，这些规定和做法之所以持续存在，不是因为它们有价值，而仅是因为它们是传统的。
+
+对于任何愿意为了做有意义的事情而改变现状的人来说，开始关于作业的对话是一个非常好的开始。
+
+**相关阅读** 
+
+我们被各种文章和书籍淹没，它们声称家庭作业是有益的，或仅认为家庭作业的存在或价值是理所当然的，并只提供关于应如何布置作业，或者父母应使用什么技巧让孩子完成作业的建议。以下是一些对这一主题的传统假设提出质疑的资料，旨在激发有意义的思考和对话。
+
+Barber, Bill. “Homework Does Not Belong on the Agenda for Educational Reform.” *Educational Leadership* , May 1986: 55-57.
+
+Bennett, Sara, and Nancy Kalish. [反对家庭作业的案例：家庭作业如何伤害我们的孩子以及我们能做些什么](http://www.amazon.com/Case-Against-Homework-Hurting-Children/dp/030734018X/wwwalfiekohorg) (New York: Crown, 2006).
+
+Buell, John. *Closing the Book on Homework: Enhancing Public Education and Freeing Family Time* . (Philadelphia: Temple University Press, 2004).
+
+Dudley-Marling, Curt. [ "学校*烦恼*如何回家：家庭作业对学困生家庭的影响"。](http://cie.ed.asu.edu/volume6/number4) *Current Issues in Education* [On-line] 6, 4 (2003).
+
+Hinchey, Patricia. “Rethinking Homework.” *MASCD* [Missouri Association for Supervision and Curriculum Development] *Fall Journal* , December 1995: 13-17.
+
+Kohn, Alfie. [*作业神话：为什么我们的孩子做这么多坏事* ](https://www.alfiekohn.org/homework-myth/) (Cambridge, MA: Da Capo Press, 2006).
+
+Kralovec, Etta, and John Buell. *The End of Homework: How Homework Disrupts Families, Overburdens Children, and Limits Learning* (Boston: Beacon Press, 2000).
+
+Samway, Katharine. “’And You Run and You Run to Catch Up with the Sun, But It’s Sinking.’” *Language Arts* 63 (1986): 352-57.
+
+Vatterott, Cathy. ["家庭作业有问题"](http://www.homeworklady.com/index2.php?option=com_docman&task=doc_view&gid=3&Itemid=34) *Principal*, January-February 2003: 64.
+
+Waldman, Ayelet. [“作业地狱”](http://dir.salon.com/story/mwt/col/waldman/2005/10/22/homework/index.html) Salon.com. October 22, 2005.
