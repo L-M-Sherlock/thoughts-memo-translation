@@ -54,4 +54,4 @@
 
 相关笔记：
 
-[每天进行几个小时的困难的创意性工作是相当困难的](https://notes.andymatuschak.org/z2CimZy4H6BHkurFNQpqDjKitgpVud4pDTbwm)
+[每天进行几个小时费力的创意性工作是相当困难的](https://notes.andymatuschak.org/z2CimZy4H6BHkurFNQpqDjKitgpVud4pDTbwm)
