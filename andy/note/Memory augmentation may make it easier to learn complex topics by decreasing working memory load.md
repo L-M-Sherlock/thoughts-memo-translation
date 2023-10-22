@@ -2,7 +2,7 @@
 
 原文：[Memory augmentation may make it easier to learn complex topics by decreasing working memory load (andymatuschak.org)](https://notes.andymatuschak.org/zcMJ4k48No78VtNvB6mMAUBrLhvtfjfLKwf)
 
-[复杂的概念可能很难学习，部分原因是工作记忆容纳不下其组分](https://notes.andymatuschak.org/z6eTZz16YRGs2PyWyc3qe1B9oJ7swmnCU54hZ). 既然[间隔重复记忆系统使记忆成为一种选择](https://notes.andymatuschak.org/z4bR1HVvDUhMXDm5SJB4Tiw4xGbrm9AfXWgbc)，那么记忆增强就可能是个值得关注的解决途径。
+[复杂的概念可能很难学习，部分原因是工作记忆容纳不下其组分](https://notes.andymatuschak.org/z6eTZz16YRGs2PyWyc3qe1B9oJ7swmnCU54hZ)。既然[间隔重复记忆系统使记忆成为一种选择](https://notes.andymatuschak.org/z4bR1HVvDUhMXDm5SJB4Tiw4xGbrm9AfXWgbc)，那么记忆增强就可能是个值得关注的解决途径。
 
 相关笔记：
 

@@ -1,4 +1,4 @@
-# 编写非技术性助记文本需要额外的概念抓手。
+# 编写非技术性助记文本需要额外的概念抓手
 
 原文：[Writing non-technical mnemonic texts requires extra concept handles (andymatuschak.org)](https://notes.andymatuschak.org/z2jD91wK8CiwDwr1qX33tfFBboyD6kcanVx3)
 
