@@ -1,4 +1,4 @@
-# 2C：如何阅读小说（可选）
+# 2C3：如何阅读小说（选修）
 
 原文：[How to Read a Novel (Optional) | Refold](https://refold.la/roadmap/stage-2/c/how-to-read-a-novel)
 

@@ -1,6 +1,6 @@
-# 2C2：纯听（可选）
+# 2C2：纯听力（选修）
 
-[Pure Listening (Optional) | Refold](https://refold.la/roadmap/stage-2/c/pure-listening)
+原文：[Pure Listening (Optional) | Refold](https://refold.la/roadmap/stage-2/c/pure-listening)
 
 到目前为止，你一直在通过电视节目练习具有视觉背景的听力理解能力。电视和电影都通过视觉故事给你的听力带来了很大的理解力辅助。
 

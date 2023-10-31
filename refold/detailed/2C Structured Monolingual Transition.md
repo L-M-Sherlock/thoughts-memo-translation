@@ -1,6 +1,6 @@
 # 2C4：结构化单语过渡
 
-[Structured Monolingual Transition | Refold](https://refold.la/roadmap/stage-2/c/structured-monolingual-transition)
+原文：[Structured Monolingual Transition | Refold](https://refold.la/roadmap/stage-2/c/structured-monolingual-transition)
 
 对于相距甚远的语言（如英语→汉语），单语过渡可能有一个陡峭的学习曲线，如果2-B3：Casual Mono-Lingual Transition对你不起作用，这里有一个结构化的指南，说明如何启动使用单语词典。
 

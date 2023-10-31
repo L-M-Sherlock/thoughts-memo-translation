@@ -4,7 +4,7 @@
 
 [约束往往会带来创造力](https://notes.andymatuschak.org/zfsf2tFq4u5TuCgCMyWgFhwrTSMofHby1ae)，但是，当约束的性质与手头的工作完全不兼容时，就另当别论了。比如，当你在设计过程中迷失方向，用「疯狂八格（Crazy Eights）」法或许有用：把一张纸折成八块，每块里用一分钟草拟一个构思。这样不错！如果项目进展顺利，设个时间表能帮你做出更明智的取舍，把事情做到「够好就行」，有时甚至能提高你的专注度。但若你正在赶一个大型创意项目的截止日期，发现自己的状态和截止时间简直是水火不容，那这压力就不会帮你集中注意力了，反而会让你有挫败感（产生[稀缺心态](https://notes.andymatuschak.org/znutNAv4ejW7nWwtzCnXQfAbbK8jS8DeAC3)），甚至还会让成品更加糟糕。
 
-这其实是[在创造性工作中执着于产出往往适得其反](https://notes.andymatuschak.org/zWhZZuWVtFXsPNL8Ph3po7R8BEDztTSsN1X)的一个具体例子。另一个也相关的笔记：[深度研究需要比技术行业具备更慢的节奏](https://notes.andymatuschak.org/zhY2FQgMFwzqH7FKB8bnMvNGng9jmKtYshbu)
+这其实是[在创造性工作中执着于产出往往适得其反](https://notes.andymatuschak.org/zWhZZuWVtFXsPNL8Ph3po7R8BEDztTSsN1X)的一个具体例子。另一个也相关的笔记：[深度研究需要比技术行业具备更慢的节奏](https://notes.andymatuschak.org/zhY2FQgMFwzqH7FKB8bnMvNGng9jmKtYshbu)。
 
 ## 统计书的故事
 

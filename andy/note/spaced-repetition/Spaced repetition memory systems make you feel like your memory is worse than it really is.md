@@ -2,7 +2,7 @@
 
 原文：[Spaced repetition memory systems make you feel like your memory is worse than it really is (andymatuschak.org)](https://notes.andymatuschak.org/z4vCGd9Gt715AXtqTXxoKjrEawbvT9o9NA6DC)
 
-[间隔重复记忆系统](https://notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)在使用和日常体验中有个问题：你几乎会把所有复习时间都花在那些难以记住的内容上。容易记住的内容很快就被推到几个月后的复习里去了，因此你在这方面会花费较少的时间。与之形成对比的，是那些陷在「几天或几周」的复习周期里的卡片。虽然整体来看，你可能记对了 95% 以上的内容，但在单个复习环节中的正确率可能会明显下降。
+[间隔重复记忆系统](https://notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)在普及和日常体验中有个问题：你几乎会把所有复习时间都花在那些难以记住的内容上。容易记住的内容很快就被推到几个月后的复习里去了，因此你在这方面会花费较少的时间。与之形成对比的，是那些陷在「几天或几周」的复习周期里的卡片。虽然整体来看，你可能记对了 95% 以上的内容，但在单个复习环节中的正确率可能会明显下降。
 
 如果你一次性添加了很多卡片，然后一段时间不再添加新卡片，这种效应会更加明显。你可能会经历几轮复习，几乎全是你从那一批卡片中难以回答的卡片。（这在[助记媒介](https://notes.andymatuschak.org/z4rRX3qwSSJRsEkdXKwH2shamgHNeRthrMLiF)的新手引导过程中是个问题）。
 

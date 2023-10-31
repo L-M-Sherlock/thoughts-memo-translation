@@ -2,9 +2,9 @@
 
 原文：[Learned optimism - supermemo.guru](https://supermemo.guru/wiki/Learned_optimism)
 
-**习得性乐观**与[习得性无助](https://supermemo.guru/wiki/Learned_helppressive)相反。[强制学习](https://supermemo.guru/wiki/Coercive_learning)可能会导致冷漠、失去对学习的热爱以及失去参与生成[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的突触链接。被迫学习的孩子可能会变得无助。相反，积极的知识可能会增加乐观的心态。例如，知道我们一生都会产生新的脑细胞，这是一个乐观的事实，可以帮助人们相信学习的力量。大量积极知识的储存会对思想产生积极的影响。 **习得性乐观**还涉及学习可能不太令人愉快的知识（例如与[存在主义的问题](https://supermemo.guru/wiki/IVS)）。然而，所有连贯的知识都有助于形成与高满足感相关的斯多葛心态。请参阅：[幸福的简单公式](https://supermemo.guru/wiki/Simple_formula_for_happiness)
+**习得性乐观**与[习得性无助](https://supermemo.guru/wiki/Learned_helppressive)相反。[强迫学习](https://supermemo.guru/wiki/Coercive_learning)可能会导致情绪消沉、失去对学习的热情，还会破坏参与生成[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的神经连接。被迫学习的孩子可能会养成无助的心态。反过来说，积极的知识则能会增加乐观的心态。例如，知道我们一生中都在不断生成新的脑细胞，这是一个乐观的事实，它增强了我们对学习能力的信念。积累大量积极的知识，会对心态产生正面影响。**习得性乐观**也包括学习一些可能不太令人愉快的知识（例如[存在主义的问题](https://supermemo.guru/wiki/IVS)）。然而，所有连贯的知识都有助于形成与高满足感相关的斯多葛心态。请参阅：[幸福的简单公式](https://supermemo.guru/wiki/Simple_formula_for_happiness)
 
-**习得性乐观**的基础可能在童年时期就被破坏了。当威胁是自我给予时，它们可能会导致一个学会如何处理压力情况的大脑（见：[良性压力的机制](https://supermemo.guru/wiki/Mechanics_of_eustress)）。当压力过量时，例如在[强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling)中，我们可能会得到[慢性压力](https://supermemo.guru/wiki/Chronic_stress)，和[问题估值网络](https://supermemo.guru/wiki/Problem_valuation_network)中的威胁评估中断。任何形式的[抗压韧性](https://supermemo.guru/wiki/Stress_resilience)强制训练可能导致相反的结果。一个天生容易产生**习得性乐观**的头脑，可能会变得容易产生[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)。
+**习得性乐观**的基础可能在童年时期就被破坏了。自主面对适当的压力，可以帮助我们的大脑学会如何应对压力（见：[良性压力的机制](https://supermemo.guru/wiki/Mechanics_of_eustress)）。当压力过量时，例如在[强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling)中，可能会引发[慢性压力](https://supermemo.guru/wiki/Chronic_stress)，还会干扰[问题估值网络](https://supermemo.guru/wiki/Problem_valuation_network)中的威胁评估。任何形式的强制[抗压](https://supermemo.guru/wiki/Stress_resilience)训练可能产生相反的效果。一个天生倾向于**习得性乐观**的头脑，可能就会转向[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)。
 
 另见：
 
