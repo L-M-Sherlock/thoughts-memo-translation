@@ -1,6 +1,6 @@
 # 阶段 3：开口表达
 
-[阶段 3：开口表达](https://refold.la/roadmap/stage-3/overview)
+原文：[Stage 3: Learn to Speak | Refold](https://refold.la/roadmap/stage-3/overview)
 
 欢迎来到阶段 3。经过数月（或数年）学习理解你的目标语言之后，你将最终学会说话！
 
