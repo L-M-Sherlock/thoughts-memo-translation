@@ -25,3 +25,9 @@
 ## 链接到本文
 
 * [可探索的解释](https://wiki.issarice.com/wiki/Explorable_explanation) ‎ ([← links](https://wiki.issarice.com/index.php?title=Special:WhatLinksHere&target=Explorable+explanation))
+
+* [电子游戏使用有限且离散对象](https://wiki.issarice.com/index.php?title=Video_games_work_with_finite_and_discrete_objects&redirect=no) (redirect page) ‎ ([← links](https://wiki.issarice.com/index.php?title=Special:WhatLinksHere&target=Video+games+work+with+finite+and+discrete+objects))
+
+	+ [对比数学与电子游戏](https://wiki.issarice.com/wiki/Video_games_comparison_to_math) ‎ ([← links](https://wiki.issarice.com/index.php?title=Special:WhatLinksHere&target=Video+games+comparison+to+math))
+
+* [表示不可能的情况](https://wiki.issarice.com/wiki/Representing_impossibilities) ‎ ([← links](https://wiki.issarice.com/index.php?title=Special:WhatLinksHere&target=Representing+impossibilities))
