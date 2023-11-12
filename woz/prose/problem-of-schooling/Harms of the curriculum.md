@@ -66,33 +66,33 @@
 
 ## 讨厌学习
 
-在学校的早期，被[毒性记忆](https://supermemo.guru/wiki/Toxic_memory)问题所纠缠，可能会持续一生：「我不善于记忆」，「我数学不好」，「我有阅读障碍」，「我从来没有语言天赋」，「我很懒」，「我是个拖延症患者」，等等。工厂化的教育体系没有培养出大批开明自主的人，而是培养出缺乏自尊心的毕业生。这种不自信完全是诱发的，也是没有道理的。它慢慢形成了大规模社会悲剧的规模。
+学校的早期岁月中，充斥着[毒性记忆](https://supermemo.guru/wiki/Toxic_memory)问题，这些问题可能会伴随一生：「我记性不好」，「我数学差」，「我有阅读障碍」，「我没有语言天赋」，「我很懒」，「我有拖延症」，等等。工厂化的教育体系没有培养出大批开明自主的人，而是培养出缺乏自尊心的毕业生。这种不自信完全是人为的，也是毫无道理的。它逐渐演变成了一场大规模的社会悲剧。
 
-当人们说「我对物理学没有头绪」或「我对历史没有记忆」时，我们总是可以把这种说法的起源追溯到学校的一些有毒事件。这些终生的痛苦或焦虑的根源在于强制课程。我们甚至可以大胆地宣称，把事情放在课程中会增加一代学生对该学科的整体厌恶。有些学生会变得热情洋溢，但大多数学生会被排斥。平均而言，把东西放在课程中可能是一种净损失。
+当人们说「我对物理学一窍不通」或「我记不住历史」时，我们总能追溯到他们在学校时的一些不愉快经历。这些终身的痛苦和焦虑，源于强制性的课程安排。我们甚至可以大胆地说，将某些内容纳入课程，会导致一代学生对这门学科的整体反感。虽然有些学生可能会充满热情，但大多数人会感到排斥。平均而言，把某些内容纳入课程中可能是一种净损失。
 
-强制课程导致人们长期不喜欢操练的科目
+强制课程导致学生长期不喜欢操练的科目
 
 ## 早期教育的危害
 
 课程中最有害的一个方面是**早期学术指导**的僵化思想。
 
-它是由父母对高成就的贪婪所推动的。它是基于一个有害的谣言，即早期教育有利于大脑发育。事实恰恰相反。早期指导中所有形式的压力都会通过大脑结构的过早成熟和专门化而阻碍发展（见：[早熟悖论](https://supermemo.guru/wiki/Precocity_paradox)）。
+这是由父母对子女高成就的贪婪所推动的。这种观念是基于一个有害的谣言，即早期教育有利于大脑发育。事实恰恰相反。早期教育中的所有压力形式都会导致大脑结构过早成熟和专业化，从而阻碍大脑的发展（见：[早熟悖论](https://supermemo.guru/wiki/Precocity_paradox)）。
 
-对早做事情的痴迷来自于[关键期](https://supermemo.guru/wiki/Critical_period)的想法和所谓的教学对大脑发展的重要性。相反，在早期教学中，[学习的乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)被替换为知识的无语义构件的组装。这减缓了学习速度，并可能导致早期对学习的厌恶。在困难材料、[知识毒性](https://supermemo.guru/wiki/Toxic_memory)、不喜欢学习和课程中个别项目的位置之间存在着一个正反馈循环（见：[学校信条的隧道视野](https://supermemo.guru/wiki/Tunnel_vision_of_school_letteracy)）。
+早期做事的迷恋源于[关键期](https://supermemo.guru/wiki/Critical_period)的概念和对大脑发展所谓的教育指导的重要性。相反，在早期教育中，[学习的乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)被知识的无意义积累所取代。这减缓了学习速度，并可能导致对学习的早期厌恶。在难度较大的学习材料、[知识毒性](https://supermemo.guru/wiki/Toxic_memory)、不喜欢学习以及课程中个别项目的位置之间存在正反馈循环（见：[学校文字教育的狭隘视野](https://supermemo.guru/wiki/Tunnel_vision_of_school_letteracy)）。
 
-即使许多专家主张反对早期学术指导，例如用共同核心标准推动，但由于[老汤比喻](https://supermemo.guru/wiki/Old_soup_problem)，这个问题永远无法完全衡量。当学校把坏的东西和好的东西混在一起时，坏的东西就会潜伏起来。
+虽然许多专家反对过早的学术指导，例如用「共同核心标准」推动，但由于[老汤比喻](https://supermemo.guru/wiki/Old_soup_problem)，这个问题永远无法完全衡量。当学校把坏的东西和好的东西混在一起时，坏的东西就会隐藏其中。
 
-课程演变的盲道不会进行到破坏大脑和社会的地步。隧道里总是有光亮的。它从儿童的[反抗](https://supermemo.guru/wiki/Resistance)开始，接着是思想开放的家长的反抗，最后是策略的改变。当孩子们在幼儿园里开始躲在床底下逃避阅读时，家长和教育工作者就会意识到事情已经被推得太远了。
+课程演变的死胡同不会导致大脑和社会的毁灭。隧道尽头总会有光明。它从儿童的[反抗](https://supermemo.guru/wiki/Resistance)开始，接着是开明家长的反抗，最后是策略的改变。当孩子们为了逃避幼儿园的阅读而躲到床底下时，家长和教育者们就会意识到事态已经过头了。
 
-不幸的是，这些轨迹修正往往会陷入长期的震荡。我们收紧标准，直到孩子们崩溃，所以我们放松了要求，只是在一二十年后又回到了同样的优化错误。朝着打破这种循环的唯一解决方案是结束[强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling)。相反，[自由学习](https://supermemo.guru/wiki/Free_learning)和自由教育应该成为主流。
+不幸的是，这些轨迹修正往往会陷入长期的波动。我们收紧标准直至孩子们崩溃，于是我们又放宽了要求，但在十年或二十年后又回到了同样的优化错误。打破这个循环的唯一解决方法是终结[强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling)。相反，[自由学习](https://supermemo.guru/wiki/Free_learning)和自由教育应该成为主流。
 
 [认知偏见](https://supermemo.guru/wiki/Cognitive_bias)和古老的谬误使学校朝着自我毁灭的方向发展。
 
 ## 无语义课程
 
-无语义课程是由影响我们对[知识估值](https://supermemo.guru/wiki/Valuation_of_knowledge)的认知偏见所支配的力量的结果。然而，当我们在学校都经历了[死记硬背](https://supermemo.guru/wiki/Cramming)的煎熬，人们可能会想，为什么成年人不在事后解决这个问题。在这里，另一种[认知偏见](https://supermemo.guru/wiki/Cognitive_bias)占据了上风，即被以成人为中心的观点所过滤的扭曲的童年记忆（见：[教育同理心](https://supermemo.guru/wiki/Educational_empathy)）。我们一直听到，识字和算术从需要记忆的「基本」知识开始。这包括[毒性记忆](https://supermemo.guru/wiki/Toxic_memories)中的女王：乘法表。一旦我们幸运地通过这个阶段并完成教育，我们通常会忘记这种折磨，或者认为这是绝对必要的。因此，成人的[美化学校教育](https://supermemo.guru/wiki/Glorification_of_schooling)经验。
+无语义课程是受认知偏见影响的力量所产生的结果，这些偏见会影响我们的[知识估值](https://supermemo.guru/wiki/Valuation_of_knowledge)。然而，当我们在学校经历[死记硬背](https://supermemo.guru/wiki/Cramming)的煎熬时，人们可能会想，为什么成年人不在事后解决这个问题。在这里，另一种[认知偏见](https://supermemo.guru/wiki/Cognitive_bias)发挥作用，即成年人视角下对童年扭曲的记忆（见：[教育同理心](https://supermemo.guru/wiki/Educational_empathy)）。我们一直听说，识字和计算能力从需要记忆的「基本」知识开始。这其中包括[毒性记忆](https://supermemo.guru/wiki/Toxic_memories)的女王：乘法表。一旦我们幸运地通过这个阶段并完成教育，我们通常会忘记这种折磨，或者认为这是绝对必要的。成人[美化学校教育](https://supermemo.guru/wiki/Glorification_of_schooling)的经历由此产生。
 
-课程设计中的第二个问题是来自成人水平的标准的后向映射。例如，学前教育课程受到为达到高中标准而设置的落后设计的影响。更糟糕的是，这种映射往往是由不了解早期教育的「专家」做出的。正如 [Danny Greenberg](https://supermemo.guru/wiki/Danny_Greenberg) 博士自己所解释的那样，课程设计的草率过程是[萨德伯里谷地学校](https://supermemo.guru/wiki/Sudbury_Valley_School)的灵感之一。
+课程设计中的第二个问题是从成人水平的标准的后向映射。例如，学前教育课程受到为达到高中标准而设置的落后设计的影响。更糟糕的是，这种映射往往是由不了解早期教育的「专家」做出的。正如 [Danny Greenberg](https://supermemo.guru/wiki/Danny_Greenberg) 博士自己所解释的那样，课程设计的草率过程是[萨德伯里谷地学校](https://supermemo.guru/wiki/Sudbury_Valley_School)的灵感之一。
 
 以成人为中心的方法和向后映射的力量用一个[学校教育的爬山比喻](https://supermemo.guru/wiki/Mountain_climb_metaphor_of_schooling)来解释。
 
