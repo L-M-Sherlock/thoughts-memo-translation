@@ -26,7 +26,7 @@
 
 ### 我准备好输出了吗？
 
-果你对每天沉浸的本土内容有了[等级 5](https://refold.la/roadmap/stage-2/a/levels-of-comprehension#Level-5-Comfortable) 的理解，那么你就准备好输出了。你已经习得了一大块语言，现在只需激活它。
+如果你对每天沉浸的本土内容有了[等级 5](https://refold.la/roadmap/stage-2/a/levels-of-comprehension#Level-5-Comfortable) 的理解，那么你就准备好输出了。你已经习得了一大块语言，现在只需激活它。
 
 ### 如何开始输出
 

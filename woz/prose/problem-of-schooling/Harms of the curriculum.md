@@ -100,15 +100,15 @@
 
 ## 课程滞后期
 
-课程滞后是指课程的内容落后于人类进步所需知识的滞后期。这种滞后可能长达几十年，它加剧了学校教育对青年适应现代世界的负面影响。
+课程滞后是指课程内容落后于人类进步所需知识的延迟期。这种延迟可能持续几十年，加剧了学校教育对青少年适应现代社会的负面影响。
 
-如果课程表是由 40-55 岁的人编写的，那么它就会严重偏向于继承 20-50 年前的课程所承载的知识内容。这种现象具有递归性，并导致滞后效果， 2020 年开设的课程，却可能仍然被一个世纪前适用的知识所污染。许多国家已经不再强制教学手写体，但波兰仍然强制教学。最近，我发现波兰课程中的手写体大写 F 看起来非常陌生，我不记得我在童年时学过这个字母，也不记得在生活中哪里遇到过。更糟糕的是，我无法分辨这个字母。如果有人问我，我会说这个字母不存在！它看起来像 T 和 F 的杂交。如果一个知识还算渊博的博士，在他生命的六十年中，完全不记得哪里遇见过与手写体大写 F 互动（除了在这儿骂一顿），那它有何必要作为必修知识要求孩子学习？
+如果课程是由 40-55 岁的人编写的，那么这些课程中传递的知识内容，往往偏重于 20 到 50 年前的知识。这种现象具有递归性，并导致滞后效果， 2020 年开设的课程，却可能仍然被一个世纪前适用的知识所污染。许多国家已经不再强制教学手写体，但波兰仍然强制教学。最近，我发现波兰课程中的手写体大写 F 看起来非常陌生，我不记得我在童年时学过这个字母，也不记得在生活中哪里遇到过。更糟糕的是，我甚至无法分辨这个字母。如果有人问我，我会说这个字母不存在！它看起来像是 T 和 F 的混合体。如果一个知识还算渊博的博士，在他生命的六十年中，完全不记得哪里遇见过与手写体大写 F（除了在这儿骂一顿），那它有何必要作为必修知识要求孩子学习？
 
-整个数学领域都在快速发展，比如应用到机器学习的数学。然而，今天的数学课程与 20 世纪 50 年代的课程别无二致。笔算仍然占据课程的主要地位，然而现今实用价值所剩无几。笔算从不应该是强制性的。我试过回忆长除法怎么做，我回忆不起来（花了 20 秒）。我不是忘记长除法了。我小时候花了很多时间练习这个方法。然而在成年生活中，我估计从没用过这个技能。（如果我掌握了这个技能，）我也许能心算除法：不那么精确，但是很快，而且[适用性](https://supermemo.guru/wiki/Applicability)更好。计算器和纸一样触手可得。长除法只是学校课本中僵而不死的骨架一具罢了。只是为了乐趣，我试图重新学习长除法，看这个[视频](https://www.youtube.com/watch?v=LGqBQrUYua4)也不过两三分钟。不过很悲伤的事，我估计我不会用上长除法，除非是为了显摆。
+整个数学领域都在快速发展，比如应用到机器学习的数学。然而，今天的数学课程与 20 世纪 50 年代的课程别无二致。笔算仍然占据课程的主要地位，但现今的实用价值所剩无几。笔算从不应该是强制性的。我试过回忆长除法怎么做，我回忆不起来（花了 20 秒）。我不是忘记长除法了。我小时候花了很多时间练习这个方法。但在成年后的生活中，我估计从没用过它。（如果我掌握了这个技能，）我也许能心算除法：不那么精确，但是很快，而且[适用性](https://supermemo.guru/wiki/Applicability)更好。计算器和纸一样触手可得。长除法只是学校课本中僵而不死的骨架一具罢了。只是为了好玩，我试图重新学习它，看这个[视频](https://www.youtube.com/watch?v=LGqBQrUYua4)也不过两三分钟。遗憾的是，我估计我用不上长除法，除非是为了显摆。
 
-一旦我们把教育从课程的暴政中解放出来，我们就有希望摆脱这块古老又古老的压舱石，来发展更重要的新式解决方案。选择发展新趋势，便要承担抛弃一些旧有价值的风险。然而，信息的获取日益通畅，语义网也颇有前景，这样一来旧的解决方案中好的部分不会灭绝。这些好东西只是会经历一段健康的达尔文过程，而且一旦在特定场景下能提供明显的优势，我们也可以把他们复活。
+一旦我们让教育摆脱课程的枷锁，我们就有希望抛弃过时的包袱，彰显新解决方案的重要性。新趋势总有可能抛弃一些老价值观。然而，信息的获取日益通畅，语义网也颇有前景，这样一来旧的解决方案中好的部分不会灭绝。这些好东西只是会经历一段健康的达尔文过程，而且一旦在特定场景下能提供明显的优势，我们也可以把他们复活。
 
-课程滞后对年轻一代的心理健康产生了强大的负面影响。一方面，课程滞后带来在学校浪费时间之感，从而引发相关压力，另一方面，毕业生因此对生活毫无准备，难获成功。
+这种滞后对年轻一代的心理健康产生了巨大的负面影响。一方面，它增加了学生因为在学校浪费时间而感到的压力，另一方面，毕业生因此对生活毫无准备，难获成功。
 
 课程滞后不利于知识，也不利于心理健康
 
@@ -116,17 +116,17 @@
 
 ## 课程膨胀
 
-当我们遇到社会无知的痛苦问题时，我们会本能地想到将该学科纳入[课程](https://supermemo.guru/wiki/Curriculum)。这种把课程当成有用知识的无底洞的习惯，属于[学校让学生沾染上的 100+ 恶习](https://supermemo.guru/wiki/100_bad_habits_learned_at_school)之一。
+当我们面临社会无知带来的棘手问题时，我们会本能地考虑把相关话题纳入[课程](https://supermemo.guru/wiki/Curriculum)。这种把课程当成可以随意倾倒有用知识的无底洞的习惯，正是[学校让学生沾染上的 100+ 恶习](https://supermemo.guru/wiki/100_bad_habits_learned_at_school)中的一个。
 
-当我们看到种族主义或对女同性恋、男同性恋、双性恋和跨性别的不良容忍度时，我们可能认为增加一些关于容忍或多样性的课程会缓解这个问题。显然，一个宽容的人无法想象一个种族主义者坐在一个解释种族主义是不道德或犯罪的课堂上。这只会放大负面情绪，增加对学校、老师、不同意见的人，甚至是意见不同的人的厌恶。最后，在宽容的课堂上，一个种族主义者可能会变得更加种族主义。
+当我们目睹种族主义或对 LGBT 群体的低容忍度时，我们可能认为增加一些关于宽容或多样性的课程会缓解这个问题。显然，一个宽容的人难以想象一个种族主义者坐在课堂上，听别人讲解种族歧视是不道德或违法的。这种做法只会激化负面情绪，让人更加反感学校、教师、不同肤色或性取向的人，乃至持有不同观点的人。最终，在宽容的课堂上，一个种族主义者可能会变得更加种族主义。
 
-当经济或社会出现问题时，政客们不断咆哮**「这个科目应该是[学校的必修课](https://supermemo.guru/wiki/Compulsory_schooling)  」**？这似乎并不重要，使事情成为必修课往往会导致[反抗](https://supermemo.guru/wiki/Reactance)和[贬值](https://supermemo.guru/wiki/School_undermines_intelligence#Knowledge_devaluation)的主题。当气候变化在学校成为必修课时，它在现实生活中就不再有趣了。它得到了一个无聊的*"成人世界的无人机"*的地位。
+当经济或社会出现问题时，政客们总是喋喋不休地说**「这个科目应该是[学校的必修课](https://supermemo.guru/wiki/Compulsory_schooling)  」**？他们呢似乎没有意识到，必修课往往会导致[反感](https://supermemo.guru/wiki/Reactance)和[贬值](https://supermemo.guru/wiki/School_undermines_intelligence#Knowledge_devaluation)的主题。当气候变化在学校成为必修课时，它在现实生活中就不再有趣了。它变成了令人厌烦的*"成人世界的单调的嘀咕"*。
 
-这也是指「性教育」、「互联网技术」或 「学习**如何学习**」。[死记硬背](https://supermemo.guru/wiki/Cramming)国家历史或文学是剥离一个人的爱国主义的最好方法之一（见：[我不再爱国](https://supermemo.guru/wiki/I_stopped_being_patriotic)）。如果学校开始推广[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)，这将是一个大的有毒炸弹的概念。一旦硝烟散尽，[水蛭](https://supermemo.guru/wiki/Leech)和[有毒记忆](https://supermemo.guru/wiki/Toxic_memories)将是这个概念的唯一残余。把[SuperMemo](https://supermemo.guru/wiki/SuperMemo)推给孩子们是确保他们永远不会欣赏[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)的力量的最有效方法之一，更不用说[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)（见：[SuperMemo对孩子不起作用](https://supermemo.guru/wiki/SuperMemo_does_not_work_for_kids)）。
+这同样适用于「性教育」、「互联网技术」或 「学会**如何学习**」。[填鸭式教学](https://supermemo.guru/wiki/Cramming)国家历史或文学是让人丧失爱国情操的最好方法之一（见：[我不再爱国](https://supermemo.guru/wiki/I_stopped_being_patriotic)）。如果学校开始推广[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)，这将是对这个概念的一次巨大毒击。一旦烟雾散去，[水蛭](https://supermemo.guru/wiki/Leech)和[有毒记忆](https://supermemo.guru/wiki/Toxic_memories)将是这个概念的唯一残留物。把[SuperMemo](https://supermemo.guru/wiki/SuperMemo)强加给孩子是确保他们永远不会欣赏[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)的力量的最有效方法之一，更不用说[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)（见：[SuperMemo对孩子不起作用](https://supermemo.guru/wiki/SuperMemo_does_not_work_for_kids)）。
 
-插入SuperMemo。[什么是 SuperMemo？](https://supermemo.guru/wiki/What_is_SuperMemo%3F)
+SuperMemo 插入。[什么是 SuperMemo？](https://supermemo.guru/wiki/What_is_SuperMemo%3F)
 
-[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)是[自由学习](https://supermemo.guru/wiki/Free_learning)的一个伟大隐喻。没有[课程](https://supermemo.guru/wiki/Curriculum)。它完全由目标和激情驱动。课程](https://supermemo.guru/wiki/Curriculum)与[渐进学习](https://supermemo.guru/wiki/Priority_queue)中的[优先队列](https://supermemo.guru/wiki/Incremental_learning)不同，当它膨胀时，只有在抗议之后进行改革时才会变薄。膨胀越大，对学生的伤害就越大。优先级队列的膨胀永远不会超过可控范围。学习从顶部开始，其余的队列则耐心等待，也许是几个月或几年。[优先级队列](https://supermemo.guru/wiki/Priority_queue)反映了这样一个事实：**我们的学习需求似乎是无限的，而解除学习不够的痛苦的唯一方法就是忘记需求中不可管理的部分。自然，这个问题只影响到有贪婪的[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的人。[成功被学校驯化的](https://supermemo.guru/wiki/Well-schooled)人不会经历这种痛苦。他们按照计划学习。需要多少就学多少，没有一滴知识超过
+[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)是[自由学习](https://supermemo.guru/wiki/Free_learning)的绝佳隐喻。它没有[课程](https://supermemo.guru/wiki/Curriculum)的束缚，完全由目标和热情驱动。[课程](https://supermemo.guru/wiki/Curriculum)与[渐进学习](https://supermemo.guru/wiki/Priority_queue)中的[优先队列](https://supermemo.guru/wiki/Incremental_learning)不同之处，在于课程一旦膨胀，只有通过抗议和改革才能变得更加精简。膨胀越严重，对学生的伤害就越大。优先队列的膨胀永远不会超过可控范围。学习从队列顶部开始，其余的部分则耐心等待，也许是几个月或几年。[优先队列](https://supermemo.guru/wiki/Priority_queue)反映了这样一个事实：**我们的学习需求似乎是无穷无尽的，而缓解学习不足的痛苦的唯一方法，就是忘掉那些无法管理的需求部分。当然，这个问题只影响到那些有着强烈[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的人。[成功被学校驯化的](https://supermemo.guru/wiki/Well-schooled)人不会经历这种痛苦。他们按照计划学习，该学多少学多少，不多也不少。
 
 ## 政治课程
 
@@ -220,7 +220,7 @@
 
 要使学习带来好的结果，必须遵守[学习的基本规律](https://supermemo.guru/wiki/Fundamental_Law_of_Learning)。它必须以[学习内驱力](https://supermemo.guru/wiki/Learn_drive)为指导。否则，学习是低效的，而且可能产生反作用（即学习行为通过[干扰](https://supermemo.guru/wiki/Interference)造成知识的净损失）。
 
-由于学习决定了一个人在生活中的地位、满意度、生产力和心理健康，掌握自己的学习是一项基本人权。
+学习决定了一个人在生活中的地位、满足感、生产力和心理健康，拥有学习的权利是人类基本的权利。
 
 强制课程是对人权的侵犯
 
@@ -234,7 +234,7 @@
 
 - [教育解放宣言](https://supermemo.guru/wiki/Declaration_of_Educational_Emancipation)
 
-- [学校奴役即将结束](https://supermemo.guru/wiki/School_slavery_will_end_soon)
+- [学校奴役即将终结](https://supermemo.guru/wiki/School_slavery_will_end_soon)
 
 ## 延伸阅读
 
