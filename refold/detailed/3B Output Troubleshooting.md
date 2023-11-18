@@ -1,6 +1,6 @@
-# 3B2：输出Q&A
+# 3B2：输出问题排查
 
-[输出Q&A](https://refold.la/roadmap/stage-3/b/output-troubleshooting)
+原文：[Output Troubleshooting | Refold](https://refold.la/roadmap/stage-3/b/output-troubleshooting)
 
 如果输出对你来说是丝滑的，你可能不需要这个指南。然而，如果你一直在为输出而挣扎，即使你已经得到了大量的输入，本指南提供了一个框架来思考你可能面临的问题以及如何解决它们。
 

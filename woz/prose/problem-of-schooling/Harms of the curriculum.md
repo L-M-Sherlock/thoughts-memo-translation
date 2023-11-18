@@ -130,7 +130,7 @@ SuperMemo 插入。[什么是 SuperMemo？](https://supermemo.guru/wiki/What_is_
 
 ## 政治课程
 
-在所有的政治制度中，[课程](https://supermemo.guru/wiki/Curriculum)总是被当作一种可以塑造年轻人思想的武器。这在极权主义制度中最为明显，在那里，意识形态必须及早灌输，否则就会在与自由主义思想的冲突中面临灭顶之灾。[强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling)的整个理念也可以被看作是一种意识形态，已经深深地刻在现代文化中。当我坚持认为[强制学校教育必须结束](https://supermemo.guru/wiki/Compulsory_schooling_must_end)时，即使是最开明的人一开始也会提出反对。要证明胁迫、课程、学校压力、压力、[毒性记忆](https://supermemo.guru/wiki/Toxic_memory)、习得性无助和失去对学习的热爱之间的直接联系，需要相当的努力。很难表明胁迫性学校教育破坏了社会智力。很难说明学校如何导致抑郁症、成瘾和不快乐的生活。很快，它也将成为推动失业和经济不平等的关键因素之一。
+在所有的政治体系中，[课程](https://supermemo.guru/wiki/Curriculum)总是被当作一种可以塑造年轻人思想的武器。这在极权主义制度中最为明显，在那里，意识形态必须从小灌输，否则就会在与自由主义思想的冲突中面临灭亡。[强制性教育](https://supermemo.guru/wiki/Compulsory_schooling)的整个概念也可以被视为一种已经深深刻入现代文化的意识形态强制学校教育。当我坚持认为[强制学校教育必须结束](https://supermemo.guru/wiki/Compulsory_schooling_must_end)时，即使是最开明的人一开始也会提出反对。要证明胁迫、课程、学校压力、压力、[毒性记忆](https://supermemo.guru/wiki/Toxic_memory)、习得性无助和失去对学习的热爱之间的直接联系，需要相当大的努力。很难表明胁强制性教育削弱了社会智力。要证明强制性学校教育如何削弱社会智力是困难的。展示学校如何导致抑郁、上瘾和不幸的生活也同样充满挑战。不久的将来，它还将成为推动失业和经济不平等的关键因素之一。
 
 课程被系统地滥用为政治灌输的工具
 
@@ -138,9 +138,9 @@ SuperMemo 插入。[什么是 SuperMemo？](https://supermemo.guru/wiki/What_is_
 
 ## 灌输钟摆
 
-课程确实有强大的影响，但它的影响与预期的不一样（一个生动的例子，见：[我不看书](https://supermemo.guru/wiki/I_do_not_read_books)，和[我不看小说](https://supermemo.guru/wiki/I_do_not_read_fiction)。
+课程确实有强大的影响力，但这种影响并不总是如其预期的那样（一个生动的例子，见：[我不看书](https://supermemo.guru/wiki/I_do_not_read_books)，和[我不看小说](https://supermemo.guru/wiki/I_do_not_read_fiction)。
 
-我在[禁止家庭教育](https://supermemo.guru/wiki/Ban_on_homeschooling)中用了整整一章来讨论「通过课程进行灌输」。我展示了宗教是如何在炮火中茁壮成长的，以及宗教灌输和无神论者的课程是如何将其各自的支持者僵化为隐士般的封闭对立阵营的。原教旨主义者在压制的条件下茁壮成长，而在自由的条件下逐渐消退。
+在[禁止家庭教育](https://supermemo.guru/wiki/Ban_on_homeschooling)一书中，我用了整整一章节来讨论「通过课程进行灌输」。我展示了宗教是如何在逆境中茁壮成长的，以及宗教灌输和无神论课程是如何使其各自的支持者变得顽固，形成完全封闭的对立阵营的。原教旨主义者在压迫下会兴盛，在自由的条件下则会逐渐消失。
 
 其主要观点是，从长远来看，所有形式的意识形态灌输都会适得其反。它们只是激活了大脑中探索性学习算法中实施的[自然抵抗](https://supermemo.guru/wiki/Reactance)（见：[教育反作用于进化](https://supermemo.guru/wiki/Education_counteracts_evolution)）。正是这种对灌输的抵制，支撑着意识形态钟摆的力量，在更大的范围内，支撑着历史的钟摆。
 

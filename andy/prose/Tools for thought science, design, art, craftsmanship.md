@@ -6,7 +6,7 @@
 
 >
 
-> [— J.C.R. Licklider](https://cognitivemedium.com/tat/assets/Kay_What_is_a_Dynabook.pdf)
+> ——[J.C.R. Licklider](https://cognitivemedium.com/tat/assets/Kay_What_is_a_Dynabook.pdf)
 
 如果你想加快计算机成为交互式智能放大器——发明人机界面，从根本上扩大人类的认知和创造力——需要**做**什么？进步如何发生？
 
@@ -26,7 +26,7 @@
 
 >
 
-> —[理查德·费曼，诺贝尔奖颁奖现场](https://www.bbc.co.uk/programmes/p018w7gr)
+> ——[理查德·费曼，诺贝尔奖颁奖现场](https://www.bbc.co.uk/programmes/p018w7gr)
 
 思想工具的「发现」过程并不像 DNA 。思想工具不受自然规律的支配，就像强核力可以被理解一样。因此，思想工具不是自然科学的一个领域。
 
@@ -34,13 +34,13 @@
 
 什么样的理解和知识生产对思想工具的进步最有用？但在哪些领域又是一个不太有用的框架？
 
-赫伯·西蒙（Herb Simon）[介绍](https：//www.amazon.com/Sciences-Artificial-MIT-Press/dp/0262537532)了一个我觉得很有帮助的概念：有些领域可以理解为「人工科学」。物理学和化学努力理解自然现象，但建筑学和商业管理的某些进步来自于对人工现象的研究，即我们自己建造的「人工制品」。
+Herb Simon [介绍](https://www.amazon.com/Sciences-Artificial-MIT-Press/dp/0262537532)了一个我觉得很有帮助的概念：有些领域可以理解为「人工科学」。物理学和化学努力理解自然现象，但建筑学和商业管理的某些进步来自于对人工现象的研究，即我们自己建造的「人工制品」。
 
 这一框架为那些追求思想工具的人提供了几个可以创造和分享知识的强大空间。其一是深入理解在人工环境和自然环境之间的交汇点——人机界面——上运作的自然现象。
 
 对于软件界面来说，这通常意味着认知心理学和该领域的细节。[Vannevar Bush 关于 memex 的论点](https://www.w3.org/History/1945/vbush/vbush.shtml)（产生了今天的超链接，以及其他许多概念）基于人类记忆的联想性。如果你对符号逻辑的理解足够深刻，你也可能会发明 Mathematica。[强大的界面通常会重塑关于它们所代表的现实的深刻理念](https://cognitivemedium.com/tat/index.html)，所以培养这样的理念很有潜力。
 
-[SuperMemo](https://www.supermemo.com/en) 是第一个计算机化的间隔重复系统，它的存在得益于艾宾浩斯在 19 世纪末首次提出的关于人类遗忘的观点。但关键是，作者 Piotr Wozniak 在现实世界中使用该系统的经验使他[形成了自己的遗忘理论](https://supermemo.guru/wiki/Three_component_model_of_memory)，这反过来又使他能够改进他的人工制品。这似乎很矛盾，但研究一个人工现象却开启了对一个自然现象的新见解。这个循环就是[迈克尔·尼尔森](https://michaelnielsen.org/)和我[所称的](https://numinous.productions/ttft/#how-to-invent-hindu-arabic-numerals)「实践出洞见」。
+[SuperMemo](https://www.supermemo.com/en) 是第一个计算机化的间隔重复系统，它的存在得益于艾宾浩斯在 19 世纪末首次提出的关于人类遗忘的观点。但关键是，作者 Piotr Wozniak 在现实世界中使用该系统的经验使他[形成了自己的遗忘理论](https://supermemo.guru/wiki/Three_component_model_of_memory)，这反过来又使他能够改进他的人工制品。这似乎很矛盾，但研究一个人工现象却开启了对一个自然现象的新见解。这个循环就是 [Michael Nielsen](https://michaelnielsen.org/) 和我[所称的](https://numinous.productions/ttft/#how-to-invent-hindu-arabic-numerals)「实践出洞见」。
 
 我们还可以研究——也许甚至是定量和实验性地——研究我们所创造的人工构造物，以及它们的来源。
 
@@ -64,7 +64,7 @@
 
 >
 
-> — Herb Simon，《人工科学》
+> —— Herb Simon, The Sciences of the Artificial
 
 计算机化的电子表格是一件多么令人吃惊的事情。核心的创新是，一个单元格不仅可以包含一个值，还可以包含一个引用其他单元格值的表达式，它体现在一个新的原始抽象概念中：「公式单元格」。重要的是，除了它们的值可以自动计算外，这些公式单元格的行为与其他单元格一样。公式单元整齐地组成了一个更大的整体，这个整体已经被多年的使用巧妙地调整过了。
 
@@ -90,7 +90,7 @@
 
 >
 
-> —奥斯卡·王尔德，《道林·格雷的画像》
+> ——奥斯卡·王尔德，《道林·格雷的画像》
 
 当今设计领域的主流方法论是「[以人为中心的设计](https://en.wikipedia.org/wiki/Human-centered_design)」。简化地说，在这个框架中，设计师首先要沉浸在潜在用户的世界中，试图理解他们的价值观、目标、挑战和障碍。然后，通常在用户的直接参与下，设计者反复地创造出将解决用户问题的产品。
 
@@ -106,7 +106,7 @@
 
 当这种驱动力占主导地位时，我觉得我在创作一种艺术。
 
-现在在“思想工具”附近进行的许多最有趣的工作至少部分是由这种艺术表达驱动的。[Omar Rizwan的作品](https://omar.website/)始终反映了他强烈而不寻常的审美观。[Ink and Switch](https://www.inkandswitch.com/)围绕本地优先计算的项目在我看来既关乎艺术表达，也关乎问题解决。[Sprout](https://sprout.place/)反映了它的创造者认为协作应该是什么感觉。在[Gentle](https://rmozone.com/snapshots/2021/11/gentle-history/)中，我看到了Rob对口述的一贯尊重。在[Cuttle](https://cuttle.xyz/)中，我看到托比对工艺在当代所扮演角色的阐述。
+现在在「思想工具」附近进行的许多最有趣的工作至少部分是由这种艺术表达驱动的。[Omar Rizwan 的作品](https://omar.website/)始终反映了他强烈而不寻常的审美观。[Ink and Switch](https://www.inkandswitch.com/) 围绕本地优先计算的项目在我看来既关乎艺术表达，也关乎问题解决。[Sprout](https://sprout.place/) 反映了它的创造者认为协作应该是什么感觉。在 [Gentle](https://rmozone.com/snapshots/2021/11/gentle-history/) 中，我看到了 Rob 对口述的一贯尊重。在 [Cuttle](https://cuttle.xyz/) 中，我看到 Toby 对工艺在当代所扮演角色的阐述。
 
 总体而言，这个现代群体和计算先驱们都表达了一致的渴望：计算的强大力量可以从集中制表的米黄色世界中挣脱出来，转而投入到人类规模的形式中，在那里它将改变我们的思维和行为，无论是个人还是集体。这不是一个设计声明。它当然也不是科学声明。它更像是一份宣言。
 
@@ -118,7 +118,7 @@
 
 >
 
-> —[Alan Kay](https://www.fastcompany.com/3046437/5-steps-to-recreate-xerox-parcs-design-magic-from-the-guy-who-helped-make-it)
+> ——[Alan Kay](https://www.fastcompany.com/3046437/5-steps-to-recreate-xerox-parcs-design-magic-from-the-guy-who-helped-make-it)
 
 还有一个冲动经常影响我的实践，我不太确定它的适当作用。
 
