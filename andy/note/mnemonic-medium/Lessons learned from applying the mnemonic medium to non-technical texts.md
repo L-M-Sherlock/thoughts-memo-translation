@@ -8,7 +8,7 @@
 
 - [在非技术性的助记文本中，挖空常常造成挫败感](https://notes.andymatuschak.org/z7vMfxWXDXhyJr3X69Yjwt6FjkSsKC9G3QqZU)
 
-- [助记媒介的读者有时会因作者的措辞选择而感到受阻](https://notes.andymatuschak.org/zMFKJdtNGpucVUcitRVJiMxfyoNY4A4c2Bd)
+- [助记媒介的读者有时会因作者的用词而感到受阻](https://notes.andymatuschak.org/zMFKJdtNGpucVUcitRVJiMxfyoNY4A4c2Bd)
 
 从作者的感受来说：
 

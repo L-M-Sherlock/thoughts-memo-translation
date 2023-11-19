@@ -18,4 +18,4 @@ Matt Clancy 在她的微观经济学课程中使用 Orbit, 我注意到她的问
 
 失败时的情况更差了：《量子国度》的问题有一半的机会被遗忘；这些文章的问题最差时会有 70% 的可能被遗忘。
 
-这可能是[助记媒介的读者有时会因作者的措辞选择而感到受阻](https://notes.andymatuschak.org/zMFKJdtNGpucVUcitRVJiMxfyoNY4A4c2Bd)的一种定量反映。
+这可能是[助记媒介的读者有时会因作者的用词而感到受阻](https://notes.andymatuschak.org/zMFKJdtNGpucVUcitRVJiMxfyoNY4A4c2Bd)的一种定量反映。

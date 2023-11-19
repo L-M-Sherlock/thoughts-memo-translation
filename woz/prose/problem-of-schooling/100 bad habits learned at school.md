@@ -624,7 +624,7 @@ SuperMemo 插入。[什么是SuperMemo？](https://supermemo.guru/wiki/What_is_S
 
 一位教师朋友告诉我：
 
-> 我在学校经常听到的一句话是「我们想让学生知道什么？」，仿佛知识一旦纳入课标，就能进到脑子里。问题是，一旦学生开始相信课标谬误——他们最终会相信——就很难（尽管不是不可能）唤醒任何人。很快，这个谬误就会成为现实。学生们相信，知识除了通过正式教学习得别无他路，而且这点很快就会成为现实，因为：1）学校占用了他们所有的精神资源，2）学生失去了自我指导学习的技能。
+> 我在学校经常听到的一句话是「我们想让学生学到什么？」，仿佛知识一旦纳入课标，就能进到脑子里。但问题是，一旦学生开始相信课标谬误——他们最终会相信——就很难（尽管不是不可能）再唤醒他们。转眼间，谬误就会成为现实。学生们相信，知识只能从正规教学中学到，除此之外别无他法，而且这点很快就会成为现实，因为：1）学校占用了他们所有的精神资源，2）学生失去了自主学习的技能。
 
 这点同样适用于「性教育」、「互联网技术」、「学习宽容」，或「学习如何学习」。[死记硬背](https://supermemo.guru/wiki/Cramming)本国历史或文学是治愈爱国主义的良药之一（见：[我不再爱国](https://supermemo.guru/wiki/I_stopped_being_patriotic)）。如果学校开始推广[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)，这个想法将是一颗大毒气弹。一旦硝烟散尽，“[水蛭](https://supermemo.guru/wiki/Leech)”和[毒性记忆](https://supermemo.guru/wiki/Toxic_memories)将是这个想法的唯一残留物。把 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 强推给孩子是确保他们永远不会欣赏[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)的力量的最有效方法之一，更不用说[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)。
 

@@ -10,7 +10,7 @@
 
 - 创造学校式的学习美学，实际上与 [Orbit  - 价值](https://notes.andymatuschak.org/z4RKWtfRfrTaSKM8B9QzRjGCTnxZcEU4ZPLGW)不符，例如，「帮助你加深与你最关心的东西的关系......服务于引人秉烛夜谈的想法与图景......而不是你认为你『应该』学习的……其风格不应当是『教育式的』」
 
-- 当卡片似乎写得不好或没有意义时，就会产生主动的挫败感；见例如[助记媒介的读者有时会因作者的措辞选择而感到受阻](https://notes.andymatuschak.org/zMFKJdtNGpucVUcitRVJiMxfyoNY4A4c2Bd)，[在非技术性的助记文本中，挖空常常造成挫败感](https://notes.andymatuschak.org/z7vMfxWXDXhyJr3X69Yjwt6FjkSsKC9G3QqZU)
+- 当卡片似乎写得不好或没有意义时，就会产生主动的挫败感；见例如[助记媒介的读者有时会因作者的用词而感到受阻](https://notes.andymatuschak.org/zMFKJdtNGpucVUcitRVJiMxfyoNY4A4c2Bd)，[在非技术性的助记文本中，挖空常常造成挫败感](https://notes.andymatuschak.org/z7vMfxWXDXhyJr3X69Yjwt6FjkSsKC9G3QqZU)
 
 - 阻碍了媒介与读者知识工作的其他部分之间的流畅互动，与之不同的是，例如[助记媒介可以扩展到个人笔记上](https://notes.andymatuschak.org/z5ARNXtS5VxteskEW91S1yYTgAcLABNXsZuJE)
 

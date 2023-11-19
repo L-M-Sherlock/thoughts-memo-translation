@@ -34,7 +34,7 @@
 
 - [专家回答启发式，来自 Issa Rice](https://notes.andymatuschak.org/zEfpMY7F12gQ6NcbycHCNdpXqxb2mxdkJiX)
 
-    - 当一张卡片不能用上这种启发式方法时，它通常是在编码作者特定的解释、框架、例子、措辞等。这通常很有帮助，特别是作为一种[精细编码](https://notes.andymatuschak.org/z3ZTBNhJddpewTBgbKAFy2cnSMBiJRpMZWsfB)或培养情感兴趣的一种方式。但它也可能产生偏狭的理解。在使用共享卡片或助记媒介的情况下，这种卡片会产生令人沮丧的假阴性，因为它们要求读者学习卡片作者如何呈现材料：[助记媒介的读者有时会因为作者的措辞选择而感到受阻](https://notes.andymatuschak.org/zMFKJdtNGpucVUcitRVJiMxfyoNY4A4c2Bd)。
+    - 当一张卡片不能用上这种启发式方法时，它通常是在编码作者特定的解释、框架、例子、措辞等。这通常很有帮助，特别是作为一种[精细编码](https://notes.andymatuschak.org/z3ZTBNhJddpewTBgbKAFy2cnSMBiJRpMZWsfB)或培养情感兴趣的一种方式。但它也可能产生偏狭的理解。在使用共享卡片或助记媒介的情况下，这种卡片会产生令人沮丧的假阴性，因为它们要求读者学习卡片作者如何呈现材料：[助记媒介的读者有时会因作者的用词而感到受阻](https://notes.andymatuschak.org/zMFKJdtNGpucVUcitRVJiMxfyoNY4A4c2Bd)。
 
 - [亲自写间隔重复卡片似乎能促进理解](https://notes.andymatuschak.org/z219EBYg9SbQzF372qudzgJpArt4Bmfhrczkg)
 

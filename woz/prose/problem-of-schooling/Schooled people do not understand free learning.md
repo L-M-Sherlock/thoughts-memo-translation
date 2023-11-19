@@ -6,7 +6,7 @@
 
 自由学习就像性爱，你必须经历过才能理解它
 
-知识就像一棵树
+## 知识就像一棵树
 
 比喻。[为什么使用比喻？](https://supermemo.guru/wiki/Why_use_metaphors%3F)
 
