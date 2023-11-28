@@ -12,7 +12,7 @@
 
 ### 语言激活
 
-如 [3B：语言激活](https://refold.la/roadmap/stage-3/b/language-activation)所述，你将通过挖掘你潜在的语言能力来磨练你的写作能力。
+如 [3B：语言激活](https://refold.la/roadmap/stage-3/b/language-activation)中所述，你将通过挖掘你潜在的语言能力来磨练你的写作能力。
 
 我们建议你进行实时书面交流。下面是一些你可以找到语言交换伙伴的地方：
 
