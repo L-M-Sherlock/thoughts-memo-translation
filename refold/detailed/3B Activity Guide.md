@@ -32,13 +32,13 @@
 
 - [My Language Exchange](https://www.mylanguageexchange.com/)
 
-如果想到与陌生人交流让你感到不安，你也可以选择聘请一名私教，通过聊天方式进行交流。比较知名的聘请私教的网站包括 [iTalki](http://go.italki.com/refold) 和 [Verbling](https://www.verbling.com/)。
+如果想到与陌生人交流让你感到不安，你也可以选择聘请一名私教，通过聊天进行交流。比较知名的聘请私教的网站包括 [iTalki](http://go.italki.com/refold) 和 [Verbling](https://www.verbling.com/)。
 
-如果你选择单独写作，而非对话，可以使用 iTalki 上的「笔记本」功能，寻找愿意批改长篇写作的人。
+如果你选择独自写作而非对话，可以使用 iTalki 上的「笔记本」功能，寻找愿意批改长篇写作的人。
 
 ### 锻炼发音肌肉
 
-每天花时间进行影子跟读和练习你所学语言的绕口令，具体练习可参考 [3B：发音训练](https://refold.la/roadmap/stage-3/b/pronunciation-training)。
+每天花时间进行影子跟读，并练习你所学语言的绕口令，具体可参考 [3B：发音训练](https://refold.la/roadmap/stage-3/b/pronunciation-training)。
 
 ### 理解对话
 
@@ -46,20 +46,20 @@
 
 ### 日程示例
 
-- 早晨用 Anki
+- 早上用 Anki
 
 - 整天被动收听你的语言家长
 
 - 花 30 分钟练习输出（写作或影子跟读）
 
-- 花 45 分钟沉浸学习语言父母的材料
+- 花 45 分钟沉浸学习语言家长的材料
 
-- 话 45 分钟阅读或听脱口秀节目
+- 花 45 分钟阅读或听脱口秀节目
 
-我们建议每天交替进行输出活动，比如一天专注写作，第二天练习影子跟读。
+我们建议以天为单位交替进行输出活动，比如第一天专注写作，第二天影子跟读。
 
 ### 进阶
 
 当你对语言家长的理解达到[等级 6](https://refold.la/roadmap/stage-2/a/levels-of-comprehension#Level-6-Automatic)，并且能够在写作中流畅表达自己时，就可以进入阶段 3C：口语表达。
 
-有些人可能不太喜欢写作，更愿意直接开口说。如果你是这类人，那么可以同时进行阶段 3B 和 3C 的学习。
+有些人可能不太喜欢写作，更愿意直接开口说。如果你属于这类，那么可以同时进行阶段 3B 和 3C。
