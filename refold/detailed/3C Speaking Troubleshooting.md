@@ -1,8 +1,8 @@
-# 3C4：口语故障排除
+# 3C4：口语问题排查
 
-[Speaking Troubleshooting | Refold](https://refold.la/roadmap/stage-3/c/speaking-troubleshooting)
+原文：[Speaking Troubleshooting | Refold](https://refold.la/roadmap/stage-3/c/speaking-troubleshooting)
 
-我们询问了我们的社群，他们正在努力解决什么样的口语问题，并将最常见的问题编入本指南。
+我们调查了我们的社区成员在口语方面遇到的难题，并将最常见的问题整理成了这份指南。
 
 ### 心态准备
 
