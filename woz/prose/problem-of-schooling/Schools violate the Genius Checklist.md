@@ -32,7 +32,7 @@
 
 ## 学校里的学习内驱力
 
-学校抑制了对于高效学习至关重要的[学习内驱力](https://supermemo.guru/wiki/Learn_drive)。因此，学习不再带来[乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)。[为什么孩子们讨厌上学](https://supermemo.guru/wiki/Why_kids_hate_school%3F)的第二个因素就是无聊（仅次于早起）。矛盾的是，学习机构能极其有效地导致孩子厌恶学习和长期学习。这与培养天才的目标完全相反。由于上学太疲劳，孩子们无法在晚上学习新知识，而非学校教育的孩子就会自然而然地去学习。在学校的孩子只会用[电子游戏](https://supermemo.guru/wiki/Videogames),、YouTube 或 Facebook 来「休息」。更多信息，请参见：[学校抑制学习内驱力](https://supermemo.guru/wiki/Schools_suppress_the_learn_drive)。
+学校抑制了对于高效学习至关重要的[学习内驱力](https://supermemo.guru/wiki/Learn_drive)。因此，学习不再带来[乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)。[为什么孩子们讨厌上学](https://supermemo.guru/wiki/Why_kids_hate_school%3F)的第二个因素就是无聊（仅次于早起）。矛盾的是，学习机构能极其有效地导致孩子厌恶学习和长期学习。这与培养天才的目标完全相反。由于上学太疲劳，孩子们无法在晚上学习新知识，而非学校教育的孩子就会自然而然地去学习。在学校的孩子只会用[电子游戏](https://supermemo.guru/wiki/Videogames)、YouTube 或 Facebook 来「休息」。更多信息，请参见：[学校抑制学习内驱力](https://supermemo.guru/wiki/Schools_suppress_the_learn_drive)。
 
 ## 证毕：学校对创造力的影响极其恶劣
 
