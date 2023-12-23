@@ -30,6 +30,6 @@ https://github.com/mnielsen/tpft/blob/master/big_picture.md
 
 > - 是否有可能帮助那些相信自己有能力对重要问题产生有意义影响的颠覆者？
 
-> - MOOC 真正想成为什么？+ 如何重塑大学？大学++是什么样的？+ Primer++ 或 Dynabook++ 是什么样子的？+ 一人一生中能创造多少个西斯廷教堂天花板？
+> - MOOC 真正想成为什么？+ 如何重塑大学？大学++是什么样的？+ 《启蒙琼林》++ 或 Dynabook++ 是什么样子的？+ 一人一生中能创造多少个西斯廷教堂天花板？
 
 Kay, A. C. (1972). A Personal Computer for Children of All Ages. Proceedings of the ACM Annual Conference - Volume 1. https://doi.org/10.1145/800193.1971922

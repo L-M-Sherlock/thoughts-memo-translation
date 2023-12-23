@@ -28,7 +28,7 @@
 
     - 个人的专业术语，如[情景体验](https://notes.andymatuschak.org/z3KASfpz5AmNmqM2m517Jbs1EvXrLN7NkeYWH)
 
-- 「纲要笔记」，例如[§赋能环境、游戏和入门指南](https://notes.andymatuschak.org/z244xx3kMf1v8UnkZKUwQBAwBsHLpUgN4YhsG)
+- 「纲要笔记」，例如[§赋能环境、游戏和《启蒙琼林》](https://notes.andymatuschak.org/z244xx3kMf1v8UnkZKUwQBAwBsHLpUgN4YhsG)
 
 不属于本层级体系的笔记类型：
 

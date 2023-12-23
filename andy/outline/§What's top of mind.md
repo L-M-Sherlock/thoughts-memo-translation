@@ -10,7 +10,7 @@
 
   - [助记媒介可以扩展到个人笔记](https://notes.andymatuschak.org/z5ARNXtS5VxteskEW91S1yYTgAcLABNXsZuJE)
 
-- [§赋能环境、游戏和 the Primer](https://notes.andymatuschak.org/z244xx3kMf1v8UnkZKUwQBAwBsHLpUgN4YhsG) / [情景体验作为一种大众媒介具有不可思议的潜力](https://notes.andymatuschak.org/z6oXuXLZ7Wq1eBqskyfph2wz9gjohQUKSBFzx)
+- [§赋能环境、游戏和《启蒙琼林》](https://notes.andymatuschak.org/z244xx3kMf1v8UnkZKUwQBAwBsHLpUgN4YhsG) / [情景体验作为一种大众媒介具有不可思议的潜力](https://notes.andymatuschak.org/z6oXuXLZ7Wq1eBqskyfph2wz9gjohQUKSBFzx)
 
 - [可编程的注意力](https://notes.andymatuschak.org/zJrfPCbY7GcpV9asEc8NTVzXTAV4TvRFMuY6) / [间隔重复一切](https://notes.andymatuschak.org/z59aJSjgqr4B1k1ofoE7ZBF2dv8MeJ1Drf4TQ)
 
