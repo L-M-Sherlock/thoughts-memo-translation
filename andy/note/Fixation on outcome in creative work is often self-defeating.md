@@ -6,7 +6,7 @@
 
 相关笔记：
 
-- [不合理的时间压力往往会毁掉创造性工作](https://notes.andymatuschak.org/zv3oHi3CgUz3yjrKceuSznBQXYQeEWVW7KW)
+- [不当的时间压力往往会毁掉创造性工作](https://notes.andymatuschak.org/zv3oHi3CgUz3yjrKceuSznBQXYQeEWVW7KW)
 
 ## 参考文献
 
@@ -16,7 +16,7 @@
 
 - [变得好奇](https://notes.andymatuschak.org/zKvtqpdyujNByokN4fSahKrgNgXxCAWD5gRv)，[变得爱玩](https://notes.andymatuschak.org/ziHJKnDvMUWnBBpTEsVg3iVNxKrCieEUaEr)
 
-- [别努力尝试，直接试一试。出自 Soares](https://notes.andymatuschak.org/zxp2EBWkGcL5BqTHz8KuGtyEmZVsGvQ9ovk) (fixation on outcome makes failure much more salient)
+- [别努力尝试，直接试一试（出自 Soares）](https://notes.andymatuschak.org/zxp2EBWkGcL5BqTHz8KuGtyEmZVsGvQ9ovk) (fixation on outcome makes failure much more salient)
 
 - [辞去你的工作 - Wolf Tivy](https://notes.andymatuschak.org/z27o3RwVnXvmYjnWmYLWkAX6UqD4Shxo8c4D)（「仅仅沿着已知的价值路径，你无法找到真正有趣的新奇事物。」）
 
@@ -34,9 +34,9 @@ David Whyte, Consolations, “Ambition”
 
 >
 
-> 无论我们的劳动自认为多么重要，我们都只是{尚未想象到的世界的养料}。野心能带我们走向地平线，但不可能越过它——那条线永远在我们控制之外。然而，一种召唤是我们的身体、工作、智慧和想象之间的对话，是{我们所追求的新世界**本身**就是我们探寻的领域}。一个真正的使命总会包含{我们在努力充实生活的过程中必然会遇到的失败}。一个真正的使命总能{将野心和失败转化为对他人的同情和理解}。
+> 无论我们的劳动自认为多么重要，我们都只是{尚未想象到的世界的养料}。野心能带我们走向地平线，但不可能越过它——那条线永远在我们控制之外。然而，召唤是我们的身体、工作、智慧和想象之间的对话，是{一个新世界，其**本身**就是我们探寻的领域}。一个真正的使命总会包含{我们在努力充实生活的过程中必然会遇到的失败}。一个真正的使命总能{将野心和失败转化为对他人的同情和理解}。
 
-> 野心需要意志力和不断的能量来维持我们认为的方向；但一个严肃的职业召唤要求我们不断关注{围绕我们的未知引力场，从中汲取能量}，就像从可能性本身的氛围中呼吸一样。一个人的终身事业不是一系列我们可以平静踏上的踏石，而更像是在海上航行，没有路径，只有方向，在{与元素对话}中前行。回头看，我们留下的尾迹只是水面上短暂的、闪烁的痕迹。
+> 野心需要意志力和不断的能量来维持我们认为的方向；但一个严肃使命的召唤要求我们不断关注{围绕我们的未知引力场，从中汲取能量}，就像从可能性本身的氛围中呼吸一样。一个人的终身事业不是一系列我们可以平静踏上的台阶，而更像是在海上航行，没有路径，只有方向，在{与元素对话}中前行。回头看，我们留下的尾迹只是水面上短暂的、闪烁的痕迹。
 
 >
 

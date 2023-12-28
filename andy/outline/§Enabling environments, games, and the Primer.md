@@ -2,7 +2,7 @@
 
 原文：[§Enabling environments, games, and the Primer (andymatuschak.org)](https://notes.andymatuschak.org/z244xx3kMf1v8UnkZKUwQBAwBsHLpUgN4YhsG)
 
-与其围绕《启蒙琼林》写作，我发现更有力的架构是将文章的叙述中心放在具有高成长性的赋能环境上。
+与其关注《启蒙琼林》，我发现了一个更有力的视角，将文章的叙述中心放在具有高成长性的赋能环境上。
 
 - 如果要创业，你可以读一本有关创业的书，也可以选择加入 [Y Combinator](https://notes.andymatuschak.org/z2kQbKXThuY4FrdXVcE7JCt974sPATVhSpita) 。那么你会选择哪个？这涉及到[赋能环境](https://notes.andymatuschak.org/z3DaBP4vN1dutjUgrk3jbEeNxScccvDCxDgXe)的力量。
 
@@ -20,7 +20,7 @@
 
     - YC 的形式也允许其设计者用好几个月的时间，亲身体验创业的经历，而[大众媒介大多缺乏超过一天的创制时间维度](https://notes.andymatuschak.org/z7JZswHPm99BbpTnb7NcP9Rnp8Bs6jsM3zjdv)
 
-  - 让 YC 更拟真的目的，不只是改善参与人的体验：它也帮助 YC 的创造者设计出更好的系统。
+  - 真正的目的，不仅仅改善参与者的体验：它也帮助 YC 的创造者设计出更好的系统。
 
     - [强大的赋能环境通常是追求自身内在意义的项目的副产品](https://notes.andymatuschak.org/z4N6d29XL2PZXCa64HPcxA64RGWDb6Cagc1gs)
 
@@ -62,31 +62,31 @@
 
   - 比起教育游戏，《启蒙琼林》似乎是一个更好的例子。[《启蒙琼林》的目标是培养有创造力的、颠覆性的年轻人](https://notes.andymatuschak.org/zvMhuE5FyXVfspgazybETDJwHrYPVxN2Cere)；它不是要检查一堆学习目标的盒子
 
-    - 像游戏一样，[《入门指南》是一场庞大的情景体验](https://notes.andymatuschak.org/z2bumF8sVKrkRzRTcVPL8xfMCkJ9f4se2e8cR)，并且[《入门指南》是可扩展的](https://notes.andymatuschak.org/z5NZs4GTsEc9n8zyYoVCTA9AfSMDNrHwdQRoF)
+    - 像游戏一样，[《启蒙琼林》是一场庞大的情景体验](https://notes.andymatuschak.org/z2bumF8sVKrkRzRTcVPL8xfMCkJ9f4se2e8cR)，并且[《启蒙琼林》是可扩展的](https://notes.andymatuschak.org/z5NZs4GTsEc9n8zyYoVCTA9AfSMDNrHwdQRoF)
 
-  - 不幸的是，《钻石年代》中描述的具体机制不会起作用：见[《入门》不是一个可行的赋能赋能环境环境](https://notes.andymatuschak.org/z4WNFDsAy4sqT8eU9VUfKwW1gdSL4UGB4mbyG)和subtree::todo结构subtree in outline:。
+  - 不幸的是，《钻石年代》中描述的具体机制不会起作用：见[《启蒙琼林》不是一个可行的赋能环境](https://notes.andymatuschak.org/z4WNFDsAy4sqT8eU9VUfKwW1gdSL4UGB4mbyG)和subtree::todo结构subtree in outline:。
 
-- 很难想象把教育游戏修改成什么好东西，但《启蒙琼林》足够接近目标，值得批评，而且，可能还值得学习
+  - 很难想象把教育游戏修改成什么好东西，但《启蒙琼林》足够接近目标，值得批评，而且，可能还值得学习
 
-    - Nell 确实感觉到她自己在实现每一个步骤；这在教育游戏中是不正确的，因为[情景体验需要基于参与者的因果关系](https://notes.andymatuschak.org/z3JVez8dDfxTHY1K9tHUfLLcgLkUmXQ2HKXUU)
+    - Nell 确实感觉到她自己在实现每一个步骤；这在教育游戏中是不正确的，因为[情景体验需要参与者置身的因果关系](https://notes.andymatuschak.org/z3JVez8dDfxTHY1K9tHUfLLcgLkUmXQ2HKXUU)
 
     - 《启蒙琼林》讲的是真正重要的事情（[《启蒙琼林》的目标是培养有创造力的、颠覆性的年轻人](https://notes.andymatuschak.org/zvMhuE5FyXVfspgazybETDJwHrYPVxN2Cere)，即使 Nell 不知道（[ Nell 不知道也不认同《启蒙琼林》的目标](https://notes.andymatuschak.org/z6mg4iibFwrKipuEYQvBuA9cxnjvZ2vG2QgQ9)）。
 
-    - 《启蒙琼林》中的活动更接近于真实的赋能环境[情景体验可以引导人们积极参与到赋能环境中](https://notes.andymatuschak.org/z2FDTR2NfpW1AtA4SAETevmKC2uDGEHfKrbhG)
+    - 《启蒙琼林》中的活动更接近于真实的赋能环境。[情景体验可以引导人们积极参与到赋能环境中](https://notes.andymatuschak.org/z2FDTR2NfpW1AtA4SAETevmKC2uDGEHfKrbhG)
 
-    - 它可以在专家环境下连续进行，而不是留下什么东西（[《入门》是内尔余生的一个大 "入职 "经历](https://notes.andymatuschak.org/z2JYDtbKyaxf2nhicZTCGEScUcYLjZuda4vY8)
+    - 它可以在专家环境下连续进行，而不是留下什么东西（[《启蒙琼林》是 Nell 余生的一个大「入职」经历](https://notes.andymatuschak.org/z2JYDtbKyaxf2nhicZTCGEScUcYLjZuda4vY8)
 
-- 那么，我们如何使这种新的媒体形式呢？ ::TODO这一部分总体上定义相当不足；一些重要的想法在这里还没有被抓住，而且我们的理论在这里也有很大的漏洞：。
+- 那么，我们如何使这种新的媒体形式呢？ ::TODO 这一部分总体上定义相当不足；一些重要的想法在这里还没有被抓住，而且我们的理论在这里也有很大的漏洞::
 
   - 框架
 
     - 一个有用的现有技术。[引导性冥想应用程序](https://notes.andymatuschak.org/z2LoRpSoo5Un8EbqkZEjJjvjM1BYLLQD1VJM)
 
-    - [Primer++被嵌入到一个领域中，通过情景体验来引导学习者参与](https://notes.andymatuschak.org/z62M2Kdje6rnm6qHaQ5LSsNbc6FBNcmppbg1P)
+    - [Primer++ 被嵌入到一个领域中，通过情景体验来引导学习者参与](https://notes.andymatuschak.org/z62M2Kdje6rnm6qHaQ5LSsNbc6FBNcmppbg1P)
 
       - [思想工具应在有内在意义的目的范围内进行评估](https://notes.andymatuschak.org/z494jinM6aNqjzLuVenhH3tkgMWuDgzby3odm)
 
-    - [设计新的赋能环境可以被视同为设计一所全新的大学](https://notes.andymatuschak.org/z7VvaRXqJ9ftH18TPKpySuRiEkLj9N9MFLQAW)
+    - [设计新的赋能环境可以被视同为设计一所大学++](https://notes.andymatuschak.org/z7VvaRXqJ9ftH18TPKpySuRiEkLj9N9MFLQAW)
 
       - [讲座让学生得以一窥究竟专家是如何思考问题的](https://notes.andymatuschak.org/z4miEVp2N1DZuaGoETEg8auwiREBW2Q9mZjgi)
 
@@ -120,7 +120,7 @@
 
     - 参考 [§严肃研究知识工作（Stripe 融合讨论，2019-12-12）](https://notes.andymatuschak.org/z5opHsGrNmCib7YQfLv6XbYURzZgZmx4Mrh5y)
 
-  - 如何制作更好的媒体形式
+  - 如何创造更好的媒体形式
 
     - [实践出洞见](https://notes.andymatuschak.org/z7YyAp683VNbTmDG4hx9QFpf5urwxZJpsycS6)和子树
 
