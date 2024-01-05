@@ -120,4 +120,4 @@
 
 ————————
 
-我要感谢 Michael Nielsen、Alec Resnick 和 Gary Bernhardt，他们以前的很多讨论让我对这些观点有了更深的理解。还要特别感谢 José Luis Ricón，他的文章《[大量输入和/或间隔重复(https://nintil.com/massive-input-spaced-repetition/)》激发了我就这个主题写作的灵感。最后，还要感谢 Nick Barr，他提出的「虔诚学习」这个概念，我在这里有所借鉴。
+我要感谢 Michael Nielsen、Alec Resnick 和 Gary Bernhardt，他们以前的很多讨论让我对这些观点有了更深的理解。还要特别感谢 José Luis Ricón，他的文章《[大量输入和/或间隔重复](https://nintil.com/massive-input-spaced-repetition/)》激发了我就这个主题写作的灵感。最后，还要感谢 Nick Barr，他提出的「虔诚学习」这个概念，我在这里有所借鉴。
