@@ -35,3 +35,39 @@
 Donat从这项研究中得出的结论是，拒绝上学儿童的一个潜在*问题*是他们不相信世界是公正的。Donat和几乎所有人一样，开始时假设尽管学校包含一些困难，但对儿童来说是好的，甚至是必需的。他由此提出，相信公正世界的儿童认识到学校对他们有益，而缺乏公正世界信念的儿童则看不到学校对他们有好处。因此，如果儿童在相信世界是公正的环境中成长，我们就不会有拒绝上学的问题。哇！（他没有提到我们仍然会有奴隶制。）
 
 ### 逃学作为基本人权
+
+那些经常阅读我的博客和其他文章的读者会知道我接下来要说什么。事实是，强制性学校教育是不公正的。这是非自愿的囚禁。它完全违背了儿童的天性，以及孩子们通过自由游戏和探索学习的真实、生物学需求。而且，它对于正常发展来说*并不必要*。这一点已经被那些选择自主[教育](https://www.psychologytoday.com/us/basics/education)的成千上万个家庭反复证明（关于一些证据，参见 Gray, 2013, 2017）。
+
+许多选择非学校化或为自主教育设计的学校的家庭，做出这个选择正是因为他们的孩子以某种方式拒绝上学（Gray & Riley, 2013）。实际上，提供自主教育的资源比标准的公立学校教育要便宜得多，更不用说比关在少年拘留中心或精神病房的费用低了。在我[之前的一篇文章](https://www.psychologytoday.com/us/blog/freedom-learn/201709/another-example-less-teaching-leading-more-learning)中，我描述了很久以前做的一个实验，其中经常逃学的男孩们被提供了一个学校里的房间，在那里他们可以做任何他们想做的事——包括离开房间去体育馆玩或在工作坊工作——只要他们愿意来学校，不在街上闹事即可。他们没有接受任何教学，没有被布置任何作业，但为了看看会发生什么，他们在四个月试验期的开始和结束时都被测试了。他们所展现的学术进步远远超过了那些上课的学生！这只是一个简单的例子，展示了被允许掌控自己的生活和教育的力量。
+
+有一位临床心理学家，和我得出了类似的结论，她叫 Naomi Fisher。她最近在英国心理学会的期刊《心理学家》上发表了一篇文章，题为[《学校的出路》](https://thepsychologist.bps.org.uk/volume-33/march-2020/schools-out)。她是这样开始文章的：
+
+>「在我作为临床心理学家的早期[职业生涯](https://www.psychologytoday.com/us/basics/career)中，我接触过一些停止上学的年轻人。我理解这是由焦虑驱动的拒学行为。我设计了分级暴露方案，并写信明确表示，在我看来，成功的结果应该是返回学校。这似乎是合理的做法。有个叫 Nina 的女孩不想回去。当我明确我的观点时，她和她的家人就脱节了……他们不再来了。……当我继续在不同环境下与儿童工作时，我对自己的焦点感到越来越不舒服。对一些孩子来说，学校是一个积极的地方，问题的确是焦虑。但对另一些孩子来说，学校是一种痛苦的经历，在那里他们感觉自己既没有学到东西，也无法做自己。有个男孩给他妈妈展示了一张笼中动物的图片，并说：“这就是我在学校的感觉。”我对于将这个问题定位在孩子身上感到不安，假设学校本身是没问题的。有什么其他可能的环境？它们会如何影响孩子的心理？」
+
+从这个开端，Fisher 继续描述了她对自主教育的发现，以及她对我们这些在这一主题上进行研究的人的采访。我们需要更多像 Naomi Fisher 这样的临床医生——那些愿意真正倾听孩子们的人，愿意质疑一个要求每个孩子都必须以相同的、标准的、强制的方式接受教育（或假装接受教育）的系统。
+
+大多数处理拒学问题的临床医生将其视为心理障碍，是因为它通常与严重的焦虑相关，而严重的焦虑本身就是一种障碍。儿童在学校经历痛苦、苦难和不公正时感到焦虑和恐惧，这并不令人意外！事实上，对于许多定期上学的学生来说，学校是一个巨大的焦虑源。实际上，有三分之一的在校学生在某个时点遭受的焦虑程度足以被临床诊断为焦虑症([这里](https://www.healthychildren.org/English/health-issues/conditions/emotional-problems/Pages/Anxiety-Disorders.aspx))，并且在研究中询问他们焦虑的来源时，绝大多数人都指出是学校([这里](https://www.apa.org/news/press/releases/stress/2013/stress-report.pdf))。
+
+在其他地方（[这里](https://www.psychologytoday.com/us/blog/freedom-learn/201805/children-s-teens-suicides-related-the-school-calendar)），我总结了研究结果，表明在学校上课期间，[自杀](https://www.psychologytoday.com/us/basics/suicide)和自杀尝试的比例远高于学校假期。在一本名为[《疤痕之心》](http://www.violentkids.com/)的书中，Helen Smith 描述了一个13岁拒绝上学的孩子的案例，她被给予选择：要么回到学校，要么进入少年拘留中心。用Smith的话说，“*她决定更好的选择是进入她的卧室，用皮带上吊自杀。……在过去，她本可以选择退学，但现在像她这样的孩子被强制教育所困。”* 多么[遗憾](https://www.psychologytoday.com/us/basics/embarrassment)这个女孩没有被提供在家教育或自主教育学校的选择，那里的每个孩子都可以以自己的方式学习，而且几乎听不到欺凌的事情（参见[这里](https://www.psychologytoday.com/us/blog/freedom-learn/201006/freedom-bullying-how-school-can-be-moral-community)）。
+
+或许，至少在一定程度上，拒绝上学的孩子们是勇敢的。拒绝上学不仅仅需要认识到这个世界是不公正的，以及你在学校受到的待遇是不公正的，它还需要勇气，特别是当你所看到的不公正被周围的每个人视为正常和合理，认为这是必须忍受的东西时。想想那些年轻女性将嫁给谁由她的父亲决定的时代和地方。在某些情况下，拒绝遵从父亲的命令是一种犯罪，在其他情况下是一种心理障碍。有时候，女性因此被送进精神病院。在每个人都认为去是必要的，不去要么是疯狂的要么是犯罪的假设下，说出“不，我不会去”的话需要勇气。
+
+\----------
+
+此时此刻，你对这一切有什么看法？……这篇文章，从某种意义上来说，也为所有人提供了交流的平台。你的疑问、感悟、故事、观点都会被我以及阅读这篇文章的所有人尊重，无论我们是否赞同。文章的原网址 Psychology Today 不支持评论了，但你可以在我的[脸书](https://www.facebook.com/peter.gray.3572)上留言……关注我之后，我们可以讨论更多有趣的话题。（当然，鼓励大家在这篇文章下面的评论区里发言——译者注）
+
+参考文献
+
+Donat, M., Gallschütz, C., & Dalbert, C. (2018). The relation between students’ justice experience and their school refusal behavior. *Social Psychology of Education, 21,* 447-475.
+
+Elliott, J. G., & Place, M. (2019). Practitioner review: School refusal: developments in conceptualization and treatment since 2000. *Journal of Child Psychology and Psychiatry, 60*, 4-15.
+
+Gray, P. (2013). *Free to Learn: Why unleashing the instinct to play will make our children happier, more self-reliant, and better students for life*. Basic Books.
+
+Gray, P. (2017). Self-directed education—unschooling and democratic schooling. In G. Noblit (Ed.), *Oxford research encyclopedia of education*. New York: Oxford University Press.
+
+Gray, P., & Riley, G. (2013). The challenges and benefits of unschooling according to 232 families who have chosen that route. *Journal of Unschooling and Alternative Learning, 7*, 1-27.
+
+Ingul, J. M., Havi, T., & Heyne, D. (2019). Emerging school refusal: A school-based framework for identifying early signs and risk factors. *Cognitive and behavioral practice, 26,* 46-62.
+
+Oner, O.,et al., (2014). The inpatient treatment process for severe school refusal, *Klinik Psikofarmakoloji Bülteni—Bulletin of Clinical Psychopharmacology, 24*, 176-179.
