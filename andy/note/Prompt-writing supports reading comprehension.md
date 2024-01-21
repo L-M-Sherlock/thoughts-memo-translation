@@ -12,4 +12,4 @@
 
 **肤浅的卡片，粗浅的理解。**当文章给出一个关键定义时，仅用文中的定义稍作改写就能快速写出一张卡片，这样看似很简单。但这就是问题所在，因为很容易在没有真正理解的前提下做改写（[McNamara, D. (2004). SERT: Self-explanation reading training. Discourse Processes, 38(1), 1–30](https://notes.andymatuschak.org/z7FLRWQNjaUQSvRQJYiqNQm)）。一般来说，仅仅是简单改写文本的效果不是最佳。要写出有效的卡片，往往需要深挖并拓展。有人可能会对我说：「那就把卡片写得更好一点嘛！」当然，但我要指出，这种方法并没有引导我做正确的事。很容易在不经意间写出肤浅的卡片，要避免这种情况，我不仅需要保持高度自省 —— 这在学新东西时很难 —— 还需要在写卡片上多下工夫，但「值不值」这么做，我并不总能确定。
 
-**代价过于高昂。***即便你掌握了方法，[写好间隔重复的记忆卡片很难](https://notes.andymatuschak.org/z3ntJ7w9C3uapYp1m3gy2EK6PN788guzEoUNN)。我个人觉得这个过程非常耗费精力，远比进行传统的[自我解释](https://notes.andymatuschak.org/zCQYRYZTQRmrR4bFGCzCMkR)要累得多。
+**代价过于高昂。**即便你掌握了方法，[写好间隔重复的记忆卡片很难](https://notes.andymatuschak.org/z3ntJ7w9C3uapYp1m3gy2EK6PN788guzEoUNN)。我个人觉得这个过程非常耗费精力，远比进行传统的[自我解释](https://notes.andymatuschak.org/zCQYRYZTQRmrR4bFGCzCMkR)要累得多。
