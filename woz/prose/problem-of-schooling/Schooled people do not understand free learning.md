@@ -16,7 +16,7 @@
 
 - **知识来源就像阳光**：知识树不断寻找新的知识光源。每一束光线都是知识生长的动力。每片树叶都在寻求新的光照。在森林里，这一点尤其重要。
 
-- **社会就像森林**：在森林中，每棵树都会尽量利用周围的空间。它会占据天穹的所有可用空间。知识树会避开已被占据的黑暗区域，而寻找尚有阳光照射的地方。社会中的每个人都在以最佳方式适应自己的知识，并寻找自己的知识在他人需求中的位置。
+- **社会就像森林**：在森林中，每棵树都会尽量利用周围的空间。它会占据天穹的所有可用空间。知识树会避开已被占据的黑暗区域，而寻找尚有阳光照射的地方。社会中的每个人都在以最佳方式改进自己的知识，并寻找自己的知识在他人需求中的位置。
 
 知识的生长就像一棵树的生长，遵循简单的规则。树叶朝向光源方向生长，就像[学习内驱力](https://supermemo.guru/wiki/Learn_drive)寻找高[学习熵](https://supermemo.guru/wiki/Learntropy)的来源一样。我们对有用的事物感兴趣。如果我们遵循自然的兴趣，我们就能培育出一棵丰富的知识树。
 
@@ -70,17 +70,17 @@
 
 ## 我傲慢的信念
 
-我认为自己是世界上最有资格评判学校教育和[自由学习](https://supermemo.guru/wiki/Free_learning)的人之一。我理解这个等式的两面（请参见：[我的资格](https://supermemo.guru/wiki/Problem_of_schooling:_My_qualifications)）。虽然[顺服校驯](https://supermemo.guru/wiki/Well-schooled)者可以勇敢地捍卫自己的立场，但他们需要意识到，这种立场源于他们从未真正体验过[自由学习](https://supermemo.guru/wiki/Free_learning)的乐趣。同时，[非学校教育者](https://supermemo.guru/wiki/Unschooling)并不在乎。他们知道[自由学习](https://supermemo.guru/wiki/Free_learning)的力量，并忙于自己幸福的生活。他们将学校制度视为历史遗留，是一种他们无能为力的恶。我们在继续自己的生活，同时仍然意识到非洲的童工，现代奴隶制，气候变化或沙特阿拉伯、俄罗斯、伊朗或国内的侵犯人权问题。我们都需要集中精力逐个解决问题。
+我敢说自己是世界上最有资格评判学校教育和[自由学习](https://supermemo.guru/wiki/Free_learning)的人之一。我对两方都有足够了解（请参见：[我的资格](https://supermemo.guru/wiki/Problem_of_schooling:_My_qualifications)）。虽然[顺服校驯](https://supermemo.guru/wiki/Well-schooled)者尽可以勇敢捍卫自己的立场，但他们需要意识到，他们之所以持这种立场，是因为他们从未真正体验过[自由学习](https://supermemo.guru/wiki/Free_learning)的乐趣。同时，[非学校教育者](https://supermemo.guru/wiki/Unschooling)对立场并不在乎。他们知道[自由学习](https://supermemo.guru/wiki/Free_learning)的力量，并投身于自己的快乐生活。他们将学校制度视为历史的遗迹，是一种他们无能为力的恶。我们也是这样，虽忙着日常琐事，但也了解各种恶行，比如象牙海岸的儿童劳动，现代奴隶制，气候变化，沙特阿拉伯、俄罗斯、伊朗或本国的侵犯人权问题。我们一次只能解决一个问题。
 
-我在共产主义灌输时代的公共机构中接受了 26 年的「教育」。我对学校了如指掌，这些知识并没有被负面情绪所玷污。我从未[讨厌学校](https://supermemo.guru/wiki/Why_kids_hate_school)，毕业后多年来我一直捍卫这个机构。
+我在共产主义灌输时代的公共机构中接受了 26 年的「教育」。我对学校了如指掌，这一判断并不是依据负面情绪做出的。我从未[讨厌学校](https://supermemo.guru/wiki/Why_kids_hate_school)，甚至毕业后多年我一直捍卫这一机构。
 
-然而，接下来的 30 年里，我致力于[自由学习](https://supermemo.guru/wiki/Free_learning)，其中最后 20 年采用了[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)。渐进阅读是自由学习的最佳比喻，也是研究其动力学和最优性的最佳工具（参见：[学习内驱力的最优性](https://supermemo.guru/wiki/Optimality_of_the_learn_drive)）。通过渐进阅读，我能看到[知识树](https://supermemo.guru/wiki/Knowledge_tree)的生长。我看到了偏见和激情。我看到了背景和积极的联想。我看到了生活中各种问题的解决方案。我看到了在学校时被忽视或不喜欢的分支，是如何被根据自我需求定制的想法所填充的。我能可靠地比较学校和[自由学习](https://supermemo.guru/wiki/Free_learning)，胜者是自由。首轮第一毫秒就 KO！可以验证，我大部分在学校学到的知识都已[遗忘](https://supermemo.guru/wiki/Forgetting)，并且经常以不同的方式重新学习。正是超出学校教育范围的新知识，为我带来了最大的快乐能量。如果你从未尝试过自由学习，请相信我的话：它很棒！
+然而，接下来的 30 年里我完全采用自由学习](https://supermemo.guru/wiki/Free_learning)，其中最后 20 年我开始使用[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)。渐进阅读是自由学习的最佳比喻，也是研究其动态和最优性的最佳工具（参见：[学习内驱力的最优性](https://supermemo.guru/wiki/Optimality_of_the_learn_drive)）。通过渐进阅读，我能看到[知识树](https://supermemo.guru/wiki/Knowledge_tree)逐渐生长。我能看到偏见和激情。我注意到了知识的背景和积极的联想。我能注意到如何解决生活中各种问题。我注意到有一些知识分支在学校被忽略或者厌恶，但现在充斥着各种想法，完全契合我的需要。我能可靠地比较学校和[自由学习](https://supermemo.guru/wiki/Free_learning)，而胜者是自由。首轮当即就 KO！我大部分在学校学到的知识大抵都已[遗忘](https://supermemo.guru/wiki/Forgetting)，并且经常以不同的方式重新学习。正是那些超出学校教育范围的新知识，为我带来了最大的快乐能量。如果你从未尝试过自由学习，请相信我的话：它很棒！
 
 要想对学校教育和[自由学习](https://supermemo.guru/wiki/Free_learning)进行有效的比较，你需要结合多年的学校教育和自由学习经验。
 
 ## 可怕的结论
 
-最终的判决是惊心骇目的。为提升学习而创立的教育机构实际上是未来通往更好的学习道路上的最大绊脚石：
+最终的判决是惊心骇目的。学校这一为促进学习而创立的机构，其实是通往未来优质学习的最大障碍：
 
 学校让我们更难理解高效学习的要领
 
