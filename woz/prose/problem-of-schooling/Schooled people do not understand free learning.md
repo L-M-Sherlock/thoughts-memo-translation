@@ -4,7 +4,7 @@
 
 ## 学习就像性
 
-那些[美化学校教育](https://supermemo.guru/wiki/Glorification_of_schooling)的人常常热情地捍卫[义务教育](https://supermemo.guru/wiki/Compulsory_schooling)的重要性。他们引用各种数据，说明学校使得文盲率下降、科学进步、寿命延长、犯罪率下降。当我谈论人权和解放儿童免受[学校束缚](https://supermemo.guru/wiki/End_school_slavery)的需求时，我却被视为煽动叛乱的激进分子。受过学校教育的人是否缺乏对儿童的同理心？毕竟他们也曾是儿童，而儿童会在 15 岁左右达到[厌恶学校](https://supermemo.guru/wiki/Why_kids_hate_school)的巅峰。为什么他们一成为大学生后，就开始为这个制度辩护呢？遗忘对此有一定的影响。我们很容易美化过去的经历（见：[教育同理心](https://supermemo.guru/wiki/Educational_empathy)）。大学任让人重获自由，因而他们会感激高中文凭。然而，更深层次的问题是，[受过良好教育](https://supermemo.guru/wiki/Well-schooled)人们真的不理解学习的自由。他们理论上可以掌握所有[自由学习](https://supermemo.guru/wiki/Free_learning)的概念，但却无法从内心深处感受到它。就好像他们对性了如指掌，口若悬河，却从未真正体验过其极乐。要理解学习的真正极乐，就必须先经历多年的[自由学习](https://supermemo.guru/wiki/Free_learning)。一天、一周或一个月可能会让人对其滋味略懂一二，但那还不是真正的极乐。让我用[树的比喻](https://supermemo.guru/wiki/Tree_metaphor)来帮助解释**与知识交媾**的感觉。
+那些[美化学校教育](https://supermemo.guru/wiki/Glorification_of_schooling)的人常常热情地捍卫[义务教育](https://supermemo.guru/wiki/Compulsory_schooling)的重要性。他们引用各种数据，说明学校使得文盲率下降、科学进步、寿命延长、犯罪率下降。当我谈论人权和解放儿童免受[学校束缚](https://supermemo.guru/wiki/End_school_slavery)的需求时，我却被视为煽动叛乱的激进分子。受过学校教育的人是否缺乏对儿童的同理心？毕竟他们也曾是儿童，而儿童会在 15 岁左右达到[厌恶学校](https://supermemo.guru/wiki/Why_kids_hate_school)的巅峰。为什么他们一成为大学生后，就开始为这个制度辩护呢？遗忘对此有一定的影响。我们很容易美化过去的经历（见：[教育同理心](https://supermemo.guru/wiki/Educational_empathy)）。大学任让人重获自由，因而他们会感激高中文凭。然而，更深层次的问题是，[顺服校驯](https://supermemo.guru/wiki/Well-schooled)者的确无法学习的自由。他们理论上可以掌握所有[自由学习](https://supermemo.guru/wiki/Free_learning)的概念，但却无法从内心深处感受到它。就好像他们对性了如指掌，口若悬河，却从未真正体验过其极乐。要理解学习的真正极乐，就必须先经历多年的[自由学习](https://supermemo.guru/wiki/Free_learning)。一天、一周或一个月可能会让人对其滋味略懂一二，但那还不是真正的极乐。让我用[树的比喻](https://supermemo.guru/wiki/Tree_metaphor)来帮助解释**与知识交媾**的感觉。
 
 自由学习就像性一样，你需要亲身体验才能真正理解。 
 
@@ -36,7 +36,7 @@
 
 为了理解[自由学习](https://supermemo.guru/wiki/Free_learning)的极乐，我们需要将树的比喻推广到提供[知识估值](https://supermemo.guru/wiki/Knowledge_valuation)以及[学习的乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)的神经系统上。每一束照在树叶上的光线都有可能在树的大脑中产生愉悦的冲动。这种冲动将取决于之前的学习历史和新树叶的品质。
 
-使用[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)的人最了解这一点。当你今天学到新知识，并通过最佳复习方法使其转为永久记忆时，往往能回想起学习时的具体场景。比如，从一部有趣的电影中学到的新成语，将永远与那个场景联系在一起。所有记忆都带有联想，它们可能是愉快或不愉快的。当添加新知识时，这些联想就决定了知识树的整体估值。如果我们热情地学习化学，每个新知识都会像树上新长出的叶子一样，带来愉快的联想。所有新叶子共同产生学习的兴趣，与这些新叶子相关的新知识会更加有趣。但如果同样的知识是在一个令人不悦的老师的课堂上学到的，那种学习的极乐就可能消失。**即使知识树的形状完全一样，学习时的感受也会截然不同**。新知识会产生不同的影响。也许所有新学的化学知识都会被那个坏老师的记忆玷污。这些记忆可能潜藏在意识之外。当知识感觉不如自由学习时那么美妙，它对大脑就不在有积极的影响。所有新的学习都需要被强制执行。当职业生活和爱好被明确区分时，整个生活就变成了障碍赛道。事情被分为了我们需要做的和想要做的。在受过学校教育的人身上，这两者往往是分离的。运气好的话，对于自由的学生来说，生活和工作融为一体，成为同一乐趣的来源。工作的概念被[生活的乐趣](https://supermemo.guru/wiki/Simple_formula_for_happiness)所取代。
+使用[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)的人最了解这一点。当你今天学到新知识，并通过最佳复习方法使其转为永久记忆时，往往能回想起学习时的具体场景。比如，从一部有趣的电影中学到的新成语，将永远与那个场景联系在一起。所有记忆都带有联想，它们可能是愉快或不愉快的。当添加新知识时，这些联想就决定了知识树的整体估值。如果我们热情地学习化学，每个新知识都会像树上新长出的叶子一样，带来愉快的联想。所有新叶子共同产生学习的乐趣，与这些新叶子相关的新知识会更加有趣。但如果同样的知识是在一个令人不悦的老师的课堂上学到的，那种学习的极乐就可能消失。**即使知识树的形状完全一样，学习时的感受也会截然不同**。新知识会产生不同的影响。也许所有新学的化学知识都会被那个坏老师的记忆玷污。这些记忆可能潜藏在意识之外。当知识感觉不如自由学习时那么美妙，它对大脑就不在有积极的影响。所有新的学习都需要被强制执行。当职业生活和爱好被明确区分时，整个生活就变成了障碍赛道。事情被分为了我们需要做的和想要做的。在受过学校教育的人身上，这两者往往是分离的。运气好的话，对于自由的学生来说，生活和工作融为一体，成为同一乐趣的来源。工作的概念被[生活的乐趣](https://supermemo.guru/wiki/Simple_formula_for_happiness)所取代。
 
 自然生长的知识树枝繁叶茂，快乐的能量在其中涌动。
 
@@ -50,11 +50,11 @@
 
 ## 童年的激情
 
-未上学的孩子很快就会习惯电子设备。游戏几乎是不可避免的。以 Roblox 为例，这个游戏在孩童中极为流行，但许多父母对此知之甚少，有些老师甚至没听过这个名字。他们不会把 Roblox 当作孩子的职业选择去推荐。如果孩子在学校学习进展缓慢，他的电子游戏或平板电脑可能就会被没收。在家上学的孩子，可能会因为「缺乏[自律](https://supermemo.guru/wiki/Self-discipline)」而被送回学校。所有的反对声音都被归咎于孩子的「[坏脾气](https://supermemo.guru/wiki/Myth:_Teenagers_hate_everything)」（而为学校教育的奴役开脱）。
+不上学的孩子很快就会习惯电子设备。游戏几乎是不可避免的。以 Roblox 为例，这个游戏在孩童中极为流行，但许多父母对此知之甚少，有些老师甚至没听过这个名字。他们不会把 Roblox 当作孩子的职业选择去推荐。如果孩子在学校学习进展缓慢，他的电子游戏或平板电脑可能就会被没收。在家上学的孩子，可能会因为「缺乏[自律](https://supermemo.guru/wiki/Self-discipline)」而被送回学校。所有的反对声音都被归咎于孩子的「[坏脾气](https://supermemo.guru/wiki/Myth:_Teenagers_hate_everything)」（而为学校教育的奴役开脱）。
 
 学校限制了孩子追寻自己的[童年激情](https://supermemo.guru/wiki/Childhood_passions)的可能，而这些激情恰恰是通向未来伟大成就的关键。
 
-同时，未上学的孩子可能会迅速提高编程技能，并发现 Roblox 中通过游戏内购赚取百万美元的机会。这种认识可能会驱使孩子走上编程职业之路。这条道路充满激情且始于早年。[学校的教育模式则阻碍了这一过程](https://supermemo.guru/wiki/Childhood_passions)，它推荐书法和正字法。非学校教育者在 Roblox 中编程距离和角度时，另一个受过教育的孩子则在痛苦地记忆乘法表。[Seymour Papert](https://supermemo.guru/wiki/Seymour_Papert) 在 YouTube 出现前就已对这种不和谐感到惋惜。如今他的棺材板可能已经压不住了。具体可以参见：[学校字识（letteracy）的隧道视野](https://supermemo.guru/wiki/Tunnel_vision_of_school_letteracy)。
+同时，不上学的孩子可能会迅速提高编程技能，并发现 Roblox 中通过游戏内购赚取百万美元的机会。这种认识可能会驱使孩子走上编程职业之路。这条道路充满激情且始于早年。[学校的教育模式则阻碍了这一过程](https://supermemo.guru/wiki/Childhood_passions)，它推荐书法和正字法。非学校教育者在 Roblox 中编程距离和角度时，另一个受过教育的孩子则在痛苦地记忆乘法表。[Seymour Papert](https://supermemo.guru/wiki/Seymour_Papert) 在 YouTube 出现前就已对这种不和谐感到惋惜。如今他的棺材板可能已经压不住了。具体可以参见：[学校字识（letteracy）的隧道视野](https://supermemo.guru/wiki/Tunnel_vision_of_school_letteracy)。
 
 尝到自由滋味的孩子会坚决地捍卫它。所有对兴趣分支的裁剪都会让他感到特别痛苦，这与[学习的乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)形成了鲜明对比。一个自由的孩子已经在学习力量的道路上走得很远，它感受到了学习的极乐。**一旦成为非学校教育者，就永远不会再回到学校的桎梏中！**
 
