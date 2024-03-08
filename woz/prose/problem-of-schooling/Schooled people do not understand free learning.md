@@ -62,7 +62,7 @@
 
 ## 进步无法被衡量
 
-[自由学习](https://supermemo.guru/wiki/Free_learning)是不可预测的，它蜿蜒前行。它开始时没有具体目标，然后不断变换目标。因此，我们无法通过测试来衡量非学校教育者的知识。这样的测试需要针对个人的激情和兴趣，可能是多个学科的混合，比例各异。大多数情况下，测试答案可能不尽人意，因为在[自由学习](https://supermemo.guru/wiki/Free_learning)中，没有强加的思维模式。重新定义对现实的看法是常态。在[自由学习](https://supermemo.guru/wiki/Free_learning)中，我们可能会遇到看似荒谬的结果，比如从未学会星期几的学生，因为他从不将时间划分为七天一周期。这种选择性的无知孕育了创造力，有助于跳出固定框架思考问题，并成为人类[多样性](https://supermemo.guru/wiki/Diversity)力量的一部分。
+[自由学习](https://supermemo.guru/wiki/Free_learning)是不可预测的，它蜿蜒前行。它开始时没有具体的目标，然后不断地改变目标。因此，没有一种测试可以衡量一个非学校教育者的知识。这种测试需要针对个人的激情和兴趣。它可能是十几个学科的混合，比例各不相同。最有可能的是，对测试问题的回答可能会令人不满，因为在[自由学习](https://supermemo.guru/wiki/Free_learning)中，没有强加的思维模式。重新定义对现实的看法是常态。在[自由学习](https://supermemo.guru/wiki/Free_learning)中，我们可能会遇到看似荒谬的结果，比如一个学生从不将时间划分为七天一周期，因此他从未学会星期几。这种选择性的无知孕育了创造力，有助于跳出固定框架思考问题，并成为人类[多样性](https://supermemo.guru/wiki/Diversity)力量的一部分。
 
 [![Exploration pathways at school and in unschooling.png](https://supermemo.guru/images/thumb/8/87/Exploration_pathways_at_school_and_in_unschooling.png/500px-Exploration_pathways_at_school_and_in_unschooling.png)](https://supermemo.guru/wiki/File:Exploration_pathways_at_school_and_in_unschooling.png)
 
@@ -70,11 +70,11 @@
 
 ## 我傲慢的信念
 
-我敢说自己是世界上最有资格评判学校教育和[自由学习](https://supermemo.guru/wiki/Free_learning)的人之一。我对两方都有足够了解（请参见：[我的资格](https://supermemo.guru/wiki/Problem_of_schooling:_My_qualifications)）。虽然[顺服校驯](https://supermemo.guru/wiki/Well-schooled)者尽可以勇敢捍卫自己的立场，但他们需要意识到，他们之所以持这种立场，是因为他们从未真正体验过[自由学习](https://supermemo.guru/wiki/Free_learning)的乐趣。同时，[非学校教育者](https://supermemo.guru/wiki/Unschooling)对立场并不在乎。他们知道[自由学习](https://supermemo.guru/wiki/Free_learning)的力量，并投身于自己的快乐生活。他们将学校制度视为历史的遗迹，是一种他们无能为力的恶。我们也是这样，虽忙着日常琐事，但也了解各种恶行，比如象牙海岸的儿童劳动，现代奴隶制，气候变化，沙特阿拉伯、俄罗斯、伊朗或本国的侵犯人权问题。我们一次只能解决一个问题。
+我敢说我是世界上最有资格评判学校教育和[自由学习](https://supermemo.guru/wiki/Free_learning)的人之一。我对两方都有足够了解（请参见：[我的资格](https://supermemo.guru/wiki/Problem_of_schooling:_My_qualifications)）。虽然[顺服校驯](https://supermemo.guru/wiki/Well-schooled)者尽可以勇敢捍卫自己的立场，但他们需要意识到，他们之所以持这种立场，是因为他们从未真正体会过[自由学习](https://supermemo.guru/wiki/Free_learning)的乐趣。同时，[非学校教育者](https://supermemo.guru/wiki/Unschooling)对立场并不在乎。他们知道[自由学习](https://supermemo.guru/wiki/Free_learning)的力量，并投身于自己的快乐生活。他们将学校制度视为历史的遗迹，是一种他们无能为力的恶。我们也是这样，虽忙着日常琐事，但也了解各种恶行，比如象牙海岸的儿童劳动，现代奴隶制，气候变化，沙特阿拉伯、俄罗斯、伊朗或本国的人权问题。我们一次只能专注解决一个问题。
 
-我在共产主义灌输时代的公共机构中接受了 26 年的「教育」。我对学校了如指掌，这一判断并不是依据负面情绪做出的。我从未[讨厌学校](https://supermemo.guru/wiki/Why_kids_hate_school)，甚至毕业后多年我一直捍卫这一机构。
+我在共产主义灌输时代的公共机构中接受了 26 年的「教育」。我对学校了如指掌，这一判断并不是依据负面情绪做出的。我从未[讨厌学校](https://supermemo.guru/wiki/Why_kids_hate_school)，甚至毕业后多年还在一直捍卫这一机构。
 
-然而，接下来的 30 年里我完全采用自由学习](https://supermemo.guru/wiki/Free_learning)，其中最后 20 年我开始使用[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)。渐进阅读是自由学习的最佳比喻，也是研究其动态和最优性的最佳工具（参见：[学习内驱力的最优性](https://supermemo.guru/wiki/Optimality_of_the_learn_drive)）。通过渐进阅读，我能看到[知识树](https://supermemo.guru/wiki/Knowledge_tree)逐渐生长。我能看到偏见和激情。我注意到了知识的背景和积极的联想。我能注意到如何解决生活中各种问题。我注意到有一些知识分支在学校被忽略或者厌恶，但现在充斥着各种想法，完全契合我的需要。我能可靠地比较学校和[自由学习](https://supermemo.guru/wiki/Free_learning)，而胜者是自由。首轮当即就 KO！我大部分在学校学到的知识大抵都已[遗忘](https://supermemo.guru/wiki/Forgetting)，并且经常以不同的方式重新学习。正是那些超出学校教育范围的新知识，为我带来了最大的快乐能量。如果你从未尝试过自由学习，请相信我的话：它很棒！
+然而，接下来的 30 年里我完全采用[自由学习](https://supermemo.guru/wiki/Free_learning)，其中后 20 年我开始使用[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)。渐进阅读是自由学习的最佳比喻，也是研究其动态和最优性的最佳工具（参见：[学习内驱力的最优性](https://supermemo.guru/wiki/Optimality_of_the_learn_drive)）。通过渐进阅读，我能看到[知识树](https://supermemo.guru/wiki/Knowledge_tree)逐渐生长。我能看到偏见和激情。我注意到了知识的背景和积极的联想。我能注意到如何解决生活中各种问题。我注意到有一些知识分支在学校被忽略或者厌恶，但现在充斥着各种想法，完全契合我的需要。我能可靠地比较学校和[自由学习](https://supermemo.guru/wiki/Free_learning)，而胜者是自由。首轮当即就 KO！我大部分在学校学到的知识大抵都已[遗忘](https://supermemo.guru/wiki/Forgetting)，并且经常以不同的方式重新学习。正是那些超出学校教育范围的新知识，为我带来了最大的快乐能量。如果你从未尝试过自由学习，请相信我的话：它很棒！
 
 要想对学校教育和[自由学习](https://supermemo.guru/wiki/Free_learning)进行有效的比较，你需要结合多年的学校教育和自由学习经验。
 
