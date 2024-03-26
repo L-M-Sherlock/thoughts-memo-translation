@@ -1,4 +1,4 @@
-# 科学家发明了抖音使用障碍
+# 科学家发明了 TikTok 使用障碍
 
 原文：[Scientists invent TikTok use disorder (TTUD) - supermemo.guru](https://supermemo.guru/wiki/Scientists_invent_TikTok_use_disorder_(TTUD))
 
@@ -14,25 +14,31 @@
 
 学校游说团助长了大量劣质的亲学校研究。
 
-## 抖音使用障碍
+## TikTok 使用障碍
 
-今年，一个新概念开始在媒体上流传：抖音使用失调症。这项研究再次来自强制学校教育之都：亚洲。
+今年，一个新概念开始在媒体上流传：TikTok 使用障碍。这项研究再次来自强制学校教育之都：亚洲。
 
-研究者们使用相关性和一个听起来很有说服力的[直接/间接效应](https://www.frontiersin.org/articles/10.3389/fpsyg.2017.01984/full)，在媒体中被解释为：「抖音导致抑郁、焦虑和记忆力丧失」。经过社交媒体上几轮流言蜚语的发酵，变成了：「[抖音对心理健康有可怕的后果](https://www.healththoroughfare.com/disease/tiktok-addiction-could-lead-to-awful-mental-health-consequences-for-teenagers-new-study-reveals/43292)」。
+研究者们使用相关性和一个听起来很有说服力的[直接/间接效应](https://www.frontiersin.org/articles/10.3389/fpsyg.2017.01984/full)，在媒体中被解释为：「TikTok 导致抑郁、焦虑和记忆力丧失」。经过社交媒体上几轮流言蜚语的发酵，变成了：「[TikTok 对心理健康有可怕的后果](https://www.healththoroughfare.com/disease/tiktok-addiction-could-lead-to-awful-mental-health-consequences-for-teenagers-new-study-reveals/43292)」。
 
 一个新的强有力的谬误和迷因诞生了：TikTok 对你的健康有害。
 
 ## 罪魁祸首
 
-然而，这篇文章本身并不仅仅是一个无辜的相关性研究。它在摘要中使用了**抖音使用障碍**这一术语，但在正文中并没有对该术语进行解释。当我检查谷歌学术时，这个术语似乎只在所述文章的标题中使用过，而且在心理学或精神病学的文献中可能从未使用过。自然地，DSM V、IDC-11 或 WHO 中既没有定义[互联网成瘾症](https://en.wikipedia.org/wiki/Internet_addiction_disorder) ，更不用说抖音使用障碍了。
+然而，这篇文章本身并不仅仅是一个无辜的相关性研究。它在摘要中使用了**TikTok 使用障碍**这一术语，但在正文中并没有对该术语进行解释。当我检查谷歌学术时，这个术语似乎只在所述文章的标题中使用过，而且在心理学或精神病学的文献中可能从未使用过。自然地，DSM V、IDC-11 或 WHO 中既没有定义[互联网成瘾症](https://en.wikipedia.org/wiki/Internet_addiction_disorder) ，更不用说 TikTok 使用障碍了。
 
 摘要中写道：
+
+> 结果显示，抑郁和焦虑在**TikTok使用障碍**与数字广度顺背之间起到了一定的中介效应
+
+在此，我向研究人员提出挑战，反驳一个我认为正确无疑的替代假设：是学校引起了抑郁，进而影响了记忆力，通过[奖励缺失](https://supermemo.guru/wiki/Reward_deficit)增加了 TikTok 的使用。那些最受学校负面影响的孩子更容易感到抑郁，也更倾向于在毫无意义的抖音使用中寻找慰藉（而不是正面利用 TikTok 或 YouTube）。我在[奖励多样性在预防成瘾中的作用](https://supermemo.guru/wiki/Reward_diversity_in_preventing_addictions)中解释了细节。
+
+有一篇来自中国的误导性研究论文试图证明 TikTok 导致记忆力下降。
 
 ## 参考文献
 
 ------
 
-*引用的摘录来自以下[参考资料](https://supermemo.guru/wiki/References)：*
+引用的摘录来自以下[参考资料](https://supermemo.guru/wiki/References)：
 
 标题：**Research on Adolescents Regarding the Indirect Effect of Depression, Anxiety, and Stress between TikTok Use Disorder and Memory Loss**
 
