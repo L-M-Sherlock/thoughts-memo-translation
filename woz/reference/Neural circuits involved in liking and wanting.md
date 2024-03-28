@@ -10,10 +10,12 @@
 
 引用的摘录来自以下[参考资料](https://supermemo.guru/wiki/References)：
 
-标题：*外侧伏隔核中的愉悦热点：μ-阿片受体在何处增加甜味的愉悦影响？**
+标题：外侧伏隔核中的愉悦热点：μ-阿片受体在何处增加甜味的愉悦影响？
 
 作者：Susana Peciña 和 Kent C. Berridge
 
 日期：2005 年
 
 反向链接：[学习的乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)
+
+链接：http://www.jneurosci.org/content/25/50/11777.long
