@@ -6,9 +6,9 @@
 
 发表于 2011 年 7 月 28 日 | [审稿人： Ekua Hagan](https://www.psychologytoday.com/us/docs/editorial-process)
 
-让我向您介绍[Dr. Kirsten Olson](http://www.kirstenolson.org/aboutkirsten.php)。她是一位教研员、活动家、顾问和作家，对孩子们、学习以及我们学校的状况深感关切。她还担任[IDEA](http://www.democraticeducation.org/)（美国民主[教育](https://www.psychologytoday.com/us/basics/education)研究所）董事会主席等职务。
+[Kirsten Olson](http://www.kirstenolson.org/aboutkirsten.php)博士，一位教研员、活动家、顾问、作家，她关爱孩子，钻研教育，还密切关注当今学校的状况。同时，她还担任[IDEA](http://www.democraticeducation.org/)（美国民主[教育](https://www.psychologytoday.com/us/basics/education)研究所）董事会主席等职务。
 
-几周前，我第一次见到她，我们一起共进午餐并进行了交谈，之后，我急切地阅读了她的最新著作*[《为学校所伤：重拾学习乐趣，对抗旧学校文化》](http://www.kirstenolson.org/wounded.php)*。如果您曾经上过学，或者孩子在上学，或者孩子将来会上学，或者关心在校儿童，我向您推荐这本书。
+几周前，我第一次见到她，一起共进了午餐，进行了交谈。之后，我如饥似渴地阅读了她的新作*[《为学校所伤：重拾学习乐趣，对抗旧学校文化》](http://www.kirstenolson.org/wounded.php)*。如果您曾经上过学校，或者孩子在上学，或者孩子将来会上学，或者关心在校儿童，我力荐此书。
 
 《为学校所伤》(Wounded by School)是 Olson 在哈佛大学攻读教育学博士学位期间开始研究的成果。作为热爱学习、一向高度重视教育的人，Olson 原本打算研究人们在学校教育过程中体验到的喜悦与启迪。但当她开始采访人们，了解这些积极影响时，却发现他们谈论的却是学校教育带来的痛苦。Olson 的博士生导师 Sara Laurence-Lightfoot 在该书前言中这样写道：
 
