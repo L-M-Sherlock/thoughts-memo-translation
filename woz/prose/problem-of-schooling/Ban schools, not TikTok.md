@@ -6,7 +6,7 @@
 
 ## 学校是愚昧的大本营
 
-学校控诉到：“社交媒体损害学生心理健康”。但如果我们从科学的视角来解释这一论点，不难发现真正应该被禁的恰恰是学校本身。
+学校控诉到：「社交媒体损害学生心理健康」。但如果我们从科学的视角来解释这一论点，不难发现真正应该被禁的恰恰是学校本身。
 
 最需要补救的愚昧之处，是学习乐趣的重要性。如果学习没有乐趣，那它就失去了意义，因为乐趣从个人的[旧知识](https://supermemo.guru/wiki/Prior_knowledge)与新知识之间的匹配中产生（详见：[学习的乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)）。
 
@@ -18,7 +18,7 @@ TikTok 之所以受欢迎，是因为它带来了一套出色的学习算法。
 
 ## 学校的训狗技巧
 
-针对社交媒体的争议还在进一步发酵。斯金纳B.F. Skinner的实验曾让我们将奖励视为一种控制工具。有人声称，TikTok 能够操控使用者，就像斯金纳训练鸽子打乒乓球一样。这一误解的核心在于，公众对[学习乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)的无知。鸽子接受[外部奖励](https://supermemo.guru/wiki/Extrinsic_reward)来表演那些本身并不让它们感到有趣的把戏。**乐趣来源于鸽子的主人**。与此相反，TikTok 产生的乐趣来源于学习过程中获得的实际知识。与 TikTok 有关的唯一问题在于，孩子大脑认为有价值的知识，经常被父母和老师视为是「浪费时间」。但成年人是错的（见：[孩子永远是对的](https://supermemo.guru/wiki/Child_is_always_right)）。TikTok 传播知识，从而改变行为，这是学习的自然部分，旨在帮助人适应环境。
+针对社交媒体的争议还在进一步发酵。斯金纳 B.F. Skinner 的实验曾让我们将奖励视为一种控制工具。有人声称，TikTok 能够操控使用者，就像斯金纳训练鸽子打乒乓球一样。这一误解的核心在于，公众对[学习乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)的无知。鸽子接受[外部奖励](https://supermemo.guru/wiki/Extrinsic_reward)来表演那些本身并不让它们感到有趣的把戏。**乐趣来源于鸽子的主人**。与此相反，TikTok 产生的乐趣来源于学习过程中获得的实际知识。与 TikTok 有关的唯一问题在于，孩子大脑认为有价值的知识，经常被父母和老师视为是「浪费时间」。但成年人是错的（见：[孩子永远是对的](https://supermemo.guru/wiki/Child_is_always_right)）。TikTok 传播知识，从而改变行为，这是学习的自然部分，旨在帮助人适应环境。
 
 把使用 TikTok 比作训狗是不当的，它完全错失了学习的本质。相反，用训狗来形容学校教育方法倒是恰到好处。孩子们在学校里就像被奖励和惩罚训练的狗。他们要完成的任务通常是通过考试（靠[死记硬背](https://supermemo.guru/wiki/Cramming)）。常见的奖励是好成绩或表扬，惩罚则是差成绩、留级或被斥责。在[普鲁士学校模型](https://supermemo.guru/wiki/Prussian_school_model)的这一谬误的叙述中，这些训狗技巧累积起来就是某种知识和技能。然而，孩子们很少再被训练同样的技能，他们很少在学习中找到乐趣。结果，[遗忘的速度](https://supermemo.guru/wiki/Speed_of_forgetting)和[学习的速度](https://supermemo.guru/wiki/Speed_of_learning)一样快。这是花纳税人的钱来浪费生命。人类的学习潜能要比学校里发挥得多上 20-200 倍。
 
