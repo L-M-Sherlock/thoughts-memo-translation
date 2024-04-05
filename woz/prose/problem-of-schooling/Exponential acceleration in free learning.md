@@ -1,4 +1,4 @@
-# 自由学习的指数加速特点
+# 自由学习的指数加速
 
 原文：[Exponential acceleration in free learning - supermemo.guru](https://supermemo.guru/wiki/Exponential_acceleration_in_free_learning)
 
