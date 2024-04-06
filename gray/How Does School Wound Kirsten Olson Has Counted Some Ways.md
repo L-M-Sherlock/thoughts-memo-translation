@@ -1,6 +1,6 @@
 # 学校教育如何造成伤害？Kirsten Olson 告诉了我们一些例子
 
-[How Does School Wound? Kirsten Olson Has Counted Some Ways | Psychology Today](https://www.psychologytoday.com/us/blog/freedom-learn/201106/how-does-school-wound-kirsten-olson-has-counted-some-ways)
+原文：[How Does School Wound? Kirsten Olson Has Counted Some Ways | Psychology Today](https://www.psychologytoday.com/us/blog/freedom-learn/201106/how-does-school-wound-kirsten-olson-has-counted-some-ways)
 
 # 对话 Kirsten Olson 博士：学校造成七种创伤
 
