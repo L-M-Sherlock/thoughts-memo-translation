@@ -50,57 +50,57 @@
 
 ## 拼图比喻
 
-[拼图比喻](https://supermemo.guru/wiki/Jigsaw_puzzle_metaphor)也可以用来解释学习中的指数型突增。[学校教育](https://supermemo.guru/wiki/Schooling)可以被比作对教师提供的线性拼图碎片流的费力分析，其顺序由[课程](https://supermemo.guru/wiki/Curriculum)决定，井然有序。从理论上讲，这种流应该使我们有可能将碎片逐一对齐。然而，[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的确定与课程的确定之间的差距每年都在不断加大。当一年级学生合理地快乐地学习将新的字母添加到他们的知识体系中时，4-5 年后，由于理解力差，或完全缺乏兴趣，大多数孩子坐在课堂上无聊得要死。这种情况在学习外语时最明显，高中毕业生往往无法与 4 岁的母语儿童竞争（我就是[其中一个毕业生](https://supermemo.guru/wiki/Schools_are_useless_in_teaching_English)）。
+[拼图比喻](https://supermemo.guru/wiki/Jigsaw_puzzle_metaphor)同样可以用于解释学习中的快速突增。[学校教育](https://supermemo.guru/wiki/Schooling)可以被比作是一种劳累的分析过程，其中老师按照[课程](https://supermemo.guru/wiki/Curriculum)安排的顺序提供了一系列有序的拼图碎片。理论上，这种流程应当使得学生能够一个接一个地对齐这些碎片。然而，[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的决定与课程安排之间的差异却年复一年地越拉越大。当刚进入学校的一年级学生还能高兴地将新学的字母融入他们的知识体系时，四到五年后，大多数孩子因为理解力不足或完全缺乏兴趣而在课堂上无聊得要死。这种情况在学习外语时最明显，高中毕业生的外语水平经常赶不上一个四岁的母语者（我自己就是[这样的一位毕业生](https://supermemo.guru/wiki/Schools_are_useless_in_teaching_English)）。
 
-相比之下，[自由学习](https://supermemo.guru/wiki/Free_learning)更让人想起我们如何**有效地**解决拼图。我们观察整个碎片的组合，并对哪些碎片更有可能适合做出有根据的决定。我们挑选那些碎片，并尝试进行匹配。这就是[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的工作方式：智能知识匹配。不用说，这种自由的方法带来了更快的拼图增长，而增长的轨迹可能很难事先预测。在[自由学习](https://supermemo.guru/wiki/Free_learning)中，孩子会建立大量的拼图岛屿，而这些岛屿是指数级爆炸的关键。
+相比之下，[自由学习](https://supermemo.guru/wiki/Free_learning)更像是我们高效解决拼图的方式。我们会整体观察所有碎片，根据直觉判断哪些可能相配，然后挑选出来尝试拼接。这就是[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的工作方式：智能的知识匹配。显然，这种自由的探索方式能迅速扩展知识的拼图，其拓展的路径往往难以提前预测。在[自由学习](https://supermemo.guru/wiki/Free_learning)中，孩子们会构建许多知识小岛，正是这些小岛构成了知识爆炸性增长的基石。
 
-一旦大量的拼图碎片形成岛屿，指数级的进步就成为可能，因为一个碎片可以立即连接之前组装好的大面积部分。学生可以看到大的画面，使进一步的工作变得更加容易。这让人联想到发现[整个拼图的意义](https://georgios.blog/deep-knowledge-shallow-links/)时的顿悟。
+一旦大量的拼图碎片形成了多个小岛，就可能实现指数级的进步，因为某一个碎片能瞬间连接起之前组装好的大片区域。学生能够看到整体图景，这让后续的工作变得更加轻松。这让人联想到那种因领悟到[整个拼图的含义](https://georgios.blog/deep-knowledge-shallow-links/)而来的顿悟。
 
-换句话说，一开始的高速学习来自于平行组装（与学校里的线性碎片流不同），看似缺乏进展来自于不连贯（在知识岛被连接起来之前，它们无法被有效利用），加速来自于对以前形成的知识岛的快速重新组装，最后的喷发来自于顿悟：对整个拼图意义的认识。
+换句话说，最初的快速学习来自于并行组装（这与在学校里线性地组装一系列碎片形成鲜明对比），暂时看不到进展是因为这些知识碎片尚未形成连贯的体系（在这些知识小岛连接成网络前，它们无法被有效利用），加速源于之前形成的知识小岛的迅速整合，而最终的飞跃，则是来自于那一瞬的顿悟——明白了整个拼图的含义。
 
-## 电视调频比喻
+## 电视调谐比喻
 
-在旧时，调入电视信号会逐渐将一个灰色的静态图像转换成一个漂亮清晰的电视画面。在学校教育中，我们的目标是以系统的方式，从最上面一排，从左到右，一个像素一个像素地建立整个完美的图像。对这一过程的任何破坏都可能导致图像的斑驳。在这个理想化的教育形象中，在生病时快速恢复是很重要的。这是由于生病会导致完美图像中的像素可能丢失的事实。在自由学习中，各种形式的按需加速和减速是一种常态。学习的速度是最佳的。
+在以前，在调谐到电视信号的过程中，一片灰蒙蒙的静态图像将逐渐转化为清晰的电视画面。在学校教育中，我们的目标是以系统的方式逐像素构建完整的画面，从上到下，从左到右。任何干扰都可能导致画面斑驳。在这种理想化的教育图景中，生病后的康复速度变得格外重要，因为生病可能导致完美画面中丢失了一些「像素」。而在自由学习中，根据需要加快或放慢学习的步伐是常有的事，学习的速度总是恰到好处。
 
-一位政府发言人将呼吁教师的良知：「如果你们今天罢工，孩子们可能会错过指数化，一生都会留下知识空白」（发言人 [Joanna Kopcińska](https://pl.wikipedia.org/wiki/Joanna_Kopcińska)的实际话语，波兰，2019 年 3 月 12 日）。
+政府发言人会呼吁教师的良知：「如果你们今天罢工，孩子们可能就会错过指数运算的学习，终生留下知识上的缺口。」（2019 年 3 月 12 日，发言人 [Joanna Kopcińska](https://pl.wikipedia.org/wiki/Joanna_Kopcińska)在波兰的真实发言）。
 
-在[自由学习](https://supermemo.guru/wiki/Free_learning)中，在我们对电视画面显示的内容有一个大致的概念之前，我们早就随机地组合了图像的各个区域。
+在[自由学习](https://supermemo.guru/wiki/Free_learning)中，在我们对电视画面究竟是什么还没个明确概念前，我们就开始随机拼凑图像的各个片段。
 
-神经网络的泛化能力可能在一个微小的数据到来时突然触发识别。同样的能力可能被用于识别整个电视图像。一旦清晰度调得足够好，一个突然的顿悟就可能揭示出潜在的图像。同样的顿悟也会在更小的范围内一次又一次发生在知识的微小子领域。一个领域的小顿悟，可能会促成更高层面的大顿悟。这就是学习进展的连锁反应的发展过程。
+神经网络的泛化能力能在接收到某个小片段信息时突然激发识别。这种能力同样适用于识别整个电视图像。一旦调得足够清晰，一个突如其来的顿悟可能会让我们看清背后的图案。这种顿悟在知识的小分支上一次次发生，每个小分支上的顿悟能为更广泛的知识体系中的大顿悟提供助力。这就是学习进步的链式反应的过程。
 
-## 建筑房屋比喻
+## 盖房子比喻
 
-在废除旧的[普鲁士学校模式](https://supermemo.guru/wiki/Prussian_school_model)的努力中，[萨尔·可汗](https://supermemo.guru/wiki/Sal_Khan)和他的[可汗学院](https://supermemo.guru/wiki/Khan_Academy)是典型的贡献者和灵感来源。然而，萨尔·可汗在巡回演讲中使用的一个比喻具有误导性。在谈到[学校教育问题](https://supermemo.guru/wiki/Problem_of_schooling)时，可汗使用了一个比喻，即建筑商未能建造房屋的第二层，而被迫像在学校一样，建造第三层。在学习数学时，这显然会导致令人沮丧的理解力。如果你不知道如何加数，你就无法理解指数化。
+在废除古老的[普鲁士学校模式](https://supermemo.guru/wiki/Prussian_school_model)的努力中，[萨尔·可汗](https://supermemo.guru/wiki/Sal_Khan)和他的[可汗学院](https://supermemo.guru/wiki/Khan_Academy)无疑是重要的推动者和灵感来源。然而，可汗在讲座中使用了一个比喻，这个比喻其实有些误导人。他谈到[学校教育的问题](https://supermemo.guru/wiki/Problem_of_schooling)时，使用了一个比喻，说建筑工人在未能建好房屋的第二层的情况下，被迫像在学校一样，建造第三层。显然，在学习数学时，这种做法会产生极其糟糕的理解。如果你不懂得如何进行加法计算，你就无法理解指数运算。
 
-这个比喻的问题在于，当它被过分地从字面上理解时，它实际上可能反对[自由学习](https://supermemo.guru/wiki/Free_learning)。毕竟，[自由学习](https://supermemo.guru/wiki/Free_learning)最好用自由来表达，例如开放的市场，而[直接教学法](https://supermemo.guru/wiki/Direct_instruction)导致结构化的学习，可能遵循[课标](https://supermemo.guru/wiki/Curriculum)的严格路径。很难想象在集市的地方会出现一座大教堂。
+这个比喻的问题在于，如果我们太过于字面上去理解它，它实际上可能会误导我们反对[自由学习](https://supermemo.guru/wiki/Free_learning)。毕竟，[自由学习](https://supermemo.guru/wiki/Free_learning)的精髓应该体现在自由上，比如说开放的市场，而[直接教学法](https://supermemo.guru/wiki/Direct_instruction)则会导致按照固定的[课标](https://supermemo.guru/wiki/Curriculum)路径进行结构化学习。很难想象，一个精心规划的大教堂能从一个自由杂乱的集市中诞生。
 
-解决这个比喻论的关键是理解学习导致知识，而知识在头脑中形成一个[语义网络](https://supermemo.guru/wiki/Semantic_network)。因此，学习的顺序对理解力至关重要，而[自由学习](https://supermemo.guru/wiki/Free_learning)通过简单地拒绝输入无聊或深奥的材料，将理解力优化到完美的程度。不过，在建筑学中，对说明语义网络成长的图形所施加的限制更为严格：它们受到物理学定律的限制。我们不能在打好地基之前建造大教堂的屋顶。
+理解这个比喻悖论的关键在于，学习带来的知识会在大脑里形成一个[语义网络](https://supermemo.guru/wiki/Semantic_network)。因此，学习的先后顺序对于理解极为关键，而[自由学习](https://supermemo.guru/wiki/Free_learning)通过简单地拒绝那些枯燥或难以理解的内容，以达到完美优化理解的效果。在建筑领域，语义网络增长图的限制条件则更加严格：它们受到物理定律的限制。我们不可能在没有打好地基的情况下就建造起大教堂的屋顶。
 
-对于物理学的限制，一个现代的解决方案是开放源码架构。在开放源码架构中，在进入施工阶段之前，我们可以使用开放源码的子组件生成复杂的设计。
+面对物理法则的限制，开源建筑提供了一种现代化的解决方法。在开始建造前，我们可以利用开源子部件来设计复杂的结构。
 
-如果我们用[开源架构](https://en.wikipedia.org/wiki/Open-source_architecture)作为一个比喻，我们确实可以从屋顶开始建造房屋。这只是一个兴趣、可用的子组件和想象力的问题。孩子也可以通过观察细菌在试管中的生长来学习指数，或者看看海滩上的石头是如何沿着与海沟的距离成负指数的函数散落的。对指数函数的初步理解几乎不需要对 3+3 的理解。我敢说，对数学的理解应该远远早于对公式的运用。
+如果用[开源建筑](https://en.wikipedia.org/wiki/Open-source_architecture)来比喻，我们确实可以从屋顶开始建房子。这只取决于兴趣、可用的子部件和想象力。孩子也可以通过观察试管里细菌的增长来理解指数函数，或者观察海滩上的石头如何按照与防波堤距离的负指数分布。要理解指数函数的基本概念，其实并不一定需要先理解 3+3。我敢说，理解数学应该早于套用公式。
 
-在开源架构中，我们也可以看到进步的指数式爆炸。在早期阶段，当没有组件可以使用时，开发者需要从头开始设计所有的螺栓和板子。在第一座房子的第一个设计出现之前，还需要一段时间。然而，一旦组件成倍增加，更复杂的结构具体化 ，我们可以看到可用于施工的设计呈指数级增长。如果运气好的话，也会出现一两座现代大教堂。只有当我们用完了可用的建筑师时，指数式的进展才会变成一个逻辑斯蒂 S 曲线。人类的学习也受限于记忆的特性，然而，通过[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)，饱和度被推迟了。理论上，通过使用 [SuperMemo](https://supermemo.guru/wiki/SuperMemo)，终身学习的进度曲线几乎是线性的。
+在开源建筑领域，我们也能见证到进展的指数爆炸。初始阶段，开发者手头无任何可用零件，必须一切从零开始，设计每一个螺丝和板材。首个设计问世还需时日。然而，随着组件日益增多，更为复杂的结构形成，可用于施工的设计数量迅速增加，成长速度惊人。如果运气好，可能还能看到一两座现代化的大教堂诞生。这样的飞速发展，只有当我们用完了可用的建筑师，才会变成一个平稳增长的 S 形曲线。人的学习能力虽受记忆特性限制，但通过[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)，这种饱和点可以被推迟。理论上，通过使用 [SuperMemo](https://supermemo.guru/wiki/SuperMemo)，终身学习的进度曲线几乎是线性的。
 
 [![Open source architecture allows of growth spurts in design](https://supermemo.guru/images/thumb/0/05/Open_Bricks_for_open_source_architecture.png/600px-Open_Bricks_for_open_source_architecture.png)](https://supermemo.guru/wiki/File:Open_Bricks_for_open_source_architecture.png)
 
-> 图：[萨尔曼·可汗](https://supermemo.guru/wiki/Sal_Khan)的建房比喻可能被误解。它并不意味着需要学校或[直接教学法](https://supermemo.guru/wiki/Direct_instruction)。在它坚持学习的有序顺序的地方，它没有强调可能的设计决定或学习选择的图形中的多个分支节点。在开源建筑中，建筑之家可利用众包的方式。当知识的[语义网](https://supermemo.guru/wiki/Concept_network)摆脱了实际建筑的物理限制，房屋设计就是一个更好的学习类比。[自由学习](https://supermemo.guru/wiki/Free_learning)，就像自由设计一样，允许无计划的创造性增长，其特点是意外的指数式加速。
+> 图：[萨尔·可汗](https://supermemo.guru/wiki/Sal_Khan)的盖房子比喻可能被误解。它并不意味着必须要有学校或[直接教学法](https://supermemo.guru/wiki/Direct_instruction)。它在强调学习顺序的同时，却没怎么提到在设计决策或学习途径的海量可能中，存在许多可以拓展的节点。在开源建筑中，建房子可以借助众人之力。当知识的[语义网](https://supermemo.guru/wiki/Concept_network)不再受到实际建造的物理限制时，用设计房屋来类比学习过程就显得更加恰当了。[自由学习](https://supermemo.guru/wiki/Free_learning)，就像自由设计一样，允许不按计划的创造性成长，其特点是意料之外的指数级加速增长。
 
-## SuperMemo 中的指数学习
+## SuperMemo 中的指数式学习
 
 SuperMemo 插入。[什么是 SuperMemo？](https://supermemo.guru/wiki/What_is_SuperMemo%3F)
 
-对 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 用户的教训是，[自由学习](https://supermemo.guru/wiki/Free_learning)也应该是[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)的指导。经常发生这样的情况：学校和[课标](https://supermemo.guru/wiki/Curriculum)
+[SuperMemo](https://supermemo.guru/wiki/SuperMemo) 给用户的教训是，[自由学习](https://supermemo.guru/wiki/Free_learning)也应该是[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)的指导原则。学校和[课标](https://supermemo.guru/wiki/Curriculum)学校和课程安排往往成了
 
-成为了 SuperMemo 中的指导。结果，SuperMemo 非但没有改善学习过程，反而有助于使学校的经历变得更加痛苦。不仅是学习的顺序远离了最佳状态，而且成本也成倍增加
+SuperMemo 中的指导，这不仅没能改进学习过程，反而可能让在学校的经历变得更加痛苦。不仅学习的顺序远离了最佳状态，而且成本会随着间隔重复的效率而倍增，这大大增加了保留不连贯知识的成本。
 
-在[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)的“帮助”下
+[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)
 
- 这极大地增加了保留不连贯的知识的成本。在错误的环境下，SuperMemo 有效地促进了低效的学习。
+在错误的标准下，SuperMemo 高效地促进了低效的学习。
 
-相反，在SuperMemo中，我们应该模仿[自由学习](https://supermemo.guru/wiki/Free_learning)，将基本的知识片段与存储在[SuperMemo](https://supermemo.guru/wiki/SuperMemo)中的高保留链接结合起来。换句话说，我们需要先自由地学习，然后只有在[自由学习](https://supermemo.guru/wiki/Free_learning)中证明了知识的有用性后，再将其储存起来进行[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)。使上述情况成为可能的自然过程是[增量阅读](https://supermemo.guru/wiki/Incremental_reading)，它将新知识的[自由学习](https://supermemo.guru/wiki/Free_learning)与通过间隔复习使其终身坚硬交织在一起。
+我们应该在 SuperMemo 里效仿[自由学习](https://supermemo.guru/wiki/Free_learning)，将必要的知识点和 [SuperMemo](https://supermemo.guru/wiki/SuperMemo)中储存的高保持连接绑定起来。也就是说，我们得先自由地学，只有在这些知识在[自由学习](https://supermemo.guru/wiki/Free_learning)中证明了其价值之后，我们再对它们进行[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)。让这一切成为可能的，是所谓的[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)，它让我们在[自由学习](https://supermemo.guru/wiki/Free_learning)新知识的同时，通过间隔复习把这些知识牢牢记住。
 
-对顺序数据库的线性记忆与学校教育没有区别，可能会降低学习的整体效率。事实上
+线性记忆顺序数据库与学校教育无异，可能会降低学习的总体效率。
 
 [SuperMemo](https://supermemo.guru/wiki/SuperMemo)确保高[保留率](https://supermemo.guru/wiki/Retention)
 
