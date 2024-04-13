@@ -4,49 +4,49 @@
 
 ## 学习的目标
 
-自学校诞生之日起，关于[自由学习](https://supermemo.guru/wiki/Free_learning)的惩腐担忧就一直存在：如果学习是自由的，我们如何在自由学习中指导学习？我们如何实现目标？
+自学校诞生以来，对于[自由学习](https://supermemo.guru/wiki/Free_learning)的陈腐担忧就一直存在：如果学习是自由的，那我们如何在自由学习中确定方向？我们如何完成目标？
 
-如果说学校教育是为了将一个孩子从 A 点带到 B 点，那么至少在理论上，学校是[自由学习](https://supermemo.guru/wiki/Free_learning)的有力竞争者。[自由学习](https://supermemo.guru/wiki/Free_learning)基于[学习内驱力](https://supermemo.guru/wiki/Learn_drive)，使知识的总价值最大化。这种最大化的一个关键组成部分是[学习速度](https://supermemo.guru/wiki/Speed_of_learning)，由于最大化[学习熵](https://supermemo.guru/wiki/Learntropy)的最大化，自由学习的学习速度会大幅提高。自由学习不会事先设定孩子将成为什么样的人，而是让这个过程自然发展。目标和命运都是在这一过程中逐渐显现的。没有人生来就是医生，帮助他人的愿望随着兴趣和知识的增长而逐步形成。
+如果说教育只是为了将一个孩子从 A 点带到 B 点，那么至少在理论上，那么学校和[自由学习](https://supermemo.guru/wiki/Free_learning)难分高下。[自由学习](https://supermemo.guru/wiki/Free_learning)基于[学习内驱力](https://supermemo.guru/wiki/Learn_drive)，使知识的总价值最大化。这种最大化的一个关键成分是[学习速度](https://supermemo.guru/wiki/Speed_of_learning)。由于[学习熵](https://supermemo.guru/wiki/Learntropy)的最大化，自由学习的学习速度会大幅提高。自由学习不会事先设定孩子将成为什么样的人，而是让这个过程自然发展。目标和命运都是在这一过程中逐渐显现的。没有人生来就是医生，帮助他人的愿望随着兴趣和知识的增长而逐步形成。
 
-由于学习速度大大提高，[自由学习](https://supermemo.guru/wiki/Free_learning)的孩子有可能会朝着自己的方向发展，相比于理论上 A-> B 的轨迹（其中 B 是目标）可能会稍有落后。不过，想要追回这一落后，只需要自己决定「达到 B 点」。如果这个决定没有与同龄人进行令人沮丧的比较，那么由[知识估值网络](https://supermemo.guru/wiki/Knowledge_valuation_network)重新校准至 B 点驱动的自由学习，将使实现目标变得相对容易（假设这些目标是可实现的）。
+由于学习速度大大提高，[自由学习](https://supermemo.guru/wiki/Free_learning)的孩子有可能会朝着自己的方向发展，所以相同的 A->B 的过程用时（其中 B 是目标）可能会比较长。不过，想要迎头赶上，只需要自己决定「达到 B 点」。如果这个决定没有导致他与同龄人进行该死的比较，那么由[知识估值网络](https://supermemo.guru/wiki/Knowledge_valuation_network)重新校准至 B 点驱动的自由学习，将使实现目标变得相对容易（假设这些目标是可实现的）。
 
-例如，许多[非学校教育者](https://supermemo.guru/wiki/Unschooling)后来选择参加 [SAT 考试](https://en.wikipedia.org/wiki/SAT)。凭借他们丰富的知识储备和出色的[自学](https://supermemo.guru/wiki/Self-learning)能力，非学校教育者能够轻松应对这个挑战，甚至乐在其中。而接受严厉的学校教育的孩子，在面对同一目标时可能已经精疲力尽。对于那些违背自身意愿（由[学习内驱力](https://supermemo.guru/wiki/Learn_drive)表达）接受学校教育的孩子来说，SAT 考试的失败可能会成为他们一生的阴影。这是因为学校教育感觉是一种投资，而非学校教育感觉是一种享受。来得容易，去得也快。对于受学校驯化的孩子来说，任何考试的失败都像是对自我价值的否定。
+例如，许多[非学校教育者](https://supermemo.guru/wiki/Unschooling)后来选择参加 [SAT 考试](https://en.wikipedia.org/wiki/SAT)。他们凭借丰富的知识储备和出色的[自学](https://supermemo.guru/wiki/Self-learning)能力，能够轻松应对这个挑战，甚至乐在其中。而接受严苛的学校教育的孩子，在面对同一目标时可能已经精疲力尽。对于那些违背自身意愿（如[学习内驱力](https://supermemo.guru/wiki/Learn_drive)所展示）接受学校教育的孩子来说，SAT 考试的失败可能会成为他们一生的阴影。这是因为学校教育感觉是一项投资，而非学校教育感觉是一种乐趣。来时它轻轻地来，走时不带走一片云彩。而对于受学校驯化的孩子来说，任何考试的失败都像是对自我价值的否定。
 
-不是每个人都能成为[比尔·盖茨](https://supermemo.guru/wiki/Bill_Gates)，但对越来越多的孩子来说，考试和证书已经变得次要。一个 12 岁就开始编程的孩子，可以不需要向任何人证明自己的能力就创立自己的公司。他的技能，通过他的应用销售得到验证。才华横溢的年轻小说家也是如此。现在，越来越多的大学开始青睐非学校教育者。他们在解决问题或[驾驭不确定性和复杂性](https://supermemo.guru/wiki/Learning_to_navigate_uncertainty_and_complexity)方面有一套独特的技能。
+不是每个人都能成为[比尔·盖茨](https://supermemo.guru/wiki/Bill_Gates)，但对越来越多的孩子来说，考试和证书已经变得次要。一个 12 岁就开始编程的孩子，可以不需要向任何人证明自己的能力就创立自己的公司。他的技能水平由他的APP下载量证明。才华横溢的年轻小说家也是如此。现在，越来越多的大学开始青睐非学校教育者。他们在解决问题或[驾驭不确定性和复杂性](https://supermemo.guru/wiki/Learning_to_navigate_uncertainty_and_complexity)方面有一套独特的技能。
 
-最后但同样重要的是，所有这些考虑都是基于这样一个假设，即学生不能自己设定远大的目标。但实际上，只要给予足够的自我成长时间，知识自然会催生目标。
+要注意，所有这些考虑都是基于这样一个假设，即学生自己无法设定长远目标。但实际上，只要给予足够的自我成长时间，知识自然会催生目标。
 
 教育目标设定的问题很大程度上来自于对学校角色的文化预设：让孩子最终达到成人的目标。在[自由学习](https://supermemo.guru/wiki/Free_learning)的情境下，孩子只需要一个充满资源的环境和充分的自由，这个貌似代价颇高的困境就迎刃而解了。
 
-对于教育目标设定，学校制造一个不存在的问题，然后又声称自己解决了这个问题。
+对于教育目标的设定，学校制造一个不存在的问题，然后又声称自己解决了这个问题。
 
 ## 自由学习中的爆炸性突破
 
 [自由学习](https://supermemo.guru/wiki/Free_learning)的主要优势在于可以获得更广泛、更牢固的知识。这跟学校或 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 那种有明确目标的知识不同。它能够很好地融入前置知识的[拼图](https://supermemo.guru/wiki/Jigsaw_puzzle)中。既[好记](https://supermemo.guru/wiki/Mnemonic)、[连贯](https://supermemo.guru/wiki/Coherent)，又[持久](https://supermemo.guru/wiki/Stability)。这种知识由于能够强化[学习内驱力](https://supermemo.guru/wiki/Learn_drive)，所以特别有「粘性」。
 
-在[自由学习](https://supermemo.guru/wiki/Free_learning)中相当常见的一个现象是，某个看似停滞的领域突然快速爆发，成长速度出乎意料（比如阅读能力的跃进）。尽管[自由学习](https://supermemo.guru/wiki/Free_learning)在接受学校教育的人群中基本绝迹，但大多数孩子在上学前的表现却能给我们以启示，比如说语言发展。对于那些语言发展迟缓的孩子，他们的变化尤其明显：在几个月内从一个哑巴变成一个话痨。学走路或学骑自行车也是如此，即便这些技能更多依赖[程序性学习](https://supermemo.guru/wiki/Procedural_learning)。所有这些飞跃背后的[知识结晶](https://supermemo.guru/wiki/Knowledge_crystallization)机制是相同的。
+在[自由学习](https://supermemo.guru/wiki/Free_learning)中相当常见的一个现象是，某个看似停滞的领域突然快速爆发，成长速度出乎意料（比如阅读能力的跃进）。尽管[自由学习](https://supermemo.guru/wiki/Free_learning)在接受学校教育的人群中基本绝迹，但大多数孩子在上学前的表现却能给我们以启示，比如说语言发展。对于那些语言发展迟缓的孩子，他们的变化尤其明显：在几个月内从一个哑巴变成一个话痨。学走路或学骑自行车也是如此，即便这些技能发展基于[程序性学习](https://supermemo.guru/wiki/Procedural_learning)。所有这些飞跃背后的[知识结晶](https://supermemo.guru/wiki/Knowledge_crystallization)机制是相同的。
 
-一旦孩子们去上学，这种指数级的爆炸往往就随之消失了。不过有时候它们还是会悄悄出现，比如孩子在某款电脑游戏里取得快速进步，但没有什么成年人会将其放在眼里。然而，在非学校教育者或[民主学校](https://supermemo.guru/wiki/Democratic_school)中，这种快速成长的现象在更大年龄的孩子身上也能见到。例如，在民主学校中的阅读学习，孩子们往往在没有指导的情况下自发阅读，而这通常发生得比较晚。
+一旦孩子们去上学，这种指数级的爆炸往往就随之消失了。不过有时候它们还是会悄然发生，比如孩子的某款电脑游戏技术突飞猛进，但家长们往往视而不见。然而，在非学校教育者或[民主学校](https://supermemo.guru/wiki/Democratic_school)中，这种学习爆炸的现象在更大年龄的孩子身上也能见到。例如，在民主学校中的阅读学习，孩子们往往在没有指导的情况下自发阅读，而这通常发生得比较晚。
 
 在国外学习外语的时候，我们同样能看到学习进度的突飞猛进，经过一段时间的平台期后，一旦理解力、动力和新学习形成正向反馈循环，就可能迎来突破。
 
-即使到了中年，学习的爆发也并非不可能。如果这种情况比较少见，那大概是因为我们都倾向于过着舒适而少有挑战的生活。
+即使到了中年，学习爆炸也并非不可能。但这种现象不常发生，原因大概是我们都倾向于过舒适而少有挑战的生活。
 
 [![Exponential acceleration in free learning](https://supermemo.guru/images/thumb/6/6b/Exponential_acceleration_in_free_learning.png/500px-Exponential_acceleration_in_free_learning.png)](https://supermemo.guru/wiki/File:Exponential_acceleration_in_free_learning.png)
 
-> 图：自由学习的指数加速：[直接教学法](https://supermemo.guru/wiki/Direct_instruction)虚假的优越性是[普鲁士学校教育模式](https://supermemo.guru/wiki/Prussian_model_of_schooling)的基础。人们误以为，在短期内快速达成既定目标就意味着这是实现长期教育目标（比如人的全面发展）的有效策略。实际上，在[自由学习](https://supermemo.guru/wiki/Free_learning)、[非学校教育](https://supermemo.guru/wiki/Unschooling)或[民主学校](https://supermemo.guru/wiki/Democratic_school)中，学习的爆炸性加速是一种常态。这种教育方式之所以被边缘化，主要是因为人们无法控制其实现的目标。这个问题在那些不重视自由，而高度强调纪律、一致性和秩序的社会中尤为突出。
+> 图：自由学习的指数加速：[直接教学法](https://supermemo.guru/wiki/Direct_instruction)虚假的优越性是[普鲁士学校教育模式](https://supermemo.guru/wiki/Prussian_model_of_schooling)的基础。人们误以为，短期内快速达成既定目标就能证明这是实现长期教育目标（比如人的全面发展）的有效策略。实际上，在[自由学习](https://supermemo.guru/wiki/Free_learning)、[非学校教育](https://supermemo.guru/wiki/Unschooling)或[民主学校](https://supermemo.guru/wiki/Democratic_school)中，学习的爆炸性加速是一种常态。这种教育方式之所以被边缘化，主要是因为人们无法控制其实现的目标。这个问题在那些不重视自由，而高度强调纪律、一致性和秩序的社会中尤为突出。
 
 ## 结晶比喻
 
-爆炸式学习过程的本质，可以通过稀疏而丰富的[语义网络](https://supermemo.guru/wiki/Semantic_network)的知识结晶过程来解释。想象一下，如果我们把语义网络中建立连接的过程，比作晶体中的分子排列，那么高质量知识的爆炸性涌现就不难理解了。（见：[知识结晶的比喻](https://supermemo.guru/wiki/Knowledge_crystallization_metaphor)）。
+爆炸式学习过程的本质，可以通过稀疏而丰富的[语义网络](https://supermemo.guru/wiki/Semantic_network)的知识结晶过程来解释。想象一下，如果我们把语义网络中建立连接的过程，比作晶体中的分子排列，那么高质量知识的爆炸式涌现就不难理解了。（见：[知识结晶的比喻](https://supermemo.guru/wiki/Knowledge_crystallization_metaphor)）。
 
 学校教育可以看作是一种向目标费力、缓慢、线性且饱和的增长。晶体逐层形成，很难在[干扰](https://supermemo.guru/wiki/Interference)中保持结构的纯净。
 
 相比之下，在[自由学习](https://supermemo.guru/wiki/Free_learning)中，生成大量的微晶体轻而易举，这些微晶体后来可以通过自发的快速结晶过程形成更大的结构。众多看似杂乱无章的信息点，能迅速地结合成一个[连贯的网络](https://supermemo.guru/wiki/Concept_network)。这种结晶过程的爆炸式发展，可以通过连锁反应来轻松解释，其中知识晶体之间的连接促进了周围更多连接的形成。
 
-我们可以用一个[超冷啤酒快速结晶的小技巧](https://www.youtube.com/watch?v=W0fURJg-K0A)来形象说明这个过程。对于一瓶超冷的啤酒，只需大力摇晃一下，它几乎可以瞬间结晶。这种在学习中的爆炸性结晶过程，是孩子们被贴上[玄妙的学习机器](https://supermemo.guru/wiki/How_baby_brain_does_not_work)标签的原因。考虑到[童年失忆症](https://supermemo.guru/wiki/Childhood_amnesia)，称孩子为「知识海绵」是一种误称。在记忆方面，他们的大脑比不上成年人。孩子们真正利用的技巧其实是[自由学习](https://supermemo.guru/wiki/Free_learning)。正是自由学习带来的指数加速，让成人世界对他们刮目相看。遗憾的是，不理解这背后的原理，我们却剥夺了他们最有效的学习方法，迫使他们接受[学业指导](https://supermemo.guru/wiki/Academic_instruction)。这反而让他们被贴上另一个标签：**懒惰！**（见：[谬误：学生天生懒惰](https://supermemo.guru/wiki/Myth:_students_are_lazy)）。
+我们可以用一个[超冷啤酒快速结晶的小技巧](https://www.youtube.com/watch?v=W0fURJg-K0A)来形象说明这个过程。对于一瓶超冷的啤酒，只需大力摇晃一下，它几乎可以瞬间结晶。这种爆炸性结晶，往往使孩子们被誉为[玄妙的学习机器](https://supermemo.guru/wiki/How_baby_brain_does_not_work)。考虑到[童年失忆症](https://supermemo.guru/wiki/Childhood_amnesia)，称孩子为「知识海绵」是一种误称。在记忆方面，他们的大脑比不上成年人。孩子们真正利用的技巧其实是[自由学习](https://supermemo.guru/wiki/Free_learning)。正是自由学习带来的指数加速，让成人世界对他们刮目相看。遗憾的是，不理解这背后的原理，我们却剥夺了他们最有效的学习方法，迫使他们接受[学业指导](https://supermemo.guru/wiki/Academic_instruction)。这反而让他们被贴上另一个标签：**懒惰！**（见：[谬误：学生天生懒惰](https://supermemo.guru/wiki/Myth:_students_are_lazy)）。
 
-孩子们并非天生的杰出学习者，他们惊人的学习成果源自自由。
+孩子们并非天生的杰出学习者，自由才催生他们惊人的学习成果。
 
 ## 拼图比喻
 
@@ -78,7 +78,7 @@
 
 面对物理法则的限制，开源建筑提供了一种现代化的解决方法。在开始建造前，我们可以利用开源子部件来设计复杂的结构。
 
-如果用[开源建筑](https://en.wikipedia.org/wiki/Open-source_architecture)来比喻，我们确实可以从屋顶开始建房子。这只取决于兴趣、可用的子部件和想象力。孩子也可以通过观察试管里细菌的增长来理解指数函数，或者观察海滩上的石头如何按照与防波堤距离的负指数分布。要理解指数函数的基本概念，其实并不一定需要先理解 3+3。我敢说，理解数学应该早于套用公式。
+如果用[开源建筑](https://en.wikipedia.org/wiki/Open-source_architecture)来比喻，我们确实可以从屋顶开始建房子。这只取决于兴趣、可用的子部件和想象力。孩子也可以通过观察试管里细菌的增长来理解指数函数，或者观察海滩上的石头如何按照与防波堤距离的负指数分布。要理解指数函数的基本概念，其实并不一定需要先理解 3+3。我敢说，理解数学应该先于套用公式。
 
 在开源建筑领域，我们也能见证到进展的指数爆炸。初始阶段，开发者手头无任何可用零件，必须一切从零开始，设计每一个螺丝和板材。首个设计问世还需时日。然而，随着组件日益增多，更为复杂的结构形成，可用于施工的设计数量迅速增加，成长速度惊人。如果运气好，可能还能看到一两座现代化的大教堂诞生。这样的飞速发展，只有当我们用完了可用的建筑师，才会变成一个平稳增长的 S 形曲线。人的学习能力虽受记忆特性限制，但通过[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)，这种饱和点可以被推迟。理论上，通过使用 [SuperMemo](https://supermemo.guru/wiki/SuperMemo)，终身学习的进度曲线几乎是线性的。
 
@@ -88,7 +88,7 @@
 
 ## SuperMemo 中的指数式学习
 
-SuperMemo 插入。[什么是 SuperMemo？](https://supermemo.guru/wiki/What_is_SuperMemo%3F)
+SuperMemo，启动！[什么是 SuperMemo？](https://supermemo.guru/wiki/What_is_SuperMemo%3F)
 
 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 给用户的教训是，[自由学习](https://supermemo.guru/wiki/Free_learning)也应该是[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)的指导原则。学校和[课标](https://supermemo.guru/wiki/Curriculum)学校和课程安排往往成了
 
@@ -96,16 +96,16 @@ SuperMemo 中的指导，这不仅没能改进学习过程，反而可能让在�
 
 [间隔重复](https://supermemo.guru/wiki/Spaced_repetition)
 
-在错误的标准下，SuperMemo 高效地促进了低效的学习。
+错误地使用能使 SuperMemo 高效地促进低效学习。
 
-我们应该在 SuperMemo 里效仿[自由学习](https://supermemo.guru/wiki/Free_learning)，将必要的知识点和 [SuperMemo](https://supermemo.guru/wiki/SuperMemo)中储存的高保持连接绑定起来。也就是说，我们得先自由地学，只有在这些知识在[自由学习](https://supermemo.guru/wiki/Free_learning)中证明了其价值之后，我们再对它们进行[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)。让这一切成为可能的，是所谓的[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)，它让我们在[自由学习](https://supermemo.guru/wiki/Free_learning)新知识的同时，通过间隔复习把这些知识牢牢记住。
+我们应该在 SuperMemo 里效仿[自由学习](https://supermemo.guru/wiki/Free_learning)，让需要记住的知识点和 [SuperMemo](https://supermemo.guru/wiki/SuperMemo)中储存的有高保留率的知识点保持高度一致。也就是说，我们得先自由地学，只有在这些知识在[自由学习](https://supermemo.guru/wiki/Free_learning)中证明了其价值之后，我们再对它们进行[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)。让这一切成为可能的，是所谓的[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)，它让我们在[自由学习](https://supermemo.guru/wiki/Free_learning)新知识的同时，通过间隔复习把这些知识牢牢记住。
 
-线性记忆顺序数据库与学校教育无异，可能会降低学习的总体效率。
+线性记忆顺序数据库与学校教育无异，可能会降低学习的整体效率。
 
-[SuperMemo](https://supermemo.guru/wiki/SuperMemo)确保高[保留率](https://supermemo.guru/wiki/Retention)
+[SuperMemo](https://supermemo.guru/wiki/SuperMemo) 确保高[保留率](https://supermemo.guru/wiki/Retention)
 
-只能沿着旧的原则恶化学习的成本
+只会让学习的成本更高，因为「垃圾进，垃圾出」。
 
-**垃圾进，垃圾出（GIGO）**。即使在[高级英语2018](https://supermemo.guru/wiki/Advanced_English_2018)
+即使在我推荐给每个人的[高级英语 2018](https://supermemo.guru/wiki/Advanced_English_2018) 中，
 
- 我向大家推荐，经过30年的顺序调整（完美排序），学生自己的扩展对于连贯的学习是必不可少的。
+经过 30 年的调整后，虽然我们认为学习顺序已经接近完美，但学生自己的补充对于连贯的学习仍然非常关键。
