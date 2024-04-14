@@ -90,7 +90,7 @@
 
 SuperMemo，启动！[什么是 SuperMemo？](https://supermemo.guru/wiki/What_is_SuperMemo%3F)
 
-[SuperMemo](https://supermemo.guru/wiki/SuperMemo) 给用户的教训是，[自由学习](https://supermemo.guru/wiki/Free_learning)也应该是[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)的指导原则。学校和[课标](https://supermemo.guru/wiki/Curriculum)学校和课程安排往往成了
+[SuperMemo](https://supermemo.guru/wiki/SuperMemo) 给用户的教训是，[自由学习](https://supermemo.guru/wiki/Free_learning)也应该是[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)的指导原则。学校和[课标](https://supermemo.guru/wiki/Curriculum)往往成了
 
 SuperMemo 中的指导，这不仅没能改进学习过程，反而可能让在学校的经历变得更加痛苦。不仅学习的顺序远离了最佳状态，而且成本会随着间隔重复的效率而倍增，这大大增加了保留不连贯知识的成本。
 
