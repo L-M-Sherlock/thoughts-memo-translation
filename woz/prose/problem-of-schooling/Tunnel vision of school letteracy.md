@@ -1,18 +1,18 @@
-# 学校字识的隧道视野
+# 学校字识的狭隘视野
 
 原文：[Tunnel vision of school letteracy - supermemo.guru](https://supermemo.guru/wiki/Tunnel_vision_of_school_letteracy)
 
-## 数字反叛文化
+## 数字文化的逆流
 
-由于对成人世界的非理性恐惧，数以百万计的孩子被剥夺了现代教育的好处。精神病学家如[曼弗雷德-斯皮策](https://supermemo.guru/wiki/Manfred_Spitzer)博士坚持认为电子设备和互联网会导致[数字痴呆症](https://supermemo.guru/wiki/Digital_Dementia)。父母担心[游戏障碍](https://supermemo.guru/wiki/Gaming_disorder)。老师们为那些因不愿使用纸笔而失去精细运动技能的孩子们感到悲哀。心理学家似乎并不欣赏数字[社交](https://supermemo.guru/wiki/Socialization)的价值，即使它跨越了大陆和文化。1993年，[Seymour Papert](https://supermemo.guru/wiki/Seymour_Papert)预言了新媒体的到来和[信教]的衰落(https://supermemo.guru/wiki/Letteracy)。在他的设想中，他可能低估了伴随着新事物到来的大众文化歇斯底里的力量。
+由于成人世界的非理性恐惧，数以百万计的孩子无法享受现代教育的好处。像 [Manfred Spitzer(https://supermemo.guru/wiki/Manfred_Spitzer) 这样的精神科医生坚称，电子设备和互联网会引发[数字痴呆症](https://supermemo.guru/wiki/Digital_Dementia)。家长担心孩子会患上[游戏障碍](https://supermemo.guru/wiki/Gaming_disorder)。教师则悲叹孩子们因为不愿意用笔和纸，而逐渐失去了精细的动作技能。心理学家们似乎也没有意识到，即使是横跨大洲和文化的数字[社交](https://supermemo.guru/wiki/Socialization)，其实也大有裨益。早在 1993 年，[Seymour Papert](https://supermemo.guru/wiki/Seymour_Papert) 就预言了新媒体的兴起和[字识（letteracy）教育](https://supermemo.guru/wiki/Letteracy)的衰退。在他的预见中，他可能低估了伴随着新事物而来的大众文化的集体歇斯底里。
 
 ## 完美的概念化
 
-在完美教育的理想模式中，一个完美的[适应性](https://supermemo.guru/wiki/Adaptability)人脑使用最好的沟通渠道，并通过大脑的[学习内驱力](https://supermemo.guru/wiki/Learn_drive)系统控制知识的获取。在这个模型中，大脑的[概念网络](https://supermemo.guru/wiki/Concept_network)中的最佳[概念化](https://supermemo.guru/wiki/Conceptualization)将产生一个高度[适用](https://supermemo.guru/wiki/Applicability)的现实模型。它也将优化个人在该现实中的合适位置。
+在理想的完美教育模型中，一个极具[适应性](https://supermemo.guru/wiki/Adaptability)的人脑通过最佳的交流信道进行学习，并由大脑的[学习内驱力](https://supermemo.guru/wiki/Learn_drive)系统控制知识的获取。在这个模型中，大脑的[概念网络](https://supermemo.guru/wiki/Concept_network)中的最优[概念化](https://supermemo.guru/wiki/Conceptualization)将构建一个[适用性](https://supermemo.guru/wiki/Applicability)极强的现实模型。这不仅有助于个体在现实中找到一个合适的位置，还能提升其整体适应能力。
 
-简单地说，应该给孩子们最好的工具，让他们在这个世界上找到自己最好的位置。
+简而言之，应该为孩子们提供最好的工具，帮助他们在这个世界上找到最适合自己的位置。
 
-今天的学校，以及成人世界的大多数人都站在这个理想过程的对立面。在[曼弗雷德-斯皮策](https://supermemo.guru/wiki/Manfred_Spitzer)或尼古拉斯-卡尔等人的领导下，家长和教师竭尽全力阻止[平板智人](https://supermemo.guru/wiki/Homo_tabletis)的到来。利用[义务教育](https://supermemo.guru/wiki/Compulsory_schooling)的工具，孩子们被迫进入[信教](https://supermemo.guru/wiki/Letteracy)，而不是[概念化](https://supermemo.guru/wiki/Conceptualization)宇宙的真正本质。
+然而，当今的学校和大多数成人世界却与这一理想过程背道而驰。在[ Manfred Spitzer](https://supermemo.guru/wiki/Manfred_Spitzer) 或 Nicholas Carr 等人的领导下，家长和教师都在尽力阻止[平板一代](https://supermemo.guru/wiki/Homo_tabletis)的出现。通过[强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling)的工具，孩子们被迫学习[字识（letteracy）](https://supermemo.guru/wiki/Letteracy)，而不是[概念化](https://supermemo.guru/wiki/Conceptualization)宇宙的真正本质。
 
 ## 带着镣铐的童年
 
