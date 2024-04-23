@@ -48,6 +48,6 @@ Duolingo 使用了这些学习技巧/技术：
 
 * [重复练习的粒度](https://wiki.issarice.com/wiki/Repetition_granularity) ‎ ([← links](https://wiki.issarice.com/index.php?title=Special:WhatLinksHere&target=Repetition+granularity))
 
-* [多邻国学数学](https://wiki.issarice.com/wiki/Duolingo_for_math) ‎ ([← 链接](https://wiki.issarice.com/index.php?title=Special:WhatLinksHere&target=Duolingo+for+math))
+* [面向数学的多邻国](https://wiki.issarice.com/wiki/Duolingo_for_math) ‎ ([← 链接](https://wiki.issarice.com/index.php?title=Special:WhatLinksHere&target=Duolingo+for+math))
 
 * [捣鼓数学需要将数学情景载入工作记忆](https://wiki.issarice.com/wiki/Tinkering_in_math_requires_loading_the_situation_into_working_memory) ‎ ([← links](https://wiki.issarice.com/index.php?title=Special:WhatLinksHere&target=Tinkering+in+math+requires+loading+the+situation+into+working+memory))

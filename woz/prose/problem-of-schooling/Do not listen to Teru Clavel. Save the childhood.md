@@ -64,9 +64,9 @@ Clavel 显然认为，通过模仿可以大规模生产出相同的大脑。我�
 
 赵勇认为的副作用是：
 
-- 因恐惧而表现出的良好行为（见：[《优化成长过程中的行为空间》中的**温水煮青蛙**](https://supermemo.guru/wiki/Optimization_of_behavioral_spaces_in_development#Boling_the_frog)
+- 因恐惧而表现出的良好行为（见：[《优化成长过程中的行为空间》中的**温水煮青蛙**](https://supermemo.guru/wiki/Optimization_of_behavioral_spaces_in_development#Boling_the_frog)）
 
-- 灌输式学习（见：[直接教学阻碍了通往伟大发现的道路](https://supermemo.guru/wiki/Direct_instruction_blocks_pathways_to_great_discoveries)
+- 灌输式学习（见：[直接教学阻碍了通往伟大发现的道路](https://supermemo.guru/wiki/Direct_instruction_blocks_pathways_to_great_discoveries)）
 
 - 错位的毅力（「坚持做自己不喜欢或没有天赋的事情，并不会走向成功」）。
 

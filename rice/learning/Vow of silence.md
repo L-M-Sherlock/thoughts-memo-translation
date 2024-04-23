@@ -12,4 +12,4 @@
 
 * [数学中的沉默宣言会是什么样的？](https://wiki.issarice.com/wiki/What_would_a_vow_of_silence_look_like_for_math%3F)
 
-* [多邻国学数学](https://wiki.issarice.com/wiki/Duolingo_for_math)
+* [面向数学的多邻国](https://wiki.issarice.com/wiki/Duolingo_for_math)

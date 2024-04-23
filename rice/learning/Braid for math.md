@@ -1,4 +1,4 @@
-# 用 Braid 学数学
+# 面向数学的 Braid
 
 原文：[Braid for math](https://wiki.issarice.com/wiki/Braid_for_math)
 
@@ -14,13 +14,13 @@ Braid 最神奇的地方在于玩家能立刻从直觉上理解游戏，并有�
 
 ## 另见
 
-* [多邻国学数学](https://wiki.issarice.com/wiki/Duolingo_for_math)
+* [面向数学的多邻国](https://wiki.issarice.com/wiki/Duolingo_for_math)
 
 ## 链接到本文
 
 - [电子游戏 vs 数学](https://wiki.issarice.com/wiki/Video_games_comparison_to_math)
 
-* [多邻国学数学](https://wiki.issarice.com/wiki/Duolingo_for_math)
+* [面向数学的多邻国](https://wiki.issarice.com/wiki/Duolingo_for_math)
 
 * [捣鼓数学需要将数学情景载入工作记忆](https://wiki.issarice.com/wiki/Tinkering_in_math_requires_loading_the_situation_into_working_memory) ‎ ([← links](https://wiki.issarice.com/index.php?title=Special:WhatLinksHere&target=Tinkering+in+math+requires+loading+the+situation+into+working+memory))
 
