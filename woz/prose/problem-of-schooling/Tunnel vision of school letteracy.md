@@ -4,7 +4,7 @@
 
 ## 数字文化的逆流
 
-由于成人世界的非理性恐惧，数以百万计的孩子无法享受现代教育的好处。像 [Manfred Spitzer(https://supermemo.guru/wiki/Manfred_Spitzer) 这样的精神科医生坚称，电子设备和互联网会引发[数字痴呆症](https://supermemo.guru/wiki/Digital_Dementia)。家长担心孩子会患上[游戏障碍](https://supermemo.guru/wiki/Gaming_disorder)。教师则悲叹孩子们因不愿意用笔和纸，而逐渐失去了精细的动作技能。心理学家似乎也没有意识到，即使是横跨大洲和文化的数字[社会化](https://supermemo.guru/wiki/Socialization)，其实也大有裨益。早在 1993 年，[Seymour Papert](https://supermemo.guru/wiki/Seymour_Papert) 就预言了新媒体的兴起和[字识（letteracy）教育](https://supermemo.guru/wiki/Letteracy)的衰退。在他的预见中，他可能低估了伴随着新事物而来的大众文化的歇斯底里。
+由于成人世界的非理性恐惧，数以百万计的孩子无法享受现代教育的好处。像 [Manfred Spitzer](https://supermemo.guru/wiki/Manfred_Spitzer) 这样的精神科医生坚称，电子设备和互联网会引发[数字痴呆症](https://supermemo.guru/wiki/Digital_Dementia)。家长担心孩子会患上[游戏障碍](https://supermemo.guru/wiki/Gaming_disorder)。教师则悲叹孩子们因不愿意用笔和纸，而逐渐失去了精细的动作技能。心理学家似乎也没有意识到，即使是横跨大洲和文化的数字[社会化](https://supermemo.guru/wiki/Socialization)，其实也大有裨益。早在 1993 年，[Seymour Papert](https://supermemo.guru/wiki/Seymour_Papert) 就预言了新媒体的兴起和[字识（letteracy）教育](https://supermemo.guru/wiki/Letteracy)的衰退。在他的预见中，他可能低估了伴随着新事物而来的大众文化的歇斯底里。
 
 ## 完美的概念化
 
