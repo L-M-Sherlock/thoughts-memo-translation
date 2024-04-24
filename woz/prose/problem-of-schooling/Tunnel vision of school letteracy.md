@@ -12,17 +12,17 @@
 
 简而言之，应该为孩子们提供最好的工具，帮助他们在这个世界上找到最适合自己的位置。
 
-然而，当今的学校和成人世界的主流却与这一理想过程背道而驰。在 [Manfred Spitzer](https://supermemo.guru/wiki/Manfred_Spitzer) 和 Nicholas Carr 等人的领导下，家长和教师都在尽力阻止[平板一代](https://supermemo.guru/wiki/Homo_tabletis)的出现。通过[强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling)的工具，孩子们被迫学习[字识（letteracy）](https://supermemo.guru/wiki/Letteracy)，而不是[概念化](https://supermemo.guru/wiki/Conceptualization)宇宙的真正本质。
+然而，当今的学校和成人世界的主流却与这一理想过程背道而驰。在 [Manfred Spitzer](https://supermemo.guru/wiki/Manfred_Spitzer) 和 Nicholas Carr 等人的领导下，家长和教师都在尽力阻止[平板一代](https://supermemo.guru/wiki/Homo_tabletis)的出现。通过[强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling)的工具，孩子们被迫学习[字识](https://supermemo.guru/wiki/Letteracy)，而不是[概念化](https://supermemo.guru/wiki/Conceptualization)宇宙的真正本质。
 
 ## 带着镣铐的童年
 
-虽然数字时代的孩子能够轻松地从信息的消防水管中汲取知识，但大多数孩子却仍旧被束缚在学校的课桌前，不得不学习成人的交流方式（已经沿用三百年的读、写、算）。（1）在学校从消防水管中汲取知识和（2）凭自己的乐趣从消防水管中汲取知识之间的区别，体现在[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的优化效果上。在源自强制[课程](https://supermemo.guru/wiki/Curriculum)的知识之河引发[干扰](https://supermemo.guru/wiki/Interference)地震的同时，由儿童的大脑控制的同一条河流，实际上却能沉积出[连贯的](https://supermemo.guru/wiki/Coherence)新知识层，这将促成高效的[概念化](https://supermemo.guru/wiki/Conceptualization)。只有[学习内驱力](https://supermemo.guru/wiki/Learn_drive)才能使[拼图](https://supermemo.guru/wiki/Jigsaw_puzzle_metaphor)完美拼合。
+虽然数字时代的孩子能够轻松地从信息的消防水管中汲取知识，但大多数孩子却仍旧被束缚在学校的课桌前，不得不学习成人的交流方式（已经沿用三百年的读、写、算）。（1）在学校从消防水管中汲取知识和（2）根据自己的乐趣从消防水管中汲取知识之间的区别，体现在[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的优化效果上。在源自强制[课程](https://supermemo.guru/wiki/Curriculum)的知识之河引发[干扰](https://supermemo.guru/wiki/Interference)地震的同时，由儿童的大脑控制的同一条河流，实际上却能沉积出[连贯的](https://supermemo.guru/wiki/Coherence)新知识层，这将促成高效的[概念化](https://supermemo.guru/wiki/Conceptualization)。只有[学习内驱力](https://supermemo.guru/wiki/Learn_drive)才能使[拼图](https://supermemo.guru/wiki/Jigsaw_puzzle_metaphor)完美拼合。
 
 数字时代的孩子在概念化现实时，可以慢慢吸收他们为适应成年生活所需的各种知识。相比之下，学校里的孩子们只能获得少量信息，这些信息还常常被长时间的讲课、训练、练习和[家庭作业](https://supermemo.guru/wiki/Homework)所阻塞。
 
 ## 摩尔斯电码星球
 
-[字识（letteracy）](https://supermemo.guru/wiki/Letteracy)的谬误是如此盛行，以至于我一直在寻找一个恰当的比喻来说明这个问题。有人问：「不读书怎么能交电费？」。我认为，[概念化](https://supermemo.guru/wiki/Conceptualization)更为重要。孩子需要先理解能源、电力、账单、付款、法律、社会等概念，这些都比实际的付款更关键。而且，现在的孩子很可能会通过文字转语音软件轻松解决这个问题。
+[字识](https://supermemo.guru/wiki/Letteracy)的谬误是如此盛行，以至于我一直在寻找一个恰当的比喻来说明这个问题。有人问：「不读书怎么能交电费？」。我认为，[概念化](https://supermemo.guru/wiki/Conceptualization)更为重要。孩子需要先理解能源、电力、账单、付款、法律、社会等概念，这些都比实际的付款更关键。而且，现在的孩子很可能会通过文字转语音软件轻松解决这个问题。
 
 为了解释[字识](https://supermemo.guru/wiki/Letteracy)的问题，我构想了一个**摩尔斯电码星球**的概念。这个比喻如下：
 
