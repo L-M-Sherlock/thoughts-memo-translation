@@ -1,36 +1,36 @@
-# 学习历史：学校与自我导向学习
+# 学历史：学校 vs 自主学习
 
 原文：[Learning history: school vs. self-directed learning - supermemo.guru](https://supermemo.guru/wiki/Learning_history:_school_vs._self-directed_learning)
 
 本文选自《[我永远不会送我的孩子上学](https://supermemo.guru/wiki/Problem_of_Schooling)》，作者是[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)（2017）
 
-# 学校是否缓解无知？
+# 学校能否消除无知？
 
-我经常听到这种充满怀疑的问题：「[自我导向学习](https://supermemo.guru/wiki/Self-directed_learning)能使学生很好地覆盖知识领域，并能够在社会中的和谐健康地生存吗？如果可以，这种可能性有多大？」
+有个问题我经常听到，很多人对此表示怀疑：「[自我导向学习](https://supermemo.guru/wiki/Self-directed_learning)真的能让学生全面掌握知识，确保他们在社会中能够和谐健康地生活吗？」
 
-这种担忧是可以理解的，也是普遍的。我们都需要知道，在离开公共厕所后需要洗手。我们需要知道环境污染和气候变化带来的可能危险。我们需要了解法律和民主的基本规则。然而，我们也需要意识到，统一的思维会扼杀创造性的突破。
+这种担忧是可以理解的，也是普遍存在的。比如，我们都需要知道离开公共厕所后要洗手。我们需要了解环境污染和气候变化的危害。我们必须掌握基本的法律和民主规则。然而，我们也要明白，一致的思维会扼杀创造性的突破。
 
-几乎所有人都知道唐纳德·特朗普。很少有人在学校里了解到唐纳德·特朗普。特朗普、上帝、达尔文或希特勒是现代世界中人们无法逃避的主题。几乎不可能专注于自己的激情而错过这些信息的花絮。
+几乎所有人都知道唐纳德·特朗普。但很少有人是在学校里了解到他的。无论是特朗普、上帝、达尔文还是希特勒，这些都是现代世界无法回避的主题。即使是专注于个人兴趣，也难以完全错过这些知识点。
 
-同时，大多数人认为[感冒是由寒冷引起的](https://supermemo.guru/wiki/Myth:_We_catch_a_cold_from_cold)。一半的美国人[不相信生物进化论](https://supermemo.guru/wiki/Ban_on_homeschooling)。再多的学校教育似乎也无法阻止有害的谬误传播（见：[谬误易传难消](https://supermemo.guru/wiki/Myths_are_easy_to_swallow_and_hard_to_kill)）。
+与此同时，大多数人仍然认为[感冒是由寒冷引起的](https://supermemo.guru/wiki/Myth:_We_catch_a_cold_from_cold)。有一半的美国人[不相信生物进化论](https://supermemo.guru/wiki/Ban_on_homeschooling)。看来，无论多少学校教育似乎都无法阻止有害谬误的传播（见：[谬误易于接受，难以根除](https://supermemo.guru/wiki/Myths_are_easy_to_swallow_and_hard_to_kill)）。
 
-[知识沿着模因组织的规则传播](https://supermemo.guru/wiki/On_freedom_of_education_and_freedom_of_information)。真实的信息通常能更好地传播，但虚假信息也有自己的传播手段。反对谬误和假新闻的最好工具是知识。
+[知识的传播遵循模因学的规则](https://supermemo.guru/wiki/On_freedom_of_education_and_freedom_of_information)。虽然真实的信息通常传播得更广，但错误的信息也有自己的传播方式。对抗谬误和假新闻的最好工具是知识。
 
-在这本[书](https://supermemo.guru/wiki/Problem_of_Schooling)中，我试图表明，由[学习内驱力](https://supermemo.guru/wiki/Learn_drive)驱动的[自由学习](https://supermemo.guru/wiki/Free_learning)提供了通往[坚如磐石](https://supermemo.guru/wiki/Coherence)的[长期](https://supermemo.guru/wiki/Stability)[可靠](https://supermemo.guru/wiki/Consistency)知识的最快途径。如果我们试图对学习的方向进行微观管理，我们只会放慢进度，并增加[假知识侵袭]我们(https://supermemo.guru/wiki/Knowledge_crystallization)的机会。
+在本[书](https://supermemo.guru/wiki/Problem_of_Schooling)中，我试图展示，由[学习内驱力](https://supermemo.guru/wiki/Learn_drive)驱动的[自由学习](https://supermemo.guru/wiki/Free_learning)如何提供一条通往[坚实](https://supermemo.guru/wiki/Coherence)、[长期](https://supermemo.guru/wiki/Stability)[可靠](https://supermemo.guru/wiki/Consistency)知识的最快途径。如果我们试图微操学习的方向，只会阻碍进步，并增加[错误知识渗透](https://supermemo.guru/wiki/Knowledge_crystallization)的风险。
 
-除了来自科学的论据和几个比喻之外，我还想用一个个人故事来说明我的推理。在这里，我展示了我自己对历史的学习是如何被[学校教育](https://supermemo.guru/wiki/Problem_of_schooling)压制，又是如何在没有[外部压力]的情况下通过自由学习而恢复的(https://supermemo.guru/wiki/Coercion)。
+除了科学论证和一些比喻外，我还想用一个个人故事来阐述我的推理。我将讲述自己的历史学习如何被[学校教育](https://supermemo.guru/wiki/Problem_of_schooling)所抑制，又如何在没有[外部压力](https://supermemo.guru/wiki/Coercion)的自由学习环境中复苏。
 
-# 我是怎样开始喜欢上历史的
+# 我是怎么开始喜欢历史的
 
 个人轶事。[为什么使用轶事？](https://supermemo.guru/wiki/Why_use_anecdotes%3F)
 
-离开高中时，我对历史一无所知。在最近的一次谈话中，我听到一位退休教师说："*自我导向的学习是危险的。孩子可能会选择完全专注于生物学，而对历史毫无了解。这是不平衡的知识。需要来学校的帮助来阻止这种情况地出现*"。这句话有力地打动了我。这位老师一针见血地指出了问题所在。她说的是我! 在我的高中，除了对拳击和音乐感兴趣外，我完全专注于生物学，对生物化学特别感兴趣。我对历史的兴趣完全是零。唯一的问题是，学校没有充当一个矫正者。我的历史知识和我的兴趣一样可以忽略不计。学校没有帮助。一点也没有。
+高中毕业的时候，我对历史几乎一无所知。不久前，我和一位退休教师聊天，她说：「自主学习很危险。孩子可能会完全专注于生物学，而对历史一无所知。这样的知识是不全面的。这时候就需要学校来介入了」。这番话深深触动了我。这位教师说中了要害。她说的就是我！在我读高中的时候，除了对拳击和音乐的兴趣，我完全专注于生物学，特别是生物化学。我对历史的兴趣几乎为零。唯一的问题是，学校并没有矫正我。我的历史知识少得可怜，和我对它的兴趣一样少。学校并没有提供任何帮助。一点也没有。
 
 ## 我在学校没有学过历史
 
 个人轶事。[为什么使用轶事？](https://supermemo.guru/wiki/Why_use_anecdotes%3F)
 
-我不记得在小学学习过历史，但对两件事情有印象。1973年9月，我11岁的时候上了第一堂历史课，老师是个沉默寡言、不苟言笑的老太太。她让我们读一本书中的一个章节，并把注意力集中在她自己的事情上，在我看来，这就像是在读新闻。书中的第一章相当有趣。这都是关于早期人类和他们对猛犸象的狩猎。几分钟后，老师问"
+我不记得在小学时学过历史，除了两次例外。1973 年 9 月，我 11 岁，上了第一节历史课。那时的历史老师是一位不苟言笑的年长女性，她让我们读书里的一章，自己则忙着看报纸之类的东西。书的第一章挺吸引人，讲的是早期人类如何狩猎猛犸象。几分钟后，老师问「
 
 *有谁读完了？谁想拿个好成绩？*。
 
