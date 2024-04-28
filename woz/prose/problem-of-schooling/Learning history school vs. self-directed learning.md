@@ -162,7 +162,7 @@ Rafael 最让我吃惊的一点是，他对[汉尼拔带着象队跨越阿尔卑
 
 试想一下我和 18岁 的 Rafael 在知识上的差异，我们的差异可能主要在于我们生活在不同的时代。他不记得穆斯林圣战者和苏联占领阿富汗的历史，还错误地认为德国统一发生在 1960 年代。另一方面，他对近代历史尤其是科技史非常了解。我认为这得益于他在网络和社交媒体工具的辅助下成长的优势。
 
-最后，不同于现任的波兰总理 Beata Szydlo（[视频]（https://www.youtube.com/watch?v=q73PmB7QNvc）），Rafael 能准确记得波兰加入欧盟的日期。Szydlo 将年代搞混，而 Rafael 的记忆精确到了月份！
+最后，不同于现任的波兰总理 Beata Szydlo（[视频](https://www.youtube.com/watch?v=q73PmB7QNvc)），Rafael 能准确记得波兰加入欧盟的日期。Szydlo 将年代搞混，而 Rafael 的记忆精确到了月份！
 
 通过我的采访，我得出结论：从长远来看，大多数孩子每周能学到的历史知识大约只有一张[卡片](https://supermemo.guru/wiki/SuperMemo_item)。对于那些对历史感兴趣或为了考试而努力学习的孩子，这个数字可能会显著提高。这种知识吸收速度与那些中年时期，没有特别的历史兴趣、未经过学校教育但具有强烈求知欲的成年人相当。
 
@@ -218,7 +218,7 @@ Rafael 最让我吃惊的一点是，他对[汉尼拔带着象队跨越阿尔卑
 
 为什么波兰孩子专注于波兰历史，美国孩子则专注于美国历史呢？虽然地方和民族的利益是自然的，但这种关注的比例明显失衡了。英国孩子对美国历史一窍不通，而波兰的青少年连一个英国君主的名字都叫不出来（除了[伊丽莎白二世](https://en.wikipedia.org/wiki/Elizabeth_II)）。这种无知几乎无处不在。波兰孩子甚至不知道[亨利八世](https://en.wikipedia.org/wiki/Henry_VIII_of_England)，而我却依稀记得童年时看过一部关于他的六位妻子的电影。电影中他斩首自己妻子的残忍细节，让我多年难以忘怀。
 
-现在我来问问读者：**你知道 1410 年发生了什么事吗？**对多数波兰人来说，这个日期具有象征意义。这通常是他们从学校的历史课上唯一记住的重要日期，那还是在二战前的事。那一年，[波兰人击败了条顿骑士团](https://en.wikipedia.org/wiki/Battle_of_Grunwald)（即德国人）。世界上有些人，比如波兰人（可能还有立陶宛人），能够讲述那个时代的故事，这是件好事。然而，波兰人对那一场特定战役的反复咀嚼，只会助长民族主义情绪。再加上他们对二战的过度迷恋，难怪在波兰人眼中，欧洲最杰出、最成功的国家之一的好感度这么低（见：[为什么我不再爱国了](https://supermemo.guru/wiki/I_stopped_being_patriotic)）。我责怪那些历史课程，那些民族主义[课程大纲](https://supermemo.guru/wiki/Curriculum)，，以及[填鸭式](https://supermemo.guru/wiki/Cramming)的劳改营：学校。
+现在我来问问读者：**你知道 1410 年发生了什么事吗？**对多数波兰人来说，这个日期具有象征意义。这通常是他们从学校的历史课上唯一记住的重要日期，那还是在二战前的事。那一年，[波兰人击败了条顿骑士团](https://en.wikipedia.org/wiki/Battle_of_Grunwald)（即德国人）。世界上有些人，比如波兰人（可能还有立陶宛人），能够讲述那个时代的故事，这是件好事。然而，波兰人对那一场特定战役的反复咀嚼，只会助长民族主义情绪。再加上他们对二战的过度迷恋，难怪在波兰人眼中，欧洲最杰出、最成功的国家之一的好感度这么低（见：[为什么我不再爱国了](https://supermemo.guru/wiki/I_stopped_being_patriotic)）。我责怪那些历史课程，那些民族主义[课程大纲](https://supermemo.guru/wiki/Curriculum)，以及[填鸭式](https://supermemo.guru/wiki/Cramming)的劳改营：学校。
 
 政治家努力争夺对年轻人思想的影响（见：[学校课程的政治本质](https://supermemo.guru/wiki/School_curriculum_is_inherently_political)）。政治领袖们相信，通过[学校课程](https://supermemo.guru/wiki/Curriculum)可以为赢得未来选举打下坚实的基础。列宁曾说：「给我四年时间教育孩子，种下的种子就永远不会被根除。」[自由学习](https://supermemo.guru/wiki/Free_learning)有助于更均匀地分散这些不可避免的偏见和偏执，从而在意识形态的较量中实现更好的力量平衡。
 

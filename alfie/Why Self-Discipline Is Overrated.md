@@ -127,3 +127,7 @@ Christopher Peterson 和 Martin Seligman 在其著作《**Character Strengths an
 6. Zabelina et al.
 
 7. Daniel A. Weinberger and Gary E. Schwartz, “Distress and Restraint as Superordinate Dimensions of Self-Reported Adjustment,” **Journal of Personality**, vol. 58, 1990: 381-417.
+
+8.David C. Funder 在《**Psychological Inquiry**》杂志第 9 卷（1998 年）第 211 页发表了题为《On the Pros and Cons of Delay of Gratification》的文章。他所提及的研究分别是 Jonathan Shedler 和 Jack Block 在 1990 年发表于《**美国心理学家**》杂志第 45 卷（612-30 页）的文章《Adolescent Drug Use and Psychological Health》，以及 Jack H. Block、Per E. Gjerde 和 Jeanne H. Block 在 1991 年发表于《**Journal of Personality and Social Psychology**》第 60 卷（726-38 页）的文章《Personality Antecedents of Depressive Tendencies in 18-year-olds》。
+
+9.例如，可参阅 Christine Halse、Anne Honey 和 Desiree Boughtwood 在 2007 年发表于《**Gender and Education**》杂志第 19 卷（219-235 页）的文章《The Paradox of Virtue: (Re)thinking Deviance, Anorexia, and Schooling》。
