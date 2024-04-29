@@ -8,4 +8,4 @@
 
 这似乎是使用[情景体验](https://notes.andymatuschak.org/z3KASfpz5AmNmqM2m517Jbs1EvXrLN7NkeYWH)进行教学的一个主要限制。
 
-另见：[Nell 在《启蒙琼林》里没有进行任何原创思想](https://notes.andymatuschak.org/z325r7Z7eRaocLjg6ADX4tfzUPWDSaynTCbcQ)
+另见：[Nell 在《启蒙琼林》里没有进行任何原创思考](https://notes.andymatuschak.org/z325r7Z7eRaocLjg6ADX4tfzUPWDSaynTCbcQ)

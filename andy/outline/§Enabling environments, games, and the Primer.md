@@ -70,7 +70,7 @@
 
     - Nell 确实感觉到她自己在实现每一个步骤；这在教育游戏中是不正确的，因为[情景体验需要参与者置身的因果关系](https://notes.andymatuschak.org/z3JVez8dDfxTHY1K9tHUfLLcgLkUmXQ2HKXUU)
 
-    - 《启蒙琼林》讲的是真正重要的事情（[《启蒙琼林》的目标是培养有创造力的、颠覆性的年轻人](https://notes.andymatuschak.org/zvMhuE5FyXVfspgazybETDJwHrYPVxN2Cere)，即使 Nell 不知道（[ Nell 不知道也不认同《启蒙琼林》的目标](https://notes.andymatuschak.org/z6mg4iibFwrKipuEYQvBuA9cxnjvZ2vG2QgQ9)）。
+    - 《启蒙琼林》讲的是真正重要的事情（[《启蒙琼林》的目标是培养有创造力的、颠覆性的年轻人](https://notes.andymatuschak.org/zvMhuE5FyXVfspgazybETDJwHrYPVxN2Cere)，即使 Nell 不知道（[Nell 不知道也不认同《启蒙琼林》的目标](https://notes.andymatuschak.org/z6mg4iibFwrKipuEYQvBuA9cxnjvZ2vG2QgQ9)）。
 
     - 《启蒙琼林》中的活动更接近于真实的赋能环境。[情景体验可以引导人们积极参与到赋能环境中](https://notes.andymatuschak.org/z2FDTR2NfpW1AtA4SAETevmKC2uDGEHfKrbhG)
 

@@ -1,18 +1,18 @@
-# 谬误易传难消
+# 谬误易于接受，难以根除
 
 原文：[Myths are easy to swallow and hard to kill - supermemo.guru](https://supermemo.guru/wiki/Myths_are_easy_to_swallow_and_hard_to_kill)
 
-# 人们的坏记性
+## 人们的坏记性
 
-孩子和老人的记忆力都很差。他们都容易被人造谬误所害。我们从早到晚都被假新闻和虚假观念轰炸。难免树立了一些错误观念。每个人都难逃其伤。再多的知识或才能也无法阻止人们对谬误的接受并视之为科学真理。孩童和老奶奶是高危受害者。然而，他们易受害的原因完全不同。虽然孩童有很多机会恢复，但老奶奶很可能会带着一系列根深蒂固的谬误思想一起长眠。这样说无益于证明老奶奶的认知健康。但它主要证明了人类大脑在典型寿命内的发展过程。健康的大脑在其不同的发育阶段显出迥然各异。尽管有另一个流行的谬误，但八旬老人的大脑发育仍在继续。它可能不太旺盛，但人类认知的重塑永远不会结束。
+孩子和老人的记忆力都很差。他们都容易被人造谬误所害。我们从早到晚都被假新闻和虚假观念轰炸。难免树立了一些错误观念。每个人都难逃其害。再多的知识或才能也无法阻止人们对谬误的接受并视之为科学真理。孩童和老奶奶是高危受害者。然而，他们易受害的原因完全不同。虽然孩童有很多机会恢复，但老奶奶很可能会带着一系列根深蒂固的谬误思想一起长眠。这并不能说明老人的认知健康状况。这更多地反映了人类大脑在一生中的发展过程。健康的大脑在其不同的发育阶段显出迥然各异。尽管还有一个普遍的谬误认为老年人的大脑停止发展，但八旬老人的大脑发育仍在继续。虽然可能不如年轻时那样活跃，但人类认知的重塑永无止境。
 
-## 老人的学习困难
+## 老狗难学新把戏
 
-老头子的脆弱程度不亚于老太太，然而，我故意使用 “奶奶” 的标签，因为我立刻想起了我自己的奶奶。她每天唠叨：“如果你在冬天不穿T恤到处跑，小心感染肺炎”。我会说：*“别担心。[感染是由病毒引起的](https://supermemo.guru/wiki/Myth:_We_catch_a_cold_from_cold). 踢足球时不会因新鲜空气而感冒”。*奶奶会接受我的解释，点头，认同科学模型，第二天，她会一遍又一遍地重复同样的信息。就好像她的大脑无法被纠正。老奶奶往往是认知冠军。她们拥有丰富的知识和记忆力。然而，她们似乎仍然经常无法学习简单的东西。
+老头子的脆弱程度不亚于老太太，然而，我故意使用「奶奶」这个标签，是因为我立刻想起了我自己的奶奶。她每天唠叨：「如果你冬天不穿 T 恤到处跑，会得肺炎的」。我会说：「别担心。[感染是由病菌引起的](https://supermemo.guru/wiki/Myth:_We_catch_a_cold_from_cold)。踢足球时呼吸新鲜空气不会让人感冒」。奶奶听了我的解释会点点头，似乎接受了这个科学的说法，但第二天，她又会重复同样的忠告。就好像她的大脑无法被纠正。老奶奶往往有着非常好的认知能力。她们拥有丰富的知识和优秀的记忆力。然而，她们似乎还是常常学不会一些简单的事情。
 
-## 记忆模型：谬误之源
+## 记忆模型：谬误的根源
 
-[记忆的双分组模型](https://supermemo.guru/wiki/Two_component_model_of_memory)为健康的大脑抵制新知识这一看似矛盾的现象提供了一个简单的解释。当我们学习新事物时，我们会对低**[稳定性](https://supermemo.guru/wiki/Stability) **的记忆进行编码。新的记忆很容易被[遗忘](https://supermemo.guru/wiki/Forgetting)。重复接触同一知识，特别是在休息之后，会增强[稳定性](https://supermemo.guru/wiki/Stability)。如果"[着凉导致感冒](https://supermemo.guru/wiki/Myth:_We_catch_a_cold_from_cold) "的错误观念在每次有人感冒时都会出现，几十年后，这个谬误就变得根深蒂固，万难消除。某些些记忆的稳定性在年老时可以增长到过高的数值。似乎无论如何劝诫都无法打破这些记忆。如果一个阿婆知道了感冒病毒的发现（发表于20世纪50年代），她可能会保持思想开放，并对新信息进行编码。她的大脑有能力打破旧的模式，建立新模式，并作为一组新的记忆来储存。然而，这些新记忆的[稳定性](https://supermemo.guru/wiki/Stability)很低。只有它们的高[可提取性](https://supermemo.guru/wiki/Retrievability)才能让阿婆正确思考感冒的可能原因。在短时间内，阿婆似乎取得了突破，直到......新的记忆逐渐消失。碍于年龄、旧模式的稳定性以及距离下一次接触（关于病毒的信息或感冒病毒本身）的时间，老奶奶很容易忘记新的记忆，而旧模式则经常复现。有时，[快速思维](https://supermemo.guru/wiki/Fast_thinking)的速度占据了上风，高稳定性记忆战胜了新的可提取性记忆。这就解释了为什么快速的大脑未必更为优胜。如果旧的思维架构在对抗中取胜，阿婆的麻烦就大了！她很可能已经忘记了新的解释，而倒向了她的旧知识，损害可能在几分钟内造成。阿婆的大脑很老，但不意味着它的认知能力受损，它承载着稳固的知识。老妪是旧知识方面的伟大专家。难怪在寻求智慧时，我们常求助于老人。在探索这种智慧时，我们自然需要谨慎注意选择和甄别。
+[记忆的双分组模型](https://supermemo.guru/wiki/Two_component_model_of_memory)为健康大脑抗拒新知这一看似矛盾的现象提供了简单的解释。当我们学习新事物时，所编码的记忆**[稳定性](https://supermemo.guru/wiki/Stability)**较低，很容易被[遗忘](https://supermemo.guru/wiki/Forgetting)。重复接触同一知识，特别是在间隔一段时间之后，会提高[稳定性](https://supermemo.guru/wiki/Stability)。如果每次有人感冒，都会重提「[着凉导致感冒](https://supermemo.guru/wiki/Myth:_We_catch_a_cold_from_cold)」的错误观念，几十年下来，这种谬误就深深扎根，变得非常稳固。随着年龄的增长，某些记忆的稳定性可能会异常高，似乎再怎么纠正都无济于事。如果奶奶了解到上世纪五十年代有关感冒病毒的发现，她可能会保持思想开放，并对新信息进行编码。她的大脑有能力打破旧有的模式，建立新模式，并将其存为新的记忆。然而，这些新记忆[稳定性](https://supermemo.guru/wiki/Stability)很低。只有它们的高[可提取性](https://supermemo.guru/wiki/Retrievability)才能让奶奶正确理解感冒的可能原因。短时间内奶奶似乎有所突破，直到......新的记忆逐渐遗忘。碍于年龄、旧模式的稳定性以及距离下一次接触（关于病毒的信息或感冒病毒本身）的时间，老奶奶很容易忘记新记忆，旧观念便轻易地卷土重来。有时，[快速思维](https://supermemo.guru/wiki/Fast_thinking)的速度占据了上风，高稳定性的旧记忆战胜了易于提取的新记忆。这就解释了为什么快速的大脑未必更为优胜。如果旧的思维架构在对抗中取胜，奶奶的麻烦就大了！她很可能已经忘记了新的解释，重新回到她的旧知识上，这种损害可能仅需几分钟就会发生。奶奶的大脑虽然老了，但这并不意味着她认知受损，而是在旧知识上变得顽固。奶奶在旧知识方面是真正的专家。这也难怪我们在寻求智慧时，经常会向老年人请教。但在吸取这些智慧时，我们自然需要谨慎注意选择和甄别。
 
 ## 天真的孩童
 
@@ -34,7 +34,7 @@
 
 ## 抗击谬误的方案
 
-这是我对抗错误信念的公式：
+这是我对抗错误信念的方案：
 
 -**婴幼儿和学龄前儿童**：不要担心谬误。其将在适时得到纠正！
 
@@ -46,7 +46,7 @@
 
 ## 谬误举例
 
-以下是我在[SuperMemo Guru](https://supermemo.guru/wiki/SuperMemo_Guru)试图对抗的一些谬误：
+以下是我在 [SuperMemo Guru](https://supermemo.guru/wiki/SuperMemo_Guru) 试图对抗的一些谬误：
 
 - [谬误：学校好](https://supermemo.guru/wiki/Mythology_that_keeps_the_archaic_school_system_alive)：近两个世纪以来，学校对民众的不间断操练，重塑了人们对学校教育的文化认知。好学校的谬误一直都很难克服。幸运的是，新的丰富的网络媒体的到来将加速向基于[自由学习](https://supermemo.guru/wiki/Free_learning)的未来过渡
 
@@ -70,12 +70,12 @@
 
 [![img](https://supermemo.guru/images/thumb/0/0c/Knowledge_in_creative_problem_solving.png/800px-Knowledge_in_creative_problem_solving.png)](https://supermemo.guru/wiki/File:Knowledge_in_creative_problem_solving.png)
 
-新旧知识在创造性问题解决中的作用
+新旧知识之于创造性解决问题
 
-> ***图：**创造性地解决问题需要（1）具有高度[稳定性](https://supermemo.guru/wiki/Stability)的庞大专业知识，以及（2）具有高度[可检索性]的丰富新知识。庞大的稳定知识使解决算法问题变得容易。在[快速思维](https://supermemo.guru/wiki/Fast_thinking)的帮助下，这些问题只消很低能量消耗便得以解决。需要 “发散性思考” 的问题则要依靠[创造力](https://supermemo.guru/wiki/Creativity)，即对比联想。创造力和[学习内驱力](https://supermemo.guru/wiki/Learn_drive)由 “饥饿的知识” 提供动力，即新鲜的知识可以通过[遗忘](https://supermemo.guru/wiki/Forgetting)轻易地被塑造和[泛化](https://supermemo.guru/wiki/Generalization)。这种可塑性为新的学习和创造性问题的解决提供了良好的模式匹配*。
+> 图：创造性地解决问题需要（1）具有高[稳定性](https://supermemo.guru/wiki/Stability)的广泛专业知识，以及（2）具有高[可提取性](https://supermemo.guru/wiki/Retrievability)的丰富新知识。广泛的稳定知识使得解决算法问题变得容易。这些问题可以在[快速思维](https://supermemo.guru/wiki/Fast_thinking)的帮助下以较低的能量消耗得到解决。需要「跳出思维定势」的问题依赖于[创造力](https://supermemo.guru/wiki/Creativity)，即对不同领域的联想。创造力和[学习内驱力](https://supermemo.guru/wiki/Learn_drive)是由「求知欲」驱动的，也就是可以通过[遗忘](https://supermemo.guru/wiki/Forgetting)轻松塑造和[泛化](https://supermemo.guru/wiki/Generalization)的新鲜知识。这种可塑性，有助于在新学习和创造性问题解决中，实现良好的模式匹配。
 
 ## 延伸阅读
 
-- [知识汇聚于真理](https://supermemo.guru/wiki/On_freedom_of_education_and_freedom_of_information)
+- [知识收敛于真理](https://supermemo.guru/wiki/On_freedom_of_education_and_freedom_of_information)
 
 - [错误的模型也有价值](https://supermemo.guru/wiki/Value_of_wrong_models)

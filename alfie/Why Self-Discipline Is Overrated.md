@@ -131,3 +131,9 @@ Christopher Peterson 和 Martin Seligman 在其著作《**Character Strengths an
 8.David C. Funder 在《**Psychological Inquiry**》杂志第 9 卷（1998 年）第 211 页发表了题为《On the Pros and Cons of Delay of Gratification》的文章。他所提及的研究分别是 Jonathan Shedler 和 Jack Block 在 1990 年发表于《**美国心理学家**》杂志第 45 卷（612-30 页）的文章《Adolescent Drug Use and Psychological Health》，以及 Jack H. Block、Per E. Gjerde 和 Jeanne H. Block 在 1991 年发表于《**Journal of Personality and Social Psychology**》第 60 卷（726-38 页）的文章《Personality Antecedents of Depressive Tendencies in 18-year-olds》。
 
 9.例如，可参阅 Christine Halse、Anne Honey 和 Desiree Boughtwood 在 2007 年发表于《**Gender and Education**》杂志第 19 卷（219-235 页）的文章《The Paradox of Virtue: (Re)thinking Deviance, Anorexia, and Schooling》。
+
+10. 这或许可以解释为什么数据普遍显示布置家庭作业（大多数学生都厌恶的家庭作业）对学业没有任何益处，尤其是在小学和初中。（参见Alfie Kohn，[*家庭作业的神话*](https://www.alfiekohn.org/homework-myth/) [Cambridge, MA: Da Capo Press, 2006]，以及2006年9月出版的*Kappan*上根据该书撰写的[文章](https://www.alfiekohn.org/abusing-research/)。值得注意的是，大多数人都认为学生会从他们迫不及待要完成的作业中获益，他们的态度似乎和目标与结果无关。
+
+11. David Shapiro, 《**Neurotic Styles**》(New York: Basic, 1965), p. 34.
+
+12. 同上., p. 44.
