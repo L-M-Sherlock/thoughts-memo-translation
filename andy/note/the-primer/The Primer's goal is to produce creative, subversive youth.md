@@ -26,7 +26,7 @@
 
 他抱怨现在的学校教育只是在生产出千篇一律、缺乏生气的学生。他的理想是：「为了养成一代能充分发挥潜力的孩子，我们必须让他们的生活变得更加有趣。」（第 24 页）后来，他让 Hackworth 设计这本《启蒙琼林》，并特别强调：「我希望你回家后，好好思考『颠覆』这个词的含义。」（第 81 页）
 
-这里其实有点讽刺。大多数人因为它的教育功能记住了《启蒙琼林》，却忘记了它真正的目标。但从某种意义上讲，《启蒙琼林》自己也忘记了自己的初衷；正如描述的那样，[《启蒙琼林》本质上是一个教育游戏](https://notes.andymatuschak.org/zR6yKT7q1nZfQwYFy5Y3kqT)。[《启蒙琼林》里明确的学习任务让 Nell 学着外包掉她的好奇心和兴趣](https://notes.andymatuschak.org/zTVMSoCn8JyccLxgpJ3LB9x。[在《启蒙琼林》中，Nell 没有进行任何原创性思考](https://notes.andymatuschak.org/zYFqtXyVzE51jBqjRi2jTuE)。
+这里其实有点讽刺。大多数人因为它的教育功能记住了《启蒙琼林》，却忘记了它真正的目标。但从某种意义上讲，《启蒙琼林》自己也忘记了自己的初衷；正如描述的那样，[《启蒙琼林》本质上是一个教育游戏](https://notes.andymatuschak.org/zR6yKT7q1nZfQwYFy5Y3kqT)。[《启蒙琼林》里明确的学习任务让 Nell 学着外包掉她的好奇心和兴趣](https://notes.andymatuschak.org/zTVMSoCn8JyccLxgpJ3LB9x)。[在《启蒙琼林》中，Nell 没有进行任何原创性思考](https://notes.andymatuschak.org/zYFqtXyVzE51jBqjRi2jTuE)。
 
 ------
 
