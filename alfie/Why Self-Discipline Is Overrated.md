@@ -139,3 +139,5 @@ Christopher Peterson 和 Martin Seligman 在其著作《**Character Strengths an
 11. David Shapiro, 《**Neurotic Styles**》(New York: Basic, 1965), p. 34.
 
 12. 同上., p. 44.
+
+14.关于 「一些过度受控的人格偶尔会表现出抑制」，见 Block, 第 187 页。
