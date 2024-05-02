@@ -2,24 +2,24 @@
 
 原文：[Pedagogical content knowledge - supermemo.guru](https://supermemo.guru/wiki/Pedagogical_content_knowledge)
 
-**学科教学知识（PCK）**是促进领域知识从教师向学生转移的知识。
+**学科教学知识（PCK）**是一种促进领域知识从教师向学生转移的知识。
 
-**学科教学知识**是[学校教育](https://supermemo.guru/wiki/Schooling)的产物，与[自由学习](https://supermemo.guru/wiki/Free_learning)的相关性较低。
+在[自由学习](https://supermemo.guru/wiki/Free_learning)中，**学科教学知识**不怎么重要，它主要是[学校教育](https://supermemo.guru/wiki/Schooling)的产物。
 
-如果我们假设一个模型，其中（1）知识和学生之间有一个中介，**老师**，并且有（2）一个固定的知识要通过，**[课程](https://supermemo.guru/wiki/Curriculum)**，我们自然需要在个人的**先验知识**和**课程**之间建立[语义桥梁](https://supermemo.guru/wiki/Semantic_learning)。
+如果我们设想这样一个模式，其中（1）知识和学生之间有一个中介，即**教师**，并且（2）有一套固定的知识需要传授，即**[课程](https://supermemo.guru/wiki/Curriculum)**，那么我们自然需要一个[语义桥梁](https://supermemo.guru/wiki/Semantic_learning)来连接学生的**前置知识**和**课程**。
 
-关于转移到学生大脑的知识的[语义距离](https://supermemo.guru/wiki/Semantic_distance)的特定内容专业知识，可以称为**「学科教学知识」**。这个概念在[自由学习](https://supermemo.guru/wiki/Free_learning)中是完全没有必要的，学生使用自己定制的学习策略，使用[知识估值网络](https://supermemo.guru/wiki/Knowledge_valuation_network)将适当的**[学习熵](https://supermemo.guru/wiki/Learntropy)**的知识来源与她自己的**已有知识**相匹配，这些知识评估网络构成了**[学习内驱力](https://supermemo.guru/wiki/Learn_drive)系统的重要子组件**。 **学科教学知识**由教育家 [Lee Shulman](https://en.wikipedia.org/wiki/Lee_Shulman) 命名：
+关于传授给学生大脑的知识的[语义距离](https://supermemo.guru/wiki/Semantic_distance)的特定于内容的专业知识，可以称为**「学科教学知识」**。这个概念在[自由学习](https://supermemo.guru/wiki/Free_learning)中完全没有必要，因为学生会自己定制学习策略，通过[知识估值网络](https://supermemo.guru/wiki/Knowledge_valuation_network)，将**[学习熵](https://supermemo.guru/wiki/Learntropy)**合适的知识来源与她自己的**前置知识**相匹配，这些网络是**[学习内驱力](https://supermemo.guru/wiki/Learn_drive)系统**的重要组件。**学科教学知识**这一术语来自教育家 [Lee Shulman](https://en.wikipedia.org/wiki/Lee_Shulman)：
 
-> 一门学科专业知识所需的内容知识需要与有效教学基础的学科教学知识区分开来（Redish，1996；Shulman，1986，1987）。后者包括有关学生在尝试学习一组主题时遇到的**典型困难**的信息； **典型路径**学生必须通过才能获得理解；以及**帮助学生**克服他们遇到的困难。 Shulman (1986, 1987) 认为学科教学知识并不等于内容领域的知识加上一套通用的教学策略；相反，不同学科的教学策略有所不同。专家教师知道**学生可能面临的困难**；他们知道如何**利用学生现有的知识**以使新信息变得有意义；他们知道如何评估学生的进步。专家教师既掌握了学科教学知识，也掌握了内容知识。在缺乏学科教学知识的情况下，教师往往依靠教科书出版商来决定如何最好地为学生组织科目。因此，他们被迫依靠“缺席课程开发人员的处方”（Brophy，1983），他们对每个老师课堂上的特定学生一无所知。学科教学知识是教师需要学习才能更有效的极其重要的部分（*来源：John D. Bransford，Ann L. Brown和Rodney R. Cocking编辑的“人们如何学习：大脑，思想，经验和学校”）
+> 我们需要区分专业领域的学科知识与有效教学所依赖的学科教学知识 (Redish, 1996; Shulman, 1986, 1987)。后者包括学生在学习某些主题时会遇到的**典型困难**；他们为了达到理解必须经过的**典型路径**；以及**帮助学生**克服这些困难的一系列潜在策略。Shulman (1986, 1987) 指出，学科教学知识并不仅仅是某一学科知识加上一套通用的教学策略；实际上，不同学科的教学策略各有不同。专家教师知道**学生可能面临的困难**；知道如何**利用学生已有的知识**让新信息变得有意义；知道如何评估学生的学习进展。专家教师既掌握了学科教学知识，也精通学科知识。缺乏学科教学知识时，教师往往只能依赖教科书出版商来决定如何组织教学内容，因此不得不依靠「缺席的课程开发者所提供的方案」(Brophy, 1983)，这些开发者对教师课堂上的学生情况并不了解。学科教学知识对于教师提高教学效果至关重要（来源："How People Learn: Brain, Mind, Experience, and School" by John D. Bransford,, Ann L. Brown, and, Rodney R. Cocking, editors）
 
-上述摘录中的强调显示了对[学校教育](https://supermemo.guru/wiki/Schooling)思考 PCK 的影响。「典型」一词的使用反映了平均，这与[自由学习](https://supermemo.guru/wiki/Free_learning)的个性化形成鲜明对比。学生被视为需要帮助，而[自由学习](https://supermemo.guru/wiki/Free_learning)导致选择的自主性，从而促进[智力](https://supermemo.guru/wiki/Intelligence)。
+上面的摘要强调了[学校教育](https://supermemo.guru/wiki/Schooling)对于思考学科教学知识的影响。这里「典型」一词的使用，显示了一种平均化的处理方式，这与[自由学习](https://supermemo.guru/wiki/Free_learning)的个性化形成鲜明对比。在传统教育中，学生被视为需要帮助的对象，而[自由学习](https://supermemo.guru/wiki/Free_learning)则赋予了选择的自主权，这有助于[智力](https://supermemo.guru/wiki/Intelligence)的发展。
 
-通过 Shulman 令人生畏的定义，我们意识到一个伟大的老师是一个伟大的人。教学很复杂，需要大量难以获得的知识：
+在 Shulman 令人生畏的定义下，我们意识到，一位伟大的教师也是一位伟人。教学是一项复杂的工作，需要掌握大量难以获取的知识：
 
-> Shulman 将学科教学知识定义为教师在**促进学生学习**的背景下对学科知识的解释和转化。他进一步提出了学科教学知识的几个关键要素：（1）主题表征的知识（内容知识）；（2）**了解学生对学科的概念**以及与特定学科相关的学与教意义；（3）一般教学知识（或教学策略）。为了完成他所谓的教学知识库，他包括了其他元素：（4）[课程](https://supermemo.guru/wiki/Curriculum)知识；（5）了解教育背景；（6）对教育目的的了解（Shulman，1987）。对于这种学科教学知识的概念，其他人对多元化学生群体的语言和文化特征的重要性和相关性提供了宝贵的见解（[来源](https://www.idra.org/resource-center/pedagogical-content-knowledge/)）
+> Shulman 将学科教学知识定义为教师在**帮助学生学习**的过程中，对学科知识的解释和转化。他进一步提出了学科教学知识的几个关键要素：（1）学科表征的知识（学科知识）；（2）**理解学生对学科的认识**以及与特定学科相关的学习和教学的影响；（3）通用的教学知识（或教学策略）。为了完善他所说的教学知识体系，他还包括了其他几个方面：（4）[课程](https://supermemo.guru/wiki/Curriculum)知识；（5）教育环境知识；（6）教育目的知识 (Shulman, 1987)。在学科教学知识的这一概念上，其他学者也对学生群体的语言和文化特性的重要性和相关性提供了有价值的见解。（[来源](https://www.idra.org/resource-center/pedagogical-content-knowledge/)）
 
-不幸的是，整个方法剥夺了学生的所有计划和决策。当教师锻炼他们的智力时，学生应该机器人地专注于成为「智慧」的接收者。艰难的决定和解决问题留给老师，而记忆留给学生，他们在银盘上很好地预处理了所有知识。这就是学校破坏知识处理技能的方式：
+遗憾的是，这种方法完全剥夺了学生的规划和决策权。教师在运用自己的智慧，而学生则变成了机械地接受「智慧」的容器。所有的难题和解决问题的任务都交给了教师，记忆任务则留给了学生，他们得到的知识都是预先处理好的，可以毫不费力地获取。这就是学校削弱学生的知识处理能力的方式：
 
-> 学科教学知识是计划课程和在课程中做出决策的重要基础（[来源] (https://supermemo.guru/wiki/Experts_do_not_understand_Khan_Academy)）
+> 学科教学知识是规划课程和课堂决策的重要基础（[来源](https://supermemo.guru/wiki/Experts_do_not_understand_Khan_Academy)）
 
 本[术语表](https://supermemo.guru/wiki/Glossary)条目用于解释《[我永远不会送我的孩子去学校](https://supermemo.guru/wiki/Problem_of_Schooling)》（2017）作者：[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)
