@@ -1,4 +1,4 @@
-# 《启蒙琼林》并不是一个切实可行的赋能环境
+# 《启蒙琼林》并不是一个可行的赋能环境
 
 原文：[The Primer isn’t a viable enabling environment (andymatuschak.org)](https://notes.andymatuschak.org/z9R3ho4NmDFScAohj3J8J3Y)
 
