@@ -140,4 +140,18 @@ Christopher Peterson 和 Martin Seligman 在其著作《**Character Strengths an
 
 12. 同上., p. 44.
 
+13.研究第211页
+
 14.关于 「一些过度受控的人格偶尔会表现出抑制」，见 Block, 第 187 页。
+
+15.Janet Polivy 在《心理探究》杂志第 9 卷（1998 年）第 183 页发表了题为《行为抑制的效应》的文章。她补充：「这并不意味着一个人永远都不应该抑制自己的自然反应，比如让人想要伤害他人的愤怒，或者令人犯烟瘾的香烟」（同上）。相反，这意味着在每种情况下都应该权衡抑制的利弊，这是一种温和的立场，与我们社会那普遍倡导全面自律的倾向形成鲜明对比。
+
+16.Funder, 在第 211 页中提到了 Walter Mischel 进行的所谓「棉花糖」实验（参见侧边栏）。Walter Mischel 这样说道：无法延迟满足可能是一个问题，但是「另一个极端——过度延迟满足——也有其代价，并且可能是不利的……在任何特定的选择中，是否应该延迟满足或「锻炼意志」往往并不是显而易见的」（《From Good Intentions to Willpower》，收录于《**The Psychology of Action: Linking Cognition and Motivation to Behavior**》，Peter M. Gollwitzer 和 John A. Bargh 编，纽约：Guilford，1996 年，第 198 页）。
+
+17.参见 King（同前）和 Alina Tugend 在 2008 年 8 月 16 日发表于《纽约时报》第 B5 页的文章《Winners Never Quit? Well, Yes, They Do》，对心理学家 Angela Duckworth 及其同事对「毅力」的毫无保留的支持提出了质疑。Angela Duckworth 和她的同事提出：「作为教育者和父母，我们不仅应该鼓励孩子努力工作，更应该鼓励他们绝不放弃」她们在报告中指出，坚持不懈的毅力有助于在拼字比赛中表现取得更好的成绩（Angela L. Duckworth 等人，《Grit: Perseverance and Passion for Long-Term Goals》，《ournal of Personality and Social Psychology》，第 92 卷，2007 年；引文见第 1100 页）。但是，这种统计上的关联大多指出了这些结果测量的局限性，以及毅力本身的局限性。「毅力 」这一概念忽略了动机因素（即人们**为什么而坚持不懈**），从而将对任务的真正热情与急于证明自己的能力、无法适时改变方向等混为一谈。
+
+18.Jack Block，第130页
+
+19. 例如，参见我的作品[**Punished by Rewards**](https://www.alfiekohn.org/punished-rewards/), 修订版 (Boston: Houghton Mifflin, 1999); 以及Edward L. Deci等人「A Meta-Analytic Review of Experiments Examining the Effects of Extrinsic Rewards on Intrinsic Motivation」 《**Psychological Bulletin**》, 第125卷 1999: 627-68.
+
+21.可应要求提供参考资料。
