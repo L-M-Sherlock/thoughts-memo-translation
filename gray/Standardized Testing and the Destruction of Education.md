@@ -4,7 +4,7 @@
 
 ## 研究表明，我们测试得越多，学生的兴趣就越低
 
-发布于2022年11月17日 | [审稿人：Hara Estroff Marano](https://www.psychologytoday.com/us/docs/editorial-process)
+发布于 2022 年 11 月 17 日 | [审稿人：Hara Estroff Marano](https://www.psychologytoday.com/us/docs/editorial-process)
 
 在过去几个世纪或更长的时间里，我们所知道的学校教育从来都不是好的[教育](https://www.psychologytoday.com/us/basics/education) 手段。它依赖于强制。它以错误的假设为前提，即：假设每个人在其发展过程中，可以且应该以相同的方式，在同一时间学习同样的东西。它使人们逐渐失去内在好奇心，削弱了人们了解世界的本能欲望，使学习变成了苦差事。但在几十年前，学校教育并不像今天这样糟糕。
 

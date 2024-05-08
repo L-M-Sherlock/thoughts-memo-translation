@@ -6,7 +6,7 @@
 
 [自稳态](https://supermemo.guru/wiki/Homeostatic)疲劳的**瑞士奶酪模型**是一个形象的比喻，用来解释大脑在认知「疲劳」状态下的工作方式。
 
-这种模型的提出，得益于关于[睡眠调节双过程模型](https://supermemo.guru/wiki/Two-process_model_of_sleep_regulation)的深入研究。研究显示，人在清醒一天中，大脑的认知能力会逐渐下降。这种现象最初被称为**过程 S**，即[睡眠倾向的自稳态成分](https://supermemo.guru/wiki/Homeostatic_component_of_sleep_propensity)。
+这种模型的提出，得益于有关[睡眠调节的双过程模型](https://supermemo.guru/wiki/Two-process_model_of_sleep_regulation)的深入研究。研究显示，人在清醒一天中，大脑的认知能力会逐渐下降。这种现象最初被称为**过程 S**，即[睡眠倾向的自稳态成分](https://supermemo.guru/wiki/Homeostatic_component_of_sleep_propensity)。
 
 当疲劳程度高时，大脑皮层的某些部分会失去功能（见：[部分清醒状态皮层的局部睡眠](https://supermemo.guru/wiki/Local_sleep_in_portions_of_the_awake_cortex)）。这可能会导致短暂的微睡眠，影响人的工作效率。当神经网络的某些部分停止工作时，正常的功能也会受到影响。这样的疲劳网络，就像**瑞士奶酪**一样，失效的部分好比奶酪中的洞。
 
