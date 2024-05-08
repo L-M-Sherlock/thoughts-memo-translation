@@ -18,7 +18,7 @@
 
 至于幼儿，他们的大脑成长迅速，以至于难以形成新的记忆（见：[童年失忆症](https://supermemo.guru/wiki/Childhood_amnesia)）。这对「刻意」的记忆来说尤其明显。这解释了为何过早让孩子接受学校教育是大错特错。然而，一小部分记忆，特别是生存所必需的子系统，倒是能扎下根来，一辈子都忘不了。小孩子看卡通片里那些怎么也死不了的角色，一集里死个十七回，也没啥大不了的。对幼儿来说，只要可以[自由探索](https://supermemo.guru/wiki/On_freedom_of_education_and_freedom_of_information)，错误的模型就是无害的。此外，错误的模型可以通过[泛化](https://supermemo.guru/wiki/Generalization)加速正确模型的[结晶](https://supermemo.guru/wiki/Crystallization)。谬误和错误模型其实是一种认知训练，它们可以提高对假信息的免疫力，进而提高智商。另一方面，我们通过加速学业训练、[宗教灌输](https://supermemo.guru/wiki/Ban_on_homeschooling)、[强制学习](https://supermemo.guru/wiki/Coercion_in_learning)，或者仅仅对孩子吼叫，轻易地造成伤害。没有什么比压力更能有效地加速发展了。皮质醇和其他应激反应因素是[优秀的大脑雕塑家](https://supermemo.guru/wiki/How_baby_brain_does_not_work)。只不过，如果大脑太早被雕琢，到了青春期，就没多少空间留给新的成长了。要是你用棍棒逼着孩子背诗唱歌，可能一时半会儿有用，孩子甚至能记一辈子。但这么早逼着孩子学，也可能毁了他们以后的发展。大脑发育迟缓将伴随着对学习的憎恨。[自由学习](https://supermemo.guru/wiki/Free_learning)能最大化新模型的结晶，以及发展对虚假和欺骗的认知免疫力。
 
-即使是较温和的[强迫学习](https://supermemo.guru/wiki/Coercive_learning)，也可能产生[毒性记忆](https://supermemo.guru/wiki/Toxic_memories)。一个早早就被迫大量背诵乘法表的孩子，可能会对乘法或数学产生终生的焦虑。即便没有焦虑，那些被称为**[寄生记忆](https://supermemo.guru/wiki/Parasitic_memories)**，顾名思义，可能会在未来多年里消耗认知处理能力。
+即使是较温和的[强迫学习](https://supermemo.guru/wiki/Coercive_learning)，也可能产生[毒性记忆](https://supermemo.guru/wiki/Toxic_memories)。一个早早就被迫死记硬背乘法表的孩子，可能会对乘法或数学产生持续终生的焦虑。即便没有焦虑，那些被称为**[寄生记忆](https://supermemo.guru/wiki/Parasitic_memories)**，顾名思义，可能会在未来不断消耗认知处理能力。
 
 ## 成人对谬误的易感性
 
@@ -36,11 +36,11 @@
 
 这是我对抗错误信念的方案：
 
--**婴幼儿和学龄前儿童**：不要担心谬误。到时候它们自然会被纠正！
+- **婴幼儿和学龄前儿童**：不要担心谬误。到时候它们自然会被纠正！
 
--**成年人**：丰富的终身学习是获得海量可靠知识的方案（参见：[知识之于创造性解决问题](https://supermemo.guru/wiki/Knowledge_in_creative_problem_solving))
+- **成年人**：丰富的终身学习是获得海量可靠知识的方案（参见：[知识之于创造性解决问题](https://supermemo.guru/wiki/Knowledge_in_creative_problem_solving))
 
--**九旬老人**：使用[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)，或者尽情享受生活：您的智慧备受赞赏！
+- **九旬老人**：使用[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)，或者尽情享受生活：您的智慧备受赞赏！
 
 [自由学习](https://supermemo.guru/wiki/Free_learning)是对错误信念的最佳解药。最佳的学习是丰富、广泛、自由且终身的学习。
 
@@ -48,25 +48,25 @@
 
 以下是我在 [SuperMemo Guru](https://supermemo.guru/wiki/SuperMemo_Guru) 试图对抗的一些谬误：
 
-- [谬误：学校是好的](https://supermemo.guru/wiki/Mythology_that_keeps_the_archaic_school_system_alive)：近两个世纪以来，学校对民众的不间断操练，重塑了人们对学校教育的文化认知。好学校的谬误一直都很难克服。幸运的是，新的丰富的网络媒体的到来将加速向基于[自由学习](https://supermemo.guru/wiki/Free_learning)的未来过渡
+- [谬误：学校是好的](https://supermemo.guru/wiki/Mythology_that_keeps_the_archaic_school_system_alive)：近两个世纪以来，学校对大众的反复灌输，重塑了人们对学校教育的文化认知。这一谬误根深蒂固，难以克服。幸运的是，随着新兴的网络媒体蓬勃发展，我们正加速迈向一个[自由学习](https://supermemo.guru/wiki/Free_learning)的新时代。
 
 - 谬误：[艾宾浩斯](https://supermemo.guru/wiki/Ebbinghaus)发明了[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)。这可把我气坏了，间隔重复是我在 20 世纪 90 年代初偶然间自己开始的研究。请看[事情的经过](https://www.supermemo.com/en/blog/did-ebbinghaus-invent-spaced-repetition)。欲知真相，参阅：[间隔重复的历史](https://supermemo.guru/wiki/History_of_spaced_repetition)
 
-- [谬误：着凉会导致感冒](https://supermemo.guru/wiki/Myth:_you_can_catch_a_cold_from_cold)：这是我每天与之斗争的谬误，因为我不断被警告，甚至被医学专家警告，我总着凉可能有害。这促使我写了一篇关于我的[没有感染的生活公式](https://supermemo.guru/wiki/Formula_for_common_cold_prevention)的短文。这个谬误甚至悄悄地进入了2017年的课程（见：[学校课程的政治本质](https://supermemo.guru/wiki/School_curriculum_is_inherently_political)）!
+- [谬误：我们会因为受寒而感冒](https://supermemo.guru/wiki/Myth:_you_can_catch_a_cold_from_cold)：这是我每天与之斗争的谬误，因为我不断被警告，甚至包括医疗专业人士，他们认为我接触寒冷可能会对身体有害。这促使我撰写了一篇简短的文章，分享我[避免感染的方法](https://supermemo.guru/wiki/Formula_for_common_cold_prevention)。这个谬误甚至悄悄地进入了 2017 年的课标（见：[学校课程的政治本质](https://supermemo.guru/wiki/School_curriculum_is_inherently_political)）!
 
-- [谬误：学生天生懒惰，厌恶学习](https://supermemo.guru/wiki/Myth:_Students_are_naturally_lazy_and_do_not_like_to_learn)
+- [谬误：学生天生懒惰，不喜欢学习](https://supermemo.guru/wiki/Myth:_Students_are_naturally_lazy_and_do_not_like_to_learn)
 
--谬误：[DSPS 是一种基于基因的疾病，没有已知的有效自然疗法](https://supermemo.guru/wiki/Curing_DSPS_and_insomnia)
+-谬误：[DSPS 是一种遗传性疾病，尚无已知的有效自然疗法](https://supermemo.guru/wiki/Curing_DSPS_and_insomnia)
 
--谬误：[你可以通过早睡来获得额外睡眠](https://supermemo.guru/wiki/How_do_we_fall_asleep%3F)
+- 谬误：[你可以通过早睡来获得额外睡眠](https://supermemo.guru/wiki/How_do_we_fall_asleep%3F)
 
 - 谬误：[午睡要在中午睡](https://supermemo.guru/wiki/Best_time_for_napping)
 
-- 谬误：[记忆可以永恒](https://supermemo.guru/wiki/Forgotten_memories_are_ultimately_lost_for_good)
+- 谬误：[记忆可以永存](https://supermemo.guru/wiki/Forgotten_memories_are_ultimately_lost_for_good)
 
 ## 旧知识和新知识
 
-对谬误的易感性与年龄有关，也与新的学习程度有关。下面的图示说明了知识的尺寸和 “新鲜” 程度的影响。详见： [创造性解决问题的知识](https://supermemo.guru/wiki/Knowledge_in_creative_problem_solving)
+对谬误的易感性与年龄有关，也与学习新知识的程度有关。下图展示了知识量的大小及其「新鲜度」对人的影响。详见： [创造性解决问题的知识](https://supermemo.guru/wiki/Knowledge_in_creative_problem_solving)
 
 [![img](https://supermemo.guru/images/thumb/0/0c/Knowledge_in_creative_problem_solving.png/800px-Knowledge_in_creative_problem_solving.png)](https://supermemo.guru/wiki/File:Knowledge_in_creative_problem_solving.png)
 

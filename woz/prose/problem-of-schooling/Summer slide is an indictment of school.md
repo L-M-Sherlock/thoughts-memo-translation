@@ -42,9 +42,9 @@ Gray 揭示了早期[课程](https://supermemo.guru/wiki/Curriculum)中培养的
 
 如果记忆像筛子，那么夏天不断倒水只会让筛子更加生锈。随着孩子们最后一点自由的丧失，他们将开始变得疯狂。侵犯孩子们神圣假期的想法简直是犯罪般的疯狂！
 
-## 庆祝暑假
+## 庆祝暑期
 
-**暑期滑坡**现象实际上揭示了学校教育的效率低下。与其在夏天增加更多的学校作业或[家庭作业](https://supermemo.guru/wiki/Homework)，我们不如庆祝[遗忘](https://supermemo.guru/wiki/Forgetting)。让心灵摆脱那些只有在学校忙碌时才得以维持的垃圾知识。这些被遗忘的知识缺乏[连贯性](https://supermemo.guru/wiki/Coherence)和[实用性](https://supermemo.guru/wiki/Applicability)，无法使其[稳固](https://supermemo.guru/wiki/Stabilization)。大脑最清楚。让它重新组织。夏天是解放自由心灵的时候。**暑期滑坡是大脑执行健康的垃圾清理的自然结果**。
+**暑期滑坡**现象实际上揭示了学校教育的效率低下。与其在暑期增加更多的学校作业或[家庭作业](https://supermemo.guru/wiki/Homework)，我们不如庆祝[遗忘](https://supermemo.guru/wiki/Forgetting)。让心灵摆脱那些只有在学校忙碌时才得以维持的垃圾知识。这些被遗忘的知识缺乏[连贯性](https://supermemo.guru/wiki/Coherence)和[实用性](https://supermemo.guru/wiki/Applicability)，无法使其[稳固](https://supermemo.guru/wiki/Stabilization)。大脑最清楚。让它重新组织。暑期是解放自由心灵的时候。**暑期滑坡是大脑执行健康的垃圾清理的自然结果**。
 
 [Alfie Kohn](https://supermemo.guru/wiki/Alfie_Kohn) 同意我的指控：
 

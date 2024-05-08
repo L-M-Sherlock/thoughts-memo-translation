@@ -2,7 +2,7 @@
 
 原文：[Cognitive apprenticeship (andymatuschak.org)](https://notes.andymatuschak.org/zQgeXp15RWkzyiUv9WQsLtA)
 
-这个概念是 80 年代末由 Allan Collins、[John Seely Brown](https://notes.andymatuschak.org/zFQ8beSWt5erQJnz8265Va2) 和 Susan Newman 提出的。他们受到[情境学习](https://notes.andymatuschak.org/zL7XdosCZ9qeCSSCrhcYfwY)的启发，提议通过应用[学徒制](https://notes.andymatuschak.org/z8aBPhjq7R6o8cwVNjzfDdr)的技巧到认知领域（如数学、阅读、写作），来解决[迁移学习](https://notes.andymatuschak.org/z7ffiDfqTR9pPcEEUUbCL7C)的问题，并帮助学生掌握实际操作中的[隐性知识](https://notes.andymatuschak.org/zMdKRBZStQ4tCJJhomSYxvG)。
+这个概念是 80 年代末由 Allan Collins、[John Seely Brown](https://notes.andymatuschak.org/zFQ8beSWt5erQJnz8265Va2) 和 Susan Newman 提出的。他们受到[情境学习](https://notes.andymatuschak.org/zL7XdosCZ9qeCSSCrhcYfwY)的启发，提议将[学徒制](https://notes.andymatuschak.org/z8aBPhjq7R6o8cwVNjzfDdr)的技巧应用到认知领域（如数学、阅读、写作），来解决[迁移学习](https://notes.andymatuschak.org/z7ffiDfqTR9pPcEEUUbCL7C)的问题，并帮助学生掌握实际操作中的[默会知识](https://notes.andymatuschak.org/zMdKRBZStQ4tCJJhomSYxvG)。
 
 他们提出了三个核心要素：
 
@@ -14,7 +14,7 @@
 
 在诸如数学之类的认知领域，很多「行动」都发生在内部。这与传统的学徒制领域，如裁缝或制鞋不同，，因此需要进行适当调整，比如明确地分析流程、进行反思讨论等——这些做法也体现了[《反思型从业者》 - Donald Schön](https://notes.andymatuschak.org/z5wZoGy72FafNGd1AHgtghs)中的观点。
 
-与 [Lave 和 Wenger 提出的情境学习](https://notes.andymatuschak.org/zMhuu3pPa6FeNGYn3VfGCar),不同，这些作者认为学徒制应该在教育环境中进行，而不是真实的实践社区中。事实上，为了促进[迁移学习](https://notes.andymatuschak.org/z7ffiDfqTR9pPcEEUUbCL7C)，他们建议我们应该故意将知识抽象和脱离具体情境，这样更容易将其应用到不同的环境中。
+与 [Lave 和 Wenger 提出的情境学习](https://notes.andymatuschak.org/zMhuu3pPa6FeNGYn3VfGCar)，不同，这些作者认为学徒制应该在教育环境中进行，而不是真实的实践社区中。事实上，为了促进[迁移学习](https://notes.andymatuschak.org/z7ffiDfqTR9pPcEEUUbCL7C)，他们建议我们应该故意将知识抽象和脱离具体情境，这样更容易将其应用到不同的环境中。
 
 这些论文中有一个我特别喜欢的观点，那就是「抽象回放」。教师和学生都可以制作抽象回放，用来进行有趣的比较讨论。这是试图（人为？）示范并创建一个专家实践微型文化的一部分。
 
