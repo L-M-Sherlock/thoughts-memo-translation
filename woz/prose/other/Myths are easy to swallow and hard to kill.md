@@ -16,13 +16,13 @@
 
 ## 天真的幼儿
 
-至于幼儿，他们的大脑成长迅速，以至于难以形成新的记忆（见：[童年失忆症](https://supermemo.guru/wiki/Childhood_amnesia)）。这对「刻意」的记忆来说尤其明显。这解释了为何过早让孩子接受学校教育是大错特错。然而，一小部分记忆，特别是生存所必需的子系统，倒是能扎下根来，一辈子都忘不了。小孩子看卡通片里那些怎么也死不了的角色，一集里死个十七回，也没啥大不了的。对幼儿来说，只要可以[自由探索](https://supermemo.guru/wiki/On_freedom_of_education_and_freedom_of_information)，错误的模型就是无害的。此外，错误的模型可以通过[泛化](https://supermemo.guru/wiki/Generalization)加速正确模型的[结晶](https://supermemo.guru/wiki/Crystallization)。谬误和错误模型其实是一种认知训练，它们可以提高对假信息的免疫力，进而提高智商。另一方面，我们通过加速学业训练、[宗教灌输](https://supermemo.guru/wiki/Ban_on_homeschooling)、[强制学习](https://supermemo.guru/wiki/Coercion_in_learning)，或者仅仅对孩子吼叫，轻易地造成伤害。没有什么比压力更能有效地加速发展了。皮质醇和其他应激反应因素是[优秀的大脑雕塑家](https://supermemo.guru/wiki/How_baby_brain_does_not_work)。只不过，如果大脑太早被雕琢，到了青春期，就没多少空间留给新的成长了。要是你用棍棒逼着孩子背诗唱歌，可能一时半会儿有用，孩子甚至能记一辈子。但这么早逼着孩子学，也可能毁了他们以后的发展。大脑发育迟缓将伴随着对学习的憎恨。[自由学习](https://supermemo.guru/wiki/Free_learning)能最大化新模型的结晶，以及发展对虚假和欺骗的认知免疫力。
+至于幼儿，他们的大脑成长迅速，以至于难以形成新的记忆（见：[童年失忆症](https://supermemo.guru/wiki/Childhood_amnesia)）。这对「刻意」的记忆来说尤其明显。这解释了为何过早让孩子接受学校教育是大错特错。然而，一小部分记忆，特别是生存所必需的子系统，倒是能扎下根来，一辈子都忘不了。小孩子看卡通片里那些怎么也死不了的角色，一集里死个十七回，也没啥大不了的。对幼儿来说，只要可以[自由探索](https://supermemo.guru/wiki/On_freedom_of_education_and_freedom_of_information)，错误的模型就是无害的。此外，错误的模型可以通过[泛化](https://supermemo.guru/wiki/Generalization)加速正确模型的[结晶](https://supermemo.guru/wiki/Crystallization)。谬误和错误模型其实是一种认知训练，它们可以提高对假信息的免疫力，进而提高智商。另一方面，我们通过加速学业训练、[宗教灌输](https://supermemo.guru/wiki/Ban_on_homeschooling)、[强迫学习](https://supermemo.guru/wiki/Coercion_in_learning)，或者仅仅对孩子吼叫，轻易地造成伤害。没有什么比压力更能有效地加速发展了。皮质醇和其他应激反应因素是[优秀的大脑雕塑家](https://supermemo.guru/wiki/How_baby_brain_does_not_work)。只不过，如果大脑太早被雕琢，到了青春期，就没多少空间留给新的成长了。要是你用棍棒逼着孩子背诵诗歌，可能一时半会儿有用，孩子甚至能记一辈子。但这么早逼着孩子学，也可能毁了他们以后的发展。大脑发育迟缓将伴随着对学习的憎恨。[自由学习](https://supermemo.guru/wiki/Free_learning)能最大化新模型的结晶，以及发展对虚假和欺骗的认知免疫力。
 
 即使是较温和的[强迫学习](https://supermemo.guru/wiki/Coercive_learning)，也可能产生[毒性记忆](https://supermemo.guru/wiki/Toxic_memories)。一个早早就被迫死记硬背乘法表的孩子，可能会对乘法或数学产生持续终生的焦虑。即便没有焦虑，那些被称为**[寄生记忆](https://supermemo.guru/wiki/Parasitic_memories)**，顾名思义，可能会在未来不断消耗认知处理能力。
 
 ## 成人对谬误的易感性
 
-对于那些夹在幼儿和老人之间的所有人来说，我们对谬误的易感性取决于前置知识和前置训练。学校教我们听权威的话，将教科书中所讲一切视为真理。据说，教科书的内容不需要验证（由于学校里的[填鸭式教育](https://supermemo.guru/wiki/Cramming)的速度太快，根本没有时间去验证）。[自由学习者](https://supermemo.guru/wiki/Free_learning)经常被错误的信息所困扰，以至于他们心里的怀疑劲儿异常敏锐。我通过[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)不断学习愚蠢的东西，因为知识的世界如此广阔，我们不可能验证所学的一切。然而，每次我被误导，我都会加强我的怀疑习惯。除非我阅读的是维基百科上的「不稳定的共识」，否则我总是会检查来源和作者。来检查[我](https://supermemo.guru/wiki/Piotr_Wozniak)吧！
+对于那些夹在幼儿和老人之间的所有人来说，我们对谬误的易感性取决于前置知识和以前受过的训练。学校教我们听权威的话，将教科书中所讲一切视为真理。据说，教科书的内容不需要验证（由于学校里的[填鸭式教育](https://supermemo.guru/wiki/Cramming)的速度太快，根本没有时间去验证）。[自由学习者](https://supermemo.guru/wiki/Free_learning)经常被错误的信息所困扰，以至于他们心里的怀疑劲儿异常敏锐。我通过[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)不断学习愚蠢的东西，因为知识的世界如此广阔，我们不可能验证所学的一切。然而，每次我被误导，我都会加强我的怀疑习惯。除非我阅读的是维基百科上的「不稳定的共识」，否则我总是会检查来源和作者。来检查[我](https://supermemo.guru/wiki/Piotr_Wozniak)吧！
 
 ## 谬误的解药
 
@@ -38,7 +38,7 @@
 
 - **婴幼儿和学龄前儿童**：不要担心谬误。到时候它们自然会被纠正！
 
-- **成年人**：丰富的终身学习是获得海量可靠知识的方案（参见：[知识之于创造性解决问题](https://supermemo.guru/wiki/Knowledge_in_creative_problem_solving))
+- **成年人**：丰富的终身学习是获得海量可靠知识的方案（参见：[知识之于创造性解决问题](https://supermemo.guru/wiki/Knowledge_in_creative_problem_solving)）
 
 - **九旬老人**：使用[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)，或者尽情享受生活：您的智慧备受赞赏！
 
