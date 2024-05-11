@@ -10,7 +10,7 @@
 
 当疲劳程度高时，大脑皮层的某些部分会失去功能（见：[部分清醒状态皮层的局部睡眠](https://supermemo.guru/wiki/Local_sleep_in_portions_of_the_awake_cortex)）。这可能会导致短暂的微睡眠，影响人的工作效率。当神经网络的某些部分停止工作时，正常的功能也会受到影响。这样的疲劳网络，就像**瑞士奶酪**一样，失效的部分好比奶酪中的洞。
 
-在瑞士奶酪网络中，错误率会上升，可能会出现错误的联想、更多的[干扰](https://supermemo.guru/wiki/Interference)，加剧的[遗忘](https://supermemo.guru/wiki/Forgetting)，[回忆](https://supermemo.guru/wiki/Recall)和[回忆](https://supermemo.guru/wiki/Recall)失败（短暂遗忘）等问题。随着时间的推移，大脑中较少疲劳的部分会逐渐弥补那些疲劳较重的部分。因此，我们能看到行为上的明显变化。
+在瑞士奶酪网络中，错误率会上升，可能会出现错误的联想、更多的[干扰](https://supermemo.guru/wiki/Interference)，加剧的[遗忘](https://supermemo.guru/wiki/Forgetting)和[回忆](https://supermemo.guru/wiki/Recall)失败（短暂遗忘）等问题。随着时间的推移，大脑中较少疲劳的部分会逐渐弥补那些疲劳较重的部分。因此，我们能看到行为上的明显变化。
 
 ## 失忆和创造力
 

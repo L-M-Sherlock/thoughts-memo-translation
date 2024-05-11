@@ -6,7 +6,7 @@
 
 ## 关于探索式学习的混淆
 
-如果你是一个无情的铁杆老师，想证明[发现学习]（https://supermemo.guru/wiki/Discovery_learning）不起作用，你可以尝试以下技巧。进入班级并要求：*「我想让你掌握量子力学！继续发现吧！」*。你显然会遇到沉默的教室。如果你认为你的学生在他们的脑海中呜咽*「哦，不！不要这样对我们！ 请帮帮我！」*，您必须表现出[错误的学生思维模式]（https://supermemo.guru/wiki/Educational_empathy）。如果你能把脑电波翻译成声音，你宁愿听到*「你在开玩笑吗？」*。可悲的是，成千上万的教师认为，没有老师的帮助，他们的学生就没有未来。令人困惑的是，堆积如山的研究表明[发现学习]（https://supermemo.guru/wiki/Discovery_learning）效率低下。这都是错误的（请参阅：[发现学习很难衡量]（https://supermemo.guru/wiki/Discovery_learning_is_hard_to_measure））。然而，最可怕的是，仍有研究人员诚实地认为[发现学习]（https://supermemo.guru/wiki/Discovery_learning）效率低下。如果他们以数据为基础思考，我们可以很容易地证明糟糕的设计和质量差的研究。然而，如果他们的思维基于错误的思维理论，我们都需要担心教育中不流血革命的前景。如果年轻一代需要在科学支持下为自己的权利而战，那么这个消息是好消息。然而，如果科学处于对立面，我们可能会进入一个普遍混乱的时代，值得最好的泥浆搅拌[特朗普诡计]（https://supermemo.guru/wiki/Donald_Trump）。
+如果你是一个无情的铁腕教师，想证明[发现学习](https://supermemo.guru/wiki/Discovery_learning)行不通，你可以尝试以下手段。走进教室，告诉学生：「我要你们掌握量子力学！自己去发现吧！」显然，你会面对一片死寂的教室。如果你以为学生们在心里哀嚎：「不要这样！求你帮帮我们！」，那你[对学生心理的模型完全错误](https://supermemo.guru/wiki/Educational_empathy)。如果能把脑电波转换成声音，你可能会听到他们说：「你在开玩笑吗？」可悲的是，成千上万的教师认为，没有老师的帮助，他们的学生就没有未来。令人困惑的是，堆积如山的研究表明[发现学习](https://supermemo.guru/wiki/Discovery_learning)效率低下，但这种说法其实是错误的（请参阅：[发现学习难以衡量](https://supermemo.guru/wiki/Discovery_learning_is_hard_to_measure)）。然而，最可怕的是，仍有研究者坚信[发现学习](https://supermemo.guru/wiki/Discovery_learning)效率低下。如果他们的观点建立在数据之上，我们可以轻松指出这是因为研究设计不当、质量低下。但如果他们的观点是基于错误的心理理论，那我们真的需要担心教育领域可能出现的一场不流血的革命。如果年轻一代需要依靠科学的支持来争取他们的权利，这本是好消息。但如果科学界持反对立场，我们可能就要步入一个充满混乱的时代，这种混乱不亚于[特朗普的诡计](https://supermemo.guru/wiki/Donald_Trump)。
 
 ## 快乐的探索生活
 

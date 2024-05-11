@@ -5,3 +5,7 @@
 一个颇具挑战的问题。一些相关笔记：
 
 - [GPT-4 在指导下，通常能够从解释性文本中为陈述性知识生成可用的间隔重复卡片](https://notes.andymatuschak.org/z2VVmj24FLixtrijdAbkKty91JQruAaZGbHE6)
+
+  - [对于卡片生成任务，选择强化目标和为这些目标编写卡片是两个独立的问题](https://notes.andymatuschak.org/z62s1nNLEfhGbDmpb8Z7dZiYyi3kaSziuLVXd)
+
+    - [将提示生成框定为对强化目标的筛选问题。](https://notes.andymatuschak.org/zQ4E1DXZoZTTitsik89ZcvXMu8dQMkJzRUS)

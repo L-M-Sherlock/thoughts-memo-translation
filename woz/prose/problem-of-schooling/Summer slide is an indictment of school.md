@@ -1,4 +1,4 @@
-## 暑期滑坡是对学校的指控
+## 暑假滑坡是对学校的指控
 
 原文：[Summer slide is an indictment of school - supermemo.guru](https://supermemo.guru/wiki/Summer_slide_is_an_indictment_of_school)
 
@@ -42,15 +42,15 @@ Gray 揭示了早期[课程](https://supermemo.guru/wiki/Curriculum)中培养的
 
 如果记忆像筛子，那么夏天不断倒水只会让筛子更加生锈。随着孩子们最后一点自由的丧失，他们将开始变得疯狂。侵犯孩子们神圣假期的想法简直是犯罪般的疯狂！
 
-## 庆祝暑期
+## 庆祝暑假
 
-**暑期滑坡**现象实际上揭示了学校教育的效率低下。与其在暑期增加更多的学校作业或[家庭作业](https://supermemo.guru/wiki/Homework)，我们不如庆祝[遗忘](https://supermemo.guru/wiki/Forgetting)。让心灵摆脱那些只有在学校忙碌时才得以维持的垃圾知识。这些被遗忘的知识缺乏[连贯性](https://supermemo.guru/wiki/Coherence)和[实用性](https://supermemo.guru/wiki/Applicability)，无法使其[稳固](https://supermemo.guru/wiki/Stabilization)。大脑最清楚。让它重新组织。暑期是解放自由心灵的时候。**暑期滑坡是大脑执行健康的垃圾清理的自然结果**。
+**暑假滑坡**现象实际上揭示了学校教育的效率低下。与其在暑假增加更多的学校作业或[家庭作业](https://supermemo.guru/wiki/Homework)，我们不如庆祝[遗忘](https://supermemo.guru/wiki/Forgetting)。让心灵摆脱那些只有在学校忙碌时才得以维持的垃圾知识。这些被遗忘的知识缺乏[连贯性](https://supermemo.guru/wiki/Coherence)和[实用性](https://supermemo.guru/wiki/Applicability)，无法使其[稳固](https://supermemo.guru/wiki/Stabilization)。大脑最清楚。让它重新组织。暑假是解放自由心灵的时候。**暑假滑坡是大脑执行健康的垃圾清理的自然结果**。
 
 [Alfie Kohn](https://supermemo.guru/wiki/Alfie_Kohn) 同意我的指控：
 
-> 因此，暑期滑坡不应被视为教育中令人悲伤却不可避免的事实，而应被视为**对传统教育的又一次指控**，这种教育依赖于讲座、教科书、工作表、成绩、考试和家庭作业——所有这些都旨在让学生将零碎的知识塞进他们的短期记忆中。认为解决这种**可预见的遗忘**的方法是给学生更多相同的东西，这多么荒谬！
+> 因此，暑假滑坡不应被视为教育中令人悲伤却不可避免的事实，而应被视为**对传统教育的又一次指控**，这种教育依赖于讲座、教科书、工作表、成绩、考试和家庭作业——所有这些都旨在让学生将零碎的知识塞进他们的短期记忆中。认为解决这种**可预见的遗忘**的方法是给学生更多相同的东西，这多么荒谬！
 
-Kohn 还强调了心理垃圾清理的价值：
+Kohn 还强调了清理心理垃圾的价值：
 
 > 研究[创造力](https://supermemo.guru/wiki/Creativity)的专家喜欢谈论行动与休息，绘画与从画布上退后一步，思考问题与在休息期间可能悄悄袭来的新见解。
 

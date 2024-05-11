@@ -58,37 +58,37 @@
 
 - 介绍[《少龄淑女绘本启蒙琼林》](https://notes.andymatuschak.org/z6xtQsFDb5YAPxWzJdoYKbYVAxQghSteVEyoX)：
 
-  - [《启蒙琼林》提醒人们注意自己的深层赋能体验](https://notes.andymatuschak.org/z6y1YwYjJS1YAjjegXPTQzoxhrX8CUpk5PjS8)
+  - [《启蒙琼林》让人回想起自己的深层赋能经历](https://notes.andymatuschak.org/z6y1YwYjJS1YAjjegXPTQzoxhrX8CUpk5PjS8)
 
-  - 比起教育游戏，《启蒙琼林》似乎是一个更好的例子。[《启蒙琼林》的目标是培养有创造力的、颠覆性的年轻人](https://notes.andymatuschak.org/zvMhuE5FyXVfspgazybETDJwHrYPVxN2Cere)；它不是要检查一堆学习目标的盒子
+  - 比起教育游戏，《启蒙琼林》似乎是一个更好的例子：[《启蒙琼林》的目标是培养有创造力和颠覆精神的年轻人](https://notes.andymatuschak.org/zvMhuE5FyXVfspgazybETDJwHrYPVxN2Cere)；它不是要检查一堆学习目标的盒子
 
-    - 像游戏一样，[《启蒙琼林》是一场庞大的情景体验](https://notes.andymatuschak.org/z2bumF8sVKrkRzRTcVPL8xfMCkJ9f4se2e8cR)，并且[《启蒙琼林》是可扩展的](https://notes.andymatuschak.org/z5NZs4GTsEc9n8zyYoVCTA9AfSMDNrHwdQRoF)
+    - 像游戏一样，[《启蒙琼林》是一场巨型情景体验](https://notes.andymatuschak.org/z2bumF8sVKrkRzRTcVPL8xfMCkJ9f4se2e8cR)，并且[《启蒙琼林》具备良好的扩展性](https://notes.andymatuschak.org/z5NZs4GTsEc9n8zyYoVCTA9AfSMDNrHwdQRoF)
 
-  - 不幸的是，《钻石年代》中描述的具体机制不会起作用：见[《启蒙琼林》不是一个可行的赋能环境](https://notes.andymatuschak.org/z4WNFDsAy4sqT8eU9VUfKwW1gdSL4UGB4mbyG)和subtree::todo结构subtree in outline:。
+  - 不幸的是，《钻石年代》中描述的具体机制不会起作用：见[《启蒙琼林》不是一个可行的赋能环境](https://notes.andymatuschak.org/z4WNFDsAy4sqT8eU9VUfKwW1gdSL4UGB4mbyG)
 
   - 很难想象把教育游戏修改成什么好东西，但《启蒙琼林》足够接近目标，值得批评，而且，可能还值得学习
 
     - Nell 确实感觉到她自己在实现每一个步骤；这在教育游戏中是不正确的，因为[情景体验需要参与者置身的因果关系](https://notes.andymatuschak.org/z3JVez8dDfxTHY1K9tHUfLLcgLkUmXQ2HKXUU)
 
-    - 《启蒙琼林》讲的是真正重要的事情（[《启蒙琼林》的目标是培养有创造力的、颠覆性的年轻人](https://notes.andymatuschak.org/zvMhuE5FyXVfspgazybETDJwHrYPVxN2Cere)，即使 Nell 不知道（[Nell 不知道也不认同《启蒙琼林》的目标](https://notes.andymatuschak.org/z6mg4iibFwrKipuEYQvBuA9cxnjvZ2vG2QgQ9)）。
+    - 《启蒙琼林》讲的是真正重要的事情（[《启蒙琼林》的目标是培养有创造力的、颠覆性的年轻人](https://notes.andymatuschak.org/zvMhuE5FyXVfspgazybETDJwHrYPVxN2Cere)，即使 Nell 不知道（[Nell 不知道也不认同《启蒙琼林》的目标](https://notes.andymatuschak.org/z6mg4iibFwrKipuEYQvBuA9cxnjvZ2vG2QgQ9)）
 
     - 《启蒙琼林》中的活动更接近于真实的赋能环境。[情景体验可以引导人们积极参与到赋能环境中](https://notes.andymatuschak.org/z2FDTR2NfpW1AtA4SAETevmKC2uDGEHfKrbhG)
 
-    - 它可以在专家环境下连续进行，而不是留下什么东西（[《启蒙琼林》是 Nell 余生的一个大「入职」经历](https://notes.andymatuschak.org/z2JYDtbKyaxf2nhicZTCGEScUcYLjZuda4vY8)
+    - 它可以在专家环境下连续进行，而不是留下什么东西（[《启蒙琼林》是 Nell 余生的一次大型「入职」经历](https://notes.andymatuschak.org/z2JYDtbKyaxf2nhicZTCGEScUcYLjZuda4vY8)
 
 - 那么，我们如何使这种新的媒体形式呢？ ::TODO 这一部分总体上定义相当不足；一些重要的想法在这里还没有被抓住，而且我们的理论在这里也有很大的漏洞::
 
   - 框架
 
-    - 一个有用的现有技术。[引导性冥想应用程序](https://notes.andymatuschak.org/z2LoRpSoo5Un8EbqkZEjJjvjM1BYLLQD1VJM)
+    - 一个有用的现有技术：[引导式冥想 App](https://notes.andymatuschak.org/z2LoRpSoo5Un8EbqkZEjJjvjM1BYLLQD1VJM)
 
     - [Primer++ 被嵌入到一个领域中，通过情景体验来引导学习者参与](https://notes.andymatuschak.org/z62M2Kdje6rnm6qHaQ5LSsNbc6FBNcmppbg1P)
 
-      - [思想工具应在有内在意义的目的范围内进行评估](https://notes.andymatuschak.org/z494jinM6aNqjzLuVenhH3tkgMWuDgzby3odm)
+      - [思想工具应该在有内在意义的目的上下文中进行评估](https://notes.andymatuschak.org/z494jinM6aNqjzLuVenhH3tkgMWuDgzby3odm)
 
-    - [设计新的赋能环境可以被视同为设计一所大学++](https://notes.andymatuschak.org/z7VvaRXqJ9ftH18TPKpySuRiEkLj9N9MFLQAW)
+    - [设计新的赋能环境，可以看作是在打造一所超级大学（University++）](https://notes.andymatuschak.org/z7VvaRXqJ9ftH18TPKpySuRiEkLj9N9MFLQAW)
 
-      - [讲座让学生得以一窥究竟专家是如何思考问题的](https://notes.andymatuschak.org/z4miEVp2N1DZuaGoETEg8auwiREBW2Q9mZjgi)
+      - [讲座能让我们窥见专家的思考方式](https://notes.andymatuschak.org/z4miEVp2N1DZuaGoETEg8auwiREBW2Q9mZjgi)
 
       - [强大的创新往往侧重于创造全新范式，而非解决当前情境中的问题](https://notes.andymatuschak.org/z6ReihULdqZXqhY2bMACp15kwgM1sT421Cx6p)
 

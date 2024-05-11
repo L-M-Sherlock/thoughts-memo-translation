@@ -50,7 +50,7 @@
 
 德西和瑞安的工作还并非到此为止。在证明了存在不同类型的动机（这些动机并非同样可取）之后，他们继续提出也存在不同种类的内化（同理）。这是我们很少考虑到的可能性；所有能够区分内在动机和外在动机的教育者都认为，我们应该帮助孩子们内化良好的价值观。但这种内化的本质究竟是什么呢？一方面，规则或标准可以被完全吞噬，或者说是「内化」，进而从内部控制着孩子们：「这时孩子们去做一件事往往是因为『应该』去做它们，或者说因为不这样做可能会引发焦虑、内疚或自卑。」另一方面，内化可以以在更加深层的维度上发生，使得孩子们「自愿的或自我决定的」去做一件事。它已经完全融入了一个人的价值观。
 
-因此，学生学习的原因可能是她知道自己应该学习（如果不这样做，她就会觉得自己很糟糕），也可能是她了解这样做的好处，即使这并不总是令人愉悦，她也想坚持下去。[20] 事实证明，这一基本区别与学术成就、体魄、爱情、气量、政治参与度和宗教信仰都有关系--每种情况下的研究都表明，后一种动机将带来比前一种动机更好的结果。 [21] 特别是在教育方面，教师应该通过尽量减少 「外部强加的评价、目标、奖励和压力 」以及积极支持学生的自主抉择来促进其生成更加正面的动机。[22]
+因此，学生学习的原因可能是她觉得自己必须学习（如果不这样做，她就会觉得自己很糟糕），也可能是她了解这样做的好处，即使这并不总是令人愉悦，她也想坚持下去。[20] 事实证明，这一基本区别与学术成就、体魄、爱情、气量、政治参与度和宗教信仰都有关系--每种情况下的研究都表明，后一种动机将带来比前一种动机更好的结果。 [21] 特别是在教育方面，教师应该通过尽量减少 「外部强加的评价、目标、奖励和压力 」以及积极支持学生的自主抉择来促进其生成更加正面的动机。[22]
 
 这告诉我们，内在动机并不总是理想的。如果孩子们感到受到控制，即便是来自内部的控制，他们也可能会感到矛盾、不快乐，而且可能不太可能在他们正在做的任何事情上取得成功（按照育人的标准）。尽责的学生可能正遭受心理分析家卡伦·霍妮（Karen Horney）描述的「应该的暴政」——到了他们不再知道自己真正想要什么，也不知道直接到底是谁的地步。对于那些把自己现在的生活抵押给未来的青年人来说也是如此：他们寒窗苦读，锲而不舍，压力山大。高中只是为了上大学做准备，而大学则是为了收集下一步所需的各种证书。任何事物本身都没有任何价值，或者说提供任何满足感。这些学生可能熟练于应试，排名，以及延迟满足，但他们提醒着我们，自律是一把双刃剑。
 
@@ -154,4 +154,20 @@ Christopher Peterson 和 Martin Seligman 在其著作《**Character Strengths an
 
 19. 例如，参见我的作品[**Punished by Rewards**](https://www.alfiekohn.org/punished-rewards/), 修订版 (Boston: Houghton Mifflin, 1999); 以及Edward L. Deci等人「A Meta-Analytic Review of Experiments Examining the Effects of Extrinsic Rewards on Intrinsic Motivation」 《**Psychological Bulletin**》, 第125卷 1999: 627-68.
 
+20.理查德·M·瑞安（Richard M. Ryan）、斯科特·里格比（Scott Rigby）和克里斯蒂·金（Kristi King）在《**Journal of Personality and Social Psychology**》第 65 卷（1993 年），第 587 页的文章中提到了两种宗教内化类型及其与宗教取向和心理健康的关系。瑞安、德西（Deci）、罗伯特·J·瓦勒兰（Robert J. Vallerand）、詹姆斯·P·康奈尔（James P. Connell）、理查德·科斯特纳（Richard Koestner）、吕克·佩尔蒂埃（Luc Pelletier）等人在许多其他论文中对这一基本区分进行了阐释和完善。最近，这一观点被用来回应罗伊·鲍迈斯特（Roy Baumeister）的说法，即自控能力「像肌肉一样」，需要能量并且容易耗尽——如果你抵抗了一种诱惑，至少在暂时得，你抵抗其他诱惑的能力会减弱。这一理论的问题在于，它未能区分「自我调节（即自主调节）」和「自我控制（即受控调节）」。尽管后者确实可能导致「自我耗竭」（ego depletion），但前者实际上「维持或增强了活力」（理查德·M·瑞安和爱德华·L·德西，《**From Ego Depletion to Vitality**》，《**Social and Personality Psychology Compass**》，第 2 卷，2008 年，第 709、711 页）。
+
 21.可应要求提供参考资料。
+
+22.例如，参见理查德·M·瑞安（Richard M. Ryan）、詹姆斯·P·康奈尔（James P. Connell）和爱德华·L·德西（Edward L. Deci）的文章《**A Motivational Analysis of Self-determination and Self-regulation in Education**》，收录于《**Research on Motivation in Education**》第 2 卷，由卡罗尔·埃姆斯（Carole Ames）和拉塞尔·埃姆斯（Russell Ames）编辑（佛罗里达州奥兰多：学术出版社（Academic Press），1985 年）；以及理查德·M·瑞安和杰罗姆·斯蒂勒（Jerome Stiller）的文章《**The Social Contexts of Internalization: Parent and Teacher Influences on Autonomy, Motivation, and Learning**》，收录于《**Advances in Motivation and Achievement**》第 7 卷，1991 年：第 115-149 页。引用自后者，第 143 页。
+
+大卫·布鲁克斯（David Brooks）《**The Art of Growing Up**》，发表于《**New York Times**》，2008 年 6 月 6 日，A23 版。
+
+24.参见阿尔菲·科恩（Alfie Kohn）的文章[《**How Not to Teach Values: A Critical Look at Character Education**》](https://www.alfiekohn.org/teach-values/)，发表于《**Phi Delta Kappan**》杂志，1997 年 2 月，第 429-439 页。
+
+25.一位教育者在为自律的必要性辩护时，引用了「我们的自私天性可能会把我们引向「相互战争的状态」」——仿佛托马斯·霍布斯对人类的悲观看法被普遍接受似的。随后，他惊人地声称「社会阶级差异似乎主要是延迟满足能力的函数」，并建议我们「将较低社会阶层与可能提供自律榜样的中产阶级联系起来」（路易斯·戈德曼（Louis Goldman），《**Mind, Character, and the Deferral of Gratification**》，《**Educational Forum**》，第 60 卷，1996 年，第 136、137、139 页）。请注意，这篇文章发表于 1996 年，而不是 1896 年。
+
+38.Mischel, 第 212 页。
+
+40.Mischel, 第 209 页。
+
+42.Mischel, 第 211 页。
