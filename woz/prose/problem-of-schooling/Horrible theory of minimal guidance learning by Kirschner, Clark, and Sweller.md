@@ -1,66 +1,66 @@
-# 可怕的最小指导学习理论，由 Kirschner, Clark, Sweller 提出
+# 可怕的最少指导学习理论，由 Kirschner, Clark, Sweller 提出
 
 原文：[Horrible theory of minimal guidance learning by Kirschner, Clark, and Sweller - supermemo.guru](https://supermemo.guru/wiki/Horrible_theory_of_minimal_guidance_learning_by_Kirschner,_Clark,_and_Sweller)
 
 这段文字选自《[我永远不会送我的孩子上学](https://supermemo.guru/wiki/Problem_of_Schooling)》，作者是[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)（2017）
 
-## 关于探索式学习的混淆
+## 对探索式学习的混淆
 
-如果你是一个无情的铁腕教师，想证明[发现学习](https://supermemo.guru/wiki/Discovery_learning)行不通，你可以尝试以下手段。走进教室，告诉学生：「我要你们掌握量子力学！自己去发现吧！」显然，你会面对一片死寂的教室。如果你以为学生们在心里哀嚎：「不要这样！求你帮帮我们！」，那你[对学生心理的模型完全错误](https://supermemo.guru/wiki/Educational_empathy)。如果能把脑电波转换成声音，你可能会听到他们说：「你在开玩笑吗？」可悲的是，成千上万的教师认为，没有老师的帮助，他们的学生就没有未来。令人困惑的是，堆积如山的研究表明[发现学习](https://supermemo.guru/wiki/Discovery_learning)效率低下，但这种说法其实是错误的（请参阅：[发现学习难以衡量](https://supermemo.guru/wiki/Discovery_learning_is_hard_to_measure)）。然而，最可怕的是，仍有研究者坚信[发现学习](https://supermemo.guru/wiki/Discovery_learning)效率低下。如果他们的观点建立在数据之上，我们可以轻松指出这是因为研究设计不当、质量低下。但如果他们的观点是基于错误的心理理论，那我们真的需要担心教育领域可能出现的一场不流血的革命。如果年轻一代需要依靠科学的支持来争取他们的权利，这本是好消息。但如果科学界持反对立场，我们可能就要步入一个充满混乱的时代，这种混乱不亚于[特朗普的诡计](https://supermemo.guru/wiki/Donald_Trump)。
+如果你是一个无情的铁腕教师，想证明[探索式学习](https://supermemo.guru/wiki/Discovery_learning)行不通，你可以尝试以下手段。走进教室，告诉学生：「我要你们掌握量子力学！自己去探索吧！」显然，你会面对一片死寂的教室。如果你以为学生们在心里哀嚎：「不要这样！求你帮帮我们！」，那你[对学生心理的模型完全错误](https://supermemo.guru/wiki/Educational_empathy)。如果能把脑电波转换成声音，你可能会听到他们说：「你在开玩笑吗？」可悲的是，成千上万的教师认为，没有老师的帮助，他们的学生就没有未来。令人困惑的是，堆积如山的研究表明[探索式学习](https://supermemo.guru/wiki/Discovery_learning)效率低下，但这种说法其实是错误的（请参阅：[探索式学习难以衡量](https://supermemo.guru/wiki/Discovery_learning_is_hard_to_measure)）。然而，最可怕的是，仍有研究者坚信[探索式学习](https://supermemo.guru/wiki/Discovery_learning)效率低下。如果他们的观点建立在数据之上，我们可以轻松指出这是因为研究设计不当、质量低下。但如果他们的观点是基于错误的心理理论，那我们真的需要担心教育领域可能出现的一场不流血的革命。如果年轻一代需要依靠科学的支持来争取他们的权利，这本是好消息。但如果科学界持反对立场，我们可能就要步入一个充满混乱的时代，这种混乱不亚于[特朗普的诡计](https://supermemo.guru/wiki/Donald_Trump)。
 
 ## 快乐的探索生活
 
-我很幸运，在[22年]（https://supermemo.guru/wiki/My_qualifications）中自由地忽略了我主要[义务教育]（https://supermemo.guru/wiki/Compulsory_schooling）的[直接指导]（https://supermemo.guru/wiki/Direct_instruction）。在极少数的日子里，当我被迫为测试进行一些机器人记忆时，我很快就会立即放弃语无伦次的知识，以追求自己的兴趣。在过去的30年里，我完全可以自由地有效地学习。我使用[免费学习]（https://supermemo.guru/wiki/Free_learning），我希望世界各地的所有孩子都能自由地拥有同样的自由和快乐。我的一生都是关于不受限制的[发现学习]的乐趣（https://supermemo.guru/wiki/Discovery_learning）。
+我很幸运，可以在我长达 [22 年](https://supermemo.guru/wiki/My_qualifications)的[强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling)过程中自由地摆脱[直接教学法](https://supermemo.guru/wiki/Direct_instruction)的束缚。那些少数需要死记硬背以应付考试的日子里，考试一结束，我就会立刻把那些支离破碎的知识抛到脑后，去追求自己感兴趣的东西。在接下来的 30 年里，我完全自由地高效学习。我采用的是[自由学习](https://supermemo.guru/wiki/Free_learning)，我希望全世界的孩子们都能有同样的自由和乐趣。我的一生都在享受无拘无束的[探索式学习](https://supermemo.guru/wiki/Discovery_learning)带来的乐趣。
 
-我无法理解的是，仍然有一些教育工作者可以直言不讳地争论，在学习的指导下，不知何故优于不受限制的探索自由。
+对我来说，有些教育者竟然还能理直气壮地说，手把手的教学方式比自由探索更优越，这实在是难以理解。
 
 ## 糟糕的例子
 
-这里有一个突出且被广泛引用的坏科学例子[为什么教学期间的最小指导不起作用：对建构主义、发现、基于问题的、体验式和基于探究的教学失败的分析] (https://www.tandfonline.com/doi/abs/10.1207/s15326985ep4102_1)"*.*
+这里有一个著名且经常被引用的坏科学例子：《[为什么最小指导的教学不管用：建构主义、发现式学习、问题导向学习、体验式学习和探究式教学失败的分析] (https://www.tandfonline.com/doi/abs/10.1207/s15326985ep4102_1)》。
 
-作者反对历史潮流，从Aristotle ，通过Locke和Piaget，再到[Seymour Papert]（https://supermemo.guru/wiki/Seymour_Papert）。他们反对公认的[建构主义]理论（https://en.wikipedia.org/wiki/Constructivism_(philosophy_of_education)）。
+亚里士多德到洛克、皮亚杰，再到[西摩·帕珀特](https://supermemo.guru/wiki/Seymour_Papert)，这些知识巨擘引领了历史的潮流，但这篇论文的作者却背道而驰。他们反对已经确立的[建构主义](https://en.wikipedia.org/wiki/Constructivism_(philosophy_of_education))理论。
 
-引用的文章告诉我，糟糕的研究设计并不是[免费学习]（https://supermemo.guru/wiki/Free_learning）或[发现学习]（https://supermemo.guru/wiki/Discovery_learning）被误解的唯一原因。即使对学习过程进行纯粹的建模也不足以达到目标。拥有博士学位的教育心理学家相信一些理论，这些理论给我留下了深刻的印象，他们从未观察到一个顽皮的孩子，也从未观察到自己学习新事物。对建构主义理论完全缺乏理解是令人震惊的。工作记忆和长期记忆以某种方式扭曲，以构建[发现学习]（https://supermemo.guru/wiki/Discovery_learning）效率低下的论点。出现了一个新的令人惊讶的想法，即（1）个孩子和（2）科学家的[概念网络]（https://supermemo.guru/wiki/Concept_network）在质量上是不同的，超出了概念化水平的自然定量差异（即既定[概念的结晶化（https://supermemo.guru/wiki/Concept））。整个关于指导优于自由的说法是对人类智力的侮辱。人类的大脑比这更好。文本谈到了作者的傲慢：“我们专家，我们科学家宣布他们更了解小人类”*。
+引用的文章告诉我，糟糕的研究设计并非[自由学习](https://supermemo.guru/wiki/Free_learning)或[探索式学习](https://supermemo.guru/wiki/Discovery_learning)被误解的唯一原因。连对学习过程的简单模拟也未达到预期效果。拥有博士学位的教育心理学家坚信一些理论，让我觉得他们似乎从未观察过一个玩耍的孩子，或是从未观察过自己学习新事物的过程。他们完全不理解建构主义理论，实在令人震惊。文章还扭曲地使用工作记忆和长期记忆来构建一个论点：[探索式学习](https://supermemo.guru/wiki/Discovery_learning)效率低下。一个令人惊讶的新观点突然出现，认为（1）儿童和（2）科学家的[概念网络](https://supermemo.guru/wiki/Concept_network)在概念化水平（即确立[概念](https://supermemo.guru/wiki/Concept)的结晶化）的自然数量差异之外，还存在质的不同。整个主张认为指导优于自由，这是对人类智慧的侮辱。人类的大脑比这更出色。文章还透露了作者的傲慢态度：「我们这些专家，我们这些科学家，比小孩子更懂他们的学习」。
 
-科学有那么糟糕，还是只是坚定的铁杆老师的一厢情愿的想法？我们是担心下一次考试，还是希望孩子们在智力成就上飙升？Kirschner、[Manfred Spitzer]（https://supermemo.guru/wiki/Manfred_Spitzer）、[Yuval Harari]（https://supermemo.guru/wiki/Yuval_Harari）和Nicholas Carr之间有什么共同点吗？是傲慢吗？
+科学真的有那么差吗，还是这只是一些顽固教师的一厢情愿？我们是在担心下一次考试，还是希望孩子们在智力上达到更高成就？Kirschner、[Manfred Spitzer](https://supermemo.guru/wiki/Manfred_Spitzer)、[Yuval Harari](https://supermemo.guru/wiki/Yuval_Harari) 和 Nicholas Carr 之间有什么共同点吗？是傲慢吗？
 
-农作物的奶油
+## 精华中的精华
 
-我留下了以下文章中的一些“徽章”，并发表了稀疏的尊严评论，假设读者熟悉主题，以发现荒谬的东西。
+在下面列出了被批评文章中的一些「亮点」，只做了简单的评论，假设读者对这个话题已经相当熟悉，能够自行发现其中的荒谬之处。
 
-[发现学习]（https://supermemo.guru/wiki/Discovery_learning）都是关于发现的。根据定义，它与教室的概念背立。然而：
+[探索式学习](https://supermemo.guru/wiki/Discovery_learning)完全以探索为核心。根据其定义，它与传统课堂教学的概念截然相反。然而：
 
->最小引导指令似乎没有参考工作记忆的特征、长期记忆或它们之间的复杂关系。结果是一系列建议，大多数教育工作者发现这些建议几乎**不可能实施**——许多经验丰富的教育工作者不愿意实施——因为它们要求学习者从事不太可能导致有效学习的认知活动。因此，最有效的教师要么忽视建议，要么充其量为他们提供paylip服务（eg ，Auls，2002）
+> 最少指导教学似乎完全忽略了工作记忆、长期记忆的特性，以及它们之间的复杂联系。这导致了一系列建议，多数教育工作者发现这些建议几乎**无法实施**——很多资深教师也不愿尝试——因为这些建议要求学习者参与到一些几乎不可能带来有效学习的认知活动中。因此，最出色的教师可能会选择忽略这些建议，或者最多，只是表面上表示认同（例如，Aulls，2002 年）。
 
-[学习驱动器]（https://supermemo.guru/wiki/Learn_drive）机制通过对给定的[语义距离]（https://supermemo.guru/wiki/Semantic_distance）[最大化值]（https://supermemo.guru/wiki/Knowledge_valuation_network）来优化工作内存。然而：
+[学习内驱力](https://supermemo.guru/wiki/Learn_drive)通过在给定的[语义距离](https://supermemo.guru/wiki/Semantic_distance)上[最大化价值](https://supermemo.guru/wiki/Knowledge_valuation_network)，优化了工作记忆的使用。然而：
 
->建议在教学期间倡导最低限度的指导，就好像**工作记忆不存在**或者，如果确实存在，在处理新信息时，它没有相关限制，建构主义教学程序感兴趣的信息本身
+> 有些推荐在教学中尽量少指导，好像**工作记忆不存在**一样。或者，即使承认它存在，也认为在处理新信息时，工作记忆没有任何限制，而这些新信息正是建构主义教学法特别关注的。
 
-作者似乎不理解建构主义的增量性。他们似乎不知道[概念网络]（https://supermemo.guru/wiki/Concept_network）中长期记忆关联的一层层构建。[学习驱动器]（https://supermemo.guru/wiki/Learn_drive）机制通过确保[概念激活]（https://supermemo.guru/wiki/Conceptual_computation）在优化的[语义距离]（https://supermemo.guru/wiki/Semantic_distance）在有限的搜索空间中运行。然而：
+作者们似乎没有理解建构主义的循序渐进性。他们看似不知道，长期记忆中的联系是在[概念网络](https://supermemo.guru/wiki/Concept_network)中一层层构建起来的。[学习内驱力](https://supermemo.guru/wiki/Learn_drive)在有限的搜索空间中发挥作用，确保在最佳的[语义距离](https://supermemo.guru/wiki/Semantic_distance)上激活概念。然而：
 
->工作记忆负荷无助于长期记忆中知识的积累，因为虽然工作记忆被用于**搜索问题解决方案**，但它不可用，**不能用于学习
+> 工作记忆的负荷并不促进长期记忆中知识的积累，因为当工作记忆被用来**寻找问题解决方案**时，它就**无法被同时用来学习**。
 
-[学习内驱力]（https://supermemo.guru/wiki/Learn_drive）机制是最著名的学习轨迹优化器（见：[拼图隐喻]（https://supermemo.guru/wiki/Jigsaw_puzzle_metaphor））。作者明确赞同手工高效优化的神话（见：[学校教育的登山隐喻]（https://supermemo.guru/wiki/Mountain_climb_metaphor_of_schooling
+[学习内驱力](https://supermemo.guru/wiki/Learn_drive)机制是最著名的学习路径优化器（参见：[拼图比喻](https://supermemo.guru/wiki/Jigsaw_puzzle_metaphor)）。作者们显然坚信手动优化效率更高这一谬误（参见：[学校教育的爬山比喻](https://supermemo.guru/wiki/Mountain_climb_metaphor_of_schooling)）：
 
->教学的目标是**很少**只是搜索或发现信息。目标是为学员提供具体指导，了解如何以符合学习目标的方式以认知方式处理信息，并将结果存储在长期记忆中
+> 教学的目的，**很少**是单纯的寻找或发现信息。其真正目的，是向学习者提供具体的指导，教他们如何按照学习目标，对信息进行有效处理，并把处理结果存入长期记忆。
 
-作者似乎不理解学习过程的增量性。他们清楚地想象，纯粹的[发现学习]（https://supermemo.guru/wiki/Discovery_learning）看起来像是要求某人自己去发现量子力学？所以工作记忆不堪重负，长期记忆中什么都没有了？这正是大多数时候手工优化的课程教育的样子！这是[学校教育问题]（https://supermemo.guru/wiki/Problem_of_schooling）：
+作者似乎没有理解学习过程的渐进本质。他们是否真的以为纯粹的[探索式学习](https://supermemo.guru/wiki/Discovery_learning)，就像是让人自己去揭开量子力学的神秘面纱？这不是把工作记忆压得喘不过气来，最后长期记忆一片空白吗？这其实就是大多数课程导向型学校教育的真实写照！这就是[学校教育问题](https://supermemo.guru/wiki/Problem_of_schooling)的本质所在：
 
->要求新手学习者使用有限的工作记忆或无指导或最低指导的教学可能促进长期记忆变化的机制来寻找问题解决方案的后果似乎经常被忽视
+> 要求初学者在有限的工作记忆下寻找问题解决方案的后果，或者无指导或最少指导教学可能促进长期记忆变化的机制，这两者常常被忽视
 
-[Jerome Bruner]（https://en.wikipedia.org/wiki/Jerome_Bruner）是建构主义的天才之一。早在我们理解[学习乐趣]（https://supermemo.guru/wiki/Pleasure_of_learning）背后的机制之前，他就知道知识是它自己的最佳回报。现在我们了解了[学习驱动器]（https://supermemo.guru/wiki/Learn_drive）和[记忆如何工作]（https://supermemo.guru/wiki/Neurostatistical_model_of_memory），所有怀疑的痕迹都消失了。布鲁纳的“错误”因生活在一个无知的时代而“原谅”？2016年，布鲁纳去世，享年100岁。自该论文发表以来，他有十年的时间对*“映射完善的认知架构”*的奇妙概念有所启发。毫不奇怪，他从未放弃自己的信仰。
+[Jerome Bruner](https://en.wikipedia.org/wiki/Jerome_Bruner) 是建构主义思想的佼佼者。在人们还未深入了解[学习乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)的内在机制前，他已经认识到知识本身就是最佳奖励。如今，随着我们对[学习内驱力](https://supermemo.guru/wiki/Learn_drive)和[记忆工作方式](https://supermemo.guru/wiki/Neurostatistical_model_of_memory)的理解，所有的疑虑都烟消云散了。Bruner 的所谓「错误」，难道只因他生活在一个信息闭塞的时代而被「原谅」吗？2016 年，Bruner 以百岁高龄去世。自那篇讨论论文发表后，他有十年的时间去理解「精细构建的认知结构」这一精彩概念。不意外的是，他始终未改变自己的信念。
 
->当Bruner（1961）提议将[发现学习]（https://supermemo.guru/wiki/Discovery_learning）作为教学工具时，推荐最低限度的指导是可以理解的，因为构成人类**认知架构**的结构和关系尚未**映射**
+> 当 Bruner 在 1961 年提出使用[探索式学习](https://supermemo.guru/wiki/Discovery_learning)作为教学工具时，他推荐尽可能少的指导，这在当时是可以理解的，因为那时人类的**认知结构**及其关系还没有被完全**描绘**出来。
 
-哪个更好？（A）告诉孩子日食是由月亮遮挡太阳引起的，以及（B）让孩子好奇，让她继续自己的谷歌搜索探索？当一个孩子不可预测地偏离其他话题，如外星智能或大爆炸，或像「为什么天空是蓝色的？」这样的问题时，这很好吗？*。每次答案是B（自己的探索），我们都有明显的证据证明探索和发现的力量。
+哪种方法更好？是（A）直接告诉孩子日食是因为月亮挡住了太阳，还是（B）激发孩子的好奇心，让她自己去搜索探索？当孩子的探索偏离预定轨道，涉及到外星智慧、大爆炸或者「为什么天空是蓝的？」这样的问题时，这样好吗？每当选择 B（自我探索）时，我们都能清楚地看到探索和发现的巨大力量。然而：
 
-大多数所有年龄段的学习者都知道如何在获得足够的信息时构建知识，并且没有证据表明向他们提供部分信息比向他们提供完整信息更能提高他们构建表示的能力
+> 大部分学习者，无论年龄大小，只要得到了足够的信息，他们都能够构建知识。同时，并**没有证据**表明，提供部分信息比全面信息更能提高他们构建知识的能力。
 
-大脑是一个[概念网络]（https://supermemo.guru/wiki/Concept_network）。它早在出生前就开始了[概念结晶]（https://supermemo.guru/wiki/Generalization）的过程。这个过程以消耗的最后一点信息结束，通常是在最后一口气之后。然而：
+大脑是一个[概念网络](https://supermemo.guru/wiki/Concept_network)。它从生命开始之前就启动了[概念结晶](https://supermemo.guru/wiki/Generalization)的过程，这一过程持续到人的生命终结，直到最后一点信息被吸收。然而：
 
->根据Kyle（1980）的说法，科学探究是一种系统和调查性的表演能力，在一个人通过正式的教学过程获得对特定主题的广泛、批判性知识后，结合了不受约束的思维能力。它**不能等同于**科学教学的调查方法、自学教学技术或开放式教学技术。混淆两者的教育工作者因不当使用调查作为教学策略的范式而被判有罪
+> 根据 Kyle（1980 年）的研究，科学探究是一种系统的调查性能力，这种能力在人们通过正规教育深入了解了特定学科后，结合了自由思考的能力。这并**不能简单等同于**科学教学中的调查方法、自学技巧或开放式教学方法。那些混淆这两者的教育者，实际上误用了探究作为制定教学策略的模式，这是不恰当的。
 
-我们知道，孩子们厌倦了简单的任务，摆脱了棘手的问题。他们使用[问题估值网络]（https://supermemo.guru/wiki/Problem_valuation_network）。然而：
+我们知道，孩子们对简单的任务很快失去兴趣，面对难题则往往退缩。他们在使用[问题估值网络](https://supermemo.guru/wiki/Problem_valuation_network)。然而：
 
 > **自由探索**对高度复杂的环境可能会产生不利于学习的**沉重的工作记忆负荷**
 
