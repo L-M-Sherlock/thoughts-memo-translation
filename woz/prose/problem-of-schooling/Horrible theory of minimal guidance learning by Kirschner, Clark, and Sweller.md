@@ -1,4 +1,4 @@
-# 可怕的最少指导学习理论，由 Kirschner, Clark, Sweller 提出
+# 《糟糕的学习理论：“少教不教”》，作者 Kirschner, Clark, and Sweller
 
 原文：[Horrible theory of minimal guidance learning by Kirschner, Clark, and Sweller - supermemo.guru](https://supermemo.guru/wiki/Horrible_theory_of_minimal_guidance_learning_by_Kirschner,_Clark,_and_Sweller)
 
@@ -16,7 +16,7 @@
 
 ## 糟糕的例子
 
-这里有一个著名且经常被引用的坏科学例子：《[为什么最小指导的教学不管用：建构主义、发现式学习、问题导向学习、体验式学习和探究式教学失败的分析] (https://www.tandfonline.com/doi/abs/10.1207/s15326985ep4102_1)》。
+这里有一个著名且经常被引用的坏科学例子：《[为什么“少教不教”不管用——建构教学、发现教学、问题教学、体验教学与探究教学失败析因](https://www.tandfonline.com/doi/abs/10.1207/s15326985ep4102_1)》。
 
 亚里士多德到洛克、皮亚杰，再到[西摩·帕珀特](https://supermemo.guru/wiki/Seymour_Papert)，这些知识巨擘引领了历史的潮流，但这篇论文的作者却背道而驰。他们反对已经确立的[建构主义](https://en.wikipedia.org/wiki/Constructivism_(philosophy_of_education))理论。
 
@@ -62,32 +62,32 @@
 
 我们知道，孩子们对简单的任务很快失去兴趣，面对难题则往往退缩。他们在使用[问题估值网络](https://supermemo.guru/wiki/Problem_valuation_network)。然而：
 
-> **自由探索**对高度复杂的环境可能会产生不利于学习的**沉重的工作记忆负荷**
+> 在复杂环境中**自由探索**可能会让**工作记忆负荷过重**，这对学习是不利的。
 
-糟糕理论之父
+## 坏理论之父
 
-当周围有糟糕的科学时，我们应该始终寻找根本原因。怎么解释呢？每个被广泛引用的坏理论都对科学进步有一定程度的[良好贡献]（https://supermemo.guru/wiki/Value_of_wrong_models）。但它也造成了一波又一波的混乱，特别是那些将科学权威作为终极神谕的信息不足的人。在这种情况下，一个糟糕的理论可能会破坏对[大教育改革]的追求（https://supermemo.guru/wiki/Grand_Education_Reform）。
+当坏科学出现时，我们应该追问其根本原因。这是怎么回事呢？每一个被广泛引用的错误理论，虽然对科学的进步有[积极的贡献](https://supermemo.guru/wiki/Value_of_wrong_models)，但同时也带来了混乱，特别是对那些信息闭塞的人来说，他们往往将科学权威视为不容置疑的最高准则。在这种情况下，一个错误的理论可能会严重阻碍[教育大改革](https://supermemo.guru/wiki/Grand_Education_Reform)。
 
-Kirchner、Clark和Sweller都有丰富的课堂教育背景。他们一定正在经历“鱼缸效应”，因为课堂现实扭曲了社会生态学的真相，包括学习的生态学。他们都相信，随着专业知识的积累，学习过程会发生质的变化。在他们看来，学生需要指导，但专家不需要。
+Kirchner、Clark 和 Sweller 都有丰富的课堂教学经验。他们可能正经历着所谓的「鱼缸效应」，即课堂的现实情况扭曲了社会生态的真实面貌，包括学习生态。他们认为，随着专业技能的增长，学习过程会有质的飞跃。在他们眼中，学生需要指导，而专家则不需要。
 
-在一次教育会议上，他们被贴上了*教导员*的标签，对他们来说，这不是冒犯。在喝咖啡时，他们决定在信念上加一些肉体。通过主要利用斯威勒的[认知负荷理论]（https://supermemo.guru/wiki/Cognitive_load_theory），他们产生了一篇有争议的作品，结果中了头奖。
+在一次教育会议中，有人把他们称作**指导主义者**，他们并不以此为耻。一次喝咖啡时，他们决定给自己的观点增加些实际内容。借助 Sweller 的[认知负荷理论](https://supermemo.guru/wiki/Cognitive_load_theory)，他们撰写了一篇颇具争议的文章，结果意外地大受欢迎。
 
-谷歌学者告诉我，Kirschner和Clark根据他们的不良理论和有争议的主张建立了他们的引文名声。我们再次在[同行评审]（https://supermemo.guru/wiki/Peer_review）中看到引用索引的缺陷。那些提出离谱主张的人经常在引文人气比赛中开枪。他们在书籍和混乱的博客中被引用。其中一名受害者写道*“我永远感谢任何指向一篇给我带来新教师生活的论文方向的人”（[来源]（https://researched.org.uk/research-that-changed-my-teaching/））。
+谷歌学术显示，Kirschner 和 Clark 凭借他们的坏理论和有争议的观点积累了很高的引用率。这再次暴露了[同行评议](https://supermemo.guru/wiki/Peer_review)中引用指数的问题。那些提出离谱观点的人往往在引用榜上迅速走红。他们的言论被引用在书籍和混乱的博客中。有位受影响的人写道：「我永远感激那位指引我找到那篇改变了我的教师生涯的文章的人。」
 
-Paul ·AKirschner发现Facebook降低了GPA。Richard Edward Clark写道*“媒体永远不会影响学习”*。作者显然与新一代的大多数孩子不同。他们更喜欢教室而不是YouTube。也许看到伟大的学习理论被猫咪视频压制是无法忍受的？Kirschner的演讲甚至似乎遵循与[Manfred Spitzer]博士相似的模式。(https://supermemo.guru/wiki/Manfred_Spitzer).
+Paul A. Kirschner 发现 Facebook 会降低学生的 GPA。Richard Edward Clark 则声称：「媒体永远不会影响学习。」这些作者显然与新一代的孩子们不同，他们更青睐课堂而非 YouTube。也许看到优秀的学习理论被猫咪视频所淹没，对他们来说是难以接受的？Kirschner 的讲座甚至和 [Manfred Spitzer](https://supermemo.guru/wiki/Manfred_Spitzer) 博士的风格相似。
 
-我不介意意见分歧，然而，我希望论文作者不要产出脆弱的学习理论，在课堂上奴役孩子。人权要求教授在指导下自由学习，要求孩子们自由选择自己的方式。
+我不介意观点分歧，但我真希望这些论文的作者不要通过推广那些站不住脚的学习理论，把孩子们束缚在课堂里。人权要求教授能在指导下自由学习，孩子们也应该有权选择自己的学习路径。
 
-至于John Sweller 博士，他是一个惊喜。他不知道孩子们自然会逃避太难的问题吗？他的课堂偏见可以追溯到他1988年的原始出版物，该出版物将他的名字列入教育科学史的编年史。这显然不仅仅是[发现学习]定义错误的问题（https://supermemo.guru/wiki/Discovery_learning），因为文章的标题清楚地谈到了*最低指导*（见：[很难研究发现学习]（https://supermemo.guru/wiki/It_is_hard_to_research_discovery_learning））。至关重要的是，Sweller 声称：
+至于 John Sweller 博士，他确实让人意外。他难道不知道孩子们本能地会逃避那些太难的问题吗？他对课堂的偏见源自他 1988 年的首次发表，这篇论文也让他名留教育科学史。问题显然不仅仅是[探索式学习](https://supermemo.guru/wiki/Discovery_learning)定义上的疏漏，因为文章的标题就明确提到了“最少指导”（参见：[探索式学习很难研究](https://supermemo.guru/wiki/It_is_hard_to_research_discovery_learning)）。最关键的是，Sweller 提出：
 
-认知负荷理论表明，自由探索高度复杂的环境可能会产生不利于学习的沉重工作记忆负荷
+> 认知负荷理论指出，在复杂环境中自由探索可能会让工作记忆负荷过重，这对学习是不利的。
 
-我从未见过一个蹒跚学步的孩子对环境的复杂性感到困惑。相反，[开放行为空间]（https://supermemo.guru/wiki/Open_behavioral_spaces）有利于[智能]（https://supermemo.guru/wiki/Intelligence）。只要妈妈在身边提供安全感，探索就会蓬勃发展。正是**指导**的局限性通过[胁迫力]（https://supermemo.guru/wiki/Coercive_learning）将学生束缚到[复杂性]（https://supermemo.guru/wiki/Complexity）。Sweller的[认知负载理论]（https://supermemo.guru/wiki/Cognitive_load_theory）不应该告诉他，[学习驱动器]（https://supermemo.guru/wiki/Learn_drive）通过使用[问题估值网络]（https://supermemo.guru/wiki/Problem_valuation_network）或类似的[知识估值网络]（https://supermemo.guru/wiki/Knowledge_valuation_network）来有效优化学习吗？
+我从未见过小孩子因为环境的复杂而感到困惑。事实上，[开放的行为空间](https://supermemo.guru/wiki/Open_behavioral_spaces)反而有利于[智力](https://supermemo.guru/wiki/Intelligence)的发展。只要母亲在旁边提供安全感，孩子们的探索精神就能旺盛地生长。过多的**指导**反而会限制学生，使他们[被强迫](https://supermemo.guru/wiki/Coercive_learning)与[复杂性](https://supermemo.guru/wiki/Complexity)绑定。Sweller 的认知负荷理论应该让他明白，通过利用[问题估值网络](https://supermemo.guru/wiki/Problem_valuation_network)或相似的[知识估值网络](https://supermemo.guru/wiki/Knowledge_valuation_network)，[学习内驱力](https://supermemo.guru/wiki/Learn_drive)能够有效地促进学习。
 
-[Georgios Zonnios]（https://supermemo.guru/wiki/Georgios_Zonnios）解释了[发现学习]（https://supermemo.guru/wiki/Discovery_learning）研究中混乱的根源：[发现学习误导性研究]（https://supermemo.guru/wiki/It_is_hard_to_research_discovery_learning）。Paul Kirschner显然与课堂学习的概念相结合，他认为唯一可以接受的探索是让专制教师设定的目标感到满意。宇宙中适应性最强的设备在自由世界中自由探索根本不属于他的权限。
+[Georgios Zonnios](https://supermemo.guru/wiki/Georgios_Zonnios) 在[《关于探索式学习的误导性研究》](https://supermemo.guru/wiki/It_is_hard_to_research_discovery_learning)一文中阐释了[探索式学习](https://supermemo.guru/wiki/Discovery_learning)这一研究领域的混乱根源。Paul Kirschner 显然非常坚持课堂学习的模式，他唯一认可的探索类型是那种能够满足权威教师设定目标的探索。自由世界中最具适应性的设备所进行的自由探索，显然是他所不能理解的。
 
-Kirchner还透露自己对[emergence]（https://supermemo.guru/wiki/Emergence）有软控制力。在他看来，[概念计算]（https://supermemo.guru/wiki/Conceptual_computation）中的[知识的结晶]（https://supermemo.guru/wiki/Crystallization_of_knowledge）在没有指导的情况下接近奇迹。这类似于一个神创论者的惊讶，他不相信复杂生活可能通过进化产生的想法。
+Kirchner 也表现出了对[涌现](https://supermemo.guru/wiki/Emergence)现象的理解不足。在他看来，没有外界指导，[概念计算](https://supermemo.guru/wiki/Conceptual_computation)中的[知识结晶](https://supermemo.guru/wiki/Crystallization_of_knowledge)几乎是不可思议的。这就像是神创论者难以接受复杂生命能通过进化而产生一样，感到非常惊讶。
 
-然而，所有邪恶的更根本的根源是Paul Kirschner在一次采访中认同的旧神话：*「学习很难」*。所有有疑问的人都应该专注于研究[学习乐趣]（https://supermemo.guru/wiki/Pleasure_of_learning）！从那时起，从逻辑上讲，我们必须尊重[学习基本法则]（https://supermemo.guru/wiki/Fundamental_law_of_learning）。如果[学习驱动器]（https://supermemo.guru/wiki/Learn_drive）是探索的最佳指导，那么我们演绎地得出[免费学习]的概念（https://supermemo.guru/wiki/Free_learning）。
+然而，所有邪恶更本质的问题源自 Paul Kirschner 在一次采访中所认同的一个陈旧谬误：「学习是困难的」。对此有疑问的人应该去研究[学习的乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)！从这个角度出发，我们自然而然地得出结论：我们必须尊重[学习的基本规律](https://supermemo.guru/wiki/Fundamental_law_of_learning)。如果说[学习内驱力](https://supermemo.guru/wiki/Learn_drive)是探索的最佳指导，那么我们可以逻辑上推出[自由学习](https://supermemo.guru/wiki/Free_learning)的概念。
 
-学生必须是是自己命运的主宰者
+学生必须是自己命运的主人。
