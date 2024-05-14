@@ -4,13 +4,13 @@
 
 这段文字选自《[我永远不会送我的孩子上学](https://supermemo.guru/wiki/Problem_of_Schooling)》，作者是[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)（2017）
 
-## 对探索式学习的混淆
+## 对发现式学习的混淆
 
-如果你是一个无情的铁腕教师，想证明[探索式学习](https://supermemo.guru/wiki/Discovery_learning)行不通，你可以尝试以下手段。走进教室，告诉学生：「我要你们掌握量子力学！自己去探索吧！」显然，你会面对一片死寂的教室。如果你以为学生们在心里哀嚎：「不要这样！求你帮帮我们！」，那你[对学生心理的模型完全错误](https://supermemo.guru/wiki/Educational_empathy)。如果能把脑电波转换成声音，你可能会听到他们说：「你在开玩笑吗？」可悲的是，成千上万的教师认为，没有老师的帮助，他们的学生就没有未来。令人困惑的是，堆积如山的研究表明[探索式学习](https://supermemo.guru/wiki/Discovery_learning)效率低下，但这种说法其实是错误的（请参阅：[探索式学习难以衡量](https://supermemo.guru/wiki/Discovery_learning_is_hard_to_measure)）。然而，最可怕的是，仍有研究者坚信[探索式学习](https://supermemo.guru/wiki/Discovery_learning)效率低下。如果他们的观点建立在数据之上，我们可以轻松指出这是因为研究设计不当、质量低下。但如果他们的观点是基于错误的心理理论，那我们真的需要担心教育领域可能出现的一场不流血的革命。如果年轻一代需要依靠科学的支持来争取他们的权利，这本是好消息。但如果科学界持反对立场，我们可能就要步入一个充满混乱的时代，这种混乱不亚于[特朗普的诡计](https://supermemo.guru/wiki/Donald_Trump)。
+如果你是一个无情的铁腕教师，想证明[发现式学习](https://supermemo.guru/wiki/Discovery_learning)行不通，你可以尝试以下手段。走进教室，告诉学生：「我要你们掌握量子力学！自己去探索吧！」显然，你会面对一片死寂的教室。如果你以为学生们在心里哀嚎：「不要这样！求你帮帮我们！」，那你[对学生心理的模型完全错误](https://supermemo.guru/wiki/Educational_empathy)。如果能把脑电波转换成声音，你可能会听到他们说：「你在开玩笑吗？」可悲的是，成千上万的教师认为，没有老师的帮助，他们的学生就没有未来。令人困惑的是，堆积如山的研究表明[发现式学习](https://supermemo.guru/wiki/Discovery_learning)效率低下，但这种说法其实是错误的（请参阅：[发现式学习难以衡量](https://supermemo.guru/wiki/Discovery_learning_is_hard_to_measure)）。然而，最可怕的是，仍有研究者坚信[发现式学习](https://supermemo.guru/wiki/Discovery_learning)效率低下。如果他们的观点建立在数据之上，我们可以轻松指出这是因为研究设计不当、质量低下。但如果他们的观点是基于错误的心理理论，那我们真的需要担心教育领域可能出现的一场不流血的革命。如果年轻一代需要依靠科学的支持来争取他们的权利，这本是好消息。但如果科学界持反对立场，我们可能就要步入一个充满混乱的时代，这种混乱不亚于[特朗普的诡计](https://supermemo.guru/wiki/Donald_Trump)。
 
 ## 快乐的探索生活
 
-我很幸运，可以在我长达 [22 年](https://supermemo.guru/wiki/My_qualifications)的[强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling)过程中自由地摆脱[直接教学法](https://supermemo.guru/wiki/Direct_instruction)的束缚。那些少数需要死记硬背以应付考试的日子里，考试一结束，我就会立刻把那些支离破碎的知识抛到脑后，去追求自己感兴趣的东西。在接下来的 30 年里，我完全自由地高效学习。我采用的是[自由学习](https://supermemo.guru/wiki/Free_learning)，我希望全世界的孩子们都能有同样的自由和乐趣。我的一生都在享受无拘无束的[探索式学习](https://supermemo.guru/wiki/Discovery_learning)带来的乐趣。
+我很幸运，可以在我长达 [22 年](https://supermemo.guru/wiki/My_qualifications)的[强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling)过程中自由地摆脱[直接教学法](https://supermemo.guru/wiki/Direct_instruction)的束缚。那些少数需要死记硬背以应付考试的日子里，考试一结束，我就会立刻把那些支离破碎的知识抛到脑后，去追求自己感兴趣的东西。在接下来的 30 年里，我完全自由地高效学习。我采用的是[自由学习](https://supermemo.guru/wiki/Free_learning)，我希望全世界的孩子们都能有同样的自由和乐趣。我的一生都在享受无拘无束的[发现式学习](https://supermemo.guru/wiki/Discovery_learning)带来的乐趣。
 
 对我来说，有些教育者竟然还能理直气壮地说，手把手的教学方式比自由探索更优越，这实在是难以理解。
 
@@ -20,7 +20,7 @@
 
 亚里士多德到洛克、皮亚杰，再到[西摩·帕珀特](https://supermemo.guru/wiki/Seymour_Papert)，这些知识巨擘引领了历史的潮流，但这篇论文的作者却背道而驰。他们反对已经确立的[建构主义](https://en.wikipedia.org/wiki/Constructivism_(philosophy_of_education))理论。
 
-引用的文章告诉我，糟糕的研究设计并非[自由学习](https://supermemo.guru/wiki/Free_learning)或[探索式学习](https://supermemo.guru/wiki/Discovery_learning)被误解的唯一原因。连对学习过程的简单模拟也未达到预期效果。拥有博士学位的教育心理学家坚信一些理论，让我觉得他们似乎从未观察过一个玩耍的孩子，或是从未观察过自己学习新事物的过程。他们完全不理解建构主义理论，实在令人震惊。文章还扭曲地使用工作记忆和长期记忆来构建一个论点：[探索式学习](https://supermemo.guru/wiki/Discovery_learning)效率低下。一个令人惊讶的新观点突然出现，认为（1）儿童和（2）科学家的[概念网络](https://supermemo.guru/wiki/Concept_network)在概念化水平（即确立[概念](https://supermemo.guru/wiki/Concept)的结晶化）的自然数量差异之外，还存在质的不同。整个主张认为指导优于自由，这是对人类智慧的侮辱。人类的大脑比这更出色。文章还透露了作者的傲慢态度：「我们这些专家，我们这些科学家，比小孩子更懂他们的学习」。
+引用的文章告诉我，糟糕的研究设计并非[自由学习](https://supermemo.guru/wiki/Free_learning)或[发现式学习](https://supermemo.guru/wiki/Discovery_learning)被误解的唯一原因。连对学习过程的简单模拟也未达到预期效果。拥有博士学位的教育心理学家坚信一些理论，让我觉得他们似乎从未观察过一个玩耍的孩子，或是从未观察过自己学习新事物的过程。他们完全不理解建构主义理论，实在令人震惊。文章还扭曲地使用工作记忆和长期记忆来构建一个论点：[发现式学习](https://supermemo.guru/wiki/Discovery_learning)效率低下。一个令人惊讶的新观点突然出现，认为（1）儿童和（2）科学家的[概念网络](https://supermemo.guru/wiki/Concept_network)在概念化水平（即确立[概念](https://supermemo.guru/wiki/Concept)的结晶化）的自然数量差异之外，还存在质的不同。整个主张认为指导优于自由，这是对人类智慧的侮辱。人类的大脑比这更出色。文章还透露了作者的傲慢态度：「我们这些专家，我们这些科学家，比小孩子更懂他们的学习」。
 
 科学真的有那么差吗，还是这只是一些顽固教师的一厢情愿？我们是在担心下一次考试，还是希望孩子们在智力上达到更高成就？Kirschner、[Manfred Spitzer](https://supermemo.guru/wiki/Manfred_Spitzer)、[Yuval Harari](https://supermemo.guru/wiki/Yuval_Harari) 和 Nicholas Carr 之间有什么共同点吗？是傲慢吗？
 
@@ -28,7 +28,7 @@
 
 在下面列出了被批评文章中的一些「亮点」，只做了简单的评论，假设读者对这个话题已经相当熟悉，能够自行发现其中的荒谬之处。
 
-[探索式学习](https://supermemo.guru/wiki/Discovery_learning)完全以探索为核心。根据其定义，它与传统课堂教学的概念截然相反。然而：
+[发现式学习](https://supermemo.guru/wiki/Discovery_learning)完全以探索为核心。根据其定义，它与传统课堂教学的概念截然相反。然而：
 
 > 最少指导教学似乎完全忽略了工作记忆、长期记忆的特性，以及它们之间的复杂联系。这导致了一系列建议，多数教育工作者发现这些建议几乎**无法实施**——很多资深教师也不愿尝试——因为这些建议要求学习者参与到一些几乎不可能带来有效学习的认知活动中。因此，最出色的教师可能会选择忽略这些建议，或者最多，只是表面上表示认同（例如，Aulls，2002 年）。
 
@@ -44,13 +44,13 @@
 
 > 教学的目的，**很少**是单纯的寻找或发现信息。其真正目的，是向学习者提供具体的指导，教他们如何按照学习目标，对信息进行有效处理，并把处理结果存入长期记忆。
 
-作者似乎没有理解学习过程的渐进本质。他们是否真的以为纯粹的[探索式学习](https://supermemo.guru/wiki/Discovery_learning)，就像是让人自己去揭开量子力学的神秘面纱？这不是把工作记忆压得喘不过气来，最后长期记忆一片空白吗？这其实就是大多数课程导向型学校教育的真实写照！这就是[学校教育问题](https://supermemo.guru/wiki/Problem_of_schooling)的本质所在：
+作者似乎没有理解学习过程的渐进本质。他们是否真的以为纯粹的[发现式学习](https://supermemo.guru/wiki/Discovery_learning)，就像是让人自己去揭开量子力学的神秘面纱？这不是把工作记忆压得喘不过气来，最后长期记忆一片空白吗？这其实就是大多数课程导向型学校教育的真实写照！这就是[学校教育问题](https://supermemo.guru/wiki/Problem_of_schooling)的本质所在：
 
 > 要求初学者在有限的工作记忆下寻找问题解决方案的后果，或者无指导或最少指导教学可能促进长期记忆变化的机制，这两者常常被忽视
 
 [Jerome Bruner](https://en.wikipedia.org/wiki/Jerome_Bruner) 是建构主义思想的佼佼者。在人们还未深入了解[学习乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)的内在机制前，他已经认识到知识本身就是最佳奖励。如今，随着我们对[学习内驱力](https://supermemo.guru/wiki/Learn_drive)和[记忆工作方式](https://supermemo.guru/wiki/Neurostatistical_model_of_memory)的理解，所有的疑虑都烟消云散了。Bruner 的所谓「错误」，难道只因他生活在一个信息闭塞的时代而被「原谅」吗？2016 年，Bruner 以百岁高龄去世。自那篇讨论论文发表后，他有十年的时间去理解「精细构建的认知结构」这一精彩概念。不意外的是，他始终未改变自己的信念。
 
-> 当 Bruner 在 1961 年提出使用[探索式学习](https://supermemo.guru/wiki/Discovery_learning)作为教学工具时，他推荐尽可能少的指导，这在当时是可以理解的，因为那时人类的**认知结构**及其关系还没有被完全**描绘**出来。
+> 当 Bruner 在 1961 年提出使用[发现式学习](https://supermemo.guru/wiki/Discovery_learning)作为教学工具时，他推荐尽可能少的指导，这在当时是可以理解的，因为那时人类的**认知结构**及其关系还没有被完全**描绘**出来。
 
 哪种方法更好？是（A）直接告诉孩子日食是因为月亮挡住了太阳，还是（B）激发孩子的好奇心，让她自己去搜索探索？当孩子的探索偏离预定轨道，涉及到外星智慧、大爆炸或者「为什么天空是蓝的？」这样的问题时，这样好吗？每当选择 B（自我探索）时，我们都能清楚地看到探索和发现的巨大力量。然而：
 
@@ -78,13 +78,13 @@ Paul A. Kirschner 发现 Facebook 会降低学生的 GPA。Richard Edward Clark 
 
 我不介意观点分歧，但我真希望这些论文的作者不要通过推广那些站不住脚的学习理论，把孩子们束缚在课堂里。人权要求教授能在指导下自由学习，孩子们也应该有权选择自己的学习路径。
 
-至于 John Sweller 博士，他确实让人意外。他难道不知道孩子们本能地会逃避那些太难的问题吗？他对课堂的偏见源自他 1988 年的首次发表，这篇论文也让他名留教育科学史。问题显然不仅仅是[探索式学习](https://supermemo.guru/wiki/Discovery_learning)定义上的疏漏，因为文章的标题就明确提到了“最少指导”（参见：[探索式学习很难研究](https://supermemo.guru/wiki/It_is_hard_to_research_discovery_learning)）。最关键的是，Sweller 提出：
+至于 John Sweller 博士，他确实让人意外。他难道不知道孩子们本能地会逃避那些太难的问题吗？他对课堂的偏见源自他 1988 年的首次发表，这篇论文也让他名留教育科学史。问题显然不仅仅是[发现式学习](https://supermemo.guru/wiki/Discovery_learning)定义上的疏漏，因为文章的标题就明确提到了“最少指导”（参见：[发现式学习很难研究](https://supermemo.guru/wiki/It_is_hard_to_research_discovery_learning)）。最关键的是，Sweller 提出：
 
 > 认知负荷理论指出，在复杂环境中自由探索可能会让工作记忆负荷过重，这对学习是不利的。
 
 我从未见过小孩子因为环境的复杂而感到困惑。事实上，[开放的行为空间](https://supermemo.guru/wiki/Open_behavioral_spaces)反而有利于[智力](https://supermemo.guru/wiki/Intelligence)的发展。只要母亲在旁边提供安全感，孩子们的探索精神就能旺盛地生长。过多的**指导**反而会限制学生，使他们[被强迫](https://supermemo.guru/wiki/Coercive_learning)与[复杂性](https://supermemo.guru/wiki/Complexity)绑定。Sweller 的认知负荷理论应该让他明白，通过利用[问题估值网络](https://supermemo.guru/wiki/Problem_valuation_network)或相似的[知识估值网络](https://supermemo.guru/wiki/Knowledge_valuation_network)，[学习内驱力](https://supermemo.guru/wiki/Learn_drive)能够有效地促进学习。
 
-[Georgios Zonnios](https://supermemo.guru/wiki/Georgios_Zonnios) 在[《关于探索式学习的误导性研究》](https://supermemo.guru/wiki/It_is_hard_to_research_discovery_learning)一文中阐释了[探索式学习](https://supermemo.guru/wiki/Discovery_learning)这一研究领域的混乱根源。Paul Kirschner 显然非常坚持课堂学习的模式，他唯一认可的探索类型是那种能够满足权威教师设定目标的探索。自由世界中最具适应性的设备所进行的自由探索，显然是他所不能理解的。
+[Georgios Zonnios](https://supermemo.guru/wiki/Georgios_Zonnios) 在[《关于发现式学习的误导性研究》](https://supermemo.guru/wiki/It_is_hard_to_research_discovery_learning)一文中阐释了[发现式学习](https://supermemo.guru/wiki/Discovery_learning)这一研究领域的混乱根源。Paul Kirschner 显然非常坚持课堂学习的模式，他唯一认可的探索类型是那种能够满足权威教师设定目标的探索。自由世界中最具适应性的设备所进行的自由探索，显然是他所不能理解的。
 
 Kirchner 也表现出了对[涌现](https://supermemo.guru/wiki/Emergence)现象的理解不足。在他看来，没有外界指导，[概念计算](https://supermemo.guru/wiki/Conceptual_computation)中的[知识结晶](https://supermemo.guru/wiki/Crystallization_of_knowledge)几乎是不可思议的。这就像是神创论者难以接受复杂生命能通过进化而产生一样，感到非常惊讶。
 

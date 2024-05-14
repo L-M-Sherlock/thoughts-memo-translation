@@ -12,7 +12,7 @@
 
 - [《启蒙琼林》具备良好的扩展性](https://notes.andymatuschak.org/zUwC5h2fhfpi9hqqU7ZHAQT)
 
-然而，我认为这个愿景并不现实： [《启蒙琼林》并不是一个切实可行的赋能环境](https://notes.andymatuschak.org/z9R3ho4NmDFScAohj3J8J3Y)。
+然而，我认为这个愿景并不现实： [《启蒙琼林》并不是一个可行的赋能环境](https://notes.andymatuschak.org/z9R3ho4NmDFScAohj3J8J3Y)。
 
 ------
 
