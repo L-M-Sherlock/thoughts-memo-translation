@@ -2,7 +2,7 @@
 
 原文：[Minecraft vs. the Primer (andymatuschak.org)](https://notes.andymatuschak.org/zWuZgwauG22b2cWuB7YQ2EN)
 
-《我的世界》是一个典型的[赋能环境](https://notes.andymatuschak.org/z492hGrHvRvJiEY9UfB4Mby：很多人在这个游戏中能够建造庞大的三维结构，如果没有这个它，他们可能就做不到这一点。 [大多数游戏都不是赋能环境](https://notes.andymatuschak.org/zS7EYYnBEDPVcYdqCRTCi5Q)，因此，将《我的世界》与《钻石时代》中的《启蒙琼林》进行对比，可以给我们很多启发。我们是否能从中学到一些东西，来改进另一个呢？
+《我的世界》是一个典型的[赋能环境](https://notes.andymatuschak.org/z492hGrHvRvJiEY9UfB4Mby)：很多人在这个游戏中能够建造庞大的三维结构，如果没有这个它，他们可能就做不到这一点。 [大多数游戏都不是赋能环境](https://notes.andymatuschak.org/zS7EYYnBEDPVcYdqCRTCi5Q)，因此，将《我的世界》与《钻石时代》中的《启蒙琼林》进行对比，可以给我们很多启发。我们是否能从中学到一些东西，来改进另一个呢？
 
 ## 《我的世界》相比《启蒙琼林》的优势
 

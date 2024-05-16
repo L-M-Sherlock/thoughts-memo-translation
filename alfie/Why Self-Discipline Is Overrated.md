@@ -166,6 +166,22 @@ Christopher Peterson 和 Martin Seligman 在其著作《**Character Strengths an
 
 25.一位教育者在为自律的必要性辩护时，引用了「我们的自私天性可能会把我们引向「相互战争的状态」」——仿佛托马斯·霍布斯对人类的悲观看法被普遍接受似的。随后，他惊人地声称「社会阶级差异似乎主要是延迟满足能力的函数」，并建议我们「将较低社会阶层与可能提供自律榜样的中产阶级联系起来」（路易斯·戈德曼（Louis Goldman），《**Mind, Character, and the Deferral of Gratification**》，《**Educational Forum**》，第 60 卷，1996 年，第 136、137、139 页）。请注意，这篇文章发表于 1996 年，而不是 1896 年。
 
+26.无论内化或自律在多大程度上是*被*需要的，这种更温和的方法--特别是支持儿童的自主性和尽量减少成人的控制--一直被证明是更有效的。(我在[*无条件养育*](https://www.alfiekohn.org/unconditional-parenting/)[New York: Atria, 2005]中总结了一些对其的论述，集中在第3章。)具有讽刺意味的是，许多为自我控制的价值辩护的传统主义者同时也在提倡一种更为专制的教育方式。总而言之，我在这里的核心观点是，我们需要重新考虑的是目标，而不仅仅是方法。
+
+27.「几十年来，甚至几个世纪以来，老一代人一直抱怨年轻一代缺乏自制力。老一辈的维京人抱怨年轻一代越来越软弱，不再像过去那样尽心尽力地奸淫掳掠」（C. Peter Herman，《Thoughts of a Veteran of Self-Regulation Failure》，《**Psychological Inquiry**》，第 7 卷，1996 年，第 46 页）。例如，下面这段文字被广泛认为是古希腊诗人赫西俄德（Hesiod）所作：「当我年轻的时候，我们被教导要谨慎并尊重长辈，但现在的年轻人却极其[不尊重]和不克制」。同样，1894 年，在哈佛大学引入字母等级制后不久，分数的膨胀也遭到了谴责，这是所谓的标准降低的另一种表现形式。
+
+28.George Lakoff, 《**Moral Politics：How Liberals and Conservatives Think**》, 第二卷. (芝加哥大学出版社, 2002).
+
+29.关于服从与自控之间的关系的讨论，见 Block作品，集中于第 195-196 页。
+
+30.我想到了罗伊-鲍迈斯特（Roy Baumeister）和他的合作者琼-唐尼（June Tangney），以及马丁-塞利格曼（Martin Seligman）和安吉拉-达克沃斯（Angela Duckworth），还有犯罪学家迈克尔-戈特弗里德森（Michael R. Gottfredson）和特拉维斯-赫希（Travis Hirschi），他们认为犯罪仅仅是因为罪犯缺乏自控力。(关于对这一理论的批判，请参见吉尔伯特-盖斯（Gilbert Geis）的论文以及《失控》（Out of Control）一书中的章节：《**评估犯罪的一般理论**》，埃里希-古德主编[斯坦福：斯坦福大学出版社，2008年]）。
+
+31.我曾在一篇关于学术造假的文章中讨论过 「基本归因错误」，学术造假通常被认为是一种道德败坏的反映（通常被归因于缺乏自控能力），尽管研究人员发现作弊是对某些教育环境的一种可预见的反应。见「[Who’s Cheating Whom?](https://www.alfiekohn.org/whos-cheating/)」，收录于《**Phi Delta Kappan**》，2007 年 10 月：89-97页。
+
+32.Per-Olof H. Wikström 和 Kyle Treiber, 「The Role of Self-Control in Crime Causation,」「 **European Journal of Criminology**」,  2007年第四卷，243-251页。关于延迟满足的内容，见 Walter Mischel 等人，「Cognitive and Attentional Mechanisms in Delay of Gratification」，《**Journal of Personality and Social Psychology**》，第 21 卷，1972 年：204-18。
+
+33.例如，见哥伦比亚广播公司新闻，[「认识'塑料一代'」](www.cbsnews.com/stories/2007/05/17/eveningnews/main2821916.shtml)，2007 年 5 月 17 日。
+
 38.Mischel, 第 212 页。
 
 40.Mischel, 第 209 页。
