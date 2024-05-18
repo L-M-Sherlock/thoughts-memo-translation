@@ -60,7 +60,7 @@
 
   - [《启蒙琼林》让人回想起自己的深层赋能经历](https://notes.andymatuschak.org/z6y1YwYjJS1YAjjegXPTQzoxhrX8CUpk5PjS8)
 
-  - 比起教育游戏，《启蒙琼林》似乎是一个更好的例子：[《启蒙琼林》的目标是培养有创造力和颠覆精神的年轻人](https://notes.andymatuschak.org/zvMhuE5FyXVfspgazybETDJwHrYPVxN2Cere)；它不是要检查一堆学习目标的盒子
+  - 比起教育游戏，《启蒙琼林》似乎是一个更好的例子：[《启蒙琼林》的目标是培养有创造力和颠覆精神的年轻人](https://notes.andymatuschak.org/zvMhuE5FyXVfspgazybETDJwHrYPVxN2Cere)；它不是要检查一堆学习目标的勾选框
 
     - 像游戏一样，[《启蒙琼林》是一场巨型情景体验](https://notes.andymatuschak.org/z2bumF8sVKrkRzRTcVPL8xfMCkJ9f4se2e8cR)，并且[《启蒙琼林》具备良好的扩展性](https://notes.andymatuschak.org/z5NZs4GTsEc9n8zyYoVCTA9AfSMDNrHwdQRoF)
 
@@ -68,21 +68,21 @@
 
   - 很难想象把教育游戏修改成什么好东西，但《启蒙琼林》足够接近目标，值得批评，而且，可能还值得学习
 
-    - Nell 确实感觉到她自己在实现每一个步骤；这在教育游戏中是不正确的，因为[情景体验需要参与者置身的因果关系](https://notes.andymatuschak.org/z3JVez8dDfxTHY1K9tHUfLLcgLkUmXQ2HKXUU)
+    - Nell 确实感觉到她自己在实现每一个步骤；在教育游戏中情况并非如此，因为[情景体验需要参与者置身的因果关系](https://notes.andymatuschak.org/z3JVez8dDfxTHY1K9tHUfLLcgLkUmXQ2HKXUU)
 
-    - 《启蒙琼林》讲的是真正重要的事情（[《启蒙琼林》的目标是培养有创造力的、颠覆性的年轻人](https://notes.andymatuschak.org/zvMhuE5FyXVfspgazybETDJwHrYPVxN2Cere)，即使 Nell 不知道（[Nell 不知道也不认同《启蒙琼林》的目标](https://notes.andymatuschak.org/z6mg4iibFwrKipuEYQvBuA9cxnjvZ2vG2QgQ9)）
+    - 《启蒙琼林》是关于真正重要的事情（[《启蒙琼林》的目标是培养有创造力和颠覆精神的年轻人](https://notes.andymatuschak.org/zvMhuE5FyXVfspgazybETDJwHrYPVxN2Cere)，即使 Nell 不知道（[Nell 不知道也不认同《启蒙琼林》的目标](https://notes.andymatuschak.org/z6mg4iibFwrKipuEYQvBuA9cxnjvZ2vG2QgQ9)）
 
     - 《启蒙琼林》中的活动更接近于真实的赋能环境。[情景体验可以引导人们积极参与到赋能环境中](https://notes.andymatuschak.org/z2FDTR2NfpW1AtA4SAETevmKC2uDGEHfKrbhG)
 
-    - 它可以在专家环境下连续进行，而不是留下什么东西（[《启蒙琼林》是 Nell 余生的一次大型「入职」经历](https://notes.andymatuschak.org/z2JYDtbKyaxf2nhicZTCGEScUcYLjZuda4vY8)
+    - 它可以在专家环境中继续下去，而不是什么要抛下的东西（[《启蒙琼林》是 Nell 余生的一次大型「入职」经历](https://notes.andymatuschak.org/z2JYDtbKyaxf2nhicZTCGEScUcYLjZuda4vY8)
 
 - 那么，我们如何使这种新的媒体形式呢？ ::TODO 这一部分总体上定义相当不足；一些重要的想法在这里还没有被抓住，而且我们的理论在这里也有很大的漏洞::
 
-  - 框架
+  - 视角
 
     - 一个有用的现有技术：[引导式冥想 App](https://notes.andymatuschak.org/z2LoRpSoo5Un8EbqkZEjJjvjM1BYLLQD1VJM)
 
-    - [Primer++ 被嵌入到一个领域中，通过情景体验来引导学习者参与](https://notes.andymatuschak.org/z62M2Kdje6rnm6qHaQ5LSsNbc6FBNcmppbg1P)
+    - [超级《启蒙琼林》被嵌入到一个领域中，通过情景体验来引导学习者参与](https://notes.andymatuschak.org/z62M2Kdje6rnm6qHaQ5LSsNbc6FBNcmppbg1P)
 
       - [思想工具应该在有内在意义的目的上下文中进行评估](https://notes.andymatuschak.org/z494jinM6aNqjzLuVenhH3tkgMWuDgzby3odm)
 
@@ -106,13 +106,13 @@
 
     - TODO 连接主义，嵌入真实环境/社区的大众媒体
 
-    - 对现有非虚构动态媒体的批评
+    - 对现有非虚构动态媒介的批评
 
       - [动态媒介通常缺乏创制时间维度](https://notes.andymatuschak.org/z8aiVRywvJYDB9gvpCDxa4KUBcKr8R4geNAiJ)
 
-      - [大多数为交流而开发的动态表示法都不是很有利](https://notes.andymatuschak.org/zB5wf5crA1jVZb6CycZSjGRTjSkw2BpsdjG)
+      - [大多数为交流设计的动态表示形式并不具备很强的赋能作用](https://notes.andymatuschak.org/zB5wf5crA1jVZb6CycZSjGRTjSkw2BpsdjG)
 
-  - 做好思想工作/做得更好
+  - 更好地思考/行动
 
     - [知识工作者对于逐步完善想法往往没有具体方法](https://notes.andymatuschak.org/z2A9r2zcddVXfxjevj5Nzayhwxr9VuycjxYdz) vs. [常青笔记写作是知识工作的基本单位](https://notes.andymatuschak.org/z3SjnvsB5aR2ddsycyXofbYR7fCxo7RmKW2be)
 
@@ -128,7 +128,7 @@
 
 TODO:
 
-- 诋毁 MOOCs；将 YC 、教育游戏和《启蒙琼林》与 MOOC 进行比较；整合 [Minecraft 与《启蒙琼林》](https://notes.andymatuschak.org/z5U8XrHkLFcmaGPMmK4V4AW8ojHxPq1sJ1BJp)
+- 诋毁 MOOCs；将 YC 、教育游戏和《启蒙琼林》与 MOOC 进行比较；整合[《我的世界》 vs. 《启蒙琼林》](https://notes.andymatuschak.org/z5U8XrHkLFcmaGPMmK4V4AW8ojHxPq1sJ1BJp)
 
 ------
 
