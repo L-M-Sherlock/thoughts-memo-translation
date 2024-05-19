@@ -28,7 +28,7 @@
 
 - 频率编码用于表达关节的位置
 
-- 眼睛凝视的固定通过频率编码，可能表达被观察物体的**价值**（[来源](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4911340/)）
+- 凝视注视（gaze fixation）通过频率编码，可能表达被观察物体的**价值**（[来源](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4911340/)）
 
 - 阿片类药物可能通过抑制 GABA 释放来增加多巴胺细胞的激发（[来源](http://www.physiology.org/doi/full/10.1152/physrev.2001.81.1.299)）
 
@@ -36,12 +36,12 @@
 
 ## 价值决策树
 
-在[知识估值网络](https://supermemo.guru/wiki/Knowledge_valuation_network)中，参与**[概念](https://supermemo.guru/wiki/Concept)**的**频率编码**会调节[激活-扩散](https://supermemo.guru/wiki/Spreading_activation)的波动。这就像[决策树](https://en.wikipedia.org/wiki/Decision_tree)中的预期价值估算。此外，激活可能会受到价值阈值的限制，使得估值过程既有选择性又省力。这类似于决策树中的剪枝（[分支定界法](https://en.wikipedia.org/wiki/Branch_and_bound)）。
+在[知识估值网络](https://supermemo.guru/wiki/Knowledge_valuation_network)中，参与**[概念](https://supermemo.guru/wiki/Concept)**的**频率编码**会调节[激活-扩散](https://supermemo.guru/wiki/Spreading_activation)的波动。这就像[决策树](https://en.wikipedia.org/wiki/Decision_tree)中的期望价值估计。此外，激活可能会受到价值阈值的限制，使得估值过程既有选择性又省算力。这类似于决策树中的剪枝（[分支定界法](https://en.wikipedia.org/wiki/Branch_and_bound)）。
 
 ## 例子
 
 假设你遇到一本鸟类爱好者写的鸟类分类书。当大脑解读出书名时，鸟类的概念可能会在网络中被激活并传播价值。不过，真正的强烈反应可能取决于这本书的可获得性。同样的书，如果在电视上看到，效果会与作为圣诞礼物拆开的书完全不同。电视上的书可能只是带来一种基于期待的「想要」奖励，而圣诞礼物则会迅速引发高水平的「喜欢」奖励。在[知识估值网络](https://supermemo.guru/wiki/Knowledge_valuation_network)中，这种价值差异可能通过一个与「可获得性」相关的概念来表达。
 
-同样，如果大脑能计算出获取食物的路径，其表达了「可获得性」，预期的食物奖励可能会瞬间放大。
+同样，如果大脑能计算出获取食物的路径，其表达了「可获得性」，食物的预期奖励可能会瞬间放大。
 
-用频率编码的术语来说，[知识估值网络](https://supermemo.guru/wiki/Knowledge_valuation_network)的输出会决定决策概念的激发频率，这个激发会受到「可获得性」的增强。或者，「关于鸟类的书」这个概念，可能通过「可获得性」概念的反馈来增加其激发频率。心理实验表明，后一种情况似乎更合理。当「可获得性」消失时，对这本书的兴趣显然不会降到最低（例如，仅对电视上的书产生的适度反应）。
+用频率编码的术语来说，[知识估值网络](https://supermemo.guru/wiki/Knowledge_valuation_network)的输出会决定决策[概念](https://supermemo.guru/wiki/Concept)的激发频率，这个激发会受到「可获得性」的增强。或者，「关于鸟类的书」这个概念，可能通过「可获得性」概念的反馈来增加其激发频率。心理实验表明，后一种情况似乎更合理。当「可获得性」消失时，对这本书的兴趣显然不会降到最低（例如，仅对电视上的书产生的适度反应）。

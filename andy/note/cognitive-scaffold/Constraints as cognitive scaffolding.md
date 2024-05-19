@@ -10,4 +10,4 @@
 
 约束是构建小跨度任务台阶的一种方式（参见[将小跨度任务阶梯作为认知脚手架](https://notes.andymatuschak.org/z2qBbdZidZNjbpdggRbmgeUeVf2H7aCevSYvE)），但其用途还有很多。比如说，一位有追求的摄影师，可能会花一整年专门研究不同快门速度的摄影，其余孔径、焦距、ISO 等参数都固定不变。
 
-相关：[约束培通常能养创造力](https://notes.andymatuschak.org/zfsf2tFq4u5TuCgCMyWgFhwrTSMofHby1ae)
+相关：[限制常常催生创造力](https://notes.andymatuschak.org/zfsf2tFq4u5TuCgCMyWgFhwrTSMofHby1ae)

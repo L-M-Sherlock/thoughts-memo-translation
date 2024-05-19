@@ -1,26 +1,26 @@
-# 直接教学法阻碍了通往伟大发现之路
+# 直接教学法封锁了通往伟大发现之路
 
 原文：[Direct instruction blocks pathways to great discoveries - supermemo.guru](https://supermemo.guru/wiki/Direct_instruction_blocks_pathways_to_great_discoveries)
 
 这段文字选自《[我永远不会送我的孩子上学](https://supermemo.guru/wiki/Problem_of_Schooling)》，作者是[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)（2017）
 
-## 有关直接教学法的所谓“好处”的证据
+## 有关直接教学法益处的证据
 
-教育应该是为了培养伟大的人。它不能只是为了让我们通过考试
+教育应该培养伟大的人，而不仅仅是让我们通过考试。
 
-我在[这篇文章里](https://supermemo.guru/wiki/PISA)认为，为良好的测试性能进行优化实际上可能是有害的。我们希望最大限度地提高创造力、创新和通往大发现的途径。为考试成绩进行优化在很大程度上是在向相反的方向推进。在与机器人的竞争中，我们没有机会，但作为人类，我们仍然可以有更高的目标。
+我在[这篇文章里](https://supermemo.guru/wiki/PISA)主张，将考试成绩作为优化目标实际上可能有害。我们希望最大限度地激发创造力、创新能力和重大发现的途径。追求高分往往是背道而驰的。我们无法在与机器人的竞争中取胜，但作为人类，我们仍然可以追求更高的目标。
 
-学校教育和[直接教学法](https://supermemo.guru/wiki/Direct_instruction)的谬误是如此普遍，以至于它获得了[狂热的拥护者](https://supermemo.guru/wiki/Horrible_theory_of_minimal_guidance_learning_by_Kirschner,_Clark,_and_Sweller)，他们似乎无法打破自己的认知偏见的模式。
+学校教育和[直接教学法](https://supermemo.guru/wiki/Direct_instruction)的谬误是如此普遍，以至于它吸引了[狂热的拥护者](https://supermemo.guru/wiki/Horrible_theory_of_minimal_guidance_learning_by_Kirschner,_Clark,_and_Sweller)，这些人似乎无法摆脱自己认知偏见的束缚。
 
-David Didau 是[学校教育](https://supermemo.guru/wiki/Schooling)和[直接教学法](https://supermemo.guru/wiki/Direct_instruction)的倡导者。在他的文章《[教育不是自然的——这就是为什么它很难](https://learningspy.co.uk/psychology/can-learn-evolutionary-psychology/)》中，他支持一个谬误，即由于进化的原因，大脑在[抽象思维](https://supermemo.guru/wiki/Abstract_knowledge)方面应该是弱的。
+David Didau 是[学校教育](https://supermemo.guru/wiki/Schooling)和[直接教学法](https://supermemo.guru/wiki/Direct_instruction)的倡导者。在他的文章《[教育不是自然的——这就是为什么它很难](https://learningspy.co.uk/psychology/can-learn-evolutionary-psychology/)》中，他宣扬一个谬误，认为大脑由于进化原因而在[抽象思维](https://supermemo.guru/wiki/Abstract_knowledge)方面很弱。
 
-这篇文章从对[自由学习](https://supermemo.guru/wiki/Free_learning)的破旧的批评开始：
+这篇文章从对[自由学习](https://supermemo.guru/wiki/Free_learning)的陈腐批评开始：
 
-> 教育领域中最令人不安的难题之一是，常识性的观察，即儿童仅仅凭借沉浸在适当的环境中就能学到很多东西，这与[压倒性的经验数据](https://theeconomyofmeaning.com/2018/01/10/this-new-meta-analysis-is-making-the-news-direct-instruction/)相矛盾，即学校中的明确指导胜过[发现方法](https://supermemo.guru/wiki/Discovery_learning)
+> 教育领域中最令人困惑的问题之一是，尽管常识认为孩子们仅仅通过置身于适当的环境中就能学到很多东西，但[压倒性的实证数据](https://theeconomyofmeaning.com/2018/01/10/this-new-meta-analysis-is-making-the-news-direct-instruction/)却表明，直接教学法在学校中优于[发现式学习](https://supermemo.guru/wiki/Discovery_learning)。
 
-所谓的 "压倒性的证据 "来自于[PISA测试](https://supermemo.guru/wiki/PISA)的关联性等。没有提到来自神经科学的明显的相反证据。这些 "压倒性的证据 "可以总结为以下几点。*"如果你进行了很多繁重的[死记硬背](https://supermemo.guru/wiki/Cramming)，你就会在标准化考试中表现出色，因此，学校是好的 "*（见：[探索性是非常有效的](https://supermemo.guru/wiki/Discovery_learning_is_very_effective)）。现实情况是，真正压倒性的证据表明，学校在学习心理学领域造成了很大的伤害，对[学习内驱力](https://supermemo.guru/wiki/Learn_drive)和[创造过程](https://supermemo.guru/wiki/Creativity)造成了很大的伤害，对自立能力造成了很大的伤害，对学生的心理健康造成了很大的伤害。脑科学解释了原因。
+所谓「压倒性的证据」主要来自[PISA 测试](https://supermemo.guru/wiki/PISA)的相关数据等。文章并未提及神经科学中明显的相反证据。这些「压倒性的证据」可以总结为：「如果进行大量的[死记硬背](https://supermemo.guru/wiki/Cramming)，你会在标准化测试中表现出色，因此学校教育是好的」（参见：[发现式学习非常有效](https://supermemo.guru/wiki/Discovery_learning_is_very_effective)）。但实际上，真正压倒性的证据表明，学校在学习心理、[学习内驱力](https://supermemo.guru/wiki/Learn_drive)和[创造力](https://supermemo.guru/wiki/Creativity)、自主性以及学生心理健康方面造成了极大的伤害。脑科学解释了原因。
 
-## 探索式学习的问题
+## 发现式学习的问题
 
 对于[探索式学习](https://supermemo.guru/wiki/Discovery_learning)的看似无效率，也有类似的直接解释。同样，如果你在物理学上浪费了很多时间做发现，你肯定会在历史上得到一个很好的积压材料。考试并不关心，也没有提供任何迹象表明你在物理学方面的努力可能导致诺贝尔奖级别的突破。不用说，把孩子们打包在一个班级里，指示他们「请发现！」和[直接教学法](https://supermemo.guru/wiki/Direct_instruction)一样糟糕。发现必须来自于[学习内驱力](https://supermemo.guru/wiki/Learn_drive)，而不是在有限自由条件下的强迫。奴役实际上比简单的努力[死记硬背](https://supermemo.guru/wiki/Cramming)事实对创造过程的伤害更大。
 
