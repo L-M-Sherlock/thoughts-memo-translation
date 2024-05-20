@@ -182,8 +182,30 @@ Christopher Peterson 和 Martin Seligman 在其著作《**Character Strengths an
 
 33.例如，见哥伦比亚广播公司新闻，[「认识'塑料一代'」](www.cbsnews.com/stories/2007/05/17/eveningnews/main2821916.shtml)，2007 年 5 月 17 日。
 
+34. 参见 Heather Rogers，《**Gone Tomorrow: The Hidden Life of Garbage**》（纽约：New Press，2005年）。[**附录 2020：**另一个例子：「‘个人碳足迹’的概念是由 英国石油公司在 2005 年的一次耗资超过 1 亿美元的媒体宣传活动中推广的。研究表明，这次宣传活动将气候变化的责任从公司转移到了个人消费者身上。」参见 Meehan Crist，《What the Pandemic Means for Climate Change》，《**纽约时报**》，2020年3月29日，第 4-SR 版。
+
+35.见 Alfie Kohn，[「Students Don’t ‘Work,’ They Learn: Our Use of Workplace Metaphors May Compromise the Essence of Schooling」](https://www.alfiekohn.org/students-dont-work-learn/) **《Education Week》**，1997 年 9 月 3 日刊：60，43。
+
+36. Samuel Bowles 和 Herbert Gintis，《**Schooling in Capitalist America**》（纽约：Basic，1976年），第 39 页。或许不应感到惊讶的是，保守派的《**National Review**》发表了一篇强烈支持家庭作业的文章，理由是它教导了「个人责任感和自律」。家庭作业是在为生活做准备（John D. Gartner，《Training for Life》，2001年1月22日）。但究竟是生活的哪一方面呢？显然，重点不是培养孩子做出有意义的决策，或成为民主社会的一员，或学会批判性思考。相反，其所提倡的是让孩子学会服从命令的课程。
+
+37.例如，见David Brooks，《Marshmallows and Public Policy》，**《New York Times》**，2006 年 5 月 7 日，第 A13 页。
+
 38.Mischel, 第 212 页。
+
+39.在延迟满足的研究中，至少是在那些旨在通过等待以获得更大奖励的研究中，有一个 「惊人一致的发现」，那就是 「大多数儿童和青少年都能够做到延迟满足」。在其中一次实验中，「104 名受试者中有 83 人选择了延迟满足」（David C. Funder and Jack Block，《The Role of Ego-Control, Ego-Resiliency, and IQ in Delay of Gratification in Adolescence》，**《Journal of Personality and Social Psychology》**，第 57 卷，1989 年，第 1048 页）。这说明，要么是那些对当代年轻人的享乐主义的抱怨夸大其词，要么是这些关于自我控制的研究的实验环境都太过理想化，以至于其**所有**的研究结果与现实世界都产生了脱节。
 
 40.Mischel, 第 209 页。
 
+41.同上，第 212 页。另见 Walter Mischel、Yuichi Shoda 和 Philip K. Peake，《The Nature of Adolescent Competencies Predicted by Preschool Delay of Gratification》，《**Journal of Personality and Social Psychology**》，第 54 卷，1988 年，第 694 页。
+
 42.Mischel, 第 211 页。
+
+43. 同上，第 214 页。考虑到其他作家都将自律和智力视为截然不同的两个特征，这一发现颇为有趣。（参见下文注释 45 中第一篇文章的标题。）
+
+44. Yuichi Shoda、Walter Mischel 和 Philip K. Peake，《Predicting Adolescent Cognitive and Self-Regulatory Competencies from Preschool Delay of Gratification》，《**Developmental Psychology**》，第 26 卷，1990 年，第 985 页。他们补充道，忍受诱惑以待延迟满足的**能力**本身难能可贵，但这当然不等于认同自我控制本身是有益的。
+
+45. Angela L. Duckworth 和 Martin E. P. Seligman，《Self-Discipline Outdoes IQ in Predicting Academic Performance of Adolescents》，《**Psychological Science**》，第 16 卷，2005 年：939-944 页；以及 Angela Lee Duckworth 和 Martin E. P. Seligman，《Self-Discipline Gives Girls the Edge》，《Journal of Educational Psychology》，第 98 卷，2006 年：198-208 页。
+
+46.我在 [**Punished by Rewards**](https://www.alfiekohn.org/punished-rewards/) (Boston: Houghton Mifflin, 1993) 和 [**The Schools Our Children Deserve**](https://www.alfiekohn.org/schools-children-deserve/) (Boston: Houghton Mifflin, 1999) 中收集了有关成绩的证据。
+
+47. 考虑到Duckworth 和 Seligman 为证明自律可以预测学业表现（即高分）所引用的一项研究。该研究发现，细节与学术游戏规则对学习成绩的影响，与智力和天分一样密切。成绩优秀的学生「对思想或文化、审美追求并不特别感兴趣。此外，他们也不特别宽容或富有同情心；不过他们确实显得稳重稳定、务实、任务导向，并且与社会规则和惯例和谐相处。最后，相比于一般学生，这些优秀的学生显得有些古板和缺乏创意」（Robert Hogan 和 Daniel S. Weiss，《Personality Correlates of Superior Academic Achievement》，《**Journal of Counseling Psychology**》，第 21 卷，1974 年，第 148 页）。
