@@ -21,3 +21,21 @@
 但我知道，比如 Little Schemer/Lisper 这样的书非常受欢迎，显然这些文本几十年前也大受欢迎。我[在推特上问过](https://twitter.com/andy_matuschak/status/1676666827039195136?s=20)，人们分享说他们喜欢其中的反馈，这样他们就不太可能完全迷失方向。
 
 ## 历史
+
+### 程序教学发生了什么？
+
+在某种意义上，它被吸收到更复杂的（不再是线性的）基于计算机的模型中，比如[智能辅导系统](https://notes.andymatuschak.org/zBy91z6f7RW6wn8iagJyCqG)。
+
+Rutherford（2003）在评论 Benjamin（1988）时说：「他认为，文化惯性、对技术的抵制，或者『纯粹是对变革的过时抵抗』（第 711 页）导致了机器未能蓬勃发展。他还指出，一般来说，那些似乎否定了师生关系的教育技术（包括教学机器）都未能成功——而师生关系一直被视为学习过程中不可或缺的成分。」关于这一点，也可以参考 [Dan Meyer](https://notes.andymatuschak.org/zBpEx9YRNeGS6hSuE1ajWMd) 对 [GPT-4](https://notes.andymatuschak.org/zd4676MfH9HmGKhuneoHTZ)  在教育中的评论；例如，[《很明显这些数学学生对从AI聊天机器人导师那里学习不感兴趣》](https://danmeyer.substack.com/p/its-pretty-clear-that-these-math)：「我可以尽可能简单而明确地说，当 K-12 学生在教室里与其他人类一起学习数学时，大多数学生不希望与电脑对话。他们希望与其他人类交流。他们不希望被电脑夸奖和视为聪明成功。他们希望被他们投入社会资本的人类夸奖和视为聪明成功。」
+
+## 参考文献
+
+Rutherford, A. (2003). B F Skinner’s technology of behavior in American life: From consumer culture to counterculture. Journal of the History of the Behavioral Sciences, 39, 1–23. https://doi.org/10.1002/jhbs.10090
+
+Benjamin, L. T. (1988). A History of Teaching Machines. *American Psychologist*.
+
+Pressey, S. L. (1962). Basic unresolved teaching‐machine problems. Theory Into Practice, 1(1), 30–37. https://doi.org/10.1080/00405846209541773
+
+Pressey, S. L. (1963). Teaching machine (and learning theory) crisis. Journal of Applied Psychology, 47(1), 1–6. https://doi.org/10.1037/h0047740
+
+Skinner, B. F. (1984). The Shame of American Education. American Psychologist.
