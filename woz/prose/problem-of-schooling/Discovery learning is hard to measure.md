@@ -6,7 +6,7 @@
 
 ## 自由带来发现
 
-人们普遍认为，**[发现式学习](https://supermemo.guru/wiki/Discovery_learning)**不如**[直接教学法](https://supermemo.guru/wiki/Direct_instruction)**。这一流行观点的原因是，[直接教学法](https://supermemo.guru/wiki/Direct_instruction)能让大脑为特定目标做好准备，比如应付考试、获取分数和证书。而**[发现式学习](https://supermemo.guru/wiki/Discovery_learning)**，则是在特定的教育或社会环境中，最大限度地开发人类大脑潜力的最佳方式。
+人们普遍认为，**[发现式学习](https://supermemo.guru/wiki/Discovery_learning)**不如**[直接教学法](https://supermemo.guru/wiki/Direct_instruction)**。这一观点流行的原因是，[直接教学法](https://supermemo.guru/wiki/Direct_instruction)能让大脑为特定目标做好准备，比如应付考试、获取分数和证书。而**[发现式学习](https://supermemo.guru/wiki/Discovery_learning)**，则是在特定的教育或社会环境中，最大限度地开发人类大脑潜力的最佳方式。
 
 纯粹的发现式学习就是最好的学习方式。它与我所说的[自由学习](https://supermemo.guru/wiki/Free_learning)没有什么不同。
 
@@ -18,11 +18,11 @@
 
 享有盛誉的 TED 演讲者、经济学家 Alex Tabarrok，更进一步，将[直接教学法](https://supermemo.guru/wiki/Direct_instruction)呈现为一种新的启示（[来源](https://marginalrevolution.com/marginalrevolution/2018/02/direct-instruction-half-century-research-shows-superior-results.html)）：
 
-> 如果我告诉你，有一种教育方法能显著提高学生的成绩，且适用于不同能力、种族和社会经济背景的学生，还在数百次测试中表现优于其他教学方法，你会怎么想？这种方法就是直接教学法（Direct Instruction）。我想起了刚刚发表的一篇论文[《直接教学课程的有效性：半个世纪研究的元分析》](https://journals.sagepub.com/doi/full/10.3102/0034654317751919)。这篇论文分析了使用了 413 种研究设计的 328 项研究，考察了阅读、数学、语言、其他学科和情感指标（如自尊）的结果，得出了以下结论：
+> 如果我告诉你，有一种教育方法能显著提高学生的成绩，且适用于不同能力、种族和社会经济背景的学生，还在数百次测试中表现优于其他教学方法，你会怎么想？这种方法就是直接教学法。我想起了刚刚发表的一篇论文[《直接教学课程的有效性：半个世纪研究的元分析》](https://journals.sagepub.com/doi/full/10.3102/0034654317751919)。这篇论文分析了使用了 413 种研究设计的 328 项研究，考察了阅读、数学、语言、其他学科和情感指标（如自尊）的结果，得出了以下结论：
 
 >
 
-> > 「我们的结果与早期研究，即关于[直接教学法](https://supermemo.guru/wiki/Direct_instruction)有效性的研究，所得出的结果一致。估计的效果始终是正面的。按照心理学文献中的标准，大多数估计结果可以被认为是中到大的，且显著高于教育研究中通常使用的 0.25 标准（Tallmadge, 1977）。[…] 在 50 年的数据中，强烈的正面结果是一致的。无论是在文章、论文还是灰色文献中，无论是不同类型的研究设计、评估、结果测量和效果计算方法，还是不同类型的样本和地区，无论学生的贫困状态、种族、是否处于风险状态和年级，还是各学科和课程，干预结束后，研究人员或教师实施干预，实验或常规对比项目，使用其他分析方法、更广泛的样本或其他控制变量，结果都是一致的。」
+> > 「我们的结果与以前的研究，即关于[直接教学法](https://supermemo.guru/wiki/Direct_instruction)有效性的研究，所得出的结果一致。估计的效果始终是正面的。按照心理学文献中的标准，大多数估计结果可以被认为是中到大的，且显著高于教育研究中通常使用的 0.25 标准（Tallmadge, 1977）。[…] 在 50 年的数据中，强烈的正面结果是一致的。无论是在文章、论文还是灰色文献中，无论是不同类型的研究设计、评估、结果测量和效果计算方法，还是不同类型的样本和地区，无论学生的贫困状态、种族、是否处于风险状态和年级，还是各学科和课程，干预结束后，研究人员或教师实施干预，实验或常规对比项目，使用其他分析方法、更广泛的样本或其他控制变量，结果都是一致的。」
 
 ## 糟糕的研究
 
@@ -44,7 +44,7 @@
 
 Robert Pondiscio 在得知关于直接教学法的荟萃分析时指出，不仅是有创造力的孩子受影响（[来源](https://www.educationnext.org/meta-analysis-confirms-effectiveness-old-school-approach-direct-instruction/)）：「对相当一部分老师来说，光是想到固定的课程，就会觉得这是对他们自主性和创造力的巨大压迫。」
 
-对歌颂[直接教学法](https://supermemo.guru/wiki/Direct_instruction)荟萃分析曾引起全球关注。对于未来的研究，我建议，至少要考虑那些被越来越机械化的课程表束缚的学生的心理健康。我们羡慕勤奋认真的亚洲四小龙。但最终，我们可能会培养出一批优秀的毕业生，却因自杀问题的流行而无法实现他们的潜力。
+对歌颂[直接教学法](https://supermemo.guru/wiki/Direct_instruction)的元分析曾引起全球关注。对于未来的研究，我建议，至少要考虑那些被越来越机械化的课程表所束缚的学生的心理健康。我们羡慕勤奋认真的亚洲四小龙。但最终，我们可能会培养出一批优秀的毕业生，却因自杀问题的流行而无法实现他们的潜力。
 
 ## 大规模生产 vs. 智力
 
