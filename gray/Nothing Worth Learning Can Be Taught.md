@@ -38,25 +38,25 @@ Peter Kugel
 
 如今，大多数人似乎认为，人们之所以会阅读，是因为老师教了怎么阅读。你可能见过这样的车贴：「如果你能读懂这个，感谢老师。」历史地看，这种流行看法还是比较新颖。在 18 世纪和 19 世纪初，义务教育出现之前，西欧和美国有很大比例的人能够阅读。人们普遍认为，如果你在一个识字的家庭中长大，阅读是你生活环境的一部分，那么无论是否经过刻意的教学，你都能学会阅读（Bowles & Gintis, 2000; Thomas, 2017）。
 
-有大量近期研究的证据表明，追求自我导向教育的孩子通常在没有刻意教学的情况下学会阅读。甚至有证据表明，刻意的教学往往会减慢或打断学习阅读的过程（见[这里](https://www.psychologytoday.com/us/blog/freedom-learn/201002/children-teach-themselves-read)和[这里](https://www.psychologytoday.com/us/blog/freedom-learn/201311/the-reading-wars-why-natural-learning-fails-in-classrooms)，以及[Gray, 2016](https://www.petergray.org/_files/ugd/b4b4f9_e2a61c6529904170a9ff4c03cfaf29a3.pdf)和Pattison, 2017）。
+近期，大量研究表明，孩子能够自我教育，自己学会阅读。甚至有证据表明，刻意的教学往往会减慢或打断学习阅读的过程（见[这里](https://www.psychologytoday.com/us/blog/freedom-learn/201002/children-teach-themselves-read)和[这里](https://www.psychologytoday.com/us/blog/freedom-learn/201311/the-reading-wars-why-natural-learning-fails-in-classrooms)，以及[Gray, 2016](https://www.petergray.org/_files/ugd/b4b4f9_e2a61c6529904170a9ff4c03cfaf29a3.pdf)和Pattison, 2017）。
 
-有理由相信，所谓的阅读障碍通常是因为在孩子还没有对阅读产生兴趣、还没有准备好投入智力时，试图教他们阅读所导致的。施加太大的压力会让他们感到焦虑，甚至形成对阅读的心理障碍（见[这里](https://www.psychologytoday.com/us/blog/freedom-learn/202012/how-dyslexic-kids-learn-read-when-removed-school)和[这里](https://www.psychologytoday.com/us/blog/freedom-learn/202103/forced-schooling-anxiety-and-learning-disorders)）。当孩子对阅读产生智力兴趣，并准备好进行必要的探索时，他们就会学会阅读。然后他们会寻找线索，无论这些线索在哪里，都能帮助他们进行最终使他们成为流利读者的发现。这些线索有些可能来自老师的言语或示范，有些可能不会。
+有理由相信，阅读障碍之所以产生，通常是因为孩子还没有对阅读产生兴趣、还没有准备好投入脑力，如此揠苗助长当然会适得其反。施加太大的压力会让他们感到焦虑，甚至形成对阅读的心理障碍（见[这里](https://www.psychologytoday.com/us/blog/freedom-learn/202012/how-dyslexic-kids-learn-read-when-removed-school)和[这里](https://www.psychologytoday.com/us/blog/freedom-learn/202103/forced-schooling-anxiety-and-learning-disorders)）。当孩子对阅读产生兴趣，并准备好进行必要的探索时，他们就会学会阅读。他们会自己寻找线索，无论这些线索在哪里，都能帮助他们进行最终使他们成为流利读者的发现。这些线索有些可能来自老师的言语或示范，或者其他地方。
 
 ## 应用于数学学习
 
-多年前，我经常给社会科学专业的学生教授统计学。我意识到，几乎没有学生真正理解他们在高中学到的数学。这些学生就读于一所选择性大学（波士顿学院），大多数人在高中数学课程中都得了 A。有少数学生记得如何执行这些程序，但他们不知道这些程序为什么有效，或者为什么以及何时需要使用它们。在我让他们匿名填写的问卷中，大多数人声称自己患有「数学恐惧症」，我怀疑这是因为他们在学习过程中承受了必须装作学会了其实并未学会的内容的压力。
+多年前，我经常给社会科学专业的学生教授统计学。我意识到，几乎没有学生真正理解他们高中学的数学。这些学生就读于一所精英大学（波士顿学院），大多数人在高中数学课程中都得了 A。有少数学生记得如何推理，但他们不知道这些推理为什么有效，或者为什么以及何时需要使用它们。在我让他们匿名填写的问卷中，大多数人声称自己患有「数学恐惧症」，我怀疑这是因为他们在学习压力较大，没学会也要假装自己会了。
 
-在我早期的一篇博客文章中（见[这里](https://www.psychologytoday.com/us/blog/freedom-learn/201003/when-less-is-more-the-case-teaching-less-math-in-school)），我描述了一个在20世纪初在新罕布什尔州曼彻斯特进行的显著实验。在这个实验中，一些学校的学生直到六年级才开始学习数学——没有加法、减法、乘法、除法。结果发现，到六年级初，那些没有学过数学的学生在数学应用题上表现得比那些一直上常规数学课的学生更好，这些应用题涉及对数字的推理使用。
+在我早期的一篇博客文章中（见[这里](https://www.psychologytoday.com/us/blog/freedom-learn/201003/when-less-is-more-the-case-teaching-less-math-in-school)），我描述了一个在20世纪初在新罕布什尔州曼彻斯特进行的著名实验。在这个实验中，一些学校的学生直到六年级才开始学习数学——没有加法、减法、乘法、除法。结果发现，到六年级初，那些没有学过数学的学生在数学应用题上表现得比那些一直上常规数学课的学生更好，这些应用题涉及对数字的推理使用。
 
 这项研究的主要负责人，恰好也是曼彻斯特学校的督学，他得出结论：数学教学对学生的思维产生了「氯仿」效应，使他们在涉及数字的问题上失去了常识。我们的教育系统最一致的特点之一是，当研究结果不符合偏见时，它会忽视这些优秀的研究。这项实验从未被重复过，我也没有看到任何证据表明它在教育学院中被讨论过。
 
-在另一篇文章中（见[这里](https://www.psychologytoday.com/us/blog/freedom-learn/201004/kids-learn-math-easily-when-they-control-their-own-learning)），我描述了一项非正式研究的结果，这项研究探讨了未接受正规教育的孩子如何在没有教学的情况下学习数学概念。这是通过日常与数字和计算的自然接触，有时是由于他们对数学模式的迷恋。没有强制教学，他们不会产生数学恐惧症，并且当他们需要或想要了解时，似乎完全能够学会他们需要或想要了解的任何数学知识。
+在另一篇文章中（见[这里](https://www.psychologytoday.com/us/blog/freedom-learn/201004/kids-learn-math-easily-when-they-control-their-own-learning)），我描述了一项非正式研究的结果，这项研究探讨了未接受正规教育的孩子如何学习数学概念。这些方法包括日常与数字和计算自然接触，或者培养他们对数学思维模式的兴趣。通过这种办法，他们不会产生数学恐惧症，因为不存在任何强制教学。并且，当他们需要或想要了解数学知识时，他们完全能够自己学会这些知识。
 
 在另一篇文章中（见[这里](https://www.psychologytoday.com/us/blog/freedom-learn/201707/facts-and-fiction-about-the-so-called-summer-slide)），我提供了证据表明，在暑假期间，学生会忘记上一学年学到的一些机械的数学推理，但他们在数学推理方面的进步每月比上学期间更多。
 
-再一次，我认为所有这些都证明了真正的数学学习不是教学的结果，而是兴趣和投入的结果。一位有兴趣和投入的人可能会*利用*老师作为资源，就像他或她可能利用一本书或其他任何东西一样，但主动性和积极努力来自于学习者，而不是老师。
+再一次，我认为所有这些，都证明了真正的数学学习不是教学的结果，而是兴趣和投入的结果。一位有兴趣和投入的人可能会*利用*老师作为资源，就像他或她可能利用一本书或其他任何东西一样，但主动性和积极努力来自于学习者，而不是老师。
 
-真正的教育科学应该更多地致力于理解孩子们自然学习的方式，以及如何提供支持这种学习的环境，而不是研究和发展教学方法。教育是由学习者而不是教师进行的。
+真正的教育科学应该更多地致力于理解孩子们自然学习的方式，以及如何提供支持这种学习的环境，而不是研究和发展教学方法。教育由学习者主导，而非教师。
 
 \----
 
