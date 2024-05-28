@@ -17,3 +17,7 @@
 如果我们想要专注于创建强大的新型[可执行书籍](https://notes.andymatuschak.org/z2UKZTkAbLUKR85d92gqB7ahoxcS2tpB2ah2)，以便我们能够解决气候模型中的问题（还顺便进行交流），那么 Papert 的论点就会更直接地适用，而且我们就需要更多的气候科学方面的专业知识。
 
 ## 参考文献
+
+Matuschak, A., & Nielsen, M. (2019). How can we develop transformative tools for thought? Retrieved December 2, 2019, from https://numinous.productions/ttft
+
+2019-12-03，与 Michael Nielsen 的对话

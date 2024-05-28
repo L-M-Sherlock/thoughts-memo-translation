@@ -1,4 +1,4 @@
-# 过度强调成就的代价
+# 过度强调成功的代价
 
 原文：[The Costs of Overemphasizing Achievement (**) - Alfie Kohn](https://www.alfiekohn.org/article/costs-overemphasizing-achievement/)
 
