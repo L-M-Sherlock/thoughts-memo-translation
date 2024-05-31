@@ -40,19 +40,19 @@ Peter Kugel
 
 近期，大量研究表明，孩子能够自我教育，自己学会阅读。甚至有证据表明，刻意的教学往往会减慢或打断学习阅读的过程（见[这里](https://www.psychologytoday.com/us/blog/freedom-learn/201002/children-teach-themselves-read)和[这里](https://www.psychologytoday.com/us/blog/freedom-learn/201311/the-reading-wars-why-natural-learning-fails-in-classrooms)，以及[Gray, 2016](https://www.petergray.org/_files/ugd/b4b4f9_e2a61c6529904170a9ff4c03cfaf29a3.pdf)和Pattison, 2017）。
 
-有理由相信，阅读障碍之所以产生，通常是因为孩子还没有对阅读产生兴趣、还没有准备好投入脑力，如此揠苗助长当然会适得其反。施加太大的压力会让他们感到焦虑，甚至形成对阅读的心理障碍（见[这里](https://www.psychologytoday.com/us/blog/freedom-learn/202012/how-dyslexic-kids-learn-read-when-removed-school)和[这里](https://www.psychologytoday.com/us/blog/freedom-learn/202103/forced-schooling-anxiety-and-learning-disorders)）。当孩子对阅读产生兴趣，并准备好进行必要的探索时，他们就会学会阅读。他们会自己寻找线索，无论这些线索在哪里，都能帮助他们进行最终使他们成为流利读者的发现。这些线索有些可能来自老师的言语或示范，或者其他地方。
+有理由相信，阅读障碍之所以产生，通常是因为孩子还没有对阅读产生兴趣、还没有准备好投入脑力，如此揠苗助长当然会适得其反。施加太大的压力会让他们感到焦虑，甚至形成对阅读的心理障碍（见[这里](https://www.psychologytoday.com/us/blog/freedom-learn/202012/how-dyslexic-kids-learn-read-when-removed-school)和[这里](https://www.psychologytoday.com/us/blog/freedom-learn/202103/forced-schooling-anxiety-and-learning-disorders)）。当孩子对阅读产生兴趣，并准备好进行必要的探索时，他们就会学会阅读。他们会自己寻找线索，无论这些线索在哪里，都能帮助他们探索阅读，最终成为流利读者。老师的言语或示范中就有很多线索。
 
-## 应用于数学学习
+## 数学学习
 
 多年前，我经常给社会科学专业的学生教授统计学。我意识到，几乎没有学生真正理解他们高中学的数学。这些学生就读于一所精英大学（波士顿学院），大多数人在高中数学课程中都得了 A。有少数学生记得如何推理，但他们不知道这些推理为什么有效，或者为什么以及何时需要使用它们。在我让他们匿名填写的问卷中，大多数人声称自己患有「数学恐惧症」，我怀疑这是因为他们在学习压力较大，没学会也要假装自己会了。
 
 在我早期的一篇博客文章中（见[这里](https://www.psychologytoday.com/us/blog/freedom-learn/201003/when-less-is-more-the-case-teaching-less-math-in-school)），我描述了一个在20世纪初在新罕布什尔州曼彻斯特进行的著名实验。在这个实验中，一些学校的学生直到六年级才开始学习数学——没有加法、减法、乘法、除法。结果发现，到六年级初，那些没有学过数学的学生在数学应用题上表现得比那些一直上常规数学课的学生更好，这些应用题涉及对数字的推理使用。
 
-这项研究的主要负责人，恰好也是曼彻斯特学校的督学，他得出结论：数学教学对学生的思维产生了「氯仿」效应，使他们在涉及数字的问题上失去了常识。我们的教育系统最一致的特点之一是，当研究结果不符合偏见时，它会忽视这些优秀的研究。这项实验从未被重复过，我也没有看到任何证据表明它在教育学院中被讨论过。
+这项研究的主要负责人，恰好也是曼彻斯特学校的督学，他得出结论：数学教学导致学生对数字有PTSD，使他们在涉及数字的问题上失去了常识。当研究结果不符合偏见时，教育系统会忽视这些优秀的研究，这是共识。这项实验从未被重复过，我也没有看到任何证据表明它在教育学院中被讨论过。
 
 在另一篇文章中（见[这里](https://www.psychologytoday.com/us/blog/freedom-learn/201004/kids-learn-math-easily-when-they-control-their-own-learning)），我描述了一项非正式研究的结果，这项研究探讨了未接受正规教育的孩子如何学习数学概念。这些方法包括日常与数字和计算自然接触，或者培养他们对数学思维模式的兴趣。通过这种办法，他们不会产生数学恐惧症，因为不存在任何强制教学。并且，当他们需要或想要了解数学知识时，他们完全能够自己学会这些知识。
 
-在另一篇文章中（见[这里](https://www.psychologytoday.com/us/blog/freedom-learn/201707/facts-and-fiction-about-the-so-called-summer-slide)），我提供了证据表明，在暑假期间，学生会忘记上一学年学到的一些机械的数学推理，但他们在数学推理方面的进步每月比上学期间更多。
+在另一篇文章中（见[这里](https://www.psychologytoday.com/us/blog/freedom-learn/201707/facts-and-fiction-about-the-so-called-summer-slide)），我提供了证据，它们表明：在暑假期间，学生会忘记上一学年学到的死记硬背数学，但他们在数学逻辑方面的进步比上学期间更多，平均而言。
 
 再一次，我认为所有这些，都证明了真正的数学学习不是教学的结果，而是兴趣和投入的结果。一位有兴趣和投入的人可能会*利用*老师作为资源，就像他或她可能利用一本书或其他任何东西一样，但主动性和积极努力来自于学习者，而不是老师。
 
