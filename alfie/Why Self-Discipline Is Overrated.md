@@ -38,25 +38,25 @@
 
 简而言之，如果某个学生非常自律，或善于延迟满足（因为延迟满足者「往往过度控制和不必要的抑制自我」[16]），或即使在处处受挫时也坚持完成某项任务，我们也不应该感到庆幸。虽然最后一种行为通常被浪漫化为坚韧或 「勇气」，但其实际上反映的可能是一种 「钻牛角尖」，它源于一种不健康的、往往适得其反的需求，即：即使在明显没有意义的情况下也要继续做某事[17]。
 
-当然，并不是每一个自律的孩子都是以一种令人担忧的方式来自律。那么，是什么成就了健康和适度的自律呢？或许是节制，但不刻板，布洛克称之为「适应性回应的多样性」（adaptively responsive variability）。[18] 重要的是，拥有选择何时应该坚持下去、控制自己的能力 —— 而不是在简单地在每种情况下都倾向于这样做。与自律或自控本身相比，孩子们能从这种能力中受益匪浅。但这样的理念与教育、文化领域中的对于自律的无条件推崇大相径庭。
+当然，并不是每一个自律的孩子都是以一种令人担忧的方式来自律。那么，是什么成就了健康和适度的自律呢？或许是节制，但不刻板，Block 称之为「适应性回应的多样性」（adaptively responsive variability）。[18] 重要的是，拥有选择何时应该坚持下去、控制自己的能力 —— 而不是在简单地在每种情况下都倾向于这样做。与自律或自控本身相比，孩子们将能够从这种能力中受益匪浅。但这样的理念与现今教育、文化领域中对于自律的无条件推崇大相径庭。
 
 ---
 
-越来越清楚的是，自律的问题不仅在于自律的程度，还在于其种类。从动机心理学家 Edward Deci 和 Richard Ryan 的工作中，我们能找到一些极有意义的思考角度。首先，他们希望我们重新考虑一下，当我们在谈论「动机」的时候，我们到底在谈论些什么。我们总以为「动机」是某人以拥有的定量的事物。我们希望学生们拥有更多的动机，因此我们尝试去通过萝卜加大棒的方式「激励」他们。
+越来越清楚的是，自律的问题不仅在于自律的程度，还在于其种类。从动机心理学家 Edward Deci 和 Richard Ryan 的工作中，我们能找到一些极有意义的思考角度。首先，他们希望我们重新考虑一下，当我们在谈论「动机」的时候，我们到底在谈论些什么。我们总以为「动机」是某人已拥有的定量的事物。我们希望学生们拥有更多的动机，所以才尝试去通过那些萝卜加大棒的方式「激励」他们。
 
-事实，动机有不同的类型，而其类型比其强烈程度更重要。**内在**（intrinsic）动机指的是出于对事物本身的兴趣去做某事——例如，为了感受故事本身而去阅读。而**外在**（extrinsic）动机往往存在于并不关注事物本身的情况下；例如一个人可能是为了获得奖品或他人的认可而阅读。这两种动机不仅不同——它们甚至往往是反向相关的。大量研究表明，你越是希望通过奖励让人们做某事，他们对于那件事失去兴趣的可能性就越大。研究者发现，为乐于助人、慷慨大方的孩子提供「积极反馈」，最终会削弱这些品质；鼓励学生提高成绩会导致他们对学习失去兴趣。 [19]               
+事实上，动机有着不同的类型，而其属于何种类型比其强烈程度更为重要。**内在**（intrinsic）动机指的是出于对事物本身的兴趣去做某事——例如，为了感受故事本身而去阅读。而**外在**（extrinsic）动机往往存在于并不关注事物本身的情况下。例如一个人可能是为了获得奖品或他人的认可而阅读。这两种动机不仅只有名字之别——它们甚至往往是反向相关的。大量研究表明，你越是希望通过奖励让人们做某事，他们对于那件事失去兴趣的可能性就越大。研究者发现，为乐于助人、慷慨大方的孩子提供「积极反馈」，最终会削弱这些品质，而鼓励学生提高成绩会导致他们对学习失去兴趣。 [19]               
 
-即便在没有外在诱因的情况下，孩子们也会做一些并不吸引人的事情。这时我们可以说，他们已经**内化**了做这些事的决心。这里我们又回到了自律的概念上（强调「自我」）。事实上，这正是许多教育工作者所期望的：我们希望孩子们充实忙碌起来，即使没有人拿着萝卜与大棒站在他们身边；我们希望他们在无人看管时也能负责任地行事。
+即便在没有外在诱因的情况下，孩子们也会做一些并不吸引人的事情。这时我们可以说，他们已经**内化**了做这些事的决心。这里我们又回到了自律的概念上（强调「自我」）。事实上，这正是许多教育工作者所期望的：即使没有人拿着萝卜与大棒站在他们身边，我们也希望孩子们能够变得充实忙碌起来。我们希望他们在无人看管时也能负责任地行事。
 
-Deci 和 Ryan 的工作还未到此为止。在证明了存在不同类型的动机（这些动机并非同样可取）之后，他们继续提出也存在不同种类的内化（同理）。这是我们很少考虑到的可能性；所有能够区分内在动机和外在动机的教育者都认为，我们应该帮助孩子们内化良好的价值观。但这种内化的本质究竟是什么呢？一方面，规则或标准可以被完全吞下，或者说是「内化」，进而从内部控制着孩子们：「这时孩子们去做一件事往往是因为『应该』去做它们，或者说因为不这样做可能会引发焦虑、内疚或自卑。」另一方面，内化可以以在更加深层的维度上发生，使得孩子们「自愿的或自我决定的」去做一件事。它已经完全融入了一个人的价值观。
+Deci 和 Ryan 的工作还未到此为止。在证明了存在不同类型的动机（这些动机并非同样可取）之后，他们继续提出也存在不同种类的「内化」（同理）。这是我们很少考虑到的可能性；所有能够区分内在动机和外在动机的教育者都认为，我们应该帮助孩子们内化良好的价值观。但这种内化的本质究竟是什么呢？一方面，规则或标准可以被完全吞下，或者说是「内化」，进而从内部控制着孩子们：「这时孩子们去做一件事往往是因为他们觉得『应该』去做它们，或者说不这样做可能会引发焦虑、内疚与自卑。」另一方面，内化可以以在更加深层的维度上实现，使得孩子们「自愿地或自发地」去做一件事。它已经完全融入了一个人的价值观。
 
-因此，学生学习的原因可能是她觉得自己必须学习（如果不这样做，她就会觉得自己很糟糕），也可能是她了解这样做的好处，即使这并不总是令人愉悦，她也想坚持下去。[20] 事实证明，这一基本区别与学术成就、体魄、爱情、慷慨气量、政治参与度和宗教信仰都有关系--每种情况下的研究都表明，后一种动机将带来比前一种动机更好的结果。 [21] 特别是在教育方面，教师应该通过尽量减少 「外部强加的评价、目标、奖励和压力 」以及积极支持学生的自主抉择来促进其生成更加正面的动机。[22]
+因此，学生学习的原因可能是她觉得自己必须学习（如果不这样做，她就会觉得自己很糟糕），也可能是她了解这样做的好处，即使这并不总是令人愉悦，她也想坚持下去。[20] 事实证明，这一基本区别与学术成就、体魄、爱情、慷慨气量、政治参与度和宗教信仰都有关系--每种情况下的研究都表明，后一种动机将带来比前一种动机更好的结果。 [21] 尤其是在教育方面，教师应该通过尽量减少 「外部强加的评价、目标、奖励和压力 」以及积极支持学生的自主抉择来促进其生成更加正面的动机。[22]
 
-这告诉我们，内在动机并不总是理想的。如果孩子们感到被控制，即便是自我控制，他们也可能会感到矛盾、不快乐，而且可能不太可能在他们正在做的任何事情上取得成功（这里指被意义所定义的成功）。尽责的学生可能正遭受心理分析家 Karen Horney 所描述的「责任心的过分统治」——到了他们不再知道自己真正想要什么，也不知道自己到底是谁的地步。对于那些把自己现在的生活抵押给未来的青年人来说也是如此：他们寒窗苦读，锲而不舍，压力山大。高中只是为了上大学做准备，而大学则是为了收集下一步所需的各种证书。任何事物本身都没有任何价值，或者说提供任何满足感。这些学生可能熟练于应试，排名，以及延迟满足，但他们提醒着我们，自律是一把双刃剑。
+这告诉我们，内在动机并不总是理想的。如果孩子们感到被控制，即便是自我控制，他们也可能会感到矛盾、不快乐，而且不太可能在他们正在做的任何事情上取得成功（至少在感受意义的层面上）。尽责的学生可能正遭受心理分析家 Karen Horney 所描述的「责任心的过分统治」——到了他们不再知道自己真正想要什么，也不知道自己到底是谁的地步。对于那些把自己现在的生活抵押给未来的青年人来说也是如此：他们寒窗苦读，锲而不舍，压力山大。高中只是为了上大学做准备，而大学则是为了收集下一步所需的各种证书。任何事物本身都没有任何价值，或者说能够提供任何满足感。这些学生可能熟练于应试，排名，以及延迟满足，但他们提醒着我们，自律是一把双刃剑。
 
 **II. 哲学问题：深层信念**
 
-鉴于以上种种理由，我们有必要反思：为什么我们如此迷信自律和自控呢？答案可能涉及到渗透到我们文化中的基本价值观。或者让我们换个问题：如果需要自律才能让自己做有价值的事情，那么无法做到自律的儿童与一般人又过着怎样的生活呢？
+鉴于以上种种理由，我们有必要反思：为什么我们如此迷信自律和自控呢？答案可能涉及到渗透到我们文化中的基本价值观。或者说让我们换个问题：如果需要自律才能让自己做有价值的事情，那么无法做到自律的儿童与一般人又过着怎样的生活呢？
 
 且看保守派报纸专栏作家 David Brooks 最近对此的反思：
 
@@ -64,19 +64,19 @@ Deci 和 Ryan 的工作还未到此为止。在证明了存在不同类型的动
 
 Brooks 的观点是正确的，但有一点需要格外注意：强调自律不仅仅是历史遗留问题。如今，虽然那些赎罪的口号不再折磨你我，但只需在网上浏览几分钟，我们就会发现，这一概念在当代美国依然生机勃勃——在谷歌上有着三百万次点击。（它也是品格教育运动（character education movement）的一个关键要素。[24]）基于生而有罪的假设，人们选择以自律作为赎罪的福音，但 Brooks 却对此提出了令人不安的提醒。因为我们的爱好被视为不值得的，我们的欲望被认为是可耻的，我们才想要努力克服它们。按这一逻辑来讲，人类的生活就是一个扼杀与超越自我的持续斗争。道德就是心灵战胜肉体，理性战胜欲望，意志战胜欲望。[25]
 
-有趣的是，许多世俗机构和自由派个体，他们会强烈反对「孩子们是需要被驯服的以自我为中心的小野兽」的观点，然而，他们却青睐一个本质上相同的理念.。有些人特别强调拒绝老式的强迫和惩罚，转而支持更温和的方法。[26] 但是，如果他们仍然致力于确保孩子们内化我们的价值观——实际上就是在每个孩子内心设下律令——那么他们就应该承认，这不仅与「帮助他们发展自己的价值观」背道而驰，而且与「帮助他们独立思考的目标」南辕北辙。内在的控制本质上并不比外在的控制更人道，他们的心理效果并没有太大的不同。
+有趣的是，许多世俗机构和自由派个体，他们会强烈反对「孩子们是需要被驯服的、以自我为中心的小野兽」的观点，然而，他们却青睐一个在本质上相同的理念.。有些人特别强调拒绝老式的强迫和惩罚，转而支持更温和的方法。[26] 但是，如果他们仍然致力于确保孩子们内化我们的价值观——实际上就是在每个孩子内心设下律令——那么他们就应该承认，这不仅与「帮助他们发展自己的价值观」背道而驰，而且与「帮助他们独立思考」的目标南辕北辙。内在的控制在本质上并不比外在的控制更人道，他们的心理效果并没有太大的不同。
 
 除了对人性的看法，对自律的执着还反映了他们潜意识中对哲学保守主义的支持，这种保守主义经常抱怨我们的社会——或年轻人——忘记了努力工作的价值、责任的重要性、承担个人责任的必要性等等。（别忘了，几个世纪以来，老一辈人一直在谴责年轻人的懒惰和「现代」。[27]）而且，这种谴责通常伴随着一种规训的视角，这种视角支持自我否定，并讽刺地否定自我探索与自尊。
 
-语言学家和社会批评家 George Lakoff 在其引人入胜的著作《**道德政治**》（Moral Politics）中指出，自律在保守主义者的世界观中扮演着至关重要的角色。[28] 自律意味着对权威的服从[29]，因而其也是世俗成功所必需的。缺乏自律将被视为自我放纵，甚至是道德败坏的表现。因此，只要一个孩子得到了他们未曾**赢得**的东西，包括我们的赞许，只要缺乏竞争（哪怕是与他人实现双赢），只要孩子们得到了过多的帮助或滋养，那么我们就会被视作是在「放纵」、「过分溺爱」，没有为孩子准备好面对现实世界。有趣的是，这种保守主义并不只出现在脱口秀或共和党大会上的演讲。它还现身于部分研究人员的工作中，这些研究人员不仅研究自律，还极力强调其重要性。[30]
+语言学家和社会批评家 George Lakoff 在其引人入胜的著作《**道德政治**》（Moral Politics）中指出，自律在保守主义者的世界观中扮演着至关重要的角色。[28] 自律意味着对权威的服从[29]，因而其也是世俗成功所必需的。缺乏自律将被视为自我放纵，甚至是道德败坏的表现。因此，只要一个孩子得到了他们未曾**赢得**的东西，包括我们的赞许，只要缺乏竞争（哪怕是与他人实现双赢），只要孩子们得到了过多的帮助或滋养，那么我们就会被视作是在「放纵」、「过分溺爱」，没有让孩子准备好面对现实世界。有趣的是，这种保守主义并不只出现在脱口秀或共和党大会上的演讲。它还出现于部分研究人员的工作中，这些研究人员不仅研究自律，还极力强调其重要性。[30]
 
-当然，关于道德和人性的根本性问题难以在一篇文章中得到解决；何况我们中一些人的出发点也与其他人截然不同。但是，对于那些张口闭口都是自律的教育工作者来说，探索一下这一概念的哲学基础，并在其让我们感到不安时反思一下这个概念，也是有意义的。
+当然，关于道德和人性的根本性问题难以在一篇文章中得到解决。何况我们中一些人的出发点也与其他人截然不同。但是，对于那些张口闭口都是自律的教育工作者来说，探索一下这一概念的哲学基础，并在其让我们感到不安时反思一下这个概念，也是有意义的。
 
 **III. 政治问题：实际影响**
 
-当我们想要了解在一个特定环境中——比如说，一个教室里——发生了什么时，通常的做法是研究其行动方针、行为准则和组织结构。但不幸的是，我们中的许多人都倾向于忽视系统的运作方式，而将大部分问题归因到个人性格上——社会心理学家将这种现象称为「基本归因错误」。[31] 因而，我们倾向于认为自控力只是一个人可能拥有的一种特征，尽管将其视为 「一种情境概念，而非个人特质 」可能更为准确，因为 「一个人在不同的情境中会表现出不同程度的自控力」。 而延迟满足也是如此[32]。
+当我们想要了解在一个特定环境中——比如说，一个教室里——发生了什么时，通常的做法是研究其行动方针、行为准则和组织结构。但不幸的是，我们中的许多人都倾向于忽视整个系统的运作方式，而将大部分问题归因到个人性格上——社会心理学家将这种现象称为「基本归因错误」。[31] 因而，我们倾向于认为自控力只是一个人可能拥有的一种特征，尽管将其视为 「一种情境概念，而非个人特质 」可能更为准确，因为 「一个人在不同的情境中会表现出不同程度的自控力」。 而延迟满足也是如此[32]。
 
-过分关注个体而非环境不仅会阻碍我们对于自律的理解，还会在社会实践中带来负面影响。具体来说，我们越是指责人们缺乏自律，越是在努力帮助他们培养控制冲动的能力，就越不可能去质疑那些影响他们的结构性因素（如政治、经济或教育因素）。如果我们假设人们只需要通过个人努力就能成功，那么我们就没有理由去争取社会变革。因此，对自律的过分强调不仅在哲学前提上是保守的，而且在其政治上产生的后果也是偏向保守的。
+过分关注个体而非环境不仅会阻碍我们对于自律的理解，还会在社会实践中带来负面影响。具体来说，我们越是指责人们缺乏自律，越是在努力帮助他们培养控制冲动的能力，就越不可能去质疑那些影响他们的结构性因素（如政治、经济或教育因素）。如果我们假设人们只需要通过个人努力就能成功，那么我们就没有理由去争取社会变革。因此，对自律的过分强调不仅在哲学前提上是保守的，而且在政治上产生的后果也是偏向保守的。
 
 在我们的社会中，这样的例子比比皆是。如果消费者债台高筑，而我们仅仅把问题归结为缺乏自控力，就会转移人们的注意力，使人们不再关注信贷业「为了让我们自小就依赖借钱」而做出的努力。 [33] 再将目光投向 20 世纪 50 年代发起的「保持美国美丽」（Keep America Beautiful）运动，这一敦促我们停止乱扔垃圾的运动——最后被发现是由美国罐头公司等企业资助的，其目的是将环境破坏归咎于个人，进而阻止了关于是谁从一次性商品及其包装的生产中获利的问题探讨。[34]
 
@@ -88,7 +88,7 @@ ________________________________________________________________
 
 **[附录]**
 
-**关于棉花糖和性别差异：***
+**关于棉花糖和性别差异：**
 
 **再论自律实验**
 
@@ -100,13 +100,13 @@ ________________________________________________________________
 
 第三，在预测结果方面，具体情况--即每个实验的设计--比某个孩子的个性更关键。这与从这些研究中通常得出的结论完全相反，后者认为自控力是个人性格的体现，而我们应该去培养这种性格。
 
-第四，虽然Mischel确实考察了个人特征，但他主要关注的是「认知能力」——也就是关于如何思考（或停止思考）对付那些诱惑的策略，以及这些思维策略与后续所展现的能力间的关联。实际上，这些能力与延迟满足本身并无关系，而只与在无干扰时自我转移注意力的能力相关。而这种能力又与传统意义上的智力（intelligence）有显著的相关性。
+第四，虽然 Mischel 确实考察了个人特征，但他主要关注的是「认知能力」——也就是关于如何思考（或者说停止思考）那些诱惑的策略，以及这些思维策略与后续所展现的能力间的关联。实际上，这些能力与延迟满足本身并无关系，而只与在无干扰时自我转移注意力的能力相关。而这种能力又与传统意义上的智力（intelligence）有显著的相关性。
 
-最后，大部分引用该实验的人只是简单的假设，选择延迟满足、获得更大的回报要比不延迟满足、获得较小的回报更好。但这真的总是正确的吗？米歇尔本人就不这么认为。他和他的同事写道：「决定是延迟还是不延迟，部分取决于个人对特定情况的价值观和期望。因此，在特定情况下，延迟满足可能是，也可能不是一个明智的选择。」[44]
+最后，大部分引用该实验的人只是简单的假设，选择延迟满足、获得更大的回报要比不延迟满足、获得较小的回报更好。但这真的总是正确的吗？ Mischel 本人就不这么认为。他和他的同事写道：「决定是否延迟满足，部分取决于个人对特定情况的价值观和期望。因此，在特定情况下，延迟满足可能是，也可能不是一个明智的选择。」[44]
 
 ---
 
-如果说对米谢尔研究的保守评价主要是由于其他人对其进行了（错误）解读，那么最近的一项研究则不然，研究者自己就热衷于将成绩不佳归咎于 「未能自律」。安吉拉-达克沃斯（Angela Duckworth）和马丁-塞利格曼（Martin Seligman）在2005年和2006年发表的实验报告引起了广泛关注（见《教育周刊》、《纽约时报》等），他们声称自律是预测学业是否成功的关键要素，而这一特质也解释了为什么样本中的女生比男生更容易取得学业成功[45]。
+如果说对 Mischel 研究的保守评价主要是由于其他人对其进行了（错误）解读，那么最近的一项研究则不然，研究者自己就热衷于将成绩不佳归咎于 「未能自律」。安吉拉-达克沃斯（Angela Duckworth）和马丁-塞利格曼（Martin Seligman）在2005年和2006年发表的实验报告引起了广泛关注（见《教育周刊》、《纽约时报》等），他们声称自律是预测学业是否成功的关键要素，而这一特质也解释了为什么样本中的女生比男生更容易取得学业成功[45]。
 
 又一次的，当你细究时，这一结论的可疑之处就便慢慢浮现出来。首先，这项研究中的所有孩子都是一所精英磁石学校（elite magnet school）的八年级学生，这所学校的入学竞争激烈，因此尚不清楚这些发现能否推广到其他人群。另外，对自律的评估大多是通过学生们对自己的描述，或是他们的老师和父母对他们的评价，而非基于他们的实际行为。唯一对于实际行为的测试——让他们选择今天拿一美元还是一周后拿两美元——与其他衡量标准的相关性很弱，并且性别差异最小。
 
@@ -120,21 +120,21 @@ ________________________________________________________________
 
 2. Christopher Peterson 和 Martin Seligman 在其著作 Character Strengths and Virtues（Oxford University Press, 2004）的第 515 页中写道：「我们相信，过度自控并无真正的不利之处。」June Tangney、Roy Baumeister 和 Angie Luzio Boone 也同样宣称：「自控力是有益的，且是以线性方式适应环境的。我们并没有发现任何证据表明存在心理问题与强自控力相关」（「强自控力意味着良好的适应性、较少的病理现象、更好的成绩和人际成功」，**Journal of Personality**，第 72 卷，2004 年，第 296 页）。这一结论是根据一组针对大学生的问卷得出的，最后发现其要么是虚假的，要么是曲解了的。首先，Tangney 及其同控制事发现自控与负面情绪之间存在反向关系，这一事实支持了他们的观点。然而，其他研究却发现，自控与**积极**情绪之间也存在反向关系。（例如，Darya L. Zabelina et al., “The Psychological Tradeoffs of Self-Control,” *Personality and Individual Differences,* vol. 43, 2007: 463-73.）即使高度自控的人并不总是不快乐，他们也不总是快乐；他们的情感生活总体上倾向于平淡。其次，Tangney 及其同事使用的自控问卷“包括反映适当控制和缺少控制的条目，但没有反映过度控制的。因此，该量表的相关性并未表明与高控制水平相关的不良后果”（Tera D. Letzring et al., “Ego-control and Ego-resiliency,” *Journal of Research in Personality*, vol. 39, 2005, p. 3）。换句话说，他们对自控的良好评价几乎是由研究设计预先决定的。在他们文章的最后，Tangney 等人承认，一些人可能会严格的过度控制自己，但作者们随即试图将这一问题定义为不存在：“这样过度控制的人可以说是缺乏控制自我的能力。”（第 314 页）。
 
-3. 第一句出自 Joseph F. Rogus 的文章《Promoting Self-Discipline: A Comprehensive Approach》，发表在 1985 年《Theory Into Practice》杂志第 24 卷，第 271 页。第二句摘自伊利诺伊大学厄巴纳-香槟分校的课程、技术与教育改革项目网页 http://wik.ed.uiuc.edu/index.php/Self-Discipline。Rogus 的文章发表在该杂志的一期特刊上，该特刊专门讨论自律问题。尽管该期刊汇集了众多教育理论家的贡献，包括一些具有鲜明人文主义倾向的理论家，但其中没有人质疑自律的重要性。
+3. 第一句出自 Joseph F. Rogus 的文章 Promoting Self-Discipline: A Comprehensive Approach ，发表在 1985 年 Theory Into Practice vol. 24，p 271 。第二句摘自伊利诺伊大学厄巴纳-香槟分校的课程、技术与教育改革项目网页 http://wik.ed.uiuc.edu/index.php/Self-Discipline。Rogus 的文章发表在该杂志的一期特刊上，该特刊专门讨论自律问题。尽管该期刊汇集了众多教育理论家的贡献，包括一些具有鲜明人文主义倾向的理论家，但其中没有人质疑自律的重要性。
 
 4. Letzring et al., p. 3.
 
-5. Scott J. Dickman, “Functional and Dysfunctional Impulsivity,” **Journal of Personality and Social Psychology**, vol. 58, 1990, p. 95.
+5. Scott J. Dickman, “Functional and Dysfunctional Impulsivity,” *Journal of Personality and Social Psychology*, vol. 58, 1990, p. 95.
 
 6. Zabelina et al.
 
-7. Daniel A. Weinberger and Gary E. Schwartz, “Distress and Restraint as Superordinate Dimensions of Self-Reported Adjustment,” **Journal of Personality**, vol. 58, 1990: 381-417.
+7. Daniel A. Weinberger and Gary E. Schwartz, “Distress and Restraint as Superordinate Dimensions of Self-Reported Adjustment,” *Journal of Personality*, vol. 58, 1990: 381-417.
 
-8. David C. Funder 在《**Psychological Inquiry**》杂志第 9 卷（1998 年）第 211 页发表了题为《On the Pros and Cons of Delay of Gratification》的文章。他所提及的研究分别是 Jonathan Shedler 和 Jack Block 在 1990 年发表于《**美国心理学家**》杂志第 45 卷（612-30 页）的文章《Adolescent Drug Use and Psychological Health》，以及 Jack H. Block、Per E. Gjerde 和 Jeanne H. Block 在 1991 年发表于《**Journal of Personality and Social Psychology**》第 60 卷（726-38 页）的文章《Personality Antecedents of Depressive Tendencies in 18-year-olds》。
+8.  David C. Funder, “On the Pros and Cons of Delay of Gratification,” *Psychological Inquiry*, vol. 9, 1998, p. 211. 他所提及的研究分别是 Jonathan Shedler and Jack Block, “Adolescent Drug Use and Psychological Health,” *American Psychologist*, vol. 45, 1990: 612-30 和 Jack H. Block, Per E. Gjerde, and Jeanne H. Block, “Personality Antecedents of Depressive Tendencies in 18-year-olds,” *Journal of Personality and Social Psychology*, vol. 60, 1991: 726-38.
 
-9. 例如，可参阅 Christine Halse、Anne Honey 和 Desiree Boughtwood 在 2007 年发表于《**Gender and Education**》杂志第 19 卷（219-235 页）的文章《The Paradox of Virtue: (Re)thinking Deviance, Anorexia, and Schooling》。
+9. 例如，可参阅 Christine Halse, Anne Honey, and Desiree Boughtwood, “The Paradox of Virtue: (Re)thinking Deviance, Anorexia, and Schooling,” *Gender and Education*, vol. 19, 2007: 219–235.
 
-10. 这或许可以解释为什么数据普遍显示布置家庭作业（大多数学生都厌恶的家庭作业）对学业没有任何益处，尤其是在小学和初中。（参见Alfie Kohn，[*家庭作业的神话*](https://www.alfiekohn.org/homework-myth/) [Cambridge, MA: Da Capo Press, 2006]，以及2006年9月出版的*Kappan*上根据该书撰写的[文章](https://www.alfiekohn.org/abusing-research/)。值得注意的是，大多数人都认为学生会从他们迫不及待要完成的作业中获益，他们的态度似乎和目标与结果无关。
+10. 这或许可以解释为什么数据普遍显示布置家庭作业（大多数学生都厌恶的家庭作业）对学业没有任何益处，尤其是在小学和初中。（参见Alfie Kohn，[《家庭作业的谬误》](https://www.alfiekohn.org/homework-myth/) [Cambridge, MA: Da Capo Press, 2006]，以及 2006 年 9 月出版的 *Kappan* 上根据该书撰写的[文章](https://www.alfiekohn.org/abusing-research/)。值得注意的是，大多数人都认为学生会从他们迫不及待要完成的作业中获益，他们的态度似乎和目标与结果无关。
 
 11. David Shapiro, *Neurotic Styles* (New York: Basic, 1965), p. 34.
 
@@ -144,9 +144,9 @@ ________________________________________________________________
 
 14. 关于「一些过度受控的人格偶尔会表现出抑制」，见 Block，第 187 页。
 
-15. Janet Polivy 在《心理探究》杂志第 9 卷（1998 年）第 183 页发表了题为《行为抑制的效应》的文章。她补充：「这并不意味着一个人永远都不应该抑制自己的自然反应，比如让人想要伤害他人的愤怒，或者令人犯烟瘾的香烟」（同上）。相反，这意味着在每种情况下都应该权衡抑制的利弊，这是一种温和的立场，与我们社会那普遍倡导全面自律的倾向形成鲜明对比。
+15. Janet Polivy, “The Effects of Behavioral Inhibition,” *Psychological Inquiry*, vol. 9, 1998, p. 183. 她补充：「这并不意味着一个人永远都不应该抑制自己的自然反应，比如让人想要伤害他人的愤怒，或者令人犯烟瘾的香烟」（同上）。相反，这意味着在每种情况下都应该权衡抑制的利弊，这是一种温和的立场，与我们社会那普遍倡导全面自律的倾向形成鲜明对比。
 
-16. Funder, 在第 211 页中提到了 Walter Mischel 进行的所谓「棉花糖」实验（参见侧边栏）。Walter Mischel 这样说道：无法延迟满足可能是一个问题，但是「另一个极端——过度延迟满足——也有其代价，并且可能是不利的……在任何特定的选择中，是否应该延迟满足或「锻炼意志」往往并不是显而易见的」（《From Good Intentions to Willpower》，收录于《**The Psychology of Action: Linking Cognition and Motivation to Behavior**》，Peter M. Gollwitzer 和 John A. Bargh 编，纽约：Guilford，1996 年，第 198 页）。
+16. Funder, 在第 211 页中提到了 Walter Mischel 进行的所谓「棉花糖」实验（参见侧边栏）。Walter Mischel 这样说道：无法延迟满足可能是一个问题，但是「另一个极端——过度延迟满足——也有其代价，并且可能是不利的……在任何特定的选择中，是否应该延迟满足或「锻炼意志」往往并不是显而易见的」（“From Good Intentions to Willpower,” in *The Psychology of Action: Linking Cognition and Motivation to Behavior*, ed. by Peter M. Gollwitzer and John A. Bargh [New York: Guilford, 1996], p. 198）。
 
 17. 参见 King（同前）和 Alina Tugend 在 2008 年 8 月 16 日发表于《纽约时报》第 B5 页的文章《Winners Never Quit? Well, Yes, They Do》，对心理学家 Angela Duckworth 及其同事对「毅力」的毫无保留的支持提出了质疑。Angela Duckworth 和她的同事提出：「作为教育者和父母，我们不仅应该鼓励孩子努力工作，更应该鼓励他们绝不放弃」她们在报告中指出，坚持不懈的毅力有助于在拼字比赛中表现取得更好的成绩（Angela L. Duckworth 等人，《Grit: Perseverance and Passion for Long-Term Goals》，《ournal of Personality and Social Psychology》，第 92 卷，2007 年；引文见第 1100 页）。但是，这种统计上的关联大多指出了这些结果测量的局限性，以及毅力本身的局限性。「毅力 」这一概念忽略了动机因素（即人们**为什么而坚持不懈**），从而将对任务的真正热情与急于证明自己的能力、无法适时改变方向等混为一谈。
 
@@ -158,41 +158,41 @@ ________________________________________________________________
 
 21. 可应要求提供参考资料。
 
-22. 例如，参见理查德·M·瑞安（Richard M. Ryan）、詹姆斯·P·康奈尔（James P. Connell）和爱德华·L·德西（Edward L. Deci）的文章《**A Motivational Analysis of Self-determination and Self-regulation in Education**》，收录于《**Research on Motivation in Education**》第 2 卷，由卡罗尔·埃姆斯（Carole Ames）和拉塞尔·埃姆斯（Russell Ames）编辑（佛罗里达州奥兰多：学术出版社（Academic Press），1985 年）；以及理查德·M·瑞安和杰罗姆·斯蒂勒（Jerome Stiller）的文章《**The Social Contexts of Internalization: Parent and Teacher Influences on Autonomy, Motivation, and Learning**》，收录于《**Advances in Motivation and Achievement**》第 7 卷，1991 年：第 115-149 页。引用自后者，第 143 页。
+22. 例如，参见 Richard M. Ryan, James P. Connell, and Edward L. Deci, “A Motivational Analysis of Self-determination and Self-regulation in Education,” in *Research on Motivation in Education,* vol. 2, ed. by Carole Ames and Russell Ames (Orlando, FL: Academic Press, 1985); 和 Richard M. Ryan and Jerome Stiller, “The Social Contexts of Internalization: Parent and Teacher Influences on Autonomy, Motivation, and Learning,” *Advances in Motivation and Achievement*, vol. 7, 1991: 115-49. 引文摘自后者, p. 143.
 
 23. David Brooks, “The Art of Growing Up,” *New York Times,* June 6, 2008, p. A23.
 
-24. See Alfie Kohn, [“How Not to Teach Values: A Critical Look at Character Education,”](https://www.alfiekohn.org/teach-values/) *Phi Delta Kappan*, February 1997: 429-39.
+24. 参见 Alfie Kohn, [“How Not to Teach Values: A Critical Look at Character Education,”](https://www.alfiekohn.org/teach-values/) *Phi Delta Kappan*, February 1997: 429-39.
 
-25. 一位教育者在为自律的必要性辩护时，引用了「我们的自私天性可能会把我们引向「相互战争的状态」」——仿佛托马斯·霍布斯对人类的悲观看法被普遍接受似的。随后，他惊人地声称「社会阶级差异似乎主要是延迟满足能力的函数」，并建议我们「将较低社会阶层与可能提供自律榜样的中产阶级联系起来」（路易斯·戈德曼（Louis Goldman），《**Mind, Character, and the Deferral of Gratification**》，《**Educational Forum**》，第 60 卷，1996 年，第 136、137、139 页）。请注意，这篇文章发表于 1996 年，而不是 1896 年。
+25. 一位教育者在为自律的必要性辩护时，引用了「我们的自私天性可能会把我们引向『相互战争的状态』」——仿佛 Thomas Hobbes 对人类的悲观看法被普遍接受似的。随后，他惊人地声称「社会阶级差异似乎主要是延迟满足能力的函数」，并建议我们「将较低社会阶层与可能提供自律榜样的中产阶级联系起来」（Louis Goldman, “Mind, Character, and the Deferral of Gratification,” *Educational Forum*, vol. 60, 1996, pp. 136, 137, 139）。请注意，这篇文章发表于 1996 年，而不是 1896 年。
 
-26. 无论内化或自律在多大程度上是*被*需要的，这种更温和的方法——特别是支持儿童的自主性和尽量减少成人的控制——一直被证明是更有效的。(我在[*无条件养育*](https://www.alfiekohn.org/unconditional-parenting/)[New York: Atria, 2005]中总结了一些对其的论述，集中在第3章。)具有讽刺意味的是，许多为自我控制的价值辩护的传统主义者同时也在提倡一种更为专制的教育方式。总而言之，我在这里的核心观点是，我们需要重新考虑的是目标，而不仅仅是方法。
+26. 无论内化或自律在多大程度上是**被**需要的，这种更温和的方法——特别是支持儿童的自主性和尽量减少成人的控制——一直被证明是更有效的。（我在[《无条件养育》](https://www.alfiekohn.org/unconditional-parenting/)[New York: Atria, 2005]中总结了一些对其的论述，集中在第3章。）具有讽刺意味的是，许多为自我控制的价值辩护的传统主义者同时也在提倡一种更为专制的教育方式。总而言之，我在这里的核心观点是，我们需要重新考虑的是目标，而不仅仅是方法。
 
-27. 「几十年来，甚至几个世纪以来，老一代人一直抱怨年轻一代缺乏自制力。老一辈的维京人抱怨年轻一代越来越软弱，不再像过去那样尽心尽力地奸淫掳掠」（C. Peter Herman，《Thoughts of a Veteran of Self-Regulation Failure》，《**Psychological Inquiry**》，第 7 卷，1996 年，第 46 页）。例如，下面这段文字被广泛认为是古希腊诗人赫西俄德（Hesiod）所作：「当我年轻的时候，我们被教导要谨慎并尊重长辈，但现在的年轻人却极其[不尊重]和不克制」。同样，1894 年，在哈佛大学引入字母等级制后不久，分数的膨胀也遭到了谴责，这是所谓的标准降低的另一种表现形式。
+27. 「几十年来，甚至几个世纪以来，老一代人一直抱怨年轻一代缺乏自制力。老一辈的维京人抱怨年轻一代越来越软弱，不再像过去那样尽心尽力地奸淫掳掠」（C. Peter Herman, “Thoughts of a Veteran of Self-Regulation Failure,” *Psychological Inquiry*, vol. 7, 1996, p. 46）。例如，下面这段文字被广泛认为是古希腊诗人赫西俄德（Hesiod）所作：「当我年轻的时候，我们被教导要谨慎并尊重长辈，但现在的年轻人却极其[不尊重]和不克制」。同样，1894 年，在哈佛大学引入字母等级制后不久，分数的膨胀也遭到了谴责，这是所谓的标准降低的另一种表现形式。
 
-28. George Lakoff, 《**Moral Politics：How Liberals and Conservatives Think**》, 第二卷. (芝加哥大学出版社, 2002).
+28. George Lakoff, *Moral Politics: How Liberals and Conservatives Think*, 2nd ed. (Chicago: University of Chicago Press, 2002).
 
-29. 关于服从与自控之间的关系的讨论，见 Block作品，集中于第 195-196 页。
+29. 关于服从与自控之间的关系的讨论，见 Block, esp. pp. 195-96.
 
-30. 我想到了罗伊-鲍迈斯特（Roy Baumeister）和他的合作者琼-唐尼（June Tangney），以及马丁-塞利格曼（Martin Seligman）和安吉拉-达克沃斯（Angela Duckworth），还有犯罪学家迈克尔-戈特弗里德森（Michael R. Gottfredson）和特拉维斯-赫希（Travis Hirschi），他们认为犯罪仅仅是因为罪犯缺乏自控力。(关于对这一理论的批判，请参见吉尔伯特-盖斯（Gilbert Geis）的论文以及《失控》（Out of Control）一书中的章节：《**评估犯罪的一般理论**》，埃里希-古德主编[斯坦福：斯坦福大学出版社，2008年]）。
+30. 我想到了 Roy Baumeister 和他的合作者 June Tangney，以及 Martin Seligman 和 Angela Duckworth，还有犯罪学家 Michael R. Gottfredson 和 Travis Hirschi，他们认为犯罪仅仅是因为罪犯缺乏自控力。(关于对这一理论的批判，请参见 Gilbert Geis 的论文以及《失控》（Out of Control）一书中的章节：《**评估犯罪的一般理论**》，埃里希-古德主编[斯坦福：斯坦福大学出版社，2008年]）。
 
-31. 我曾在一篇关于学术造假的文章中讨论过 「基本归因错误」，学术造假通常被认为是一种道德败坏的反映（通常被归因于缺乏自控能力），尽管研究人员发现作弊是对某些教育环境的一种可预见的反应。见「[Who’s Cheating Whom?](https://www.alfiekohn.org/whos-cheating/)」，收录于《**Phi Delta Kappan**》，2007 年 10 月：89-97页。
+31. 我曾在一篇关于学术造假的文章中讨论过 「基本归因错误」，学术造假通常被认为是一种道德败坏的反映（通常被归因于缺乏自控能力），尽管研究人员发现作弊是对某些教育环境的一种可预见的反应。见 [“Who’s Cheating Whom?”](https://www.alfiekohn.org/whos-cheating/), *Phi Delta Kappan*, October 2007: 89-97.
 
-32. Per-Olof H. Wikström 和 Kyle Treiber, 「The Role of Self-Control in Crime Causation,」「 **European Journal of Criminology**」,  2007年第四卷，243-251页。关于延迟满足的内容，见 Walter Mischel 等人，「Cognitive and Attentional Mechanisms in Delay of Gratification」，《**Journal of Personality and Social Psychology**》，第 21 卷，1972 年：204-18。
+32. Per-Olof H. Wikström and Kyle Treiber, “The Role of Self-Control in Crime Causation,” *European Journal of Criminology*, vol. 4, 2007, pp. 243, 251. 关于延迟满足的内容，见 Walter Mischel et al., “Cognitive and Attentional Mechanisms in Delay of Gratification,” *Journal of Personality and Social Psychology*, vol. 21, 1972: 204-18.
 
-33. 例如，见哥伦比亚广播公司新闻，[「认识'塑料一代'」](www.cbsnews.com/stories/2007/05/17/eveningnews/main2821916.shtml)，2007 年 5 月 17 日。
+33. 例如，见 CBS News, “Meet ‘Generation Plastic,’” May 17, 2007, available at www.cbsnews.com/stories/2007/05/17/eveningnews/main2821916.shtml.
 
-34. 参见 Heather Rogers，《**Gone Tomorrow: The Hidden Life of Garbage**》（纽约：New Press，2005年）。[**附录 2020：**另一个例子：「‘个人碳足迹’的概念是由 英国石油公司在 2005 年的一次耗资超过 1 亿美元的媒体宣传活动中推广的。研究表明，这次宣传活动将气候变化的责任从公司转移到了个人消费者身上。」参见 Meehan Crist，《What the Pandemic Means for Climate Change》，《**纽约时报**》，2020年3月29日，第 4-SR 版。
+34. 参见 Heather Rogers, *Gone Tomorrow: The Hidden Life of Garbage* (New York: New Press, 2005). [**附录 2020：**另一个例子：「‘个人碳足迹’的概念是由 英国石油公司在 2005 年的一次耗资超过 1 亿美元的媒体宣传活动中推广的。研究表明，这次宣传活动将气候变化的责任从公司转移到了个人消费者身上。」参见 Meehan Crist，《What the Pandemic Means for Climate Change》，《**纽约时报**》，2020年3月29日，第 4-SR 版。
 
-35. 见 Alfie Kohn，[「Students Don’t ‘Work,’ They Learn: Our Use of Workplace Metaphors May Compromise the Essence of Schooling」](https://www.alfiekohn.org/students-dont-work-learn/) **《Education Week》**，1997 年 9 月 3 日刊：60，43。
+35. 见 Alfie Kohn, [“Students Don’t ‘Work,’ They Learn: Our Use of Workplace Metaphors May Compromise the Essence of Schooling,”](https://www.alfiekohn.org/students-dont-work-learn/) *Education Week*, September 3, 1997: 60, 43.
 
-36. Samuel Bowles 和 Herbert Gintis，《**Schooling in Capitalist America**》（纽约：Basic，1976年），第 39 页。或许不应感到惊讶的是，保守派的《**National Review**》发表了一篇强烈支持家庭作业的文章，理由是它教导了「个人责任感和自律」。家庭作业是在为生活做准备（John D. Gartner，《Training for Life》，2001年1月22日）。但究竟是生活的哪一方面呢？显然，重点不是培养孩子做出有意义的决策，或成为民主社会的一员，或学会批判性思考。相反，其所提倡的是让孩子学会服从命令的课程。
+36. Samuel Bowles and Herbert Gintis, *Schooling in Capitalist America* (New York: Basic, 1976), p. 39. 或许不应感到惊讶的是，保守派的《**National Review**》发表了一篇强烈支持家庭作业的文章，理由是它教导了「个人责任感和自律」。家庭作业是在为生活做准备（John D. Gartner, “Training for Life,” January 22, 2001）。但究竟是生活的哪一方面呢？显然，重点不是培养孩子做出有意义的决策，或成为民主社会的一员，或学会批判性思考。相反，其所提倡的是让孩子学会服从命令的课程。
 
-37. 例如，见David Brooks，《Marshmallows and Public Policy》，**《New York Times》**，2006 年 5 月 7 日，第 A13 页。
+37. 例如，见 David Brooks, “Marshmallows and Public Policy,” *New York Times*, May 7, 2006, p. A13.
 
 38. Mischel, p. 212.
 
-39. 在延迟满足的研究中，至少是在那些旨在通过等待以获得更大奖励的研究中，有一个 「惊人一致的发现」，那就是 「大多数儿童和青少年都能够做到延迟满足」。在其中一次实验中，「104 名受试者中有 83 人选择了延迟满足」（David C. Funder and Jack Block，《The Role of Ego-Control, Ego-Resiliency, and IQ in Delay of Gratification in Adolescence》，**《Journal of Personality and Social Psychology》**，第 57 卷，1989 年，第 1048 页）。这说明，要么是那些对当代年轻人的享乐主义的抱怨夸大其词，要么是这些关于自我控制的研究的实验环境都太过理想化，以至于其**所有**的研究结果与现实世界都产生了脱节。
+39. 在延迟满足的研究中，至少是在那些旨在通过等待以获得更大奖励的研究中，有一个 「惊人一致的发现」，那就是 「大多数儿童和青少年都能够做到延迟满足」。在其中一次实验中，「104 名受试者中有 83 人选择了延迟满足」（David C. Funder and Jack Block, “The Role of Ego-Control, Ego-Resiliency, and IQ in Delay of Gratification in Adolescence,” *Journal of Personality and Social Psychology,* vol. 57, 1989, p. 1048）。这说明，要么是那些对当代年轻人的享乐主义的抱怨夸大其词，要么是这些关于自我控制的研究的实验环境都太过理想化，以至于其**所有**的研究结果与现实世界都产生了脱节。
 
 40. Mischel, p. 209.
 
@@ -200,12 +200,12 @@ ________________________________________________________________
 
 42. Mischel, p. 211.
 
-43. 同上，第 214 页。考虑到其他作家都将自律和智力视为截然不同的两个特征，这一发现颇为有趣。（参见下文注释 45 中第一篇文章的标题。）
+43. 同上, p. 214. 考虑到其他作家都将自律和智力视为截然不同的两个特征，这一发现颇为有趣。（参见下文注释 45 中第一篇文章的标题。）
 
-44. Yuichi Shoda、Walter Mischel 和 Philip K. Peake，《Predicting Adolescent Cognitive and Self-Regulatory Competencies from Preschool Delay of Gratification》，《**Developmental Psychology**》，第 26 卷，1990 年，第 985 页。他们补充道，忍受诱惑以待延迟满足的**能力**本身难能可贵，但这当然不等于认同自我控制本身是有益的。
+44. Yuichi Shoda, Walter Mischel, and Philip K. Peake, “Predicting Adolescent Cognitive and Self-Regulatory Competencies from Preschool Delay of Gratification,” *Developmental Psychology*, vol. 26, 1990, p. 985. 他们补充道，忍受诱惑以待延迟满足的**能力**本身难能可贵，但这当然不等于认同自我控制本身是有益的。
 
-45. Angela L. Duckworth 和 Martin E. P. Seligman，《Self-Discipline Outdoes IQ in Predicting Academic Performance of Adolescents》，《**Psychological Science**》，第 16 卷，2005 年：939-944 页；以及 Angela Lee Duckworth 和 Martin E. P. Seligman，《Self-Discipline Gives Girls the Edge》，《Journal of Educational Psychology》，第 98 卷，2006 年：198-208 页。
+45. Angela L. Duckworth and Martin E. P. Seligman, “Self-Discipline Outdoes IQ in Predicting Academic Performance of Adolescents,” *Psychological Science*, vol. 16, 2005: 939-44; 以及 Angela Lee Duckworth and Martin E. P. Seligman, “Self-Discipline Gives Girls the Edge,” *Journal of Educational Psychology*, vol. 98, 2006: 198-208.
 
 46. 我在 [**Punished by Rewards**](https://www.alfiekohn.org/punished-rewards/) (Boston: Houghton Mifflin, 1993) 和 [**The Schools Our Children Deserve**](https://www.alfiekohn.org/schools-children-deserve/) (Boston: Houghton Mifflin, 1999) 中收集了有关成绩的证据。
 
-47. 考虑到Duckworth 和 Seligman 为证明自律可以预测学业表现（即高分）所引用的一项研究。该研究发现，细节与学术游戏规则对学习成绩的影响，与智力和天分一样密切。成绩优秀的学生「对思想或文化、审美追求并不特别感兴趣。此外，他们也不特别宽容或富有同情心；不过他们确实显得稳重稳定、务实、任务导向，并且与社会规则和惯例和谐相处。最后，相比于一般学生，这些优秀的学生显得有些古板和缺乏创意」（Robert Hogan 和 Daniel S. Weiss，《Personality Correlates of Superior Academic Achievement》，《**Journal of Counseling Psychology**》，第 21 卷，1974 年，第 148 页）。
+47. 考虑到 Duckworth 和 Seligman 为证明自律可以预测学业表现（即高分）所引用的一项研究。该研究发现，细节与学术游戏规则对学习成绩的影响，与智力和天分一样密切。成绩优秀的学生「对思想或文化、审美追求并不特别感兴趣。此外，他们也不特别宽容或富有同情心；不过他们确实显得稳重稳定、务实、任务导向，并且与社会规则和惯例和谐相处。最后，相比于一般学生，这些优秀的学生显得有些古板和缺乏创意」（Robert Hogan and Daniel S. Weiss, “Personality Correlates of Superior Academic Achievement,” *Journal of Counseling Psychology*, vol. 21, 1974, p. 148）。
