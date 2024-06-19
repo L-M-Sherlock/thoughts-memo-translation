@@ -54,7 +54,7 @@
 
 # 三、所谓缺席的反证，以及我为何深信它是错误的
 
-人们常说“研究表明”，学生缺课会严重影响学业，对此你怎么看？这类“研究”的确“发现”了种种相关性，但大多存在严重问题。一个典型例子是，[这个研究](https://www.attendanceworks.org/wp-content/uploads/2017/06/Attendance-in-the-Early-Grades.pdf)发现缺课次数的增加，与更差的成绩和考试分数显著相关。
+人们常说「研究表明」，学生缺课会严重影响学业，对此你怎么看？这类「研究」的确「发现」了种种相关性，但大多存在严重问题。一个典型例子是，[这个研究](https://www.attendanceworks.org/wp-content/uploads/2017/06/Attendance-in-the-Early-Grades.pdf)发现缺课次数的增加，与更差的成绩和考试分数显著相关。
 
 ![img](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff712a227-b302-48f2-aed7-d32b637b0f49_442x600.png)
 
