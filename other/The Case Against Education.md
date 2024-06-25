@@ -16,19 +16,19 @@
 
 >
 
-> 因为我试图从内部改变体系
+> 因为我企图从内部改变体制
 
 >
 
-> 我现在要来奖励他们
+> 现在我来了，我来报答他们
 
 >
 
-> 我们先拿下曼哈顿，然后拿下柏林
+> 我们先拿下曼哈顿，然后我们拿下柏林
 
 >
 
-> — Leonard Cohen，[我们先拿下曼哈顿](https://www.youtube.com/watch?v=JTTC_fD598A)
+> — Leonard Cohen，[First We Take Manhattan](https://www.youtube.com/watch?v=JTTC_fD598A)
 
 这篇文章原本是我对 Bryan Caplan 优秀的新书[《反对教育的依据》](https://smile.amazon.com/s/ref=nb_sb_ss_c_1_21?url=search-alias%3Daps&field-keywords=the+case+against+education&sprefix=the+case+against+educ%2Caps%2C129&crid=1GXLY3KXJXHIL)的评论。我本来打算讨论我们思维方式的诸多有趣差异。但介绍部分有点跑题了，所以那篇有价值的帖子将不得不等一等了。
 
@@ -42,7 +42,7 @@ I
 
 Eliezer Yudkowsky 知道，但说得比较委婉 (摘自[不充分的均衡](https://equilibriabook.com/toc/))：
 
-> 引用 Slate Star Codex 上的一条评论：假如有一座魔法塔，只有智商在 100 以上，还拥有一定责任心的人才能进入，而进塔会让人损失四年寿命。接下来，雇主的用人标准随之发生改变：他们开始偏爱那些进塔成功的求职者，愿意给予更优厚的薪资，甚至将此作为录用的必要条件。[5](https://equilibriabook.com/molochs-toolbox/#footnote-5-definition)
+> 引用 Slate Star Codex 上的一条评论：假如有一座魔法塔，只有智商在 100 以上，还拥有一定责任心的人才能进入，而进塔会让人损失四年寿命。接下来自然会发生的事情是，雇主开始偏爱那些进塔成功的求职者，愿意给予更优厚的薪资，甚至将此作为录用的必要条件。[5](https://equilibriabook.com/molochs-toolbox/#footnote-5-definition)
 
 >
 
@@ -52,13 +52,13 @@ Eliezer Yudkowsky 知道，但说得比较委婉 (摘自[不充分的均衡](htt
 
 > 总而言之：就业市场的必然趋势是，雇主要求应聘者必须出示一份证明，证明他们曾经进过魔法塔。这使得**每个人**都想进入魔法塔，于是就有人趁机在塔外设卡收费，收取数十万美元的进塔费用。[6](https://equilibriabook.com/molochs-toolbox/#footnote-6-definition)
 
-《瑞克和莫蒂》中的瑞克知道：
+《瑞克和莫蒂》中的瑞克知道：![](https://bkimg.cdn.bcebos.com/pic/574e9258d109b3de1cfcc615c3bf6c81800a4c0f)
 
 Nassim Talib 知道（下面这段话节选自《非对称风险》）：
 
 > 人类文明进步带来的副作用就像诅咒一样困扰着我们，这个社会上有能力把问题解释得头头是道的人越来越多，但凭借亲身经历真正理解问题的人却越来越少。所以，学习并不是我们在戒备森严的监狱（美其名曰学校）中教给孩子们的东西。
 
-Talib 认为「学校是一座监狱」这个事实再明显不过，**他随口一提，甚至懒得解释**。他说得对。只要[留心观察](https://www.lesswrong.com/posts/mELQFMi9egPn5EAjK/my-attempt-to-explain-looking-insight-meditation-and)课堂上的情形，你就会发现[出事了](https://thezvi.wordpress.com/2017/08/05/something-was-wrong/)。学校并非旨在传授实用知识、激发创造力的园地，而是一座我们学会[猜老师的密码](https://www.lesswrong.com/posts/NMoLJuDJEms7Ku9XS/guessing-the-teacher-s-password)、扼杀创造力的监狱。
+Talib 认为「学校是一座监狱」这个事实再明显不过，**他随口一提，甚至懒得解释**。他说得对。只要[留心观察](https://www.lesswrong.com/posts/mELQFMi9egPn5EAjK/my-attempt-to-explain-looking-insight-meditation-and)课堂上的情形，你就会发现[出事了](https://thezvi.wordpress.com/2017/08/05/something-was-wrong/)。学校并非旨在传授实用知识、激发创造力的园地，而是一座我们学着[猜老师的密码](https://www.lesswrong.com/posts/NMoLJuDJEms7Ku9XS/guessing-the-teacher-s-password)、扼杀创造力的监狱。
 
 Robin Hanson 知道： [学校的目标即是服从](http://www.overcomingbias.com/2016/04/school-is-to-submit.html)。作为信号的服从。不得不接受一个发出信号、唯命是从、勤勤恳恳、循规蹈矩的**生活**。
 
@@ -70,7 +70,7 @@ Robin Hanson 知道： [学校的目标即是服从](http://www.overcomingbias.c
 
 上小学时，我经常装病，在自己房间里「隔离」一天，就为了能安安心心地看书听广播。这就是**接受教育**。那些日子里，我学到的东西要多得多。
 
-我曾就读于纽约市最难进的高中。课前的「零」时段和放学后的时光都令我心情愉悦，因为我可以尽情投入自己热爱的数学竞赛，或是同朋友一起游戏。相比之下，枯燥的课堂简直就是一种煎熬，我只能不停地看表度日。在历史课上，我总想纠正老师的错误。我试图选修大学预修课程，却因为在乏味的普通课上表现平平而遭到拒绝。不过，我发现自己仍然有资格参加预修考试，于是就这样做了。 
+我曾就读于纽约市最难进的高中。课前的「零」时段（译注：‘zero’ period，时间段上和国内的早读类似，但内容上是各种选修课。）和放学后的时光都令我心情愉悦，因为我可以尽情投入自己热爱的数学竞赛，或是同朋友一起游戏。相比之下，枯燥的课堂简直就是一种煎熬，我只能不停地看表度日。在历史课上，我总想纠正老师的错误。我试图选修大学预修课程，却因为在乏味的普通课上表现平平而遭到拒绝。不过，我发现自己仍然有资格参加预修考试，于是就这样做了。 
 
 我大胆地将英语课的大项目命名为「放我离开这里」，**却无人对此表示惊讶**。 
 
@@ -78,7 +78,7 @@ Robin Hanson 知道： [学校的目标即是服从](http://www.overcomingbias.c
 
 学校有意地灌输给我们拙劣的写作和阅读方式。我不得不从网上写作中自学得体的写作技巧。所谓的「鉴赏」课程反而让我对音乐、艺术和文学失去了兴趣。若要我比较从一门统计课（主要靠自学教材）中的收获，与**其他所有大学课程的总和**，并问哪个更有价值，**我还真拿不准**。
 
-我修过一门研究生数学课，是分析学。令我记忆犹新的有三点：第一，考试时他们要求我们注明是否本科生，以便网开一面；第二，整堂课的内容不外乎一个俄罗斯口音浓重、听起来费劲的男人照本宣科，把讲义**一字不差地**誊写到黑板上，将板书内容原原本本地念出来。
+我修过一门研究生数学课，是数学分析。令我记忆犹新的有三点：第一，考试时他们要求我们注明是否本科生，以便网开一面；第二，整堂课的内容不外乎一个俄罗斯口音浓重、听起来费劲的男人照本宣科，把讲义**一字不差地**誊写到黑板上，将板书内容原原本本地念出来。
 
 第三，这门课是我上过最有价值的一门课，**因为它让我与读研无缘**。感谢您，教授！
 
