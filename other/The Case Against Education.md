@@ -30,7 +30,7 @@
 
 > — Leonard Cohen，[First We Take Manhattan](https://www.youtube.com/watch?v=JTTC_fD598A)
 
-这篇文章原本是我对 Bryan Caplan 优秀的新书[《反对教育的依据》](https://smile.amazon.com/s/ref=nb_sb_ss_c_1_21?url=search-alias%3Daps&field-keywords=the+case+against+education&sprefix=the+case+against+educ%2Caps%2C129&crid=1GXLY3KXJXHIL)的评论。我本来打算讨论我们思维方式的诸多有趣差异。但介绍部分有点跑题了，所以那篇有价值的帖子将不得不等一等了。
+这篇文章原本是我对 Bryan Caplan 优秀的新书[《反对教育的依据》](https://smile.amazon.com/s/ref=nb_sb_ss_c_1_21?url=search-alias%3Daps&field-keywords=the+case+against+education&sprefix=the+case+against+educ%2Caps%2C129&crid=1GXLY3KXJXHIL)（译注：The Case Against Education，正式译名为[《教育的浪费》](https://book.douban.com/subject/36333171/)）的评论。我本来打算讨论我们思维方式的诸多有趣差异。但介绍部分有点跑题了，所以那篇有价值的帖子将不得不等一等了。
 
 首先，我们来看看反对教育的依据。
 
@@ -86,7 +86,7 @@ II
 
 [我们的孩子真的在学习吗](https://www.youtube.com/watch?v=-ej7ZEnjSeA)？
 
-Bryan 拿出了数据支持。姑且撇开 Bryan 的数据不谈。去仔细阅读和思考 [Scott Alexander 最近发表的两篇](http://slatestarcodex.com/2018/04/10/why-dcs-low-graduation-rates/)[关于 DC 公立学校系统的文章](http://slatestarcodex.com/2018/04/12/highlights-from-the-comments-on-dc-graduation-rates/)。
+Bryan 拿出了数据。暂且抛开 Bryan 的数据不谈。去仔细阅读和思考 [Scott Alexander 最近发表的两篇](http://slatestarcodex.com/2018/04/10/why-dcs-low-graduation-rates/)[关于 DC 公立学校系统的文章](http://slatestarcodex.com/2018/04/12/highlights-from-the-comments-on-dc-graduation-rates/)。
 
 我们无需纠结于 Scott 提出的问题——为何 DC 的高中毕业率如此之低，而是要问：**那些被称为「高中」的地方究竟是什么？我们在那里对孩子们做了什么？**
 
@@ -100,7 +100,7 @@ Bryan 拿出了数据支持。姑且撇开 Bryan 的数据不谈。去仔细阅�
 
 Bizzolt [写到](http://slatestarcodex.com/2018/04/10/why-dcs-low-graduation-rates/#comment-617956)：
 
-> 作为一名明年不打算回校任教（和许多同事一样）的华盛顿特区公立高中教师，我认为影响毕业率的最大因素之一是无故缺勤。从我们的外部审计和调查结果可以看出，许多学校有相当一部分高年级学生「尽管在毕业所需的常规教学课程中缺课过多，但仍然通过了」。以我所在的高中为例，2017 届毕业生中这一比例超过40%。
+> 作为一名明年不打算回校任教（和许多同事一样）的华盛顿特区公立高中教师，我认为影响毕业率的最大因素之一是无故缺勤。从我们的外部审计和调查结果可以看出，许多学校有相当一部分高年级学生「尽管在毕业所需的常规教学课程中缺课过多，但仍然通过了考试」。以我所在的高中为例，2017 届毕业生中这一比例超过 40%。
 
 >
 
@@ -140,21 +140,21 @@ Bizzolt [写到](http://slatestarcodex.com/2018/04/10/why-dcs-low-graduation-rat
 
 III
 
-Bryan Caplan 是个不折不扣的经济学家。在他眼里，学校不是什么反乌托邦式的监狱，不是摧残灵魂的种族灭绝机器，而不过是浪费时间和金钱的无底洞。他权衡经济成本和收益，比较信号理论和人力资本理论，分析在什么情况下、对什么人而言，学校教育才算有价值。它能给个人带来私人利益吗？作为公共产品，它能给整个社会创造多大价值？
+Bryan Caplan 是个不折不扣的经济学家。因此，在他眼里，学校不是什么反乌托邦式的监狱，不是摧残灵魂的种族灭绝机器，而不过是浪费时间和金钱的无底洞。他权衡经济成本和收益，比较信号理论和人力资本理论，分析在什么情况下、对什么人而言，学校教育才算有价值。它能给哪些人带来个人利益？作为公共物品，它能给整个社会创造多大价值？
 
 阅读[《反对教育的依据》](https://smile.amazon.com/Case-against-Education-System-Waste/dp/0691174652/ref=sr_1_1?ie=UTF8&qid=1522535446&sr=8-1&keywords=the+case+against+education+by+bryan+caplan)就是在观察 Bryan 的思考过程。他逐个论证，环环相扣，全面剖析正规教育的真实成本与收益。
 
-跟随他的思考步伐，我们可以清晰地看到他剖析问题的方式：提出疑问，搭建框架，检视数据，权衡假设，得出结论。Bryan 所做的一切，无不彰显着一位探索者的风范。他孜孜以求，努力发现事物运转的规律。他梳理已知信息，深入思考在不同条件下世界会呈现怎样的图景。读这本书，你不仅能获取有关教育的知识，更可以领会思考的精髓所在——**如何去思考**。
+跟随他的思考步伐，我们可以清晰地看到他剖析问题的方式：提出疑问，搭建框架，检视数据，权衡假设，得出结论。他就像一个试图发现事物运作原理的人一样行动，梳理自己所知，并思考如果世界以不同方式运作会是什么样子。你得到了一本关于教育的书，但是你也得到了一种教育，其中最重的问题是——**如何去思考**。
 
-对 Bryan 而言，[秉持「局部有效性」的原则至关重要](https://www.lesswrong.com/posts/WQFioaudEH8R7fyhm/local-validity-as-a-key-to-sanity-and-civilization)。Eliezer Yudkowsky 曾言，这是保持理智、维系文明的关键，此言不虚。
+Bryan 以[局部有效性的美德](https://www.lesswrong.com/posts/WQFioaudEH8R7fyhm/local-validity-as-a-key-to-sanity-and-civilization)为生。这超级重要；Eliezer Yudkowsky 曾言，这是保持理智、维系文明的关键，他不是在开玩笑。
 
-通过观察 Bryan 的思考，我发现他与我在很多地方的想法大相径庭，其中不少值得我们深入推敲。面对大量难以解读的数据和悬而未决的问题，Bryan 常常会**极力**去为教育辩护，设身处地去假设，但最终发现，即便是这些慷慨的假设也难以成立。而在某些时候，他又会被自己的逻辑裹挟，显得过于苛刻。我真切地感受到，**倘若有人能证明他的判断有误，Bryan 会由衷地感到欣喜**。他以一个探索者而非辩护者的身份，全面剖析教育这个议题的利弊得失。
+因为我们能看到 Bryan 的思考过程，所以我们发现了许多他和我看法不同的地方。其中不少值得我们深入推敲。面对大量难以解读的数据和悬而未决的问题，Bryan 常常会对教育**极度地宽容**，他表明即使做出宽松的假设也不足以支持教育的观点。但有时，Bryan 的逻辑又会导致他过于苛刻。我真切地感受到，**Bryan 其实很希望自己的观点被证明是错的**。我们考虑了教育的利弊，就像 Bryan 那样看待教育，作为一名探索者，而不是一名辩护者。
 
-归根结底，Bryan 有何发现？一次又一次，他发现现实总是支持教育的信号模型，而不支持人力资本理论。Bryan 的论证令人信服。
+归根结底，Bryan 有何发现？一次又一次，他发现现实总是支持教育的信号理论，而不支持人力资本理论。Bryan 的论证令人信服。
 
 Bryan 最后得出结论，如果你将自己的阅读和经历全部放上台面，然后[闭嘴计算](https://wiki.lesswrong.com/wiki/Shut_up_and_multiply)，不管你多么慷慨地认可学校教育的意义，你会发现学校教育的社会回报率都惊人地低。
 
-无论如何，你从学校获得的大部分人力资本无非就是阅读、写作、基本数学和服从。你通过展示顺从、尽责和智力来从学校获得自身利益。不遵循标准程序来展示顺从和尽责，就是在展示与之相反的品质。因此，我们陷入了一个越来越昂贵的信号陷阱，无法逃脱。
+无论如何，你从学校获得的大部分人力资本无非就是阅读、写作、基本数学和闭嘴。你通过发出顺从、尽责和智力的信号来从学校获得自身利益。不遵循标准程序来展示顺从和尽责，就是在展示与之相反的品质。因此，我们陷入了一个越来越昂贵的信号陷阱，无法逃脱。
 
 Bryan 接着提出一个相当大胆的观点：
 
