@@ -6,7 +6,7 @@
 
 对刻意练习的认知：Ericsson 的研究可信吗？值得我们信任吗？我认为：我们不一定要信他，他的研究对错与否也没什么关系。我看中的是这个研究是否足够合理，我能否从这个研究中学到新东西。应用到学习之后，我们可以问：「利用刻意练习的理论，我们是否在某个技能上突飞猛进？」换句话说，我们不是把他的研究作为结论或者信条，而是当作需要斟酌的假说。
 
-## 内容
+## 目录
 
 * [1 数学是高度发展的学科吗？](https://wiki.issarice.com#how_is_math_a_.22highly_developed_field.22.3F)
 
@@ -20,7 +20,7 @@
 
 * [6 参考](https://wiki.issarice.com#References)
 
-# [外部链接](https://www.gwern.net/Spaced-repetition#external-links)
+# [7 外部链接](https://www.gwern.net/Spaced-repetition#external-links)
 
 * [8 连接到本文](#What_links_here)
 
@@ -40,9 +40,9 @@ Ericsson 在《尖峰》和 Cedric Chin [[1]] () 认为，数学是非常适合�
 
 Kathy Sierra 在《Badass: Making Users Awesome》这本书中用一系列插图来指导如何拆解技能（特别是最后一张图）。所以对于证明问题，我觉得可以这样做来实现刻意练习的（也是经常做的），那就是放松一些假设条件，让问题更简单，或者证明一个特例。不过已经有人这样做了。另一种让问题更简单的办法，是先看一眼问题，然后再试着解决问题。这样也有人做。 
 
-「缺乏反馈」——自学数学时也会面临这样的问题。获取反馈的唯一办法，是查看答案，或者在数学 Stack Overflow 上发帖求助。针对特定书目/领域的 Discord 服务器可能解决这个问题，但反馈会很慢。这跟[Feynman technique fails when existing explanations are bad](https://wiki.issarice.com/wiki/Feynman_technique_fails_when_existing_explanations_are_bad)一样（如果现存的解释质量很糟糕，你甚至不能使用费曼技巧来获取假反馈）。
+「缺乏反馈」——自学数学时也会面临这样的问题。获取反馈的唯一办法，是查看答案，或者在数学 Stack Overflow 上发帖求助。针对特定书目/领域的 Discord 服务器可能解决这个问题，但反馈会很慢。这跟[如果概念的现有解释质量低下，费曼学习法起不了作用](https://wiki.issarice.com/wiki/Feynman_technique_fails_when_existing_explanations_are_bad)一样（如果现存的解释质量很糟糕，你甚至不能使用费曼技巧来获取假反馈）。
 
-但我们也有 Anki 这样的工具。
+但我们也有 [Anki](https://wiki.issarice.com/wiki/Anki) 这样的工具。
 
 在某种程度上，如果你越精进数学，你越善于自己提供反馈/或者验证自己的证明是否合理来获得反馈。但是我觉得这样的反馈不是刻意练习讨论的那种。
 
