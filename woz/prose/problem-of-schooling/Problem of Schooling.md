@@ -142,7 +142,7 @@
 
 - [芬兰学校悖论](https://supermemo.guru/wiki/Finnish_school_paradox) *
 
-- [暑期滑坡是对学校的谴责](https://supermemo.guru/wiki/Summer_slide_is_an_indictment_of_school) *
+- [暑假滑坡是对学校的谴责](https://supermemo.guru/wiki/Summer_slide_is_an_indictment_of_school) *
 
 - [上学时间](https://supermemo.guru/wiki/School_start_time) *
 
