@@ -20,7 +20,7 @@
 
 * [6 参考](https://wiki.issarice.com#References)
 
-# [7 外部链接](https://www.gwern.net/Spaced-repetition#external-links)
+* [7 外部链接](https://www.gwern.net/Spaced-repetition#external-links)
 
 * [8 连接到本文](#What_links_here)
 
@@ -78,7 +78,7 @@ Kathy Sierra 在 Badass: Making Users Awesome 这本书中用一系列[插图](h
 
 关于我个人的数学学习方式，有一点似乎与常规不同：当我学完一个主题后，我通常不会刻意通过大量练习题来「进一步提高」。但也许我应该这样做？我的自然倾向是转向其他引起我好奇心的新主题。只有当某些情况提醒我时，比如遇到一个具体的问题或困难，我才会回头复习之前的主题。
 
-另一个难点是理解什么是「所期待」的掌握程度，比如说，对于任意一个重大定理，只要听见名字，就能坐下来默写一遍证明，应该达到这样的水平吗？还是说，如果一个人在证明过程中遇到困难，但最终通过几个小时的努力（依靠记忆和一般的解题经验）成功完成证明，这样也可以接受？[学界对于一个数学家应该掌握哪些知识并没有明确的标准(https://wiki.issarice.com/wiki/The_mathematics_community_has_no_clear_standards_for_what_a_mathematician_should_know)。
+另一个难点是理解什么是「所期待」的掌握程度，比如说，对于任意一个重大定理，只要听见名字，就能坐下来默写一遍证明，应该达到这样的水平吗？还是说，如果一个人在证明过程中遇到困难，但最终通过几个小时的努力（依靠记忆和一般的解题经验）成功完成证明，这样也可以接受？[学界对于一个数学家应该掌握哪些知识并没有明确的标准](https://wiki.issarice.com/wiki/The_mathematics_community_has_no_clear_standards_for_what_a_mathematician_should_know)。
 
 我的一些目标：
 
