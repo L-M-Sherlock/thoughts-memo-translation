@@ -12,7 +12,7 @@
 
 另外，我强烈推荐你使用**间隔重复**。它是「升级版的抽认卡」，有认知科学的大量实验支持。你可以看看[这个视频](https://collegeinfogeek.com/spaced-repetition-memory-technique/)了解更多。大多数人会选择使用 [Anki](https://apps.ankiweb.net/) 这款软件，但我更喜欢实体的 [Leitner 盒子](https://www.youtube.com/watch?v=uvF1XuseZFE)，因为有实感会让学习变得更有意思，更有动力。值得注意的是，间隔重复不仅可用于记忆零散的知识点，还能帮助加深对知识的理解——在卡片上，记得加入「为什么」的问题、直观的证明过程、练习题等内容。
 
-最后，我希望你读一读这篇文章：**[《什么有用，什么没用》](http://presentationcollege.ie/wp-content/uploads/2017/10/What-works-what-doesnt.pdf)**。这是 5 位认知科学家对各种学习方法效果的总结。（比如：他们指出，高亮划线和反复阅读虽然是最流行的两种学习方式，但收效甚微。）
+最后，我希望你读一读这篇文章：**[《哪些行之有效，哪些徒劳无功》](http://presentationcollege.ie/wp-content/uploads/2017/10/What-works-what-doesnt.pdf)**。这是 5 位认知科学家对各种学习方法效果的总结。（比如：他们指出，高亮划线和反复阅读虽然是最流行的两种学习方式，但收效甚微。）
 
 接下来，关于学习**特定**事物的一些建议......
 

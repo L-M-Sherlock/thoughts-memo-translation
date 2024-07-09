@@ -2,7 +2,7 @@
 
 原文：[Progressive Education (#) - Alfie Kohn](https://www.alfiekohn.org/article/progressive-education/)
 
-# 为什么难以超越，却也难以界定
+# 为什么它难以超越，也难以界定
 
 作者：Alfie Kohn
 
@@ -138,6 +138,6 @@ _____________________________________________________________
 
 12. David K. Cohen and Carol A. Barnes, “Conclusion: A New Pedagogy for Policy?” in *Teaching for Understanding*, ed. by David K. Cohen *et al*. (San Francisco: Jossey-Bass, 1993), p. 245. 多位著名教育思想家，如 John Dewey、Lawrence Cremin 和 Linda Darling-Hammond，都注意到这一观点与进步教育运动长期以来难以真正确立自身地位的现象密切相关。
 
-13. KKitty Thuermer, “In Defense of the Progressive School: An Interview with Alfie Kohn,” *Independent School*, Fall 1999, p. 96. Harvey Daniels 和 Marilyn Bizar 在其著作 *Methods That Matter* (York, ME: Stenhouse, 1998) 中更是一针见血地指出：「如果教师内心深处不渴望成为焦点，他们可能一开始就不会选择教师这个职业。『真正传授知识』的欲望可能比行政懦弱和教科书公司的收买联合起来，更严重地阻碍了以学生为中心的教育创新」（第12页）。
+13. KKitty Thuermer, “In Defense of the Progressive School: An Interview with Alfie Kohn,” *Independent School*, Fall 1999, p. 96. Harvey Daniels 和 Marilyn Bizar 在其著作 *Methods That Matter* (York, ME: Stenhouse, 1998) 中更是一针见血地指出：「如果教师内心深处不渴望成为焦点，他们可能一开始就不会选择教师这个职业。『真正传授知识』的欲望可能比行政懦弱和教科书公司的收买联合起来，更严重地阻碍了以学生为中心的教育创新」（第 12 页）。
 
 14. Vito Perrone, “Why Do We Need a Pedagogy of Understanding?” in *Teaching for Understanding*, ed. by Martha Stone Wiske (San Francisco: Jossey-Bass, 1998), p. 23.
