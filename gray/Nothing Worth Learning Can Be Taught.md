@@ -38,7 +38,7 @@ Peter Kugel
 
 如今，大多数人似乎认为，人们之所以会阅读，是因为老师教了怎么阅读。你可能见过这样的车贴：「如果你能读懂这个，感谢老师。」历史地看，这种流行看法还是比较新颖。在 18 世纪和 19 世纪初，义务教育出现之前，西欧和美国有很大比例的人能够阅读。人们普遍认为，如果你在一个识字的家庭中长大，阅读是你生活环境的一部分，那么无论是否经过刻意的教学，你都能学会阅读（Bowles & Gintis, 2000; Thomas, 2017）。
 
-近期，大量研究表明，孩子能够自主教育，自己学会阅读。甚至有证据表明，刻意的教学往往会减慢或打断学习阅读的过程（见[这篇](https://www.psychologytoday.com/us/blog/freedom-learn/201002/children-teach-themselves-read)和[这篇](https://www.psychologytoday.com/us/blog/freedom-learn/201311/the-reading-wars-why-natural-learning-fails-in-classrooms)，以及 [Gray, 2016](https://www.petergray.org/_files/ugd/b4b4f9_e2a61c6529904170a9ff4c03cfaf29a3.pdf)。
+近期，大量研究表明，孩子能够自主教育，自己学会阅读。甚至有证据表明，刻意的教学往往会减慢或打断学习阅读的过程（见[这篇](https://www.psychologytoday.com/us/blog/freedom-learn/201002/children-teach-themselves-read)和[这篇](https://www.psychologytoday.com/us/blog/freedom-learn/201311/the-reading-wars-why-natural-learning-fails-in-classrooms)，以及 [Gray, 2016](https://www.petergray.org/_files/ugd/b4b4f9_e2a61c6529904170a9ff4c03cfaf29a3.pdf) 和 Pattison, 2017）。
 
 有理由相信，阅读障碍之所以产生，通常是因为孩子还没有对阅读产生兴趣、还没有准备好投入脑力，如此揠苗助长当然会适得其反。施加太大的压力会让他们感到焦虑，甚至形成对阅读的心理障碍（见[这篇](https://www.psychologytoday.com/us/blog/freedom-learn/202012/how-dyslexic-kids-learn-read-when-removed-school)和[这篇](https://www.psychologytoday.com/us/blog/freedom-learn/202103/forced-schooling-anxiety-and-learning-disorders)）。当孩子对阅读产生兴趣，并准备好进行必要的探索时，他们就会学会阅读。他们会自己寻找线索，无论这些线索在哪里，都能帮助他们探索阅读，最终成为流利读者。老师的言语或示范中就有很多线索。
 
