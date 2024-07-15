@@ -1,4 +1,4 @@
-# 学校教育的危害与更优的教育方式
+# 学校教育的危害与希望
 
 原文：[Harms and possibilities of schooling — LessWrong](https://www.lesswrong.com/posts/aaHDA4X6cTzFrvuSX/harms-and-possibilities-of-schooling)
 
