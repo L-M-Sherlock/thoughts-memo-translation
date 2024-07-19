@@ -115,3 +115,109 @@
    > 教学理论表明,在线讨论、小组写作项目和对学习表现的即时反馈等教学活动，应该能够带来更好的学习成果。因此，在线课程中学生的课堂表现应优于传统的讲授式课堂，因为在线教学通常包含上述活动，而传统课堂往往缺乏这些教学环节。但实际情况却鲜有如此。Russell (1999) 综述了 300 多项研究，发现传统面授课程与远程教育（包括函授课程、在线课程和电视课程）的教学效果并无显著差异。一个可能的解释是，本研究观察到，与传统课堂相比,在线学习中拖延行为对考试成绩的负面影响更大。在线教学中本该促进学业表现的额外活动，可能的确收到了成效。然而,在线学习中拖延行为导致的学习减损，可能抵消了这些活动带来的积极影响。如果能减少学生拖延，在线教育的优势或许会得到更充分的彰显。
 
 2. Irani et al 2004, [“Personality type and its relationship to distance education students’ course perceptions and performance”](https://gwern.net/doc/psychology/personality/conscientiousness/2004-irani.pdf)：采用 MBTI 的非随机案例研究
+
+3. Kim & Schniederjans 2004, [“The role of personality characteristics in web-based distance education courses”](https://gwern.net/doc/psychology/personality/conscientiousness/2004-kim.pdf)发现：在其 140 名学生的样本中，在 Wonderlic PCI 成功量表「工作承诺」（即长期坚守岗位，不表现出不可靠、不负责、冲动、缺乏条理或毅力等行为）和「学习取向」（即个人愿意投入精力获取知识、技能和行为，学习新方法和流程以提高工作效率，对自我提升感兴趣，寻求学习新事物和创新的机会，积极主动参与培训）维度得分较高的学生，在网络教育中表现最佳。但遗憾的是，这两个维度与「尽责性」并非完全等同。
+
+4. Schniederjans & Kim 2005, [“Relationship of Student Undergraduate Achievement and Personality Characteristics in a Total Web-Based Environment: An Empirical Study”](https://gwern.net/doc/psychology/personality/conscientiousness/2005-schniederjans.pdf)；与 Schniederjans 2004 的研究类似，对 260 名学生进行了调查。研究发现，[尽责性在统计学上具有显著意义](https://en.wikipedia.org/wiki/Statistical_significance)，此外，[开放性](https://en.wikipedia.org/wiki/Openness_to_experience)、[神经质](https://en.wikipedia.org/wiki/Neuroticism)和[宜人性](https://en.wikipedia.org/wiki/Agreeableness)也具有统计学意义，但外向性则没有。（然而，这两项研究似乎都没有涉及任何[效应量](https://en.wikipedia.org/wiki/Effect_size)，也没有说明尽责性是否比其他因素更具预测作用；这可能是由于我无法完全理解所提供的部分统计数据。）
+
+5. Bassili 2006, [“Promotion and prevention orientations in the choice to attend lectures or watch them online”](https://gwern.net/doc/psychology/personality/conscientiousness/2006-bassili.pdf) 只测量了神经质和开放性两个特质，因此无法为我们提供任何关于尽责性的信息。
+
+6. Bishop-Clark et al 2007, [“The effects of personality type on web-based distance learning”](https://gwern.net/doc/psychology/personality/conscientiousness/2007-bishopclark.pdf)；很遗憾，用的是 MBTI
+
+7. Berenson et al 2008, [“Emotional Intelligence as a Predictor for Success in Online Learning”](https://www.irrodl.org/index.php/irrodl/article/download/385/1049/)；相关性研究，他们将尽责性与其他项目合并为一个「说服力」指标，结果表明该指标与更高的在线学习成绩呈正相关。
+
+8. Bolliger & Avgerinou 2009, [“Student Satisfaction with Online Courses Based on Personality Type”](https://www.learntechlib.org/p/31835/proceeding_31835.pdf)；仅提供了一个研究摘要和MBTI的相关内容。更值得注意的是，我们能否从满意度、幸福感或享受程度的调查中获得有价值的结论尚不明确：[Nemanich et al 2009](https://gwern.net/doc/psychology/personality/conscientiousness/2009-nemanich.pdf) 通过一项准实验发现，在传统课堂环境中，学生的享受度与考试成绩呈正相关，但在在线教学模式下，这种相关性却大幅降低。
+
+9. Avgerinou 2010, [“Teacher vs. student satisfaction with online learning experiences based on personality type”](https://www.etpe.gr/custom/pdf/etpe1551.pdf)：采用了 MBTI 人格分类，但并未详细报告研究的具体信息和数据。
+
+10. Abzug 2010, [“E-conscientiousness and e-performance in online undergraduate management education”](https://gwern.net/doc/psychology/personality/conscientiousness/2010-abzug.pdf)；并非使用标准问卷测量责任心，而是根据学生在在线课程中的活动表现来评估责任心，这种绩效测量方式与 [Hedengren & Stratmann 2012](https://gwern.net/doc/psychology/2012-hendegren.pdf) 提出的项目无应答法类似。
+
+11. Chahino 2011, [“An exploration of personality type success in online classes”](https://gwern.net/doc/psychology/personality/conscientiousness/2011-chahino.pdf)，研究使用 [DISC 人格评估](https://en.wikipedia.org/wiki/DISC_assessment)而非大五人格或 MBTI 量表，结果表明 DISC 测试结果与在线学习成绩无显著相关。
+
+12. [Mellish 2011](https://gwern.net/doc/psychology/personality/conscientiousness/2011-mellish.pdf) 进行的一项相关性研究中采用了 MBTI 人格分类，对象为 102 名在线学生（其中 83 名女性）。研究发现，各人格类型的学生分布较为平均（没有设置线下对照组），但并未发现明显的人格特质与学习表现之间的相关性。
+
+13. Varela et al 2012, [“Online learning in management education: an empirical study of the role of personality traits”](https://gwern.net/doc/psychology/personality/conscientiousness/2012-varela.pdf)；线下与线上的准实验比较：
+
+    > 为检验假设 H2，研究者对学习效果和尽责性进行了回归分析。结果表明，尽责性能够解释不同组别的学习[差异](https://en.wikipedia.org/wiki/Variance)（β=4.11，SE=1.41，*p*<.05）。进一步地，研究者分别在面对面学习样本和在线学习组中进行了回归分析。尽管面对面组的回归系数未达到统计显著性（β=3.49，SE=2.01，*p*>.05），但在线组的回归系数却呈现出更强且具有统计显著性的效应量（β=4.59；SE=1.96，*p*<.05）。研究结果与假设H2的预期相吻合，证实了相比面对面学习情境（R2=0.040），尽责性在在线学习环境中（R2=0.079）对学习差异的解释力更强。
+
+14. Ellis & Howard 2012, [“The Effects of Gender and Dominant Mental Processes on Hypermedia Learning”](https://www.learntechlib.org/p/40481/)：MBTI，无线下环节
+
+15. Yang et al 2012, [“The impact of social capital and personality traits on students’ e-learning experience”](https://gwern.net/doc/psychology/personality/conscientiousness/2012-ama-winterproceedings.pdf#page=348)；这项研究虽然没有采用随机化或对照组的方法，但其在网络营销课程中得出的结果值得关注：「与普遍观点相悖，他们发现尽责特质并不影响学生的电子学习体验，而社交取向特质则产生了积极影响。此外，当社会资本更加丰富时，社交取向特质的积极作用会更加显著。」
+
+16. Punnoose 2012, [“Determinants of Intention to Use eLearning Based on the Technology Acceptance Model”](https://jite.informingscience.org/documents/Vol11/JITEv11p301-337Punnoose1197.pdf)；研究对象为泰国的硕士研究生。虽然这项研究没有探讨任何与学习成绩相关的因素，但确实发现尽责性与学生对课程的态度存在一定的相关性。
+
+17. Keller & Karau 2013, [“The importance of personality in students’ perceptions of the online learning experience”](https://gwern.net/doc/psychology/personality/conscientiousness/2013-keller.pdf)：「当前研究考察了大五人格维度与五种特定的在线课程印象（参与度、职业价值、总体评价、焦虑/沮丧和对在线课程的偏好）之间的关系。研究结果表明，在几种在线课程印象中，尽责性是预测个人看法最为一致的人格维度。」不过，这项研究并未记录任何学生的成绩或考试分数。
+
+18. Fariba 2013, [“Academic Performance Of Virtual Students Based On Their Personality Traits, Learning Styles And Psychological Well Being: A Prediction”](https://gwern.net/doc/psychology/personality/conscientiousness/2013-fariba.pdf)；对自愿选择在线学习的学生进行调查，结果表明学业成绩与神经质存在较强的负相关，与尽责性、外向性和开放性也存在一定相关，但程度较弱。
+
+19. Shih et al 2013, [“The Relationship Among Tertiary Level EFL Students’ Personality, Online Learning Motivation And Online Learning Satisfaction”](https://core.ac.uk/download/pdf/82547021.pdf)：「外向性和尽责性是影响大学EFL学生在线学习动机和满意度的两个关键人格特质。」（但该研究未直接评估学业成绩，也未对比在线和线下教学模式。）
+
+20. Santo, S.A.: “Virtual learning, personality, and learning styles”. Dissertation Abstracts International Section A, Humanities & Social Sciences, 62, pp. 137 (2001)
+
+21. Zobdeh-Asadi, S.: “Differences in personality factors and learners’ preference for traditional versus online education”. Dissertation Abstracts International Section A: Humanities & Social Sciences, 65(2-A), pp. 436 (2004)
+
+22. Randler et al 2014, [“The Influence of Personality and Chronotype on Distance Learning Willingness and Anxiety among Vocational High School Students in Turkey”](https://www.irrodl.org/index.php/irrodl/article/view/1928/3131)：调查未发现个性特质和时间型与远程学习意愿和焦虑之间有显著关联。但该研究未涉及学业成绩或学习成功等因素。
+
+# 因素变化
+
+现在，我们排除了因素 #3，因为很难对其做出普遍性概括。因素 #2 暗示着尽责性与成功之间的相关性将会增强。尽管在我看来，更可信的结果是因素 #1 会降低对智力的要求。不过，为了谨慎起见，我们不妨假设智力要求保持不变。由此可以推导出以下论点：
+
+1. 以在线教育模式呈现的学习内容，需要与课堂教学同等的智力水平才能理解。
+
+2. 相比课堂教学，以在线教育模式呈现的学习内容需要学生具备更强的尽责性
+
+3. 假设不存在其他影响因素；**那么**
+
+4. 能够有效学习线上课程的群体比例将有所降低。
+
+用数学方法可以证明一个显而易见的结论：对于某个特定的静态群体 Z，同时满足多项条件的人数必然少于仅满足其中一项条件的人数。例如在智商和尽责性两个维度设定选拔标准时，不管标准定得多么宽松，符合「智商和尽责性得分之和」这一标准的人，必然少于仅达到智商标准的人。因为 P(智商∧尽责性) ≤ P(智商)，任何两个事件同时发生的概率都小于等于其中任意一个事件单独发生的概率，这就是[合取谬误](https://en.wikipedia.org/wiki/Conjunction_fallacy)。对于[正态分布](https://en.wikipedia.org/wiki/Normal_distribution)的特征如智商而言，选拔标准每提高一点，符合条件的人数就会大幅减少。即使假设智商**和**尽责性两个特征高度正相关（实际并非如此），要在这两项指标上都超出平均值两个标准差，符合条件的人口比例也会低于1%。具体计算公式见附录。
+
+（这里有一个重要的注意事项，即我们的前提条件确实需要用到智商和尽责性的绝对值。如果只有相关性数据，我认为可能会出现这样的情况：智商与教育成功的相关性保持不变，尽责性的相关性上升，而总人口中获得成功的比例**也**同时上升。例如，如果在线教育降低了对尽责性的要求，但对智商的要求降低得更多，那么根据我们的综合推理，更多人将获得成功。但在预测成功时，尽责性的信息将比智商的信息更有价值。）
+
+现在，让我们深入探讨主张 #2。前面提到的第一项关于在线教育注重尽责性的研究（Elvers 2003）尤其值得关注（参见脚注中的引文）。根据这项研究证明在线教育成绩与尽责性密切相关的证据，主张 #2 很可能是正确的。然而，研究也发现在线学生与线下学生的平均成绩并无差异，这表明结论 #4 是错误的。运用假言推理，我们自然会质疑假设 #1，正如人们所希望的那样！即便假设 #1 并非完全正确，它在很大程度上也可能是对的。如前所述，计算机化教育可以通过更好的呈现方式等途径，大幅降低教育对学生原始智力的依赖（正如可汗学院最狂热的拥趸所言）。不过，在线班级和线下班级成绩的**一致性**表明，在线教育虽然降低了对智力的要求，但同时也提高了对尽责性的要求，两者相互抵消。
+
+这种在尽责性和智力之间的权衡意味着什么呢？
+
+1. 首先，它意味着混合式学习的效果可能介于在线教育和线下教育之间：部分在线教育在尽责性方面的要求，可能不如完全在线教育那么高。
+
+   即使你必须强迫自己去上课，但如果学习过程不会过度消耗你的意志力和责任心，学习仍然会更轻松。（比方说，在线下课堂教学中，你可以选择不带电脑，但在线上教育中这几乎是不可能的！）我预计非强制性教学的效果处于中等水平，就像在线教育中频繁设置强制性截止日期只能起到有限的帮助一样。
+
+2. 此外，如果仅仅一门课程因责任心缺失而受到如此大的影响，那么当越来越多的教学内容转移到网上，要求学生完全依赖在线学习来完成整个学期的课程时，会带来什么后果呢？
+
+   随着学生耗尽所有的意志力而精疲力竭（参见 Baumeister & Tierney 2010, [*Willpower*](https://www.amazon.com/Willpower-Rediscovering-Greatest-Human-Strength/dp/0143122231/)），我们会看到学习成绩与责任心的相关性进一步上升吗？（打个比方，你可能可以将一个重物举过头顶 10 次，但如果同时让你举起 10 个重物，你很可能全都举不动。）这种责任心与学习效果的权衡，似乎不仅局限于单一课程，而是会扩展到所有学科。
+
+# 潜在后果
+
+那么，将学习结果过度依赖学生的尽责性是件坏事吗？我认为是的，有几点原因。一些直接来源于前面提到的权衡关系，还有一些是我对未来后果的推测：
+
+1.我们没有充分的理由特别看重尽责性，将其视为对「好」人的额外奖赏。到底应该重视尽责性还是智力，取决于这种偏好会带来什么**后果**，比如我们更需要精英阶层具备怎样的心理品质。
+
+   尽责性并非一种「美德」，个人选择成为尽责之人，并不能说明其道德水平的高低，正如高智商相比低智商在道德上并无优劣之分。尽管存在[通俗心理学和道德说教](https://medicalhypotheses.blogspot.com/2009_08_01_archive.html)，但大五人格特质与智力一样，在个体一生中相对稳定，同样受到遗传因素的影响。心理学界正在逐步揭示人格特质背后的神经机制，就像此前对智力所做的研究一样。一个人不可能通过「努力变得勤奋」而真正提高自己的尽责性（这本身就是一种循环），就像不能奢望靠后天努力提高智力一样。
+
+   即便尽责性或许与精神病态等问题特征无关，我们也不能就此忽视其他人格因素的作用。Varela 等人（2012）发现，网络游戏表现与外向性的子维度「合群性」呈负相关。「合群性」指个体不愿参与社交活动的倾向，而不仅仅是在社交场合表现内敛。那么，从道德的角度看，缺乏「合群性」究竟是好事、坏事还是中性的？从实践的角度看又当如何评判？
+
+2. 正如已经观察到的那样，学校系统[偏爱](https://medicalhypotheses.blogspot.com/2009/05/do-elite-us-colleges-choose-personality.html)那些勤奋刻苦的学生，而[压制学生的创造力](https://gwern.net/doc/psychology/1995-westby.pdf)。我们真的需要让这种状况变本加厉吗？想象一下，这种做法会如何[扼杀那些极具创新潜力、有望成为未来科学巨擘的天才少年](https://kernull.com/bioradio.pdf)——他们往往不愿被强迫去完成一些规定的苦差事。我们都听说过[爱因斯坦、达尔文、荣格](https://gwern.net/doc/psychology/2004-viau.pdf)等大科学家，他们要么鄙视应试教育，要么选择对其视而不见，而更多通过自学来完成学业。Simonton’s 1994 [*Greatness: Who makes history and why*](https://www.amazon.com/Greatness-Who-Makes-History-Why/dp/0898622018/) 一书估算，这类先例绝非个案，而是占据了研究样本的 60%。[责任心](https://www.lesswrong.com/posts/9vKRHBCLvwqN26LLs/the-personality-of-great-creative-scientists-open-and)对取得科学成就固然必要，但过分强调则适得其反。
+
+   如果我们袖手旁观，任凭对尽责性的要求被改变，还说这必然是好事，因为它正在发生，我认为我们就犯了「现状偏差」的错误。博斯特罗姆的「[逆向测试](https://www.lesswrong.com/tag/reversal-test)」在此提供了一个有益的思路：我们凭什么认为当前对尽责性的要求恰到好处？我们还可以做个「**双重**逆向测试」：假设某个外星人或技术突然插手我们的教育体系，使其更加侧重智商。这时，如果有人想出一个简单的办法，又把重心转移回尽责性上，我们会欣然接受他们的解决方案吗？我怀疑无论哪种情况，对于这个重要问题，我们都给不出任何令人信服的答案。
+
+值得注意的是，正态分布或钟形曲线有一个鲜为人知的特点：平均值的微小变化可能会在尾部产生出人意料的巨大影响。在一般人群中，智商每变化 1 分，在 160+ 等高智商人群中就可能引起相当大的波动。我们可以通过观察不同标准差下[罕见程度的变化](https://en.wikipedia.org/wiki/Normal_distribution#Standard_deviation_and_coverage)来理解这一点：距平均值 2 个标准差是 22 分之 1，3 个标准差是 370 分之 1，4 个标准差是 15787 分之 1（是 3 个标准差的 42 倍），5 个标准差是 1744277 分之 1（是 4 个标准差的 110 倍）。某些智力测验常用的标准差是 15 分，因此 3 个标准差大约对应 145 的智商，这大致是诺贝尔奖级别的科研或数学成就所要求的最低智力水平。有趣的是，在极度恶劣的环境中，[碘盐](https://en.wikipedia.org/wiki/Iodised_salt)等一些干预措施可以[对智商产生惊人的巨大影响](https://gwern.net/iodine)——平均智商最高可提升 15 分。这意味着，如果某种假设的干预手段能让一个群体的智商标准差从 85 提高到 100，那么其 145+ 高智商亚群的比例将从平均值的4倍标准差变为3倍——这一亚群的数量将增加 42 倍，即 4200%！（Scrimshaw 在 1998 年的一项碘影响的荟萃分析中，的确发现了整个钟形曲线的整体移动；不仅如此，碘盐对女性的益处大于男性，因此可能产生了不容忽视的影响……）
+
+   对于任何一个学术体系而言，其影响不言而喻：如果它不得不以牺牲成员的平均智商为代价，来换取更高尽责性的研究者，这可能会大大减少该体系中最杰出研究人员的数量。
+
+3. 在线教育更重视责任心的这种权衡，既非刻意设计，也未被设计者所意识到，完全是偶然且不受欢迎的。若一个偶然的权衡恰好是最理想的，那不是太不可思议了吗？未免也太凑巧了吧！
+
+   此时正适合应用「[现状逆转测试](https://www.lesswrong.com/tag/reversal-test)」：假设在线教育并没有导致这样的权衡，但一名可汗学院的员工擅自做了一些改动，其唯一目的就是让可汗学院的分数更能反映责任心（比如你若未尽责每周登录完成练习，学习进度就会被清零）。你会赞同这种改动吗？再假设在线教育反而降低了对责任心的要求（可能因为服务会时不时在你手机上弹出简单练习题）；这种情况下，你还会赞同那员工的改动吗？如果面对刻意的沿着权衡曲线的转变，你都不赞同，那你怎能赞同一个偶然导致的转变呢？
+
+4. 在线教育的低廉成本可能具有不可抗拒的吸引力，并成为一个「[更糟就是更好](https://en.wikipedia.org/wiki/Worse_is_better)」的案例。人力教师的成本高昂，而且可能还在不断攀升（不管是由于沉重的退休金负担、教育领域的扩张和[收益递减](https://en.wikipedia.org/wiki/Diminishing_returns)，还是[鲍莫尔成本病](https://en.wikipedia.org/wiki/Baumol_effect)等原因）。这引发了一系列应对之举，例如废除大学终身教职、大量聘用兼职教师、抨击工会，以及对在线教育等自动化教学方式兴趣的增长。削减开支的举措已经启动。即便在线教育的质量不如传统教育，我们可能也别无选择，只能接受这样一场教育领域的「[圈地运动](https://en.wikipedia.org/wiki/Enclosure)」。然而，这种变革是否真正实现了经济效益最大化，仍有待商榷。如果公共部门能够将损失转嫁到尚未组织起有效抵制的民众身上（可能因为意识形态分歧），那经济效益可能就无从谈起了。
+
+5. 当前，受教育程度最高的群体正日益垄断美国经济增长的成果，收入增长主要流向高学历人士，尤其是硕士及以上学位的持有者。因此，任何可能导致这一群体数量下降的因素，似乎都将加剧教育回报的不平等。经济整体财富的增长，真的值得付出如此代价吗？人们渴望的不是绝对的财富提升，而是相对收入的提高——收入分配更加公平的社会，民众的幸福感往往更强。 （类似的问题也出现在全球化、外包等「低成本」举措中。在那些领域，答案同样发人深省。[帕累托改进](https://en.wikipedia.org/wiki/Pareto_efficiency)并不意味着所有人的处境都变好，只是没有人的状况变坏而已。但这忽略了人性中对排名和地位的重视——这无疑是一种与现实相悖的假设。）
+
+这种趋势还会引发哪些连锁反应？
+
+> 这一惊世骇俗的事件尚未终结，仍在发酵蔓延；它还未被世人洞悉。电闪雷鸣需要时间，星光也需时日传递，事件已经发生，却仍需时日才能被察觉和传颂。这一举动所带来的影响，远比最遥远的星辰更加深远难测——然而世人却是这一切的始作俑者。
+
+## 外部链接
+
+- [“Distance Learning in Higher Education: Evidence from a Randomized Experiment”](https://docs.iza.org/dp12298.pdf)：2019 年，Cacault 等学者的研究表明，与课堂面授相比，通过直播方式在线听课会导致基础薄弱学生的学习成绩下滑，而成绩优秀者则能从中受益，取得更好的表现。
+
+- 讨论：[LessWrong 征集了相关的参考文献](https://www.lesswrong.com/posts/t8ZNjMSGjPcKqASkE/online-education-and-conscientiousness)；[Hacker News](https://news.ycombinator.com/item?id=6476554)。
