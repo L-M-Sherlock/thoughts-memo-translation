@@ -7,3 +7,15 @@
 一旦你把问题「加载」到工作记忆中，就可以像玩游戏一样进行试验。只是从书面形式转换到认知媒介——即「下载到大脑」的过程——需要一些语言上的努力。我们能否将这种「认知媒介材料」呈现为计算机模拟？
 
 [数学版多邻国](https://wiki.issarice.com/wiki/Duolingo_for_math)的一个问题是，在数学中，如果你想思考一个问题或定理，通常需要把很多东西加载到[工作记忆](https://wiki.issarice.com/index.php?title=Working_memory&action=edit&redlink=1)中。所以，即使只是「玩」，也需要这个初始加载过程。然而，一旦你把东西加载到工作记忆中，你往往可以以有趣的方式进行试验，像 Duolingo 那样的小任务也能很好地发挥作用。
+
+# 参见
+
+* [电子游戏允许即时的探索](https://wiki.issarice.com/wiki/Video_games_allow_immediate_exploration)
+
+* [数学头脑](https://wiki.issarice.com/wiki/Thinking_Mathematics)
+
+* [面向数学的多邻国](https://wiki.issarice.com/wiki/Duolingo_for_math)
+
+* [面向数学的 Braid](https://wiki.issarice.com/wiki/Braid_for_math)
+
+## 链接到本文
