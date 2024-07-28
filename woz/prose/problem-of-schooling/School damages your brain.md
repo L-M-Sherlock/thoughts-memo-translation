@@ -14,17 +14,17 @@
 
 ## 学校教育导致适应不良
 
-大脑通过适应经验而不断改变。这种适应通过突触可塑性（即神经元连接的增强或削弱）实现。长期适应会改变大脑的内部结构。
+大脑通过适应经历而不断改变。这种适应通过突触可塑性（即神经元连接的增强或削弱）实现。长期适应会改变大脑的内部结构。
 
 那些从小到大都接受强制学校教育的孩子，他们的大脑结构往往难以适应成年后的现实生活。原因在于，学校营造的那种人为设置的环境，与成年人大脑日后需要应对的真实世界有着天壤之别。
 
-因此，下面这种说法并不言过其实：
+因此，下面这种说法并非言过其实：
 
-长期的强制性学校教育，会给孩子的大脑造成**损伤**。
+长期的强制学校教育，会给孩子造成**大脑损伤**。
 
 **大脑损伤**一词听上去或许有点儿耸人听闻，但事实上，全球范围内普遍存在[强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling)，家长们对此却浑然不觉。他们满心爱子，怎么会愿意让自己孩子的大脑受到伤害呢？无知，就是问题的症结所在。这一点虽为专家所洞悉，普罗大众却视而不见。
 
-学校教育扼杀了孩子们与生俱来的求知欲，剥夺了他们体验[学习乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)的机会，而这正是驱动终身学习、激发[创造力](https://supermemo.guru/wiki/Creativity)和[智力](https://supermemo.guru/wiki/Intelligence)的关键要素。久而久之，他们的竞争力必将因此下降，心理健康也会受到严重影响——其破坏性甚至可能超过肉体创伤。下图展示了一系列导致这种不良后果的因素。
+学校教育的负面影响可能损害大脑，使其失去驱动终身学习、[创造力](https://supermemo.guru/wiki/Creativity)和[智力](https://supermemo.guru/wiki/Intelligence)发展的最根本特质：**对学习的热爱**（参见：[学习的乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)）。这不仅影响个人在成年生活中的发展机会，还可能对心理健康产生严重的负面影响。在某些情况下，这种伤害甚至可能比身体创伤对大脑造成的损害更加严重。下图展示了导致这种不良适应后果的竞争因素。
 
 [![img](https://supermemo.guru/images/thumb/2/27/Neural_competition_between_the_learn_drive_and_the_system_of_rewards_at_school.png/500px-Neural_competition_between_the_learn_drive_and_the_system_of_rewards_at_school.png)](https://supermemo.guru/wiki/File:Neural_competition_between_the_learn_drive_and_the_system_of_rewards_at_school.png)
 
@@ -32,7 +32,7 @@
 
 > 版权说明：你可以在知识共享许可下重新发布这张图片，并注明 [SuperMemo World](https://supermemo.guru/wiki/SuperMemo_World)，[这里](https://supermemo.guru/wiki/File:Neural_competition_between_the_learn_drive_and_the_system_of_rewards_at_school.png)查看最新的版本
 
-## 危害机制
+## 伤害机制
 
 以下是解释强制学校教育如何损害大脑的最简洁推理：
 
@@ -108,9 +108,9 @@
 
 > 图：非学校教育者理所当然地抗拒审查。诸如「你学到了什么？」这样的问题，本来就很难回答。人如痴如狂地学习时，就很难用语言形容目标和效果。非学校教育者本能地知道自己走在正确的道路上。然而，其他人可能仍然不相信。基准并不存在，顺服校驯者也无法欣赏到[自由学习](https://supermemo.guru/wiki/Free_learning)的力量。这张图片有助于说明这个问题。在一个象征性的二维知识空间中，一个受学校教育的学生在[学校外驱力](https://supermemo.guru/wiki/School_drive)的压力下，沿着一条从当前知识状态 A 到预定目标 B 的直线路径（蓝色）被拖拽前进。这个过程缓慢且效率低下。学生逐渐对学校和学习产生厌恶。相比之下，一个充满激情的非学校教育者则会沿着不可预测的路径（红色）前进（参见：[学校教育的爬山比喻](https://supermemo.guru/wiki/Mountain_climb_metaphor_of_schooling)）。这种学习方式高效且愉快（见：[学习的乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)）。盘绕的红色路径的长度，表明其知识总量相当庞大（与学校教育相比）。对学习的热爱与随着[知识树](https://supermemo.guru/wiki/Knowledge_tree)一同增长。一名学校学生会通过根据目标 B 调整的学校基准测试，而一位非学校教育者可能会不及格。但如果有人设计了一个「兴趣基准」（绿色），他将会击败所有竞争对手。当世界上大多数人都崇尚为预设好的社会实现一个预定目标（B）时，我们失去了探索自然的学习本能（[学习内驱力](https://supermemo.guru/wiki/Learn_drive)）的机会。在这个过程中，我们建立了如此不幸的社会。
 
-## 关联分析
+## 连点成线
 
-如果你仍心存疑虑，不妨试着自己将这些点连接起来。你可曾思考过，为何我们会经历校园枪击、儿童自杀等频发事件？为何[阅读障碍](https://supermemo.guru/wiki/Dyslexia)、书写障碍、计算障碍、自闭症、 [ADHD](https://supermemo.guru/wiki/ADHD)、[阿斯伯格综合征](https://supermemo.guru/wiki/Asperger_syndrome)、抑郁症等学习障碍和心理问题如影随形？为何[成瘾行为](https://supermemo.guru/wiki/Addiction)愈演愈烈？日本的「[蛰居族](https://supermemo.guru/wiki/Hikikomori)」现象又缘何而起？为什么那么多人声称自己痛恨数学或莎士比亚？
+如果你仍心存疑虑，不妨试着自己将这些点联系起来。你可曾思考过，为何我们会经历校园枪击、儿童自杀等频发事件？为何[阅读障碍](https://supermemo.guru/wiki/Dyslexia)、书写障碍、计算障碍、自闭症、 [ADHD](https://supermemo.guru/wiki/ADHD)、[阿斯伯格综合征](https://supermemo.guru/wiki/Asperger_syndrome)、抑郁症等学习障碍和心理问题如影随形？为何[成瘾行为](https://supermemo.guru/wiki/Addiction)愈演愈烈？日本的「[蛰居族](https://supermemo.guru/wiki/Hikikomori)」现象又缘何而起？为什么那么多人声称自己痛恨数学或莎士比亚？
 
 我们已然沦为一个由受创的大脑组成的创伤社会！
 
