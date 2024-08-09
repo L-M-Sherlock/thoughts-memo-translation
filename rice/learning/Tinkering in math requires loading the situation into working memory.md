@@ -19,3 +19,13 @@
 * [面向数学的 Braid](https://wiki.issarice.com/wiki/Braid_for_math)
 
 ## 链接到本文
+
+* [电子游戏 vs 数学](https://wiki.issarice.com/wiki/Video_games_comparison_to_math)
+
+* [面向数学的多邻国](https://wiki.issarice.com/wiki/Duolingo_for_math)
+
+* [面向数学的 Braid](https://wiki.issarice.com/wiki/Braid_for_math)
+
+* [电子游戏允许即时的探索](https://wiki.issarice.com/wiki/Video_games_allow_immediate_exploration)‎  ([← links](https://wiki.issarice.com/index.php?title=Special:WhatLinksHere&target=Video+games+allow+immediate+exploration))
+
+* [数学头脑](https://wiki.issarice.com/wiki/Thinking_Mathematics) ‎ ([← links](https://wiki.issarice.com/index.php?title=Special:WhatLinksHere&target=Thinking+Mathematics))
