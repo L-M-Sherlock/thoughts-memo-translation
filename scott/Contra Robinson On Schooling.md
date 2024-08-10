@@ -1,4 +1,4 @@
-# 驳 Robinson 论学校教育
+# 教育私有化真的会带来灾难吗？
 
 原文：[Contra Robinson On Schooling | Slate Star Codex](https://slatestarcodex.com/2016/12/02/contra-robinson-on-schooling/)
 
@@ -70,7 +70,7 @@ Robinson 写到：
 
 如果你对 Cato 研究所的数据持怀疑态度，[这里有 Politifact（一个著名的事实核查网站）对类似说法的评估，认为基本属实](http://www.politifact.com/virginia/statements/2015/mar/02/dave-brat/brat-us-school-spending-375-percent-over-30-years-/)，尽管他们的具体数字因统计方式不同略有差异。
 
-我们该如何看待这一现象呢？显然，这并非由于教师薪酬的增加——在相关时期内，他们的工资实际上一直[停滞不前](https://fiftyfivemillion.wordpress.com/2013/11/28/teacher-salaries-rose-in-the-80s-and-theyve-been-slipping-since/)，与其他职业相比，他们的经济地位甚至可能有所下降。这也不是因为学校建筑成本的上涨——尽管我没有学校的具体数据，但我研究过摩天大楼的情况，发现[建筑价格并没有普遍上涨趋势](https://slatestarcodex.com/2014/07/21/no-skyscraper-stagnation/)。那么，一项本质上只是将一群学生集中在一栋建筑里，并安排教师进行教学的活动，为何会在教师薪酬和建筑成本基本不变的情况下，其成本却如此显著地攀升？对此，我只听说过三种理论：
+我们该如何看待这一现象呢？显然，这并非由于教师薪酬的增加——在这段时期内，他们的工资实际上一直[停滞不前](https://fiftyfivemillion.wordpress.com/2013/11/28/teacher-salaries-rose-in-the-80s-and-theyve-been-slipping-since/)，与其他职业相比，他们的经济地位甚至可能有所下降。这也不是因为学校建筑成本的上涨——尽管我没有学校的具体数据，但我研究过摩天大楼的情况，发现[建筑价格并没有普遍上涨趋势](https://slatestarcodex.com/2014/07/21/no-skyscraper-stagnation/)。那么，一项本质上只是将一群学生集中在一栋建筑里，并安排教师进行教学的活动，为何会在教师薪酬和建筑成本基本不变的情况下，其成本却如此显著地攀升？对此，我只听说过三种理论：
 
 第一种理论认为，学生的考试成绩实际上**在**不断提高，但我们可能陷入了[辛普森悖论](https://en.wikipedia.org/wiki/Simpson's_paradox)。这个悖论的表现是：尽管每个种族群体的学生成绩都在提升，某些种族群体的学生成绩甚至高于其他群体，但由于成绩较低的种族群体学生比例增加，导致整体平均分呈现下降趋势。然而，具体到各个种族的成绩数据，我们发现它们也呈现停滞状态（[1](http://www.ethicssage.com/2011/09/why-have-sat-scores-fallen.html)，[2](http://blog.centerforpublication.org/wp-content/uploads/2013/03/NAEP-by-race.png)）。唯一的例外可能是黑人学生在 1980 年到 1990 年间的成绩跃升。考虑到其他族裔并没有出现类似的跃升，而学校教育支出一直在稳步增加，我更倾向于认为这种变化主要源于社会经济因素，而非教育投入的影响。
 
