@@ -4,7 +4,7 @@
 
 作者：Scott Alexander 发表于 2017 年 9 月 27 日
 
-[**相关文章**: [态度与高度](https://slatestarcodex.com/2015/02/01/talents-part-2-attitude-vs-altitude/)]
+[**相关文章**：[态度与高度](https://slatestarcodex.com/2015/02/01/talents-part-2-attitude-vs-altitude/)]
 
 # 一、
 
