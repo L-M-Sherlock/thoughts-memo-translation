@@ -16,6 +16,6 @@
 
 * [数学中的沉默宣言会是什么样的？](https://wiki.issarice.com/wiki/What_would_a_vow_of_silence_look_like_for_math%3F) ([← links](https://wiki.issarice.com/index.php?title=Special:WhatLinksHere&target=What+would+a+vow+of+silence+look+like+for+math%3F))
 
-* [面向数学的 Braid](https://wiki.issarice.com/wiki/Braid_for_math)‎ ([← links](https://wiki.issarice.com/index.php?title=Special:WhatLinksHere&target=Braid+for+math))
+* [面向数学的《时空幻境》](https://wiki.issarice.com/wiki/Braid_for_math)‎ ([← links](https://wiki.issarice.com/index.php?title=Special:WhatLinksHere&target=Braid+for+math))
 
-* [数学教育的博采众长假设](https://wiki.issarice.com/wiki/Potpourri_hypothesis_for_math_education) ‎ ([← links](https://wiki.issarice.com/index.php?title=Special:WhatLinksHere&target=Potpourri+hypothesis+for+math+education))
+* [数学教育的杂烩假说](https://wiki.issarice.com/wiki/Potpourri_hypothesis_for_math_education) ‎ ([← links](https://wiki.issarice.com/index.php?title=Special:WhatLinksHere&target=Potpourri+hypothesis+for+math+education))
