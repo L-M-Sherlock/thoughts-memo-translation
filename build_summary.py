@@ -1,7 +1,5 @@
 import os
 
-from urllib import parse
-
 def get_markdown_files(directory):
     markdown_files = []
     for root, dirs, files in os.walk(directory):
@@ -16,9 +14,6 @@ def get_title(file_path):
             if line.startswith('# '):
                 return line.strip('# ').strip()
     return os.path.basename(file_path)
-
-def encode_path(path):
-    return parse.quote(path.replace(os.sep, '/'))
 
 def create_summary(markdown_files):
     summary = "# Summary\n\n"
@@ -47,7 +42,7 @@ def create_summary(markdown_files):
             else:
                 # 这是一个文件
                 title = get_title(value)
-                encoded_path = encode_path(os.path.relpath(value, current_dir))
+                encoded_path = os.path.relpath(value, current_dir).replace(" ", "%20")
                 summary += f"{indent}* [{title}]({encoded_path})\n"
 
     write_summary(dir_structure)
