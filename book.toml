@@ -1,0 +1,25 @@
+[book]
+authors = ["Thoughts Memo 汉化组"]
+language = "zh-CN"
+multilingual = false
+src = "src"
+title = "Thoughts Memo 翻译合集"
+
+[build]
+create-missing = true
+
+[preprocessor.toc]
+command = "mdbook-toc"
+renderer = ["html"]
+
+[output.html]
+git-repository-url = "https://github.com/L-M-Sherlock/thoughts-memo-translation"
+
+[output.linkcheck]
+optional = true
+warning-policy = "warn"
+follow-web-links = false
+
+[output.html.fold]
+enable = true
+level = 0

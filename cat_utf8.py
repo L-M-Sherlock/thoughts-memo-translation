@@ -33,8 +33,8 @@ if __name__ == '__main__':
                 text = text.reindex([index[0], flag] + index[1:])
             if file.find('.md') == -1:
                 file = file.replace('.csv', '.md.csv')
-            Path(f'./{path[7:]}').mkdir(parents=True, exist_ok=True)
-            with open(f'./{path[7:]}/{file[:-4]}', 'w', encoding='utf-8') as f:
+            Path(f'./src/{path[7:]}').mkdir(parents=True, exist_ok=True)
+            with open(f'./src/{path[7:]}/{file[:-4]}', 'w', encoding='utf-8') as f:
                 if need_source:
                     for i in range(len(text['source'].values)):
                         f.write(text['source'].values[i] + '\n\n')
