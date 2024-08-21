@@ -40,8 +40,8 @@ if __name__ == '__main__':
             Path(f'./src/{path[7:]}').mkdir(parents=True, exist_ok=True)
             with open(f'./src/{path[7:]}/{clean_filename(file[:-4])}', 'w', encoding='utf-8') as f:
                 if need_source:
-                    for i in range(len(text['source'].values)):
-                        f.write(text['source'].values[i] + '\n\n')
-                        f.write(text['target'].values[i] + '\n\n')
+                    for src, tgt in zip(text['source'], text['target']):
+                        f.write(src + '\n\n')
+                        f.write(tgt + '\n\n')
                 else:
                     f.writelines('\n\n'.join(text['target'].values))
