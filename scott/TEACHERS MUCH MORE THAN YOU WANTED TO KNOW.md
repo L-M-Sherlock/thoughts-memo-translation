@@ -2,17 +2,17 @@
 
 原文：[Teachers: Much More Than You Wanted To Know | Slate Star Codex](https://slatestarcodex.com/2016/05/19/teachers-much-more-than-you-wanted-to-know/)
 
-发表于 [2016年5月19日](https://slatestarcodex.com/2016/05/19/teachers-much-more-than-you-wanted-to-know/) 作者：[SCOTT ALEXANDER](https://slatestarcodex.com/author/admin/)
+发表于 [2016 年 5 月 19 日](https://slatestarcodex.com/2016/05/19/teachers-much-more-than-you-wanted-to-know/) 作者：[SCOTT ALEXANDER](https://slatestarcodex.com/author/admin/)
 
 [认识声明：这是一个极其复杂的话题，超出了我的专业领域。即便是毕生致力于此研究的专家们也见解不一。我仅仅进行了浅尝辄止的调查，欢迎指出文中不可避免的谬误。]
 
 # 一
 
-[新闻报道](http://www.bloomberg.com/news/articles/2014-06-12/to-strip-teacher-tenure-judge-cites-the-economic-cost-of-bad-teaching)称，仅仅一个年级的优秀教师（例如一位出色的四年级老师）就能让学生的终身收入增加8万美元。然而，[行为遗传学研究](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3592970/)表明，[父母对子女未来收入的（非遗传）影响微乎其微](http://amzn.to/1OAT1of)。这怎么可能？四年级老师教你学习分数的短短一年就能如此显著地影响你的前途，而父母二十多年如一日的言传身教却收效甚微？**啊？**为了揭开这个谜团，我决定深入研究有关教师效能的文献。
+[新闻报道](http://www.bloomberg.com/news/articles/2014-06-12/to-strip-teacher-tenure-judge-cites-the-economic-cost-of-bad-teaching)称，仅仅一个年级的优秀教师（例如一位出色的四年级老师）就能让学生的终身收入增加 8 万美元。然而，[行为遗传学研究](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3592970/)表明，[父母对子女未来收入的（非遗传）影响微乎其微](http://amzn.to/1OAT1of)。这怎么可能？四年级老师教你学习分数的短短一年就能如此显著地影响你的前途，而父母二十多年如一日的言传身教却收效甚微？**啊？**为了揭开这个谜团，我决定深入研究有关教师效力的文献。
 
 首先，让我们探讨一个关键问题：相较于其他因素，教师的影响力究竟有多大？为了回答这个问题，研究人员选取了一个学区的学生样本，分析他们的标准化考试成绩。研究旨在确定学生所在的学校、任课教师以及其他人口统计因素能在多大程度上解释成绩的差异。举个例子，如果同一位教师班级内两名学生的成绩相似度，与来自不同教师班级的两名学生的成绩相似度相当，那么我们就可以推断教师的影响力并不显著。相反，如果我们经常观察到 A 教师班级的学生全部获得 A+，而 B 教师班级的学生普遍只得 D 的情况，这就有力地说明了优秀教师的重要性。
 
-以下是三个研究团队采用这种方法得出的结果（数据来源：[参考文献1](http://ies.ed.gov/director/speeches2002/03_05/2002_03_05a.asp)，[参考文献2](https://www.ets.org/s/pdf/23497_Angoff Report-web.pdf)，[参考文献3](http://www.cedr.us/papers/working/CEDR WP 2010-6_Teacher Effectiveness in WA (12-7-10).pdf)）：
+以下是三个研究团队采用这种方法得出的结果（数据来源：[参考文献 1](http://ies.ed.gov/director/speeches2002/03_05/2002_03_05a.asp)，[参考文献 2](https://www.ets.org/s/pdf/23497_Angoff Report-web.pdf)，[参考文献 3](http://www.cedr.us/papers/working/CEDR WP 2010-6_Teacher Effectiveness in WA (12-7-10).pdf)）：
 
 ![img](https://slatestarcodex.com/blog_images/teacher1.png)
 
@@ -36,17 +36,17 @@
 
 假设你想确定某个学区哪些教师是最优秀的。你认为生活中唯一真正重要的就是标准化考试分数[来源请求]，于是你计算每位教师班级的平均考试分数，然后将平均分最高的教师评为年度最佳教师。这种做法会有什么问题呢？
 
-实际上，你很可能只会把奖项颁给负责教授天才班的老师。教师面对的班级学生能力差异很大，我们已经确定，与教师的技能相比，学生的先天能力和毅力对成绩的影响更大。因此，教导弱势学生的教师将处于巨大的……呃……劣势。
+实际上，你很可能只会把奖项颁给负责教授天才班的老师。教师面对的班级学生能力差异很大，我们已经确定，与教师的技能相比，学生的先天能力和毅力对成绩的影响更大。因此，教导弱势学生的教师将处于巨大的…呃…劣势。
 
 让我们换个角度思考这个问题。与其用学生的平均考试分数来评价教师，不如关注学生分数的平均**提升**幅度。假设一位教师接手了一群一直徘徊在二十分位左右的学生，经过他的悉心教导，这些学生的成绩提升到了四十分位。尽管这些学生的成绩仍低于平均水平，但这位教师显然做出了显著贡献。如果我们能够统计出每位教师的学生在一学年里平均提升了多少个百分点，就能更准确地识别出真正优秀的教师。
 
 这一思路，再辅以复杂的统计模型，就构成了 VAM（增值模型，Value-Added Modeling）的基本理念。VAM 作为最新的教育改革热点，也是奥巴马政府教育改革的核心。通过 VAM 识别出优秀教师后，可以给予他们更高的薪酬，以留住这些人才。至于那些表现不佳的教师，VAM 的反对者略带讽刺地将这一计划描述为「通过解雇来提升教育质量」。
 
-「VAM 能准确预测测试分数」这种说法听起来有点像循环论证，因为我们正是用测试分数来确定 VAM 的。然而，我认为这个领域的研究者们采用了更复杂的方法，比如用某一班级的VAM来预测下一个班级的学生表现。[Chetty](http://www.rajchetty.com/chettyfiles/value_added.pdf)、[Rothstein](http://achievehartford.org/upload/files/Teacher Quality in Educational Production - Tracking, Decay, and Student Achievement.pdf) 以及 [Rivkin, Hanushek 和 Kane](http://www.econ.ucsb.edu/~jon/Econ230C/HanushekRivkin.pdf) 的研究都得出了一个共同结论：教师 VAM 提高 1 个标准差，大约对应学生测试分数提高 0.1 个标准差。
+「VAM 能准确预测测试分数」这种说法听起来有点像循环论证，因为我们正是用测试分数来确定 VAM 的。然而，我认为这个领域的研究者们采用了更复杂的方法，比如用某一班级的 VAM 来预测下一个班级的学生表现。[Chetty](http://www.rajchetty.com/chettyfiles/value_added.pdf)、[Rothstein](http://achievehartford.org/upload/files/Teacher Quality in Educational Production - Tracking, Decay, and Student Achievement.pdf) 以及 [Rivkin, Hanushek 和 Kane](http://www.econ.ucsb.edu/~jon/Econ230C/HanushekRivkin.pdf) 的研究都得出了一个共同结论：教师 VAM 提高 1 个标准差，大约对应学生测试分数提高 0.1 个标准差。
 
-让我们用人话来解释这个概念。想象一个普通学生，她有一个普通老师。我们预计她的测试成绩会正好处于第 50 百分位。现在，假设她换到了全校最优秀的老师。以我的小学为例，大约有四十名教师，所以这位最优秀的老师处于第 97.5 百分位，即高于平均水平两个标准差。VAM 高于平均水平两个标准差的教师，其学生的平均得分应该高于平均水平 0.2 个标准差。这意味着，这个学生的成绩将从原来的第50百分位提升到第 58 百分位。
+让我们用人话来解释这个概念。想象一个普通学生，她有一个普通老师。我们预计她的测试成绩会正好处于第 50 百分位。现在，假设她换到了全校最优秀的老师。以我的小学为例，大约有四十名教师，所以这位最优秀的老师处于第 97.5 百分位，即高于平均水平两个标准差。VAM 高于平均水平两个标准差的教师，其学生的平均得分应该高于平均水平 0.2 个标准差。这意味着，这个学生的成绩将从原来的第 50 百分位提升到第 58 百分位。
 
-让我们再来看看 SAT 考试。虽然它**不是** VAM 中涉及的那种标准化考试，但几乎人人都知道它。SAT 的每个分项测试都以 500 分为平均值，110 分为标准差进行标准化。假设有一位接受良好教育的学生，他的SAT成绩可能从 500 分提高到 522 分。然而，要进入哈佛大学，SAT 每个分项的平均成绩仍然需要在 740 分左右。因此，这种进步虽然确实存在，但并不足以令人印象深刻。
+让我们再来看看 SAT 考试。虽然它**不是** VAM 中涉及的那种标准化考试，但几乎人人都知道它。SAT 的每个分项测试都以 500 分为平均值，110 分为标准差进行标准化。假设有一位接受良好教育的学生，他的 SAT 成绩可能从 500 分提高到 522 分。然而，要进入哈佛大学，SAT 每个分项的平均成绩仍然需要在 740 分左右。因此，这种进步虽然确实存在，但并不足以令人印象深刻。
 
 那么，如果一个学生能够连续多年接受最优秀教师的指导，会产生怎样的效果呢？[Sanders 和 Rivers](http://www.cgp.upenn.edu/pdf/Sanders_Rivers-TVASS_teacher effects.pdf)（以及 [Jordan, Mendro 和 Weerasinghe](http://www.dallasisd.org/eval/research/articles/Jordan-Teacher-Effects-on-Longitudinal-Student-Achievement-1997.pdf)）的研究表明，这种影响是显著的，而且会持续累积。他们在田纳西州进行了一项对比研究，比较了连续三年由优秀教师（成绩排名前 20%）和较差教师（成绩排名后 20%）教导的学生。这种情况极为罕见，只有约 1/125 的学生有幸或不幸被纳入研究范围。研究结果显示，连续三年由较差教师教导的学生，平均成绩只达到第 29 百分位；而连续三年由优秀教师教导的学生，平均成绩则高达第 83 百分位。这一结果远远超出了单个教师影响的简单叠加，展现出惊人的效果。从这个角度来看，优秀教师的长期影响确实令人印象深刻，或许真的能够帮助学生达到哈佛的水平。事实上，这项研究有时甚至被引用为「四年连续接受优秀教师指导可以消除黑白学生之间的学习差距」（不过我不确定这种说法是否同时假设了白人学生连续四年接受较差教师的指导）。
 
@@ -54,7 +54,7 @@
 
 Gary Rubinstein [声称他已经成功驳斥了](http://garyrubinstein.teachforus.org/2012/01/07/the-three-great-teacher-study-finally-laid-to-rest/) Sanders 和 Rivers 类型的研究。我对他的研究方法持强烈异议——他似乎认为，只要优质教学与优异考试成绩之间不存在完全的一一对应关系，就可以将这种关联性完全否定。尽管如此，他提供的数据还是具有一定的参考价值。通过粗略观察和分析这些数据可以发现，所谓「连续三年遇到优秀教师」所带来的大部分进步，实际上可能主要源于最后一位优秀教师。因此，这种效果的叠加性可能并不如原先假设的那么显著，Sanders 和 Rivers 的研究或许只是比其他研究者发现了更为明显的教师效应而已。
 
-那么，这些优秀教师带来的学习进步会以怎样的速度逐渐消退呢？
+那么，这些优秀教师带来的学业进步会以怎样的速度逐渐消退呢？
 
 教育收益的衰减速度令人吃惊。[Jacob、Lefgren 和 Sims](http://faculty.smu.edu/millimet/classes/eco7321/papers/jacob et al.pdf) 的研究表明，仅有 25% 的收益能持续到次年，到第三年更是只剩 15%。具体而言，假设你四年级时遇到了一位优秀的老师，他让你的考试成绩提高了 x 分，那么到了五年级，你的成绩将比没有这位老师时高出 0.25x 分。[Kane](http://www.dartmouth.edu/~dstaiger/Papers/w14607.pdf) 和 [Rothstein](http://www.nber.org/papers/w14442) 的研究也得出了类似的结论。[RAND 公司的一份报告](http://www.rand.org/content/dam/rand/pubs/reprints/2005/RAND_RP1165.pdf)指出，一年后的收益持续率为 20%，两年后则降至 10%。[Jacob、Lefgren 和 Sims](http://closup.umich.edu/publications/workingpapers/papers/closup-wp-15-persistence-learning.pdf) 的另一项研究发现，一年后仅 25% 的收益仍然存在，两年后约为 13%，此后下降速度才会明显放缓。这些研究结果都与 Sanders 和 Rivers 的观点存在较大分歧。
 
@@ -66,7 +66,7 @@ Gary Rubinstein [声称他已经成功驳斥了](http://garyrubinstein.teachforu
 
 最初，当我开始寻找关于教师如何影响儿童的证据时，我以为教师团体和教育专家会大力推广所有积极的研究结果。毕竟，还有什么比可靠的统计数据更能证明优秀教师的价值呢？
 
-然而，出人意料的是，这些团体恰恰成为了上述研究的最强烈反对者。这并非因为他们质疑优秀教师的影响力，而是因为要证明这种影响，就必须承认教学质量是可以客观衡量的。这种观点往往会演变成使用 VAM 评估教师表现，进而解雇表现不佳者的提议。他们认为 VAM 存在偏见，可能会对那些被分配到~~智力较低~~毅力较差学生的教师造成不公平的负面影响。
+然而，出人意料的是，这些团体恰恰成为了上述研究的最强烈**反对者**。这并非因为他们质疑优秀教师的影响力，而是因为要证明这种影响，就必须承认教学质量是可以客观衡量的。这种观点往往会演变成使用 VAM 评估教师表现，进而解雇表现不佳者的提议。他们认为 VAM 存在偏见，可能会对那些被分配到~~智力较低~~毅力较低学生的教师造成不公平的负面影响。
 
 从旁观者的角度来看，学术界的激烈争论总是令人津津有味，而围绕 VAM 展开的这场论战，更是将学术争议推向了前所未有的高度。例如，一个名为「[VAMboozled!](http://vamboozled.com/)」的博客就格外引人注目。这个博客不仅有着异常醒目的 logo 设计，还持续不断地发布诸如「[Kane 故伎重演：夸大『统计显著性』以左右公共政策](http://vamboozled.com/kane-is-at-it-again-statistically-significant-claims-exaggerated-to-influence-public-policy/)」之类的文章。与之相比，历史学家兼研究员 [Diane Ravitch](https://dianeravitch.net/2014/08/11/the-holes-in-the-chetty-et-al-vam-study-as-seen-by-the-american-statistical-association/) 的文风虽然不那么花哨，但言辞同样犀利：
 
