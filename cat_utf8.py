@@ -1,7 +1,11 @@
 from pathlib import Path
-
 import pandas as pd
 import os
+import re
+
+def clean_filename(filename):
+    clean_name = re.sub(r'[^a-zA-Z0-9. ]', '', filename)
+    return clean_name
 
 if __name__ == '__main__':
 
@@ -34,7 +38,7 @@ if __name__ == '__main__':
             if file.find('.md') == -1:
                 file = file.replace('.csv', '.md.csv')
             Path(f'./src/{path[7:]}').mkdir(parents=True, exist_ok=True)
-            with open(f'./src/{path[7:]}/{file[:-4]}', 'w', encoding='utf-8') as f:
+            with open(f'./src/{path[7:]}/{clean_filename(file[:-4])}', 'w', encoding='utf-8') as f:
                 if need_source:
                     for i in range(len(text['source'].values)):
                         f.write(text['source'].values[i] + '\n\n')

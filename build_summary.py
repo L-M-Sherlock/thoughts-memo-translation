@@ -6,6 +6,7 @@ def get_markdown_files(directory):
         for file in files:
             if file.endswith('.md') and file != 'SUMMARY.md':
                 markdown_files.append(os.path.join(root, file))
+                print(f"Found markdown file: {file}")
     return markdown_files
 
 def get_title(file_path):
