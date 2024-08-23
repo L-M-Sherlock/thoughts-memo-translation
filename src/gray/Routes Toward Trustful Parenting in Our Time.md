@@ -1,4 +1,4 @@
-# 通往信任型养育之路
+# 在我们的时代，通往信任型养育之路
 
 原文：[Routes Toward Trustful Parenting in Our Time | Psychology Today](https://www.psychologytoday.com/us/blog/freedom-learn/200908/routes-toward-trustful-parenting-in-our-time)
 

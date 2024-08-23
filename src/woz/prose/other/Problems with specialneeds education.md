@@ -32,6 +32,6 @@
 
 课堂环境是过度诊断无能的完美温床
 
-[！[把学习行为当作自闭症的症状.jpg](https://supermemo.guru/images/thumb/1/19/Learntropic_behaviors_taken_as_a_symptom_of_autism.jpg/300px-Learntropic_behaviors_taken_as_a_symptom_of_autism.jpg)](https://supermemo.guru/wiki/File:Learntropic_behaviors_taken_as_a_symptom_of_autism.jpg)
+[![Learntropic behaviors taken as a symptom of autism.jpg](https://supermemo.guru/images/thumb/1/19/Learntropic_behaviors_taken_as_a_symptom_of_autism.jpg/300px-Learntropic_behaviors_taken_as_a_symptom_of_autism.jpg)](https://supermemo.guru/wiki/File:Learntropic_behaviors_taken_as_a_symptom_of_autism.jpg)
 
 > ***图：**这幅[源自维基百科的图片](https://en.wikipedia.org/wiki/File:Autism-stacking-cans_2nd_edit.jpg)是针对精神障碍和学习障碍的过度诊断问题的最好的隐喻。这个漂亮的小孩正在享受堆放罐头和蜜饯的乐趣。对秩序的反熵追求是人类[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的自然和受欢迎的方面。越来越多的罐头堆是[学习内驱力]快乐的来源(https://supermemo.guru/wiki/Learntropy)。一个年轻人可能会建立类似的堆叠，直到堆叠的艺术得到完善，不再产生足够水平的[学习熵](https://supermemo.guru/wiki/Learntropy)（除非这个年轻人决定与[哈利法塔](https://en.wikipedia.org/wiki/Burj_Khalifa)竞争）。然而，这幅图在维基百科上被用来说明自闭症的重复性行为特征。风险在于，一个健康孩子的父母可能会感叹："哦！那是我的孩子！"然后担心，也许孩子需要诊断或治疗。这些焦虑推动了另一种强迫性行为：保护孩子免受所有可以想象的威胁，包括那些可以提高复原力或免疫力的威胁。一个纪律严明的孩子可能会抑制这种冲动，认为 "妈妈会因此不高兴"。一个成功被学校驯化的孩子逐渐失去了[学习内驱力](https://supermemo.guru/wiki/Learn_drive)和[创造力](https://supermemo.guru/wiki/Creativity)。与生俱来的行为开始显现端倪，变成偏离常规的行为*。

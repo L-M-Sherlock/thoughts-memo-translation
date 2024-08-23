@@ -1,4 +1,4 @@
-# 数学探索需要将问题加载到工作记忆
+# 数学探索需要将问题情境加载到工作记忆
 
 原文：[Tinkering in math requires loading the situation into working memory](https://wiki.issarice.com/wiki/Tinkering_in_math_requires_loading_the_situation_into_working_memory)
 
