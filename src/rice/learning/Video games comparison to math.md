@@ -15,3 +15,13 @@
 * [面向数学的多邻国](https://wiki.issarice.com/wiki/Duolingo_for_math)
 
 ## 链接到本文
+
+* [可探索媒介中的有限性假设](https://wiki.issarice.com/wiki/Finiteness_assumption_in_explorable_media) ([←链接](https://wiki.issarice.com/index.php?title=Special:WhatLinksHere&target=Finiteness+assumption+in+explorable+media))
+
+* [可探索的解释](https://wiki.issarice.com/wiki/Explorable_explanation) ‎ ([← 链接](https://wiki.issarice.com/index.php?title=Special:WhatLinksHere&target=Explorable+explanation))
+
+* [数学中的组合爆炸](https://wiki.issarice.com/wiki/Combinatorial_explosion_in_math) ‎ ([← links](https://wiki.issarice.com/index.php?title=Special:WhatLinksHere&target=Combinatorial+explosion+in+math))
+
+* [电子游戏 vs 数学](https://wiki.issarice.com/index.php?title=Video_games_vs_math&redirect=no) (redirect page) ‎ ([← links](https://wiki.issarice.com/index.php?title=Special:WhatLinksHere&target=Video+games+vs+math))
+
+* [数学 vs 电子游戏](https://wiki.issarice.com/index.php?title=Math_vs_video_games&redirect=no) (redirect page) ‎ ([← links](https://wiki.issarice.com/index.php?title=Special:WhatLinksHere&target=Math+vs+video+games))

@@ -326,7 +326,6 @@
       * [RemNote](andy/note/software/RemNote.md)
       * [Mochi](andy/note/software/mochi.md)
     * [spaced-repetition]()
-      * [提示词：将填空卡改写成问答卡](andy/note/spaced-repetition/20230614095308.md)
       * [「跳过」机制可能有助于间隔重复记忆系统在复习环节保持情感上的连接](andy/note/spaced-repetition/A%20skip%20mechanism%20may%20help%20spaced%20repetition%20memory%20system%20sessions%20remain%20emotionally%20connected.md)
       * [将基于机器学习的卡片生成重新定义为过滤问题，有助于我们思考吗？](andy/note/spaced-repetition/Can%20MLbased%20prompt%20generation%20be%20helpfully%20recast%20as%20a%20filtering%20problem.md)
       * [间隔重复记忆系统中，需要根据卡片回答错误的原因确定干预手段](andy/note/spaced-repetition/Choice%20of%20intervention%20in%20a%20spaced%20repetition%20memory%20system%20must%20depend%20on%20reason%20for%20failure.md)
