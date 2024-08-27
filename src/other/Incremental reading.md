@@ -14,7 +14,7 @@
 
 继渐进阅读之后，[Piotr Wozniak](https://en.wikipedia.org/wiki/Piotr_Wozniak_(researcher)) 又发明了一系列相关概念：渐进图像学习、渐进视频、渐进音频、渐进邮件处理、渐进问题解决，以及渐进写作。他用“渐进学习”来整体指代这些概念。[[7]](https://en.wikipedia.org/wiki/Incremental_reading#cite_note-7)
 
-##方法
+## 方法
 
 阅读电子文章的过程中，用户摘录最重要的部分（类似于在纸质文章上划线或加亮），并将其逐渐提炼为[抽认卡](https://en.wikipedia.org/wiki/Flashcards)。抽认卡是以一问一答呈现的信息（从而有可能实现[主动回忆](https://en.wikipedia.org/wiki/Active_recall)）。[挖空卡片](https://en.wikipedia.org/wiki/Cloze_deletions)经常用于渐进阅读，因为在文本中挖空创建卡片很容易。摘录和抽认卡的时间安排都是独立于原本文章的。
 
