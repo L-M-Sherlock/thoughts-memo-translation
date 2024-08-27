@@ -8,7 +8,7 @@
 
 # 一
 
-[新闻报道](http://www.bloomberg.com/news/articles/2014-06-12/to-strip-teacher-tenure-judge-cites-the-economic-cost-of-bad-teaching)称，仅仅一个年级的优秀教师（例如一位出色的四年级老师）就能让学生的终身收入增加 8 万美元。然而，[行为遗传学研究](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3592970/)表明，[父母对子女未来收入的（非遗传）影响微乎其微](http://amzn.to/1OAT1of)。这怎么可能？四年级老师教你学习分数的短短一年就能如此显著地影响你的前途，而父母二十多年如一日的言传身教却收效甚微？**啊？**为了揭开这个谜团，我决定深入研究有关教师效力的文献。
+[新闻报道](http://www.bloomberg.com/news/articles/2014-06-12/to-strip-teacher-tenure-judge-cites-the-economic-cost-of-bad-teaching)称，仅仅在优秀教师的班级里读上一年（例如一位出色的四年级老师）就能让学生的终身收入增加 8 万美元。然而，[行为遗传学研究](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3592970/)表明，[父母对子女未来收入的（非遗传）影响微乎其微](http://amzn.to/1OAT1of)。这怎么可能？四年级老师教你学习分数的短短一年就能如此显著地影响你的前途，而父母二十多年如一日的言传身教却收效甚微？**啊？**为了揭开这个谜团，我决定深入研究有关教师效力的文献。
 
 首先，让我们探讨一个关键问题：相较于其他因素，教师的影响力究竟有多大？为了回答这个问题，研究人员选取了一个学区的学生样本，分析他们的标准化考试成绩。研究旨在确定学生所在的学校、任课教师以及其他人口统计因素能在多大程度上解释成绩的差异。举个例子，如果同一位教师班级内两名学生的成绩相似度，与来自不同教师班级的两名学生的成绩相似度相当，那么我们就可以推断教师的影响力并不显著。相反，如果我们经常观察到 A 教师班级的学生全部获得 A+，而 B 教师班级的学生普遍只得 D 的情况，这就有力地说明了优秀教师的重要性。
 
@@ -16,7 +16,7 @@
 
 ![img](https://slatestarcodex.com/blog_images/teacher1.png)
 
-这些研究结果存在细微差异：第一项研究假设排除了所有干扰因素「未解释的变异」，而后两项研究则将其纳入考虑。但它们都得出了相似的结论：个人因素最为重要，其次是学校和教师因素，后两者的影响力大致相当。研究表明，教师因素能解释 5% 到 20% 的成绩差异。其他研究的结论也大体一致，通常倾向于较低的比例。例如，[Goldhaber, Brewer, and Anderson (1999)](https://roundtheinkwell.files.wordpress.com/2011/10/three-way-error-analysis.pdf) 的研究发现，教师因素解释了 9% 的成绩差异；[Nye, Konstantopoulos, and Hedges (2004)](http://epa.sagepub.com/content/26/3/237.short?rss=1&ssource=mfc) 的研究则显示，在数学成绩中，教师因素解释了13% 的差异，在阅读成绩中解释了7%的差异。[美国统计协会](http://www.amstat.org/policy/pdfs/ASA_VAM_Statement.pdf)对这些研究进行了总结，认为「教师因素解释了考试分数变异的 1% 到 14%」，这一结论似乎是合理的。
+这些研究结果存在细微差异：第一项研究假设排除了所有干扰因素「未解释的变异」，而后两项研究则将其纳入考虑。但它们都得出了相似的结论：个人因素最为重要，其次是学校和教师因素，后两者的影响力大致相当。研究表明，教师因素能解释 5% 到 20% 的成绩差异。其他研究的结论也大体一致，通常倾向于较低的比例。例如，[Goldhaber, Brewer, and Anderson (1999)](https://roundtheinkwell.files.wordpress.com/2011/10/three-way-error-analysis.pdf) 的研究发现，教师因素解释了 9% 的成绩差异；[Nye, Konstantopoulos, and Hedges (2004)](http://epa.sagepub.com/content/26/3/237.short?rss=1&ssource=mfc) 的研究则显示，在数学成绩中，教师因素解释了 13% 的差异，在阅读成绩中解释了 7% 的差异。[美国统计协会](http://www.amstat.org/policy/pdfs/ASA_VAM_Statement.pdf)对这些研究进行了总结，认为「教师因素解释了考试分数变异的 1% 到 14%」，这一结论似乎是合理的。
 
 简而言之，平均来说，决定学生成绩的主要因素是学生个人的~~能力~~毅力。优秀的学校和教师可能会小幅提升学生的表现，而糟糕的学校和教师则可能会略微拉低学生的成绩，但他们都不能创造奇迹。
 
