@@ -18,9 +18,17 @@
 
 - **[学习的乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)**需要被理解。即使治疗没有给孩子带来麻烦，也不存在[毒性记忆](https://supermemo.guru/wiki/Toxic_memory)的风险。当孩子自己不感兴趣时，观察到的进展趋近于零是件非常自然的事。很多时候，特殊的兴趣和激情，导致学术进展迟缓，这本身就是诊断的一个基础（例如在自闭症症状谱系中）。激情应该被培养并用于取得进一步的进展，而不是被长时间的治疗所抑制。
 
-- **[ADHD](https://supermemo.guru/wiki/ADHD)**被大量地过度诊断，而主要的推动力似乎是学术教育。当超凡的[创造力](https://supermemo.guru/wiki/Creativity)影响到[注意力](https://supermemo.guru/wiki/Attention)时，我们不是利用人脑的最佳特质，而是试图灌输课堂纪律（见：[混淆创造力与ADHD](https://supermemo.guru/wiki/Confusing_creativity_with_ADHD)
+- **[概念网络](https://supermemo.guru/wiki/Concept_network)**学习可以类比于对旧电视机的逐步调整。治疗师可能会在早期介入，以纠正语言或特定的运动模式。每当[追求完美]时，都可能造成伤害和反学习
 
-- **[早熟悖论](https://supermemo.guru/wiki/Precocity_paradox)**，早熟是因为延长的皮质发育轨迹导致了天才级的智力，然而，它也导致了滞后的学术表现。"滞后的天才"相对容易诊断，但这种现象却导致了对自闭症谱系障碍（ASD）、阅读障碍、书写障碍、[多ADHD](https://supermemo.guru/wiki/ADHD)等的大规模过度诊断。问题的核心是对**差异模式**的错误应用。一个天生说话晚的孩子因此成为残疾嫌疑人
+- **[多动症](https://supermemo.guru/wiki/ADHD)**被大量地过度诊断，而主要的推动力似乎是学术教育。当超凡的[创造力](https://supermemo.guru/wiki/Creativity)影响到[注意力](https://supermemo.guru/wiki/Attention)时，我们不是利用人脑的最佳特质，而是试图灌输课堂纪律（见：[混淆创造力与ADHD](https://supermemo.guru/wiki/Confusing_creativity_with_ADHD)
+
+- **[早熟悖论](https://supermemo.guru/wiki/Precocity_paradox)**，早熟是因为延长的皮质发育轨迹导致了天才级的智力，然而，它也导致了滞后的学术表现。"滞后的天才"相对容易诊断，但这种现象却导致了对自闭症谱系障碍（ASD）、阅读障碍、书写障碍、[多动症](https://supermemo.guru/wiki/ADHD)等的大规模过度诊断。问题的核心是对**差异模式**的错误应用。一个天生说话晚的孩子因此成为残疾嫌疑人
+
+- **[记忆复杂性](https://supermemo.guru/wiki/Memory_complexity)** 可能导致记忆力差。对于这一问题的理解在这个领域内几乎可以用“糟糕”来形容。对于有阅读困难的孩子来说，诊断为阅读障碍(https://supermemo.guru/wiki/Dyslexia)往往给家长带来一种解脱。这减轻了学校的压力，但往往需要进行补救治疗，而这种治疗常常面临形成[毒性记忆](https://supermemo.guru/wiki/Toxic_memories)的风险。正因如此，[教育性阅读障碍](https://supermemo.guru/wiki/Educational_dyslexia)产生了。阅读应该被理解为一个形成数量庞大记忆的过程，这需要兴趣、动力以及对[原子化记忆](https://supermemo.guru/wiki/Atomic_memory)单元的个性化结构拆解。这样的记忆往往可以通过[自主学习](https://supermemo.guru/wiki/Self-learning)轻松获取。如果一个孩子不喜欢补救治疗，那么这种治疗在长期来看很可能会带来负面影响。
+
+- 直到不久前，**[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)**在这个领域几乎是个陌生的概念。对此我在1980年代感到非常惊讶，因为那时我提出了一个最优时间间隔复习的算法。我原本期待能找到一些更好的心理学文献，结果却没有。如今，间隔重复也可以被用来造成伤害。没有比[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)更好的方式来延续[毒性记忆](https://supermemo.guru/wiki/Toxic_memory)了。这一事实很好地比喻了在特殊需求治疗中的一些重大的错误。
+
+- **边界**应该通过减少困扰残障儿童的焦虑来促进他们的发展。由于几乎所有的恐惧和焦虑都是通过经验实现[概念化](https://supermemo.guru/wiki/Conceptualization)，保持固定的行为边界反而会阻碍情绪的缓解，而这些情绪正是边界希望防止的。正确的发展方法永远是在追求更大的[行为空间](https://supermemo.guru/wiki/Behavioral_space)，或者在恐惧已经形成的情况下，逐步回归开放性。详见：[发展中的行为空间优化](https://supermemo.guru/wiki/Optimization_of_behavioral_spaces_in_development)
 
 - **[神经多样性](https://supermemo.guru/wiki/Neurodiversity)**：大脑为了回馈不重要的体验活动而发生不同的[概念化](https://supermemo.guru/wiki/Conceptualization)。这就是为什么采取非适应性地偏离规范/平均水平而进行的的任何形式的治疗，从人口适应不断变化的世界的角度来看是有害的。
 

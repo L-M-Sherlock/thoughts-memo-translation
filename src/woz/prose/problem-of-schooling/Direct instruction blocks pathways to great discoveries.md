@@ -36,13 +36,13 @@ Didau 似乎对发现 [D.C. Geary 和 D.B. Berch 最近出版的一本书](https
 
 Geary 和 Berch 提出了一个观点，认为进化的缓慢导致了一个难以逾越的知识鸿沟。Didau 借此为学校教育的必要性辩护。然而，事实上，这所谓的鸿沟仅仅反映了知识的复杂性，通过在[知识建模](https://supermemo.guru/wiki/Abstract_knowledge)过程中优化[语义路径](https://supermemo.guru/wiki/Semantic_distance)，我们完全可以轻松缩小这一差距。
 
-民间知识与[学术知识](https://supermemo.guru/wiki/Academic_knowledge)的唯一区别在于其[复杂度](https://supermemo.guru/wiki/Complexity)、[适用性](https://supermemo.guru/wiki/Applicability)以及与感官经验的[语义关联度](https://supermemo.guru/wiki/Semantic_distance)。
+民间知识与[学术知识](https://supermemo.guru/wiki/Academic_knowledge)的唯一区别在于其[复杂度](https://supermemo.guru/wiki/Complexity)、[适用性](https://supermemo.guru/wiki/Applicability)以及与感官经验的[语义接近度](https://supermemo.guru/wiki/Semantic_distance)。
 
 ## 语义网络中陈述性知识的层级结构
 
 人脑中存储的所有[陈述性知识](https://supermemo.guru/wiki/Declarative_learning)构成了一个[语义网络](https://supermemo.guru/wiki/Semantic_network)，这个网络可以按照知识获取[连贯性](https://supermemo.guru/wiki/Coherence)的时间顺序来排列。毫无疑问，感官感知处于这个结构的最底层，它们是「生物性」或「自然性」的输入。在知识层级中，所有更高层次的知识都是在这些基础之上逐步构建的。这就解释了为什么天体物理学建立在物理学的基础上，物理学又建立在数学的基础上，而数学则源于最基本的手指计数（参见：[学校教育的爬山比喻](https://supermemo.guru/wiki/Mountain_climb_metaphor_of_schooling)）。
 
-无论我们选择哪种比喻来理解知识的获取过程，我们都可以轻易地证明整个进化论点是站不住脚的。同样的稀疏新皮层表征既用于（1）基于感知的基础知识，也用于（2）最为高深的[抽象知识](https://supermemo.guru/wiki/Abstract_knowledge)：
+无论我们选择哪种比喻来理解知识的习得过程，我们都可以轻易地证明整个进化论点是站不住脚的。同样的稀疏新皮层表征既用于（1）基于感知的基础知识，也用于（2）最为高深的[抽象知识](https://supermemo.guru/wiki/Abstract_knowledge)：
 
 比喻。[为什么使用比喻？](https://supermemo.guru/wiki/Why_use_metaphors%3F)
 
@@ -74,7 +74,7 @@ Didau 认为：「这种[知识二分法]解释了为什么我们觉得学说话
 
 # 探索性学习和伟大发现
 
-认知能力的最高体现是新发现，这些突破能推动人类文明向前发展。在这种情况下，人类自然的思维和学习过程发挥着关键作用。如果学校教育对于超越传统民间知识是必要的，那么我们又是如何产生新的发现的呢？D.C. Geary 和 D.B. Berch 提出的新观点可能会使我们对这个问题的理解变得模糊。对于大脑新皮质而言，对食物进行分类与爱因斯坦构建 E=mc² 方程式所用的机制本质上是相同的。它们利用相同的大脑皮质、相同的认知工具和相同的信息编码方式，唯一的区别在于，爱因斯坦从童年初始认知状态到[概念网络](https://supermemo.guru/wiki/Concept_network)中新概念的[语义距离](https://supermemo.guru/wiki/Semantic_distance)相对更长。
+认知能力的最高体现是新发现，这些突破能推动人类文明向前发展。在这种情况下，人类自然的思维和学习过程发挥着关键作用。如果学校教育对于超越传统民间知识是必要的，那么我们又是如何产生新的发现的呢？D.C. Geary 和 D.B. Berch 提出的新观点可能会使我们对这个问题的理解变得模糊。对于大脑新皮质而言，对食物进行分类与爱因斯坦构建 E=mc² 方程式所用的机制本质上是相同的。它们利用相同的大脑皮质、相同的认知工具和相同的信息编码方式，唯一的区别在于，爱因斯坦从童年的初始认知状态到[概念网络](https://supermemo.guru/wiki/Concept_network)中新概念的[语义距离](https://supermemo.guru/wiki/Semantic_distance)相对更长。
 
 # David Lancy 的常识人类学
 
@@ -82,15 +82,15 @@ Didau 从一本他可能并未通读的书中摘取了一段内容，或者他�
 
 > 儿童的学习方式因其教育环境的差异而有所不同。那些主要从环境而非从教师和书本中学习的儿童，会养成独特的注意力模式（Gaskins & Paradise, 2010; Rogoff, Correa-Chávez, & Cotuc, 2005）。例如在学习折纸时，山村儿童和母亲受教育程度较低的移民儿童，往往是通过专注观察专家的示范或其他孩子的尝试来学习。相比之下，接受过更多学校教育的人则很少关注示范过程本身，而是倾向于等待或主动要求教师给予口头讲解和指导（Correa-Chavez & Rogoff, 2005）。
 
-兰西还补充了一个很好的观点，反对似乎是基于进化的教学和接受指导的倾向——我一定是生来没有这种倾向。
+Lancy 还提出了一个很好的观点，反驳了那种似乎基于进化而形成的教学和接受指导的倾向——而我恰恰天生就不具备这种倾向：
 
 > 如果教学真的如此重要且普遍存在，那么我们应该能看到大多数成年人都是「优秀」的教师，而儿童则是「优秀」的学生。假设每个人生来就具备一系列认知特质，以及「促进他人学习」的明确动机和决心（Kline, 2015），我们可能会期望看到大多数成年人都热切而自愿地担任教师角色。平均而言，他们应该「很擅长教学」。同理，儿童应该很自然地倾向于学生角色，并自动表现出适当的行为以从课程中受益。再次强调，大多数儿童应该表现出相当强的天生学习能力，能够从指导者那里学习。然而，关于「天生的教师」，在现代之前，几乎找不到展示谨慎、明智、系统的维果茨基式脚手架教学的案例。
 
 # 教师只有在被邀请时才受欢迎
 
-Didau 简明扼要地说：「这就是为什么我们需要学校」。这样的话从一个教师口中说出来，是对人类[智力](https://supermemo.guru/wiki/Intelligence)的严重冒犯。事实上，孩子们不需要教师也能取得卓越成就，没有[直接教学](https://supermemo.guru/wiki/Direct_instruction)反而会做得更好。所有的「事物都很困难」，直到它变得容易为止。这只是一个需求和已有知识形成最佳学习基础的问题。详见：[《我们需要教师吗？》](https://supermemo.guru/wiki/Do_we_need_teachers%3F)
+Didau 简明扼要地说：「这就是为什么我们需要学校」。这样的话从一个教师口中说出来，是对人类[智力](https://supermemo.guru/wiki/Intelligence)的严重冒犯。事实上，孩子们不需要教师也能取得卓越成就，没有[直接教学](https://supermemo.guru/wiki/Direct_instruction)反而会做得更好。所有的「事物都很困难」，直到它变得容易为止。这只是一个需求和已有知识形成最佳学习基础的问题。详见：[《我们需要老师吗？》](https://supermemo.guru/wiki/Do_we_need_teachers%3F)
 
-孩子们对我所说的话心知肚明。他们深深明白我是对的。他们也清楚地知道，那些固执己见、违背孩子意愿强行施教的老师是错误的。问题的关键在于，[孩子们没有自主决定的权利](https://supermemo.guru/wiki/Children_should_have_the_right_to_vote)。我并不反对孩子们主动要求的教学。在我漫长的二十年求学生涯中，我也曾向老师提出过几个问题。但是，除非孩子的自主能力已经被学校教育严重削弱，否则他们很少主动寻求教师的帮助。通常是忙碌的父母施加压力，或者更糟糕的是，[系统性的胁迫](https://supermemo.guru/wiki/Compulsory_schooling)使得孩子们沦为强制教学的受害者（参见：[禁止在家上学](https://supermemo.guru/wiki/Ban_on_homeschooling)）。
+孩子们对我所说的话心知肚明。他们知道我是对的。他们也清楚地知道，那些固执己见、违背孩子意愿强行施教的老师是错误的。问题的关键在于，[孩子们没有自主决定的权利](https://supermemo.guru/wiki/Children_should_have_the_right_to_vote)。我并不反对孩子们主动要求的教学。在我漫长的二十年求学生涯中，我也曾向老师提出过几个问题。但是，除非孩子的自主能力已经被学校教育严重削弱，否则他们很少主动寻求教师的帮助。通常是忙碌的父母施加压力，或者更糟糕的是，[系统性的胁迫](https://supermemo.guru/wiki/Compulsory_schooling)使得孩子们沦为强制教学的受害者（参见：[禁止在家上学](https://supermemo.guru/wiki/Ban_on_homeschooling)）。
 
 构建[抽象知识](https://supermemo.guru/wiki/Abstract_knowledge)的过程通常包含三个方面：自然形成的抽象（例如通过[遗忘](https://supermemo.guru/wiki/Forgetting)）、有意识地进行抽象思考，以及从他人那里获取知识。虽然教师在某些情况下可能比书本更有效，但他们正面临着越来越大的挑战，难以与 YouTube 等简单媒体或更先进的基于探究学习的工具（如 [PhET 模拟实验](https://supermemo.guru/wiki/PhET_simulations)）相竞争。[直接教学](https://supermemo.guru/wiki/Direct_instruction)与[自由学习](https://supermemo.guru/wiki/Free_learning)的根本区别在于后者能够基于[学习内驱力](https://supermemo.guru/wiki/Learn_drive)来优化学习选择。
 
@@ -104,7 +104,7 @@ Didau 简明扼要地说：「这就是为什么我们需要学校」。这样�
 
 - 形成[毒性记忆](https://supermemo.guru/wiki/Toxic_memories)，可能永久地削弱一个人理解特定主题的能力
 
-要理解[泛化](https://supermemo.guru/wiki/Generalization)的价值，不妨比较一个孩子和一个受过良好学校教育的成年人观看同一教学视频时的反应。当我因信息过载而停止观看时，健康的孩子却能继续观看，让大脑自然地筛选和吸收信息（除非他们感到无聊）。相比之下，一个顺服校驯的成年人往往会努力记忆并「录制」所有内容，即使这可能导致[神经网络战争](https://supermemo.guru/wiki/War_of_the_networks)。这是长期接受[直接教学](https://supermemo.guru/wiki/Direct_instruction)影响的结果：学习方式逐渐从探索转变为[死记硬背](https://supermemo.guru/wiki/Cramming)。
+要理解[泛化](https://supermemo.guru/wiki/Generalization)的价值，不妨比较一个孩子和一个顺服校驯的成年人观看同一教学视频时的反应。当我因信息过载而停止观看时，健康的孩子却能继续观看，让大脑自然地筛选和吸收信息（除非他们感到无聊）。相比之下，一个顺服校驯的成年人往往会努力记忆并「录制」所有内容，即使这可能导致[神经网络战争](https://supermemo.guru/wiki/War_of_the_networks)。这是长期接受[直接教学](https://supermemo.guru/wiki/Direct_instruction)影响的结果：学习方式逐渐从探索转变为[死记硬背](https://supermemo.guru/wiki/Cramming)。
 
 造成这种状况并不一定需要糟糕的教师。缺乏泛化练习本身就会导致[泛化](ttps://supermemo.guru/wiki/Generalization)能力的衰退。仅仅是教师的存在就可能抑制学生的泛化技能。关于毒性记忆，我希望优秀的教师能够识别问题并采取措施，但实际上，许多教师甚至没有意识到这个问题的存在。
 
