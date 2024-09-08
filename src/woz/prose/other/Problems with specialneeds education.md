@@ -1,4 +1,4 @@
-# 特殊需求教育存在的问题
+# 特殊教育存在的问题
 
 原文：[Problems with special-needs education - supermemo.guru](https://supermemo.guru/wiki/Problems_with_special-needs_education)
 
@@ -6,21 +6,21 @@
 
 除非在神经网络层面发生了有机变化，否则**特殊教育**中学习的艺术与普通的最优学习大同小异。
 
-由于特殊需求诊断的流行性增长，**特殊教育**的专家队伍庞大而多样。我自己与专家们常常存在意见上的争议和分歧。这些分歧源于我的研究渊源。我对教育的兴趣始于20世纪80年代，那时我在试图改善自己的学习（见[间隔重复的历史]（https://supermemo.guru/wiki/History_of_spaced_repetition））。这导致了[长期记忆的双组分模型](https://supermemo.guru/wiki/Two_component_model_of_long-term_memory)的出现，以及后来的超大模型：[记忆的神经统计模型](https://supermemo.guru/wiki/Neurostatistical_Model_of_Memory)。
+由于特殊需求诊断的流行性增长，**特殊教育**的专家队伍庞大而多样。我自己与专家们常常存在意见上的争议和分歧。这些分歧源于我的研究渊源。我对教育的兴趣始于 20 世纪 80 年代，那时我在试图改善自己的学习（见[间隔重复的历史]（https://supermemo.guru/wiki/History_of_spaced_repetition））。这导致了[长期记忆的双组分模型](https://supermemo.guru/wiki/Two_component_model_of_long-term_memory)的出现，以及后来的超大模型：[记忆的神经统计模型](https://supermemo.guru/wiki/Neurostatistical_Model_of_Memory)。
 
 虽然针对特殊需求的教育者的存在和他们的整个专业源于帮助孩子的需要，但我从[概念网络](https://supermemo.guru/wiki/Concept_network)的角度看待问题，并考虑到所有适用于特殊需求儿童或难以应用于他们的高效学习方面。
 
 为了解释和促进交流，我想要列出一些我经常与特殊需求专家发生分歧的事项：
 
-- 大脑皮层发育的**关键期**往往被误解为一切的首要追求：要早诊断，早干预。这导致早期治疗可能会产生与[早期学术教育]相同的消极副作用(https://supermemo.guru/wiki/Early_academic_instruction)
+- 大脑皮层发育的**关键期**往往被误解为一切的首要追求：要早诊断，早干预。这导致早期治疗可能会产生与[早期学术教育](https://supermemo.guru/wiki/Early_academic_instruction)相同的消极副作用
 
 - **[毒性记忆](https://supermemo.guru/wiki/Toxic_memory)**的重视程度非常低。不过特需教育工作者要特别小心，任何学习疗法都不会导致不愉快（除非是身体上的疼痛，如生理治疗中的疼痛）。
 
 - **[学习的乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)**需要被理解。即使治疗没有给孩子带来麻烦，也不存在[毒性记忆](https://supermemo.guru/wiki/Toxic_memory)的风险。当孩子自己不感兴趣时，观察到的进展趋近于零是件非常自然的事。很多时候，特殊的兴趣和激情，导致学术进展迟缓，这本身就是诊断的一个基础（例如在自闭症症状谱系中）。激情应该被培养并用于取得进一步的进展，而不是被长时间的治疗所抑制。
 
-- **[概念网络](https://supermemo.guru/wiki/Concept_network)**学习可以类比于对旧电视机的逐步调整。治疗师可能会在早期介入，以纠正语言或特定的运动模式。每当[追求完美]时，都可能造成伤害和反学习
+- **[概念网络](https://supermemo.guru/wiki/Concept_network)**学习可以类比于对旧电视机的逐步调整。治疗师可能会在早期介入，以纠正语言或特定的运动模式。每当[追求完美](https://supermemo.guru/wiki/Perfectionism)时，都可能造成伤害和反学习
 
-- **[多动症](https://supermemo.guru/wiki/ADHD)**被大量地过度诊断，而主要的推动力似乎是学术教育。当超凡的[创造力](https://supermemo.guru/wiki/Creativity)影响到[注意力](https://supermemo.guru/wiki/Attention)时，我们不是利用人脑的最佳特质，而是试图灌输课堂纪律（见：[混淆创造力与ADHD](https://supermemo.guru/wiki/Confusing_creativity_with_ADHD)
+- **[多动症](https://supermemo.guru/wiki/ADHD)**被大量地过度诊断，而主要的推动力似乎是学术教育。当超凡的[创造力](https://supermemo.guru/wiki/Creativity)影响到[注意力](https://supermemo.guru/wiki/Attention)时，我们不是利用人脑的最佳特质，而是试图灌输课堂纪律（见：[混淆创造力与 ADHD](https://supermemo.guru/wiki/Confusing_creativity_with_ADHD)
 
 - **[早熟悖论](https://supermemo.guru/wiki/Precocity_paradox)**，早熟是因为延长的皮质发育轨迹导致了天才级的智力，然而，它也导致了滞后的学术表现。"滞后的天才"相对容易诊断，但这种现象却导致了对自闭症谱系障碍（ASD）、阅读障碍、书写障碍、[多动症](https://supermemo.guru/wiki/ADHD)等的大规模过度诊断。问题的核心是对**差异模式**的错误应用。一个天生说话晚的孩子因此成为残疾嫌疑人
 

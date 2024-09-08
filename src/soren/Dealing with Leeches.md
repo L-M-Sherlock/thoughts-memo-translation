@@ -1,18 +1,18 @@
-# 如何应对记忆难点
+# 如何应对记忆难点（Leech）
 
 原文：[Dealing with Leeches - Control-Alt-Backspace (controlaltbackspace.org)](https://controlaltbackspace.org/leech/)
 
-间隔重复的一个基本原则是[区分简单和困难的卡片](https://controlaltbackspace.org/memory/spaced-repetition/#separating-easy-things-from-hard-things)。通过这种方法，我们可以降低对简单知识点的复习频率，同时增加对困难知识点的复习次数。这种学习策略非常有效。
+间隔重复的一个基本原则是[区分简单的卡片和困难的卡片](https://controlaltbackspace.org/memory/spaced-repetition/#separating-easy-things-from-hard-things)。通过这种方法，我们可以降低对简单知识点的复习频率，同时增加对困难知识点的复习次数。这种学习策略非常有效。
 
-遗憾的是，有些学习卡片不仅难度大，而且难到了**极点**。如果不采取特殊措施，我们可能会反复忘记并重新学习这些卡片，导致它们占用大量学习时间却收效甚微。间隔重复学习社区将这类极难掌握的卡片形象地称为 **leech**，因为它们就像**水蛭**一样，不断吸走你宝贵的学习时间。
+遗憾的是，有些学习卡片不仅难，而且难到了**极点**。如果不采取特殊措施，我们可能会反复忘记并重新学习这些卡片，导致它们占用大量学习时间却收效甚微。间隔重复学习社区将这类极难掌握的卡片形象地称为 **leech**，因为它们就像**水蛭**一样，不断吸走你宝贵的学习时间。
 
-Anki 会在检测到你已经学习并遗忘同一张卡片八次时（这个阈值可以调整），将其标记为记忆难点。随后，Anki会提醒你发现了一张记忆难点，并自动将其暂停，使其不再出现在复习队列中，直到你采取进一步行动。此时，如何处理这张卡片就需要你自己来决定了。
+Anki 会在检测到你已经学习并遗忘同一张卡片八次时（这个阈值可以调整），将其标记为记忆难点（leech）。随后，Anki 会提醒你发现了一张记忆难点，并自动将其暂停，使其不再出现在复习队列中，直到你采取进一步行动。此时，如何处理这张卡片就需要你自己来决定了。
 
 在这次深入探讨学习难点（这让人联想到[《神奇校车》](https://en.wikipedia.org/wiki/The_Magic_School_Bus)系列的奇妙冒险！）的过程中，我们将首先讨论如何预防这些难点的产生，之后探索当它们悄然出现时的应对策略，最后我们会简要回顾如何在 Anki 中识别这些难点并采取相应措施。
 
 ## 预防记忆难点
 
-应对记忆难点的最佳策略是防患未然。当你第八次忘记一张复习卡片时，你可能已经反复复习了几十次，这意味着你在这张卡片上已经浪费了大量时间。要避免这种情况，可以采取以下措施：制作[精确的]卡片(https://controlaltbackspace.org/memory/designing-precise-cards)，遵循二十条记忆规则（详情请参阅前文链接），并在发现卡片存在精确性问题时立即修改。这些做法通常能有效预防潜在的记忆难点成为长期问题。
+应对记忆难点的最佳策略是防患未然。当你第八次忘记一张复习卡片时，你可能已经反复复习了几十次，这意味着你在这张卡片上已经浪费了大量时间。要避免这种情况，可以采取以下措施：制作[精确的](https://controlaltbackspace.org/memory/designing-precise-cards)卡片，遵循二十条记忆规则（详情请参阅前文链接），并在发现卡片存在精确性问题时立即修改。这些做法通常能有效预防潜在的记忆难点成为长期问题。
 
 在 Anki 复习过程中，遇到暂时无法解决的问题卡片时，最好采取「标记并暂停」的策略，而不是强行继续。这样可以避免浪费宝贵的复习时间，留待日后有充足时间再来修复。AnkiMobile 用户可以将「标记并暂停」功能设置为向下滑动手势，以提高操作效率。桌面版用户则可以在复习时按 `*@` 组合键（发音为『splat-at』，这个小技巧可能有助于记忆）来实现同样的效果。当你准备好修复这些问题卡片时，只需在卡片浏览器中搜索 `tag:marked` 即可轻松找到它们。
 
@@ -86,7 +86,7 @@ Anki 会在检测到你已经学习并遗忘同一张卡片八次时（这个阈
 
 ### 这张卡片是否真正考察了我想掌握的知识点？
 
-你可能采用了一种不太恰当的提问方式（例如，[使用枚举问题](https://controlaltbackspace.org/memory/designing-precise-cards/#questions-should-not-ask-you-to-enumerate-things)）。不妨尝试用一种更简单的方式重新设计问题，这种新的问题形式可能同样有效，甚至更好地精确测试[你真正想掌握的知识点](https://controlaltbackspace.org/memory/designing-precise-cards/#the-importance-of-asking-the-right-questions)。
+你可能采用了一种不太恰当的提问方式（例如，[使用枚举](https://controlaltbackspace.org/memory/designing-precise-cards/#questions-should-not-ask-you-to-enumerate-things)）。不妨尝试用一种更简单的方式重新设计问题，这种新的问题形式可能同样有效，甚至更好地精确测试[你真正想掌握的知识点](https://controlaltbackspace.org/memory/designing-precise-cards/#the-importance-of-asking-the-right-questions)。
 
 **解决方法**：适当修改卡片内容并重新加入复习计划，或者根据需要创建新卡片并删除旧卡片。
 
