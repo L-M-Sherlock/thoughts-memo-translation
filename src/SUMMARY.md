@@ -441,7 +441,7 @@
     * [液体橄榄和苹果手机；解决问题和发现问题；不确定性思维](andy/prose/Liquid%20olives%20and%20iPhones%20problemsolving%20and%20problemfinding%20The%20Uncertainty%20Mindset.md)
     * [记忆系统如何帮助解决问题](andy/prose/Memory%20systems%20and%20problemsolving%20practice.md)
     * [论学习的广度与深度](andy/prose/On%20breadth%20vs.%20depth%20in%20learning.md)
-    * [如何静下心来独立学习](andy/prose/On%20sitting%20down%20to%20study%20independently.md)
+    * [坐下来独立学习](andy/prose/On%20sitting%20down%20to%20study%20independently.md)
     * [Quantum Countrys suspiciously flat forgetting curves.md](andy/prose/Quantum%20Countrys%20suspiciously%20flat%20forgetting%20curves.md)
     * [思想工具的棘轮过程](andy/prose/Ratcheting%20progress%20in%20tools%20for%20thought.md)
     * [阅读理解与记忆系统](andy/prose/Reading%20comprehension%20and%20memory%20systems.md)
