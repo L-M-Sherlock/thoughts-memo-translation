@@ -984,7 +984,6 @@
       * [睡眠不足会放大学校的危害](woz/prose/problem-of-schooling/Sleep%20deprivation%20amplifies%20the%20harm%20of%20schooling.md)
       * [社会化中的社会群体](woz/prose/problem-of-schooling/Social%20groups%20in%20socialization.md)
       * [社会化模型](woz/prose/problem-of-schooling/Socialization%20model.md)
-      * [心怀杀机的学生](woz/prose/problem-of-schooling/Students%20with%20murder%20in%20mind.md)
       * [暑假滑坡折射学校教育之殇](woz/prose/problem-of-schooling/Summer%20slide%20is%20an%20indictment%20of%20school.md)
       * [强迫学校教育是一个失败的实验](woz/prose/problem-of-schooling/The%20failed%20experiment%20of%20coercive%20schooling.md)
       * [学校教育的绞索正在收紧](woz/prose/problem-of-schooling/The%20noose%20of%20schooling%20is%20tightening.md)
