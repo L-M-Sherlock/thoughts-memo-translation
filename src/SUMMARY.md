@@ -769,6 +769,7 @@
   * [优绩主义，众矢之的](scott/Targeting%20Meritocracy.md)
   * [关于天赋的寓言](scott/The%20Parable%20Of%20The%20Talents.md)
 * [soren]()
+  * [如何追赶积压的 Anki 复习任务](soren/Catching%20Up%20On%20Your%20Anki%20Reviews.md)
   * [如何应对记忆难点（Leech）](soren/Dealing%20with%20Leeches.md)
   * [设计明晰 Anki 卡片的规则](soren/Rules%20for%20Designing%20Precise%20Anki%20Cards.md)
 * [woz]()
