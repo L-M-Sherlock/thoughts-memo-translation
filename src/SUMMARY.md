@@ -500,7 +500,7 @@
   * [强制学校教育、焦虑，与所谓的「学习障碍」](gray/Forced%20Schooling%20Anxiety%20and%20Learning%20Disorders.md)
   * [反对教育根本变革的力量](gray/Forces%20Against%20Fundamental%20Educational%20Change.md)
   * [学校如何伤害学生？Kirsten Olson 列举了几种途径](gray/How%20Does%20School%20Wound%20Kirsten%20Olson%20Has%20Counted%20Some%20Ways.md)
-  * [早期学业训练如何阻碍智力发展](gray/How%20Early%20Academic%20Training%20Retards%20Intellectual%20Development.md)
+  * [早期学术训练如何阻碍心智发展](gray/How%20Early%20Academic%20Training%20Retards%20Intellectual%20Development.md)
   * [学校如何挫败激情](gray/How%20Schools%20Thwart%20Passions.md)
   * [赞美民科主义](gray/In%20Praise%20of%20Amateurism.md)
   * [Instead of 22Job Creation22 How About Less Work.md](gray/Instead%20of%2022Job%20Creation22%20How%20About%20Less%20Work.md)
