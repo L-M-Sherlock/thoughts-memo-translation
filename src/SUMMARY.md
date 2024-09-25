@@ -772,6 +772,7 @@
   * [如何追赶积压的 Anki 复习任务](soren/Catching%20Up%20On%20Your%20Anki%20Reviews.md)
   * [如何应对记忆难点（Leech）](soren/Dealing%20with%20Leeches.md)
   * [设计明晰 Anki 卡片的规则](soren/Rules%20for%20Designing%20Precise%20Anki%20Cards.md)
+  * [为什么你仍然需要掌握知识](soren/Why%20You%20Still%20Need%20To%20Know%20Things.md)
 * [woz]()
   * [faq]()
     * [常见问题：教育改革基本法](woz/faq/FAQ%20ABC%20Reform.md)
