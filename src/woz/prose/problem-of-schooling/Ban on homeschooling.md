@@ -1,4 +1,4 @@
-# 禁止在家上学
+# 在家上学禁令
 
 原文：[Ban on homeschooling - supermemo.guru](https://supermemo.guru/wiki/Ban_on_homeschooling)
 
