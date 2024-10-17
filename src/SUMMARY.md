@@ -336,7 +336,7 @@
       * [现有的间隔重复系统不鼓励常青笔记的创作](andy/note/spaced-repetition/Existing%20spaced%20repetition%20systems%20discourage%20evergreen%20notes.md)
       * [GPT-4 在指导下，通常能够从解释性文本中为陈述性知识生成可用的间隔重复卡片](andy/note/spaced-repetition/GPT4%20can%20often%20generate%20usable%20spaced%20repetition%20prompts%20for%20declarative%20knowledge%20from%20explanatory%20text%20with%20guidance.md)
       * [如果学生学习材料有困难，间隔重复记忆系统可以怎样干预？](andy/note/spaced-repetition/How%20might%20spaced%20repetition%20memory%20systems%20intervene%20when%20the%20student%20struggles%20with%20material.md)
-      * [以想法为核心的记忆系统](andy/note/spaced-repetition/Ideacentric%20memory%20system.md)
+      * [以想法为中心的记忆系统](andy/note/spaced-repetition/Ideacentric%20memory%20system.md)
       * [对于卡片生成任务，大型语言模型（LLM）缺乏为复杂概念材料编写卡片的模式](andy/note/spaced-repetition/In%20prompt%20generation%20LLMs%20lack%20promptwriting%20patterns%20for%20complex%20conceptual%20material.md)
       * [对于卡片生成任务，如果提供了编写卡片的原则，大型语言模型（LLM）的表现可能会有所提升](andy/note/spaced-repetition/In%20prompt%20generation%20LLMs%20may%20perform%20better%20when%20given%20promptwriting%20principles.md)
       * [对于卡片生成任务，如果提供了充足的上下文，大型语言模型（LLM）可能会表现得更好](andy/note/spaced-repetition/In%20prompt%20generation%20LLMs%20may%20perform%20better%20with%20ample%20context.md)
