@@ -574,7 +574,7 @@
   * [Politics and Rationality]()
     * [你的敌人生来就是邪恶的吗？](lesswrong/Politics%20and%20Rationality/Are%20Your%20Enemies%20Innately%20Evil.md)
     * [对应偏见](lesswrong/Politics%20and%20Rationality/Correspondence%20Bias.md)
-    * [政策辩论不应出现一边倒](lesswrong/Politics%20and%20Rationality/Policy%20Debates%20Should%20Not%20Appear%20OneSided.md)
+    * [政策辩论不应一边倒](lesswrong/Politics%20and%20Rationality/Policy%20Debates%20Should%20Not%20Appear%20OneSided.md)
     * [政治是思维杀手](lesswrong/Politics%20and%20Rationality/Politics%20is%20the%20MindKiller.md)
     * [反转的愚蠢不是智慧](lesswrong/Politics%20and%20Rationality/Reversed%20Stupidity%20Is%20Not%20Intelligence.md)
     * [正义的天平，理性的笔记](lesswrong/Politics%20and%20Rationality/The%20Scales%20of%20Justice%20the%20Notebook%20of%20Rationality.md)
