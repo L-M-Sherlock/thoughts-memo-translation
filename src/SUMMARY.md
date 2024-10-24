@@ -577,7 +577,7 @@
     * [政策辩论不应一边倒](lesswrong/Politics%20and%20Rationality/Policy%20Debates%20Should%20Not%20Appear%20OneSided.md)
     * [政治是思维杀手](lesswrong/Politics%20and%20Rationality/Politics%20is%20the%20MindKiller.md)
     * [反转的愚蠢不是智慧](lesswrong/Politics%20and%20Rationality/Reversed%20Stupidity%20Is%20Not%20Intelligence.md)
-    * [正义的天平，理性的笔记](lesswrong/Politics%20and%20Rationality/The%20Scales%20of%20Justice%20the%20Notebook%20of%20Rationality.md)
+    * [正义之为天平，理性之为笔记](lesswrong/Politics%20and%20Rationality/The%20Scales%20of%20Justice%20the%20Notebook%20of%20Rationality.md)
   * [还有两条要摒弃的学校思维](lesswrong/Two%20More%20Things%20to%20Unlearn%20from%20School.md)
 * [masterhowtolearn]()
   * [为什么学习的同时不该记笔记！—— 三个致命的原因](masterhowtolearn/3%20Fatal%20Reasons%20Why%20You%20SHOULDNT%20Be%20Taking%20Notes%20When%20Studying.md)
