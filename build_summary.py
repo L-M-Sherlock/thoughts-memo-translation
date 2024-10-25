@@ -38,11 +38,14 @@ def create_summary(markdown_files):
         for key, value in structure.items():
             if isinstance(value, dict):
                 # 这是一个目录
-                summary += f"{indent}* [{key}]()\n"
+                intro_path = os.path.relpath(value["intro.md"], current_dir).replace(" ", "%20")
+                summary += f"{indent}* [{key}]({intro_path})\n"
                 write_summary(value, indent + "  ")
             else:
                 # 这是一个文件
                 title = get_title(value)
+                if title == 'intro.md':
+                    continue
                 encoded_path = os.path.relpath(value, current_dir).replace(" ", "%20")
                 summary += f"{indent}* [{title}]({encoded_path})\n"
 

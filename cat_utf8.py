@@ -22,6 +22,12 @@ if __name__ == '__main__':
             files.remove('.DS_Store')
         except:
             pass
+
+        # Add an empty intro.md file to each directory
+        intro_file = Path(f'./src/{path[7:]}/intro.md')
+        intro_file.parent.mkdir(parents=True, exist_ok=True)
+        intro_file.touch()
+
         for file in files:
             print(file)
             try:
