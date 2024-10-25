@@ -48,8 +48,9 @@ jobs:
       - name: Upload epub artifact
         uses: actions/upload-artifact@v4
         with:
-          name: Thoughts Memo 翻译合集.epub
+          name: epub
           path: ./book/epub/Thoughts Memo 翻译合集.epub
+          compression-level: 0 # no compression
 
   # Deployment job
   deploy:
