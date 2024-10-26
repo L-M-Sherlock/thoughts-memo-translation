@@ -573,6 +573,7 @@
   * [学校教育的危害与希望](lesswrong/Harms%20and%20possibilities%20of%20schooling.md)
   * [Politics and Rationality](lesswrong/Politics%20and%20Rationality/intro.md)
     * [你的敌人生来就是邪恶的吗？](lesswrong/Politics%20and%20Rationality/Are%20Your%20Enemies%20Innately%20Evil.md)
+    * [论证屏蔽权威](lesswrong/Politics%20and%20Rationality/Argument%20Screens%20Off%20Authority.md)
     * [一致性偏见](lesswrong/Politics%20and%20Rationality/Correspondence%20Bias.md)
     * [政策辩论不应一边倒](lesswrong/Politics%20and%20Rationality/Policy%20Debates%20Should%20Not%20Appear%20OneSided.md)
     * [政治是思维杀手](lesswrong/Politics%20and%20Rationality/Politics%20is%20the%20MindKiller.md)
