@@ -768,6 +768,7 @@
   * [反对补贴郁金香](scott/AGAINST%20TULIP%20SUBSIDIES.md)
   * [别为个人智商操心](scott/Against%20Individual%20IQ%20Worries.md)
   * [提防只看一项研究的人](scott/Beware%20The%20Man%20Of%20One%20Study.md)
+  * [斗争（Conflict）Vs. 错误（Mistake）](scott/Conflict%20Vs.%20Mistake.md)
   * [教育私有化真的会带来灾难吗？](scott/Contra%20Robinson%20On%20Schooling.md)
   * [大学录取竞争日益激烈：比你想知道的要多得多](scott/INCREASINGLY%20COMPETITIVE%20COLLEGE%20ADMISSIONS%20MUCH%20MORE%20THAN%20YOU%20WANTED%20TO%20KNOW.md)
   * [就算孩子缺上几年学，日后也能赶上](scott/Kids%20Can%20Recover%20From%20Missing%20Even%20Quite%20A%20Lot%20Of%20School.md)

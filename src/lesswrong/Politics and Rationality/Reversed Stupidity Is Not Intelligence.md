@@ -1,6 +1,6 @@
 # 反转的愚蠢不是智慧
 
-https://www.readthesequences.com/Reversed-Stupidity-Is-Not-Intelligence
+原文：https://www.readthesequences.com/Reversed-Stupidity-Is-Not-Intelligence
 
 > 「……于是，我们的人开始在那条时间线上采取行动，竭力修正被扭曲的认知。你看这个。」
 
