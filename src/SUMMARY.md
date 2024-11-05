@@ -581,7 +581,7 @@
     * [政策辩论不应一边倒](lesswrong/Politics%20and%20Rationality/Policy%20Debates%20Should%20Not%20Appear%20OneSided.md)
     * [政治是思维杀手](lesswrong/Politics%20and%20Rationality/Politics%20is%20the%20MindKiller.md)
     * [理性与英语](lesswrong/Politics%20and%20Rationality/Rationality%20and%20the%20English%20Language.md)
-    * [反对愚蠢不等于智慧](lesswrong/Politics%20and%20Rationality/Reversed%20Stupidity%20Is%20Not%20Intelligence.md)
+    * [愚蠢的反面并非智慧](lesswrong/Politics%20and%20Rationality/Reversed%20Stupidity%20Is%20Not%20Intelligence.md)
     * [正义之为天平，理性之为笔记](lesswrong/Politics%20and%20Rationality/The%20Scales%20of%20Justice%20the%20Notebook%20of%20Rationality.md)
   * [还有两条要摒弃的学校思维](lesswrong/Two%20More%20Things%20to%20Unlearn%20from%20School.md)
 * [masterhowtolearn](masterhowtolearn/intro.md)
