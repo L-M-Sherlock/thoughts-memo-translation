@@ -574,7 +574,7 @@
   * [学校教育的危害与希望](lesswrong/Harms%20and%20possibilities%20of%20schooling.md)
   * [Politics and Rationality](lesswrong/Politics%20and%20Rationality/intro.md)
     * [你的敌人是生来邪恶吗？](lesswrong/Politics%20and%20Rationality/Are%20Your%20Enemies%20Innately%20Evil.md)
-    * [论证屏蔽权威](lesswrong/Politics%20and%20Rationality/Argument%20Screens%20Off%20Authority.md)
+    * [论证对权威的屏蔽效应](lesswrong/Politics%20and%20Rationality/Argument%20Screens%20Off%20Authority.md)
     * [一致性偏见](lesswrong/Politics%20and%20Rationality/Correspondence%20Bias.md)
     * [拥抱问题](lesswrong/Politics%20and%20Rationality/Hug%20the%20Query.md)
     * [人性之恶与思维混乱](lesswrong/Politics%20and%20Rationality/Human%20Evil%20and%20Muddled%20Thinking.md)
