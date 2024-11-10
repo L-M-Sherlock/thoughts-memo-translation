@@ -545,6 +545,7 @@
   * [不幸的焦虑型教育各有各的不幸](gray/The%20Many%20Shades%20of%20FearBased%20Parenting.md)
   * [最基本的自由是退出的自由](gray/The%20Most%20Basic%20Freedom%20Is%20Freedom%20to%20Quit.md)
   * [儿童自我教育的天然环境](gray/The%20Natural%20Environment%20for%20Childrens%20SelfEducation.md)
+  * [当今教育的真正问题？孩子们讨厌学校——原因在这里](gray/The%20Real%20Problem%20with%20Education%20Today%20Kids%20Hate%20School%20%20and%20Heres%20Why.md)
   * [重点学校对学生造成的巨大心理创伤](gray/The%20Toxic%20Consequences%20of%20Attending%20a%20HighAchieving%20School.md)
   * [玩耍的价值 I：玩耍的定义给人以启示](gray/The%20Value%20of%20Play%20I%20The%20Definition%20of%20Play%20Gives%20Insights.md)
   * [玩耍的价值 II：玩耍如何增强推理能力](gray/The%20Value%20of%20Play%20II%20How%20Play%20Promotes%20Reasoning.md)
