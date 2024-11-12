@@ -1,4 +1,4 @@
-## 自上而下，再自下而上
+# 自上而下，再自下而上
 
 原文：[Square Signals : Top to bottom; bottom to top (andymatuschak.org)](https://blog.andymatuschak.org/post/18851823748/top-to-bottom-bottom-to-top)
 
