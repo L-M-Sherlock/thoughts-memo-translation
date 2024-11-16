@@ -494,7 +494,7 @@
   * [D1. 我们如何解释过去 70 年青少年（高中生）自杀率的巨大变化？](gray/D1.%20How%20Might%20We%20Explain%20the%20Huge%20Changes%20in%20Suicide%20Rates%20for%20Teens%20Over%20the%20Past%207%20Decades.md)
   * [D2. 为什么 1950 年到 1990 年青少年（特别是男孩）自杀率急剧上升？](gray/D2.%20Why%20Did%20Teen%20Suicides%20Especially%20for%20Boys%20Increase%20Sharply%20from%201950%20to%201990.md)
   * [D3. 为何 1990 至 2005 年期间青少年（尤其是男孩）的自杀率大幅下降？](gray/D3.%20Why%20Did%20Teen%20Suicides%20Especially%20for%20Boys%20Decline%20Sharply%20from%201990%20to%202005.md)
-  * [D4. 从 1950 到 1990 年，孩子的自由在悄然流失，原因多多](gray/D4.%20The%20Decline%20in%20Kids%20Freedom%20from%201950%20to%201990%20was%20Gradual%20with%20Multiple%20Causes.md)
+  * [D4. 儿童的自由在 1950 至 1990 年间的渐进式衰退，及其多种原因](gray/D4.%20The%20Decline%20in%20Kids%20Freedom%20from%201950%20to%201990%20was%20Gradual%20with%20Multiple%20Causes.md)
   * [D5. 为什么 2008 年至 2019 年青少年自杀率急剧上升？](gray/D5.%20Why%20Did%20Teens%20Suicides%20Increase%20Sharply%20from%202008%20to%202019.md)
   * [D6. 日益增加的数字科技使用能否解释 2008 至 2019 年间青少年自杀率的急剧上升？](gray/D6.%20Can%20Increased%20Use%20of%20Digital%20Technology%20Explain%20the%20Sharp%20Rise%20in%20Teen%20Suicides%20from%202008%20to%202019.md)
   * [D7. 青少年使用社交媒体的益处和挑战及其应对](gray/D7.%20Benefits%20and%20Challenges%20of%20Social%20Media%20Use%20for%20Teens%20and%20How%20to%20Meet%20the%20Challenges.md)
