@@ -636,7 +636,7 @@
   * [科学的学习方法综述：哪些行之有效，哪些徒劳无功](other/Whatworkswhatdoesnt.md)
   * [为什么当代科学家都如此平庸乏味？浅析科学如何以牺牲智力与创造力为代价筛选毅力与合群](other/Why%20are%20modern%20scientists%20so%20dull%20How%20science%20selects%20for%20perseverance%20%20and%20sociability%20at%20the%20expense%20of%20intelligence%20and%20creativity.md)
 * [philosophynow](philosophynow/intro.md)
-  * [需要愤怒管理的斯多葛主义](philosophynow/Stoics%20in%20Need%20of%20Anger%20Management.md)
+  * [需要愤怒管理的斯多葛学派](philosophynow/Stoics%20in%20Need%20of%20Anger%20Management.md)
 * [refold](refold/intro.md)
   * [detailed](refold/detailed/intro.md)
     * [0A1：语言习得](refold/detailed/0A%20Language%20Acquisition.md)
