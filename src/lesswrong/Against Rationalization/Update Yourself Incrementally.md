@@ -2,7 +2,7 @@
 
 https://www.readthesequences.com/Update-Yourself-Incrementally\n
 
-政治是心智的杀手。辩论如同战争，[论点则是士兵](https://www.readthesequences.com/Politics-Is-The-Mind-Killer)。人们常常会受到诱惑，试图寻找各种方式来[解释每个实验结果](https://www.readthesequences.com/Belief-In-Belief)，以支持自己的理论，仿佛是在为堡垒抵御所有可能的攻击。然而，这种做法是不可行的，在数学上也是不可能的。[对于每个证据的期待，都会有一个相等且相反的反证据的期待](https://www.readthesequences.com/Politics-Is-The-Mind-Killer)。
+政治是思维的杀手。辩论即为战争，[论点皆为士兵](https://www.readthesequences.com/Politics-Is-The-Mind-Killer)。人们常常受到诱惑，想让[所有的实验结果]都能被解读为(https://www.readthesequences.com/Belief-In-Belief)是在印证自己所支持的理论，就像是在确保一座堡垒能抵御所有可能的进攻路线。这是不可行的。在数学上也是不可能的。[每一个由证据推导出来的预期，都存在一个相等且相反的反证预期](https://www.readthesequences.com/Conservation-Of-Expected-Evidence)。
 
 但是，如果你所珍视的信念没有得到**完美**的辩护，那也没关系。假设投掷硬币在 95% 的情况下都是正面，那么 20 次中，你会有 1 次看到相反的证据。这没关系，也很正常，甚至是意料之中的，只要你有 19 个支持的观察结果来对应 1 个相反的结果。一个概率模型可以[承受一两次冲击](https://www.greaterwrong.com/lw/ig/i_defy_the_data/)，只要这些冲击不会**持续**出现，它仍然能够有效。
 
