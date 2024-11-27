@@ -585,7 +585,7 @@
     * [规避你信念中的实际缺陷](lesswrong/Against%20Rationalization/Avoiding%20Your%20Beliefs%20Real%20Weak%20Points.md)
     * [Fake Justification.md](lesswrong/Against%20Rationalization/Fake%20Justification.md)
     * [了解偏见可能反而有害](lesswrong/Against%20Rationalization/Knowing%20About%20Biases%20Can%20Hurt%20People.md)
-    * [逐步提升自己](lesswrong/Against%20Rationalization/Update%20Yourself%20Incrementally.md)
+    * [逐步更新自己](lesswrong/Against%20Rationalization/Update%20Yourself%20Incrementally.md)
   * [谨防它山之石](lesswrong/Beware%20of%20OtherOptimizing.md)
   * [学校教育的危害与希望](lesswrong/Harms%20and%20possibilities%20of%20schooling.md)
   * [Politics and Rationality](lesswrong/Politics%20and%20Rationality/intro.md)
