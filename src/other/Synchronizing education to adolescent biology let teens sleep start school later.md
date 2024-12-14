@@ -10,7 +10,7 @@
 
 时间是人类生物学和教育领域的一个基本变量，但目前这两个学科衡量时间的方式截然不同。对于教育工作者而言，学生的发展是以年龄为标准，而每日的时间表则是由各国、各地区甚至各学校所规定的。与此相反，生物时间则是以身体发育的变化来衡量的，而一天之内的时间则是由我们的内部生物钟来调控的。从进化时间尺度看，机械钟表问世的历史极其短暂。因此，我们的运作效能（尤其是学习能力）遵循生理节奏，而非传统社会时间，这一点并不奇怪。
 
-当社会时间与生理时间在教育的早期阶段更为契合时，这种区别并不重要。相比之下，在青春期后期，社会时间与生物时间之间的冲突比我们生命中的任何时候都要大。在青春期，生物变化决定了睡眠时长应为九小时，以及较晚的起床和睡觉时间，这一现象也存在于其他哺乳动物中（Hagenauer 等人，https://www.tandfonline.com/doi/full/10.1080/17439884.2014.942666#；Rüger 等人，https://www.tandfonline.com/doi/full/10.1080/17439884.2014.942666#）。这些生理变化叠加到极致时，每个上学日将导致青少年睡眠时间减少两到三小时。因此，对于年龄较大的青少年来说，早上 7 点的闹钟相当于 50 多岁的教师早上 4 点 30 分起床。如果不根据这种生物变化调整教育时间表，就会导致系统性、长期和无法弥补的睡眠损失。在经历其他重大生理和神经系统变化的同时，这种程度的睡眠剥夺会严重损害青少年的生理、新陈代谢和心理健康。(Hansen 等人. [Citation2005](https://www.tandfonline.com/doi/full/10.1080/17439884.2014.942666#); Giedd [Citation2009](https://www.tandfonline.com/doi/full/10.1080/17439884.2014.942666#); Giedd et al. [Citation2012](https://www.tandfonline.com/doi/full/10.1080/17439884.2014.942666#); Sawyer et al. [Citation2012](https://www.tandfonline.com/doi/full/10.1080/17439884.2014.942666#); Sørensen et al. [Citation2012](https://www.tandfonline.com/doi/full/10.1080/17439884.2014.942666#); Foster et al. [Citation2013](https://www.tandfonline.com/doi/full/10.1080/17439884.2014.942666#))
+当社会时间与生理时间在教育的早期阶段更为契合时，这种区别并不重要。相比之下，在青春期后期，社会时间与生物时间之间的冲突比我们生命中的任何时候都要大。在青春期，生物变化决定了睡眠时长应为九小时，以及较晚的起床和睡觉时间，这一现象也存在于其他哺乳动物中（Hagenauer 等人，[Citation2009](https://doi.org/10.1159/000216538)；Rüger 等人，Rüger et al. [Citation2012](https://doi.org/10.1113/jphysiol.2012.239046)。这些生理变化叠加到极致时，每个上学日将导致青少年睡眠时间减少两到三小时。因此，对于年龄较大的青少年来说，早上 7 点的闹钟相当于 50 多岁的教师早上 4 点 30 分起床。如果不根据这种生物变化调整教育时间表，就会导致系统性、长期和无法弥补的睡眠损失。在经历其他重大生理和神经系统变化的同时，这种程度的睡眠剥夺会严重损害青少年的生理、新陈代谢和心理健康。(Hansen 等人. [Citation2005](https://publications.aap.org/pediatrics/article-abstract/115/6/1555/67418); Giedd [Citation2009](https://doi.org/10.1016/j.jadohealth.2009.07.007); Giedd et al. [Citation2012](https://link.springer.com/article/10.1186/2042-6410-3-19); Sawyer et al. [Citation2012](https://doi.org/10.1016/S0140-6736(12)60072-5); Sørensen et al. [Citation2012](https://doi.org/10.1159/000336325); Foster et al. [Citation2013](https://doi.org/10.1016/B978-0-12-396971-2.00011-7))
 
 大多数教育工作者并不理解提早上学时间对青少年的影响：人们普遍认为，青少年之所以感到疲倦、易怒且不合作，是因为他们选择熬夜太晚，或者早上难以叫醒是因为他们懒惰。教育工作者往往认为青少年在早上学习效果最好，只要他们早些睡觉，就能提高注意力。这些假设反映了社会对成年人中早起者的偏见，正如谚语所言：
 
@@ -18,7 +18,7 @@
 
 身体好
 
-这种观念在许多文化中都有体现，甚至在当今的商业世界也不例外（Czeisler [Citation2006](https://www.tandfonline.com/doi/full/10.1080/17439884.2014.942666#)；Roenneberg [Citation2012](https://www.tandfonline.com/doi/full/10.1080/17439884.2014.942666#)）。这种传统智慧促成了一个误解：认为青少年需要接受早起早睡的训练。实际上，成年人更需要接受教育，去适应青春期青少年身上另一个重要的生理变化:他们的睡眠模式会发生显著的生物学转变。
+这种观念在许多文化中都有体现，甚至在当今的商业世界也不例外（Czeisler [Citation2006](https://www.researchgate.net/profile/Charles-Czeisler/publication/40969635_Sleep_deficit_the_performance_killer/links/0deec52362372dcd27000000/Sleep-deficit-the-performance-killer.pdf)；Roenneberg [Citation2012](https://www.degruyter.com/document/doi/10.4159/harvard.9780674065482/html)）。这种传统智慧促成了一个误解：认为青少年需要接受早起早睡的训练。实际上，成年人更需要接受教育，去适应青春期青少年身上另一个重要的生理变化:他们的睡眠模式会发生显著的生物学转变。
 
 ## 昼夜节律系统、睡眠和青少年：学习、情绪与健康
 
