@@ -2,7 +2,7 @@
 
 原文：https://www.readthesequences.com/One-Argument-Against-An-Army
 
-我之前曾谈到这样一种推理方式——[因其不允许哪怕一丁点反面论据存在，结果就是必须设法否认一切对己不利的观点](https://www.readthesequences.com/Update-Yourself-Incrementally。在这里，我要指出，当人们遇到反对意见时，往往会通过**反复强调**已知的支持论据，以避免动摇自己的信心。
+我之前曾谈到这样一种推理方式——[因其不允许哪怕一丁点反面论据存在，结果就是必须设法否认一切对己不利的观点](https://www.readthesequences.com/Update-Yourself-Incrementally)。在这里，我要指出，当人们遇到反对意见时，往往会通过**反复强调**已知的支持论据，以避免动摇自己的信心。
 
 自由邦正在讨论其邻国，西尔瓦尼亚，是否应对近期多次陨石袭城事件负责。有几条证据指向这种可能：遭受陨石袭击的城市都临近西尔瓦尼亚边境；陨石坠落**前**，西尔瓦尼亚的股市曾出现过异常波动；还有人曾听见西尔瓦尼亚大使 Trentino 低声呢喃「上天的惩罚」。
 
