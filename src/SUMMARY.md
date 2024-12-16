@@ -571,7 +571,7 @@
   * [高效学习的间隔重复](gwern/Spaced%20Repetition%20for%20Efficient%20Learning%201.md)
   * [Spaced Repetition for Efficient Learning 2.md](gwern/Spaced%20Repetition%20for%20Efficient%20Learning%202.md)
   * [Spaced Repetition for Efficient Learning 3.md](gwern/Spaced%20Repetition%20for%20Efficient%20Learning%203.md)
-  * [[流行度](https://www.gwern.net/Spaced-repetition#popularity)](gwern/Spaced%20Repetition%20for%20Efficient%20Learning%204.md)
+  * [Spaced Repetition for Efficient Learning 4.md](gwern/Spaced%20Repetition%20for%20Efficient%20Learning%204.md)
   * [Spaced Repetition for Efficient Learning 5.md](gwern/Spaced%20Repetition%20for%20Efficient%20Learning%205.md)
   * [技术圣战实为协调难题](gwern/Technology%20Holy%20Wars%20are%20Coordination%20Problems.md)
   * [亚文化社会的忧郁](gwern/The%20Melancholy%20of%20Subculture%20Society.md)
