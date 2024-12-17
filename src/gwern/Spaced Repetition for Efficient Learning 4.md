@@ -118,11 +118,11 @@ SuperMemo 不适用这些评分，但在软件发布的 20 年里，SuperMemo �
 
 似乎可以放心地估计，Anki、Mnemosyne、iSRS 和其他 SRS 应用程序的市场份额加起来不到 5 万名用户（考虑到多次安装的用户、安装并放弃它的用户等可能有一些出入）。很少用户从 SuperMemo 迁移到那些新程序上，所以简单地将两个五万相加，便能合理地得出结论，SRS 的全球用户量大约在 10 万左右（但可能在 10 万以下）。
 
-# [我该何去何从？](https://www.gwern.net/Spaced-repetition#where-was-i-going-with-this)
+## [我该何去何从？](https://www.gwern.net/Spaced-repetition#where-was-i-going-with-this)
 
 无所归依，说真的。Mnemosyne/SR 等软件只是我最喜欢的工具之一：它基于科学发现的著名效应[67](https://www.gwern.net/Spaced-repetition#sn67)，并优雅地利用这个效应[68](https://www.gwern.net/Spaced-repetition#sn68)，而且很有用处。SR 软件践行了启蒙运动的理想，即以理性改善人性，克服人类缺陷；SR 的思想具有数学上的严谨性，因而极富诱惑力[69](https://www.gwern.net/Spaced-repetition#sn69)⁠。环视当下，「自我改善」共日新月异受人嘲弄，阴郁消沉纷引常人拥趸，日常生活之中，仍有此例，以证仍有拾级而上之人，实在可喜。此例比起爱迪生反反复复研发灯泡，尚显新奇有趣。
 
-# [另见](https://www.gwern.net/Spaced-repetition#see-also)…
+## [另见](https://www.gwern.net/Spaced-repetition#see-also)…
 
 在使用 Mnemosyne 的过程中，我编写了许多脚本来生成有规律的卡片。
 
@@ -140,7 +140,7 @@ SuperMemo 不适用这些评分，但在软件发布的 20 年里，SuperMemo �
 
 多年来，Mnemosyne 项目一直在收集用户提交的间隔重复统计数据。截至 2014-01-27 的完整数据集[可供任何想要分析它的人下载](https://archive.org/details/20140127MnemosynelogsAll.db)。
 
-# [外部链接](https://www.gwern.net/Spaced-repetition#external-links)
+## [外部链接](https://www.gwern.net/Spaced-repetition#external-links)
 
 - Michael Nielsen: [“Augmenting Long-term Memory”](http://augmentingcognition.com/ltm.html)⁠; [“Using spaced repetition systems to see through a piece of mathematics”](http://cognitivemedium.com/srs-mathematics)⁠; [“Quantum computing for the very curious”](https://quantum.country/qcvc/)⁠; [“How can we develop transformative tools for thought?”](https://numinous.productions/ttft/)
 
