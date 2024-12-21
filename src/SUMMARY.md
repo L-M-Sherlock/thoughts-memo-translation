@@ -596,7 +596,7 @@
     * [什么样的证据会筛选其他证据？](lesswrong/Against%20Rationalization/What%20Evidence%20Filtered%20Evidence.md)
   * [谨防它山之石](lesswrong/Beware%20of%20OtherOptimizing.md)
   * [学校教育的危害与希望](lesswrong/Harms%20and%20possibilities%20of%20schooling.md)
-  * [链接总结：《行为遗传学中的 10 大重复验证发现》](lesswrong/Link%20Summary%20Top%2010%20Replicated%20Findings%20from%20Behavioral%20Genetics.md)
+  * [链接总结：《行为遗传学十大可重复发现》](lesswrong/Link%20Summary%20Top%2010%20Replicated%20Findings%20from%20Behavioral%20Genetics.md)
   * [Politics and Rationality](lesswrong/Politics%20and%20Rationality/intro.md)
     * [你的敌人是生来邪恶吗？](lesswrong/Politics%20and%20Rationality/Are%20Your%20Enemies%20Innately%20Evil.md)
     * [论证对权威的屏蔽效应](lesswrong/Politics%20and%20Rationality/Argument%20Screens%20Off%20Authority.md)
