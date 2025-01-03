@@ -641,7 +641,6 @@
   * [一位数学家的哀歌](other/A%20Mathematicians%20Lament.md)
   * [Anki 卡片设计研究：学习统计学](other/Anki%20Design%20Study%20Learning%20Statistics.md)
   * [别跟教材客气：优质（数学）书籍挑选指南](other/Be%20ruthless%20for%20textbooks%20A%20guide%20for%20finding%20a%20good%20math%20book.md)
-  * [非凡人物的童年生活](other/Childhoods%20of%20exceptional%20people.md)
   * [教育军备竞赛正在让韩国破产](other/Education%20arms%20race%20is%20bankrupting%20Korea.md)
   * [有效的间隔重复](other/Effective%20Spaced%20Repetition.md)
   * [杰出科学家在学校丧失动力：一种不治之症？](other/Eminent%20Scientists%20Demotivation%20in%20School.md)
