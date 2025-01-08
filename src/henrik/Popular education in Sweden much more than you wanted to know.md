@@ -6,19 +6,19 @@
 
 其中一个学习场所是一座废弃的教堂，我和朋友们将其改造成录音室；我们获得了一个学习协会的资助，亲自动手进行了翻修。在另一个场所，我向一位来自蒙彼利埃的法国侨民学习法语。我们还组织公开讲座——有一次，令我们自己都大吃一惊的是，我们竟然成功邀请到了时任联合国秘书长潘基文在 Uppsala 进行演讲。我还和一群人一起研究苏联电影，令人不安的是，其中相当一部分人会在放映前唱《斯大林颂》。
 
-离开瑞典后，我才意识到并非每个人都能如此成长。我非常怀念那段时光。事实上，如果整个瑞典即将毁于一旦，而我只能拯救一样东西，我可能会选择保留 [folkbildningsrörelsen](https://sv.wikipedia.org/wiki/Folkbildning)（民众教育运动）。
+离开瑞典后，我才意识到并非每个人都能如此成长。我非常怀念那段时光。事实上，如果整个瑞典即将毁于一旦，而我只能拯救一样东西，我可能会选择保留 **[folkbildningsrörelsen](https://sv.wikipedia.org/wiki/Folkbildning)**（民众教育运动）。
 
-Folkbildningsrörelsen：这是我们对一种独特教育运动的称呼，它包括自组织学习小组、资源中心、创客空间、公开讲座和促进个人发展的免费静修活动。
+**Folkbildningsrörelsen**：这是我们对一种独特教育运动的称呼，它包括自组织学习小组、资源中心、创客空间、公开讲座和促进个人发展的免费静修活动。
 
-虽然其他国家也有类似的活动，但无论是规模还是影响力都远远不及瑞典。
+虽然其他国家也有类似的活动，但规模都远不及瑞典。
 
-要理解 folkbildningsrörelsen 的全面性，不妨这样想象：瑞典的人口大约相当于纽约市。如果纽约市的每个居民都能像我成长的瑞典小镇那样享有同等数量的免费资源中心，那么曼哈顿的景象将会是这样的：
+为了更好地理解 **folkbildningsrörelsen** 的广泛性，不妨这样想象：瑞典的人口大约相当于纽约市。如果纽约市的每个居民都能像我成长的瑞典小镇那样享有同等数量的免费资源中心，那么曼哈顿的景象将会是这样的：
 
 ![img](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe39c7ffe-9779-439f-8e2e-0d39d889c398_867x997.jpeg)
 
 我原本计划绘制整个纽约的地图，但画了如此多的小圆点后，我的手开始酸痛，最终只完成了曼哈顿最南端的一小部分。
 
-每隔一个街区，就会有几个房间，你可以进去获得资金购买书籍或使用所需工具。（实际上，城市中的资源中心往往集中在较大的场所，但这幅图仍然真实反映了[瑞典 7.5% 经常参与学习协会活动的人口的日常生活](https://books.google.dk/books?id=s4eLBQAAQBAJ&hl=da&source=gbs_navlinks_s)。）
+在每个交叉口附近，都有几个房间，你可以进入其中，领取一些钱，用于购买书籍或获取所需的工具。（实际上，这些城市中的资源中心往往集中在较大的场所，但这幅图仍然真实反映了[瑞典 7.5% 经常参与学习协会活动的人口的日常生活](https://books.google.dk/books?id=s4eLBQAAQBAJ&hl=da&source=gbs_navlinks_s)。）
 
 从个人经历来说，我参与过的这些空间给人的感觉更像是小众网络论坛，而非传统学校。虽然也有一些令人讨厌的人、怪人和另类分子，但我们能够进行超越学校范围的深度交流。当我进入大学后，研讨会反而常常让我感觉像是在演戏。在我们那些往往破旧不堪的建筑里（就像在网络社区中一样），我们并没有把所做的事情视为**学习**。
 
@@ -26,25 +26,25 @@ Folkbildningsrörelsen：这是我们对一种独特教育运动的称呼，它�
 
 ## 这一切是如何开始的呢？
 
-在 19 世纪，当这些教育机构及其资金支持体系开始建立时，主要的推动力来自德国的[Bildung](https://en.wikipedia.org/wiki/Bildung)（陶冶）传统。
+在 19 世纪，当这些教育机构及其资金支持体系开始建立时，主要的推动力来自德国的[Bildung](https://en.wikipedia.org/wiki/Bildung)（教育）传统。
 
-从词源上看，Bildung 意味着按照上帝的形象（das Bild）塑造自己。在这里，上帝应被想象成一个极具自制力的超然存在——能控制自己的情绪，心智和情感和谐统一，并愿意承担个人道德责任。可以想象成伯特兰·罗素，只是不那么无神论，而且坐在云端。
+从词源上看，**Bildung** 意味着按照上帝的形象（**das Bild**）塑造自己。在这里，上帝应被想象成一个极具自制力的超然存在——能控制自己的情绪，心智和情感和谐统一，并愿意承担个人道德责任。可以想象成伯特兰·罗素，只是不那么无神论，而且坐在云端。
 
 ![Bertrand Russell - Wikipedia](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafb12c03-f158-4449-9ec0-b496d376a55e_1583x1997.jpeg)
 
 就是这个样子。
 
-最初，Bildung 带有浓厚的资产阶级色彩，仿佛散发着粗花呢西装和皮革肘部补丁的气息。但在 19 世纪初，[Johann Heinrich Pestalozzi](https://en.wikipedia.org/wiki/Johann_Heinrich_Pestalozzi)、[N.F.S. Grundtvig](https://en.wikipedia.org/wiki/N._F._S._Grundtvig) 和 [Johann Friedrich Herbart](https://en.wikipedia.org/wiki/Johann_Friedrich_Herbart) 等思想家找到了向农民和普通工人推广 Bildung 的方法——一种平民化的 Bildung，在瑞典语中称为 folkbildning。这就是在瑞典扎根的传统：一场旨在让普通民众也能按照伯特兰·罗素形象塑造自己的运动。
+最初，**Bildung** 带有浓厚的资产阶级色彩，仿佛散发着粗花呢西装和皮革肘部补丁的气息。但在 19 世纪初，[Johann Heinrich Pestalozzi](https://en.wikipedia.org/wiki/Johann_Heinrich_Pestalozzi)、[N.F.S. Grundtvig](https://en.wikipedia.org/wiki/N._F._S._Grundtvig) 和 [Johann Friedrich Herbart](https://en.wikipedia.org/wiki/Johann_Friedrich_Herbart) 等思想家找到了向农民和普通工人推广 **Bildung** 的方法——一种平民化的 **Bildung**，在瑞典语中称为 **folkbildning**。这就是在瑞典扎根的传统：一场旨在让普通民众也能按照伯特兰·罗素形象塑造自己的运动。
 
-[folkbildning’s](https://sv.wikipedia.org/wiki/Folkbildning) 在英语[维基百科](https://sv.wikipedia.org/wiki/Folkbildning)页面上被译为 [popular education](https://en.wikipedia.org/wiki/Popular_education)（大众教育）。这个翻译并不十分准确。「大众教育」一词带有强烈的政治色彩——维基百科页面提到「阶级、政治斗争和社会变革」——这与当今北欧国家的实际情况并不完全吻合。虽然学习协会源于各种大众运动（自由教会运动，随后是戒酒运动和劳工运动），这些运动涵盖了不同的政治立场。而且，正如我们将看到的，他们发展出的学习体系很快就超越了最初的政治目标。
+[folkbildning’s](https://sv.wikipedia.org/wiki/Folkbildning) 在英语[维基百科](https://sv.wikipedia.org/wiki/Folkbildning)页面上被译为 [popular education](https://en.wikipedia.org/wiki/Popular_education)（民众教育）。这个翻译并不十分准确。「民众教育」一词带有强烈的政治色彩——维基百科页面提到「阶级、政治斗争和社会变革」——这与当今北欧国家的实际情况并不完全吻合。虽然学习协会源于各种大众运动（自由教会运动，随后是戒酒运动和劳工运动），这些运动涵盖了不同的政治立场。而且，正如我们将看到的，他们发展出的学习体系很快就超越了最初的政治目标。
 
 ## 为农民打造智力殿堂
 
-自 17 世纪以来，瑞典就兴起了各种普及教育运动。其中最引人注目的莫过于被称为「读书人」的群体。这些人不仅为农民组织阅读课程，还秘密创办了图书馆。然而，拥有强制性阅读教育体系的国家当局，出于对自由阅读可能引发社会动荡的担忧，对这些「读书人」进行了迫害。
+自 17 世纪以来，瑞典就兴起了各种民众教育运动。其中最引人注目的莫过于被称为「读书人」的群体。这些人不仅为农民组织阅读课程，还秘密创办了图书馆。然而，拥有强制性阅读教育体系的国家当局，出于对自由阅读可能引发社会动荡的担忧，对这些「读书人」进行了迫害。
 
-到了19世纪，大众教育运动逐渐发展成为一股不容忽视的社会力量。这一变革始于[民众高等学校](https://en.wikipedia.org/wiki/Folk_high_school) （folkhögskolor）的诞生。这种新型教育机构首先出现在丹麦的 Ryslinge。1851 年，Christen Kold 在那里创办了一所学校，其理念源自 [N.F.S. Grundtvig](https://en.wikipedia.org/wiki/N._F._S._Grundtvig) 的构想——一种面向底层民众的高等教育机构，不设年级划分，以讨论为主要教学方式。
+到了 19 世纪，民众教育运动逐渐发展成为一股不容忽视的社会力量。这一变革始于[民众高等学校](https://en.wikipedia.org/wiki/Folk_high_school) （**folkhögskolor**）的诞生。这种新型教育机构首先出现在丹麦的 Ryslinge。1851 年，Christen Kold 在那里创办了一所学校，其理念源自 [N.F.S. Grundtvig](https://en.wikipedia.org/wiki/N._F._S._Grundtvig) 的构想——一种面向底层民众的高等教育机构，不设年级划分，以讨论为主要教学方式。
 
-民众高等学校多坐落于风景如画的地区，这并非为了给城市居民提供一处浪漫的休闲胜地，而是为了贴近他们的主要服务对象——农民。在[《北欧的秘密》](https://www.nordicsecret.org/)一书中，Andersen 和 Björkman 指出，民众高等学校实际上是一片促进自我发展的沃土，其理念与 [Robert Kegan](https://en.wikipedia.org/wiki/Robert_Kegan) 的理论有异曲同工之妙。这些学校致力于为生活在简朴小型社区中的人们创造条件，帮助他们培养在现代社会中游刃有余所需的知识和心理素质。为此，学校特别注重讨论、实用技能培养和情景模拟训练。
+民众高等学校多坐落于风景优美的地区，这并非为了给城市居民提供一处浪漫的休闲胜地，而是为了贴近他们的主要服务对象——农民。在[《北欧的秘密》](https://www.nordicsecret.org/)一书中，Andersen 和 Björkman 指出，民众高等学校是类似于 [Robert Kegan](https://en.wikipedia.org/wiki/Robert_Kegan) 的所描述的**自我发展之地**。这些学校致力于为生活在简朴小型社区中的人们创造条件，帮助他们培养在现代社会中游刃有余所需的知识和心理素质。为此，学校特别注重讨论、实用技能培养和情景模拟训练。
 
 瑞典最早的民众高等学校——Hvilan、Önnestads 和 Herrestad——创办于 1868 年，比丹麦晚了 17 年，看似与丹麦的这一运动并无关联。
 
