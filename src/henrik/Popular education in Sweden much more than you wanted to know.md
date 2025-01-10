@@ -1,4 +1,4 @@
-# 瑞典的大众教育：比你想知道的要多得多
+# 瑞典的民众教育：比你想知道的要多得多
 
 原文：[Popular education in Sweden: much more than you wanted to know](https://www.henrikkarlsson.xyz/p/popular-education-in-sweden-much)
 
