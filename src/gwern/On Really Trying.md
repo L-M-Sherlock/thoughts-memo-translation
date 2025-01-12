@@ -272,6 +272,8 @@ https://www.wired.com/wiredscience/2013/03/computers-and-math/all/
 
 [「归因的困境」](https://www.nobelprize.org/nobel_prizes/physics/laureates/2004/politzer-lecture.pdf) by H. David Politzer; Nobel Lecture, December 8, 2004
 
+[《研究人员用来破解数千个 RSA 密钥的（几乎）秘密算法》](https://algorithmsoup.wordpress.com/2019/01/15/breaking-an-unbreakable-code-part-1-the-hack/)
+
 > 乍一看，这似乎就是全部内容了。然而，仔细研读他们的论文后，却发现了一些令人不解的地方。根据作者的说法，他们能够在单个处理器核心上，仅用几个小时就完成了整个计算过程。但粗略估算表明，计算 36 万亿对密钥之间的最大公约数理应需要数年时间，而非几小时。
 
 >
@@ -321,6 +323,8 @@ https://www.wired.com/wiredscience/2013/03/computers-and-math/all/
 > 在考虑 Robič 经历时，三个事实很清楚：他几乎不知疲倦，他偶尔会发疯，前两个事实以某种方式联系在一起。问题是，如何实现？他失去理智是因为把自己逼得太远，还是因为他失去了理智而把自己逼得太远？罗比奇是老问题的最新体现，也许也是最有趣的体现：当人体被推到其耐力的极限时会发生什么？突破点在哪里？当你越过终点线时会发生什么？
 
 >
+
+[RAAM]的获胜者，能够在九天内以超过13英里的平均时速，每天骑行350英里完成比赛。 不过，最值得关注的不是获胜者，而是近50%未完成比赛的人，已经达到了生理极限的他们就像散架了一样累倒在地。
 
 >
 

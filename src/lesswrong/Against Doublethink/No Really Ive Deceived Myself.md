@@ -1,4 +1,4 @@
-# 不，真的，我欺骗了自己
+# 不，原来，我欺骗了自己
 
 原文：[No, Really, I’ve Deceived Myself](https://www.readthesequences.com/No-Really-Ive-Deceived-Myself)
 
