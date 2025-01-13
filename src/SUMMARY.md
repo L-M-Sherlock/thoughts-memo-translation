@@ -597,7 +597,7 @@
     * [别以为你能骗得了自己](lesswrong/Against%20Doublethink/Dont%20Believe%20Youll%20SelfDeceive.md)
     * [双重思想（选择拥有偏见）](lesswrong/Against%20Doublethink/Doublethink%20Choosing%20to%20be%20Biased.md)
     * [摩尔悖论](lesswrong/Against%20Doublethink/Moores%20Paradox.md)
-    * [不，真的，我欺骗了自己](lesswrong/Against%20Doublethink/No%20Really%20Ive%20Deceived%20Myself.md)
+    * [不，原来，我欺骗了自己](lesswrong/Against%20Doublethink/No%20Really%20Ive%20Deceived%20Myself.md)
     * [单重思想](lesswrong/Against%20Doublethink/Singlethink.md)
   * [Against Rationalization](lesswrong/Against%20Rationalization/intro.md)
     * [理性的论证](lesswrong/Against%20Rationalization/A%20Rational%20Argument.md)
