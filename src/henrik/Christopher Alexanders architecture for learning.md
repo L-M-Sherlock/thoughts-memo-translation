@@ -2,71 +2,71 @@
 
 原文：[Christopher Alexander's architecture for learning](https://www.henrikkarlsson.xyz/p/christopher-alexanders-architecture?s=w)
 
-2022 年 3 月 17 日，建筑师兼数学家 Christopher Alexander 去世。[Alexander](https://en.wikipedia.org/wiki/Christopher_Alexander) 的学术影响力远超建筑和城市规划领域，他推动了现代软件开发中的几个核心观念，比如维基(wikis)、敏捷(agile)和面向对象编程(object-oriented programming)。但他的主要贡献还在本地的建筑上，这种建筑没有建筑师参与，房屋是逐渐由居住其中的人建造的。
+2022 年 3 月 17 日，建筑师兼数学家 Christopher Alexander 去世。[Alexander](https://en.wikipedia.org/wiki/Christopher_Alexander) 的学术影响力远超建筑和城市规划领域，他推动了现代软件开发中的几个核心观念，比如维基(wikis)、敏捷(agile)和面向对象编程(object-oriented programming)。但他的主要贡献还在乡土建筑上，这种建筑没有建筑师参与，房屋是由居住其中的人逐渐建造的。
 
-[Christopher Alexander 正在建造美的遗产](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4f6e2770-ebcd-42d0-a168-b81c8d22df74_2000x1328.jpeg)
+[Christopher Alexander 正在建造「美」的遗产](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4f6e2770-ebcd-42d0-a168-b81c8d22df74_2000x1328.jpeg)
 
 ![Christopher Alexander is Building a Legacy in Beauty | ArchDaily](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2283c61-c2d7-4dea-8c2d-2a010a78233c_528x589.jpeg)
 
-为了纪念他，我想趁此机会思考一些他的观点，它们对我影响至深：建筑如何能够释放社会中的学习潜力。我们如何才能确保所需的知识代代相传？
+为了纪念他，我想趁此机会思考一些他的观点，它们对我影响至深：建筑如何释放社会中的学习潜力。我们如何才能确保所需的知识代代相传？
 
-知识代代相传的根本要满足三个条件。首先，年轻人要接触到他们将要掌握的环境，以便通过模仿来学习。其次，对于难以模仿学习的技能，需要有意的指导。最后，为了在情感上加以援助，我们需要房子，以便孩子在家庭外寻求庇护，或在父母忙碌时得到帮助。
+知识代代相传根本上要满足三个条件。首先，年轻人要接触到他们将要熟悉适应的环境，以便通过模仿来学习。其次，对于难以学习模仿的技能，需要刻意的指导。最后，为了在情感上加以援助，我们需要房屋，以便孩子在家庭中寻求庇护，父母在忙碌时得到帮助。
 
-这些观点本身并非独创；学校至少会尝试实现后两项。更引人注目的是 Alexander 解决问题的彻底方式。他提出的不是一种新型学校，而是一系列建筑**模式**，将这些功能巧妙地融入社会结构中。获取环境资源、有意识的指导和安全的家庭环境将无缝地成为生活的一部分——一个「极度去中心化的教育系统」，以至于它「与城市结构本身融为一体」。
+这些观点并不新颖，至少学校会尝试后两项。更引人注目的是 Alexander 要如何彻底解决它们。他提倡的不是新型学校，而是一系列的建筑**模式**，将这些功能巧妙融入到社会结构中。接触环境、刻意指导和安全的家庭环境将无缝融入生活的方方面面，形成「彻底去中心化的教育系统」，以至于「同城市结构融为一体」。
 
 这一理念的核心是他称之为**学习网络**的模式。
 
-Alexander 最清晰地阐述其学习理念的著作是 1977 年的经典之作《[一种模式语言：城镇、建筑、构造](https://en.wikipedia.org/wiki/A_Pattern_Language)》，这本书由他与 [Sara Ishikawa](https://en.wikipedia.org/wiki/Sara_Ishikawa) 和 [Murray Silverstein](https://en.wikipedia.org/wiki/Murray_Silverstein) 合著。
+Alexander 最清晰地阐述其学习理念的著作是 1977 年的经典之作《[建筑模式语言：城镇·建筑·构造](https://en.wikipedia.org/wiki/A_Pattern_Language)》，这本书由他与 [Sara Ishikawa](https://en.wikipedia.org/wiki/Sara_Ishikawa) 和 [Murray Silverstein](https://en.wikipedia.org/wiki/Murray_Silverstein) 合著。
 
-这是一部独特的著作：一本指导如何构建现代化中世纪城邦的《选择你自己的冒险》指南。
+这是一部独特的巨著：像《选择你的冒险》一样，教你如何构建现代化中世纪城邦。
 
-它的涵盖范围和细节令人叹为观止。连同其配套作品，《[建筑的永恒之道](https://en.wikipedia.org/wiki/The_Timeless_Way_of_Building)》和《[俄勒冈实验](https://en.wikipedia.org/wiki/The_Oregon_Experiment)》，这套著作共计 1912 页，包含 253 个建筑「模式」。每个模式描述「一个在我们环境中反复出现的问题，然后阐述解决该问题的核心方法，使你能够以无数种方式应用这个解决方案，而每次应用都是独一无二的」。这些模式涵盖了从宏观到微观的各个方面——从如何将世界各国划分为城邦并将它们纳入世界联邦，到如何防止杂草从石墙中生长，以及如何选择合适的颜色（红色、黄色和棕色！）来营造温馨的室内氛围。
+它的涵盖范围和细节令人叹为观止。连同其配套作品，《[建筑的永恒之道](https://en.wikipedia.org/wiki/The_Timeless_Way_of_Building)》和《[俄勒冈实验](https://en.wikipedia.org/wiki/The_Oregon_Experiment)》，这套著作共 1912 页，包含 253 个建筑「模式」。每个模式描述「一个在我们环境中反复出现的问题，然后阐述解决该问题的核心方法，使你能够以无数种方式应用这个解决方案，每次应用都独一无二」。这些模式涵盖了从宏观到微观的各个方面——从如何将世界各国划分为城邦并纳入世界联邦，到如何防止杂草从石墙中生长，以及如何选择合适的颜色（红色、黄色和棕色！）来营造温馨的室内氛围。
 
-这些模式主要源于对历史上那些不仅运作良好，还充满生机活力的场所的细致观察——Alexander 及其学生实际上是在进行一种关于本土建筑的人类学研究。
+这些模式大多源自对历史上各地的细致观察，这些地方运转良好，充满活力——Alexander 及其学生是在做一种本土民间建筑的民族志研究。
 
-书中最为基础的教育模式（[18：学习网络](https://www.iwritewordsgood.com/apl/patterns/apl018.htm)）源自 [Ivan Illich](https://en.wikipedia.org/wiki/Ivan_Illich) 的思想。这位天主教神父兼历史学家因其对制度化照护的尖锐批评而闻名。Illich 提出将学校——制度化照护及其弊端的典型代表——彻底革新，转而引入**[学习网络](http://moz-extension://ae9c387b-e35d-3243-992e-5da5b6bbcaea/pdfjs/viewer.html?file=http%3A%2F%2Flcl.media.mit.edu%2Fresources%2Freadings%2Fdeschooling-ch6.pdf)**的概念。Alexander 采纳了这一理念并将其转化为设计模式。他的做法类似于面向对象编程中从类创建对象的过程：他通过引用长达数页的原文创建了 Illich 理念的一个具体实例，然后着手修改它。我稍后会详细讲解他是如何修改的。但首先，让我们看看 Alexander 和他的合作者从 Illich 那里继承了什么。
+书中最基本的教育模式 （[18：学习网络](https://www.iwritewordsgood.com/apl/patterns/apl018.htm)） 源自天主教神父、历史学家 [Ivan Illich](https://en.wikipedia.org/wiki/Ivan_Illich) ，他以批判体制化的看护而闻名。Illich 曾提出要彻底颠覆学校这个体制化看护及其弊病的典型，转而引入**[学习网络](http://moz-extension://ae9c387b-e35d-3243-992e-5da5b6bbcaea/pdfjs/viewer.html?file=http%3A%2F%2Flcl.media.mit.edu%2Fresources%2Freadings%2Fdeschooling-ch6.pdf)。Alexander 采纳了这一理念，并将其转化为设计模式。他的做法类似于面向对象编程中从类创建对象的过程：他通过引用数页的原文，创建了 Illich 理念的一个实例，然后着手修改。我稍后会详细讲解他是如何修改的，但首先让我们看看 Alexander 及伙伴们从 Illich 那里继承了什么。
 
-学习网络模式的基本思想源于一个重要观察：**我们所掌握的大部分知识并非通过正规教育体系**——如学校——**习得，而是简单地通过生活学到的。**我们在不知不觉中吸收周围的文化；我们从阅读博客中获取信息；我们在 YouTube 上观看教学视频；我们通过与朋友交流来理解事物。通过这种方式，大多数知识传递给我们**并非通过固定课程**，而是**通过与他人及其创造物之间分散的连接网络**。
+学习网络模式的基本思想源于一个重要观察：**我们所掌握的大部分知识并非通过正规教育体系**——如学校——习得，**而是简单通过生活学到的。**我们吸收周围的文化，阅读博客获取信息，观看油管教学视频，与朋友交理解事物。大部分知识以这种方式传递给我们，**不是通过课程**，而是**以去中心化的网络，连接着其他人及其创造的事物**。
 
-Alexander 指出，通过有意识地设计基础设施和服务来促进这些连接的发展，我们可以创造一个「生活即学习」的社会。通过精心打造适当的基础设施，我们可以**激发**甚至**释放**学习潜能。
+Alexander 指出，通过有意识地设计基础设施和服务来促进这些连接的增长，我们可以创造一个「生活即学习」的社会。通过精心打造适当的基础设施，我们可以**激发**甚至**释放**学习潜能。
 
-他引用 Illich 的话指出，我们的目标并非「通过学校实现社会控制」，而是要「通过网络促进社会自愿参与」，这些网络能为学习提供全面的资源获取渠道。
+他引用 Illich 的话指出，我们的目标并非「通过学校实现社会控制」，而是「提供可访问全面学习资源的网络，促进自愿的社会参与。」
 
-因此，这种模式与现代社会采用的教育模式之间的根本区别在于：网络模式中的学习是**自愿的**，而学校模式中的学习是**强制的**。这种从强制到自愿的转变彻底重塑了整个设计理念。我们不再试图主导学习过程，而是要致力于消除学习障碍。正如我在其他文章中所论述的，我们必须[激活学习系统](https://escapingflatland.substack.com/p/learningsystem?s=w)。
+这种模式与现代社会教育模式的主要区别在于：网络模式中的学习是**自愿的**，而在学校模式则是**强制的**。这种从强制到自愿的转变，重塑了整个（学习的）设计理念。我们不再试图主导学习，而是致力于消除学习障碍。正如我在其他文章中论述的，我们必须[激活学习系统](https://escapingflatland.substack.com/p/learningsystem?s=w)。
 
-那么，Illich 和 Alexander 的观点有何不同？区别在于他们促进自愿学习的方式。Illich 强调建立参考图书馆和服务系统，让人们能够获取工具、信息、导师，以及志同道合的同伴。而 Alexander 更关注设计能够鼓励人们**公开工作**的环境，使他们的知识能够被他人看到和学习。
+那么，Illich 和 Alexander 的观点有何不同？区别在于他们促进自愿学习的方式。Illich 强调建立参考图书馆和服务系统，让人们能够获取工具、信息、导师，以及志同道合的同伴。而 Alexander 更关注鼓励人们**开放式协作**的环境，使他们的知识惠及他人。
 
-> 儿童需要接触成人世界这一点不言而喻。成年人主要通过行动而非言语，将其价值观和生活方式传递给儿童。儿童通过实践和模仿来学习。如果儿童的教育仅局限于学校和家庭，而现代城市的各种宏大事业对他们来说都是神秘且无法触及的，那么儿童就无法真正理解成为一个成年人意味着什么，更不可能通过亲身实践来模仿成年人的行为。
+> 显然，孩子需要接触成人世界。成年人身教而非言传，将其价值观和生活方式传给孩子。孩子以实践和模仿来学习。如果孩子的教育仅限于学校和家庭，无法接触现代城市各种「神秘的」宏伟事业，那么孩子就无法真正理解成人意味着什么，更不可能去亲身模仿成年人。
 
 >
 
-> – Christopher Alexander，[模式 57：城市中的儿童](https://www.iwritewordsgood.com/apl/patterns/apl057.htm)
+> – Christopher Alexander，[模式 57：城市中的孩子](https://www.iwritewordsgood.com/apl/patterns/apl057.htm)
 
-儿童若无法在社区中自由自在地活动，他们追求兴趣和建立促进学习的人际关系的能力将受到严重制约。要让儿童获得这种自由，很大程度上取决于社会文化氛围。二战后的德国，儿童被允许在遭轰炸的城市废墟中探索——这段经历至今仍让著名导演 Werner Herzog 回味无穷。20 世纪中叶的 Glasgow，城市里的孩子们会自发组织成大型游戏团体（[有时人数竟多达数千！](https://carcinisation.com/2014/10/04/the-last-of-the-monsters-with-iron-teeth/)），一起猎杀想象中的吸血鬼，追踪传说中的「弹簧脚杰克」和「灰衣女士」，组建「儿童民兵」，潜入墓地探险——这些在今天看来完全不可想象的活动，很可能教会了他们许多关于组织和集体行动的宝贵经验。
+孩子若无法在社区中自由活动，他们追求兴趣和建立人际关系，以促进学习的能力将被严重制约。要获得这种自由，很大程度上取决于社会文化。二战后的德国，儿童允许在遭轰炸的城市废墟中探索——这段经历至今让导演 Werner Herzog 回味无穷。20 世纪中叶的 Glasgow，城市里的孩子会自发组成大型游戏团体（[有时人数竟多达数千！](https://carcinisation.com/2014/10/04/the-last-of-the-monsters-with-iron-teeth/)），猎杀吸血鬼，追踪「弹簧脚杰克」和「灰衣女士」，组建「儿童民兵」，潜入墓地探险，以及其他今天看来完全不可想象的活动，这些活动教会了他们许多组织和集体行动的知识。
 
-不可否认，在废墟和墓地中冒险，确实有相当一部分儿童可能遭受创伤、受伤，甚至丧生。因此，在其他条件不变的情况下，想要降低年轻人在社区活动时的风险，这种想法并非不合理。
+毫无疑问，在废墟和墓地中，确实有相当一部分儿童会遭受身心创伤，甚至丧生。因此，不考虑其他因素，降低年轻人在社区活动中的风险并非不合理。
 
-在现代城市中，汽车构成了一大安全隐患。为了应对这个问题，Alexander 提出了修建[适合儿童使用的特殊自行车道](https://www.iwritewordsgood.com/apl/patterns/apl057.htm)的创新建议。这些自行车道在必要时会通过隧道或天桥穿越马路，但总体上会远离机动车。相反，它们会经过「那些通常难以接触到的城镇功能区和场所：报社印刷厂，乡村牛奶运输和装瓶站，码头，门窗制作车间，餐饮街后的小巷，以及墓地。」
+在现代城市中，汽车是一大安全隐患。为应对这一问题，Alexander 提议修建[儿童适用的专用自行车道](https://www.iwritewordsgood.com/apl/patterns/apl057.htm)。这些车道在必要时会通过隧道或天桥以穿越马路，但基本会远离机动车。它们会穿过城镇中「通常难以触及的功能区和边边角角：报社印刷厂，接收牛奶的装瓶站，码头，门窗制作车间，餐饮街后的小巷，墓地。」
 
-通过这种方式，城市可以再次向儿童敞开怀抱，为他们提供安全而丰富的探索和学习空间。
+这样，城市就可以再次向孩子敞开怀抱。
 
-在每个领域，我们都致力于促进活动的多元融合，以实现知识的广泛传播。以大学为例，Alexander认为，我们需要防止大学成为与世隔绝的象牙塔。相反，我们希望大学像其他工作场所一样，融入城市并公开运作（[模式 43：市集式大学](https://www.iwritewordsgood.com/apl/patterns/apl043.htm)）。这可能表现为学者们在咖啡馆和公共图书馆聚会，或在住宅区设立实验室。在这里，孩子们可以像观察垃圾收集工和警察一样，亲眼目睹研究人员繁育小鼠、进行脑部扫描或进行原子裂变实验。
+在每个领域，我们都要确保活动的多元融合，以实现知识的广泛传播。以大学为例，Alexander 认为，要防止其成为与世隔绝的象牙塔。相反，我们希望大学像其他工作场所一样，融入城市并公开运作（[模式 43：市集式大学](https://www.iwritewordsgood.com/apl/patterns/apl043.htm)）。也许学者会在咖啡馆和公共图书馆聚会，或在住宅区实验室。在这里，孩子们可以像观察垃圾清运工和警察一样，亲眼目睹研究人员繁育小鼠、做脑部扫描或原子裂变实验。
 
 ![img](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F45252389-0bf4-4c77-b174-793364d9af9a_250x292.jpeg)
 
-令人欣喜的是，这种公开工作的理念正在网络世界中蓬勃发展。各知识领域的直播活动日益增多。实践社区在 Discord 等平台上蓬勃兴起，人们在此分享学习资源，公开协作项目，并与专家进行社区交流。此外，越来越多的研究者选择公开他们的工作笔记，让大众得以一窥他们的研究进程（参见[这里](https://notes.andymatuschak.org/About_these_notes?stackedNotes=zUw5PuD8op9oq8kHvni6sug6eRTNtR9Wqma)、[这里](https://notes.benjaminreinhardt.com/Top_of_mind)、[这里](https://notes.tomcritchlow.com/)和[这里](https://nadia.xyz/notes/)）。有些独立研究者甚至将参与公共论坛作为[他们的主要研究策略](https://www.lesswrong.com/posts/rBkZvbGDQZhEymReM/forum-participation-as-a-research-strategy)。
+令人欣喜的是，这种公开协作的理念正在线上蓬勃发展。各知识领域的直播活动日益增多。实践社区在 Discord 等平台上兴起，人们在此分享学习资源，公开协作项目，与专家交流。此外，越来越多的研究者公开工作笔记，让大众一窥他们的研究进程（参见[这里](https://notes.andymatuschak.org/About_these_notes?stackedNotes=zUw5PuD8op9oq8kHvni6sug6eRTNtR9Wqma)、[这里](https://notes.benjaminreinhardt.com/Top_of_mind)、[这里](https://notes.tomcritchlow.com/)和[这里](https://nadia.xyz/notes/)）。有些独立研究者甚至将参与公共论坛作为[主要研究策略](https://www.lesswrong.com/posts/rBkZvbGDQZhEymReM/forum-participation-as-a-research-strategy)。
 
-几周前，我与目前专注于长寿研究的独立研究员 [José Ricón](https://nintil.com/) 交谈时，询问他一个普通的匈牙利青少年如何能够参与抗衰老研究。José 的回答出乎意料地简单：「他们只需要谷歌一下就行了。」（Ricón 编写的[长寿 FAQ](https://nintil.com/longevity) 也是一个很好的入门资料。）在浏览了通俗易懂的资料后，你可以深入阅读这些资料中引用的研究论文（可以通过 [Sci-Hub](https://www.sci-hub.st/) 获取）。然后，你可以在 Twitter 上关注这些论文的作者——观察他们如何进行学术讨论，翻阅他们过去的对话记录，甚至直接向他们提问。
+几周前，我与目前专注长寿研究的独立研究员 [José Ricón](https://nintil.com/) 交谈时，询问普通的匈牙利青年如何才能参与抗衰老研究。José 答道：「他们只要谷歌一下就行了。」（Ricón 编写的[长寿 FAQ](https://nintil.com/longevity) 也是很好的入门资料。）在浏览通俗易懂的资料后，你可以深入阅读这些资料中引用的论文（可以通过 [Sci-Hub](https://www.sci-hub.st/) 获取）。随后，你可以在 Twitter 上关注这些论文的作者——观察他们如何讨论，翻阅他们过去的对话，甚至向他们提问。
 
-由于许多重要的研讨会现在都在线上举行，即使是一个普通的匈牙利青少年也可以轻松地融入这个圈子，注册参加研讨会，聆听最新的研究成果和行业动态，并发现有待解决的问题。这正是 Ricón 自己进入这个领域的方式。当然，仍然存在一些障碍需要克服——比如如何获得实际操作繁殖老鼠的经验？如何使用 PCR 仪器？——但我们**确实**看到越来越多的青少年正在涉足这个领域。一条清晰的道路已经形成。
+因为许多重要研讨会都在线上，所以普通的匈牙利青年也可以轻松潜入这个圈子，注册，参与研讨，聆听最新研究成果和行业动态，并发现有待解决的问题。Ricón 就是这样进入这个领域的。当然，仍有一些障碍需要克服——比如，如何获得繁殖小鼠的实操经验？如何使用 PCR 仪器？——但我们**确实**看到，越来越多的青年在涉足这个领域。清晰的路径已经形成。
 
-那么，我们如何将这种开放性带入现实世界呢？
+那么，这种开放性如何实现呢？
 
-Alexander提出了一个有趣的建议，即为那些建造面向街道的家庭工作室的人提供便利（[模式 157：家庭工作室](https://www.iwritewordsgood.com/apl/patterns/apl157.htm)）：
+Alexander 提出，为那些那些临街家庭研讨会提供便利（[模式 157：家庭研讨会](https://www.iwritewordsgood.com/apl/patterns/apl157.htm)）：
 
-> [这种模式]将工作室从隐蔽的后院爱好转变为公共领域的一部分。在工作室工作的人可以看到街道上的景象；他们也暴露在路人的视线中。而路过的人则能了解到社区的某些特质。特别是孩子们，会因为这种接触而变得更加活跃。根据工作的性质，这种公共连接可以采取多种形式，如店面、用于装卸材料的车道、户外工作台或小型会议室等……
+> [这种模式]把研讨会从后院爱好转到了公共领域。在这里工作的人会看到街上的景象，他们也暴露在路人的视线中。而路人则了解到某些社区的特质。特别是孩子，会因为这种接触变得更活跃。根据工作的性质，这种公开接触可以通过店面、装卸材料的车道、户外工作台或小型会议室等方式
 
-然而，并非所有知识都能通过沉浸式学习获得。有时，我们需要通过拜师学艺来加速成长，接受严格的训练——比如小提琴老师要求我们反复练习音阶数小时；军事训练中的模拟战斗；或是数学教授在黑板上演示解题过程，引导我们掌握必要的思维方法。
+然而，并非所有知识都能通过沉浸学习获得。有时，我们需要拜师学艺来加速成长，接受严格的训练——比如，小提琴老师要求我们数小时练习音阶，军事训练中的模拟战斗，或是数学教授在黑板上演示解题过程，引导我们掌握必要的思维方法。
 
 （这种学习方式应被视为对前述方法的补充：现实世界中的实践为我们的学习提供了结构和动力。但有目的的指导可以帮助我们突破工作中的瓶颈。）
 
