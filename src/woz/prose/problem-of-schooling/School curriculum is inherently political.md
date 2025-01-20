@@ -10,7 +10,7 @@
 
 ### 重要思想的复刻
 
-几年前，当我写下「政客正为影响年轻人的大脑而艰苦奋斗 」（在这篇文章：[《学习历史》](https://supermemo.guru/wiki/Learning_history:_school_vs._self-directed_learning)中），有人称我为「民粹主义者」，认为我给他们扣上「坏政客」的帽子，来凸显我的崇高理想。这表明这个世界上有些人没有注意到，[课程](https://supermemo.guru/wiki/Curriculum)是全球范围内永无止境的意识形态斗争的主题。Stalin 的观察是正确的：「教育是一种武器，它的效果取决于谁把它拿在手里，以及它的目标是谁 」。Hitler 要求实行义务教育，使每个男孩、女孩清楚地意识到「自己所属的**种族**，自己是**人民社区**的一员（[民族共同体](https://en.wikipedia.org/wiki/Volksgemeinschaft) ）」。最后，列宁指出：「给我四年时间来教育孩子，我播下的种子永远也不会被连根拔起」。
+几年前，当我写下「政客正为影响年轻人的大脑而艰苦奋斗 」（在这篇文章：[《学习历史》](https://supermemo.guru/wiki/Learning_history:_school_vs._self-directed_learning)中），有人称我为「民粹主义者」，认为我给他们扣上「坏政客」的帽子，来凸显我的崇高理想。这表明这个世界上有些人没有注意到，[课程](https://supermemo.guru/wiki/Curriculum)是全球范围内永无止境的意识形态斗争的主题。Stalin 的观察是正确的：「教育是一种武器，它的效果取决于谁把它拿在手里，以及它的目标是谁 」。Hitler 要求实行强制性教育，使每个男孩、女孩清楚地意识到「自己所属的**种族**，自己是**人民社区**的一员（[民族共同体](https://en.wikipedia.org/wiki/Volksgemeinschaft) ）」。最后，列宁指出：「给我四年时间来教育孩子，我播下的种子永远也不会被连根拔起」。
 
 诚然，早期学习在人的整个知识谱系內留下深刻的印记。这一事实可以从[记忆的神经统计学模型](https://supermemo.guru/wiki/Neurostatistical_model_of_memory)中得出，特别是[记忆稳定性的双组分模型](https://supermemo.guru/wiki/Two_component_model_of_memory_stability)。我们在童年时学到的东西通常可以通过塑造在皮层中路由信息的神经图，而真正地铭刻在大脑结构中。不过，列宁至少在两个方面是错误的：
 

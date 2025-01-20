@@ -216,7 +216,7 @@ Deutsch 说得对。儿童在权利上与成年人无异，我们「让他们」
 
 > [父母对其子女所应受的教育的种类，有优先选择的权利](https://supermemo.guru/wiki/Education_as_a_human_right)
 
-如果这一选择权在父母手里，那么最开明的父母可以选择[自由学习](https://supermemo.guru/wiki/Free_learning)。在这种情况下，「义务教育」唯一的负担就是，它给了当局检验[自由学习](https://supermemo.guru/wiki/Free_learning)是否能产生预期效果的工具。根据这种逻辑，政府可能要求已婚人士强制生育，尽管大多数夫妻并不需要这么做。
+如果这一选择权在父母手里，那么最开明的父母可以选择[自由学习](https://supermemo.guru/wiki/Free_learning)。在这种情况下，「强制性教育」唯一的负担就是，它给了当局检验[自由学习](https://supermemo.guru/wiki/Free_learning)是否能产生预期效果的工具。根据这种逻辑，政府可能要求已婚人士强制生育，尽管大多数夫妻并不需要这么做。
 
 在这个星球上有无尽的痛苦，但有些痛苦还有机会补救。环顾四周，那个离你最近的伤心的孩子，或许是因为不自由而难过。也许你可以为他做些什么？
 

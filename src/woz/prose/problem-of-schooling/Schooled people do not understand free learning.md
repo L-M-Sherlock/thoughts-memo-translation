@@ -4,7 +4,7 @@
 
 ## 学习就像性
 
-那些[美化学校教育](https://supermemo.guru/wiki/Glorification_of_schooling)的人常常热情地捍卫[义务教育](https://supermemo.guru/wiki/Compulsory_schooling)的重要性。他们引用各种数据，说明学校使得文盲率下降、科学进步、寿命延长、犯罪率下降。当我谈论人权和解放儿童免受[学校束缚](https://supermemo.guru/wiki/End_school_slavery)的需求时，我却被视为煽动叛乱的激进分子。受过学校教育的人是否缺乏对儿童的同理心？毕竟他们也曾是儿童，而儿童会在 15 岁左右达到[厌恶学校](https://supermemo.guru/wiki/Why_kids_hate_school)的巅峰。为什么他们一成为大学生后，就开始为这个制度辩护呢？遗忘对此有一定的影响。我们很容易美化过去的经历（见：[教育同理心](https://supermemo.guru/wiki/Educational_empathy)）。大学让人重获自由，因而他们会感激高中文凭。然而，更深层次的问题是，[顺服校驯](https://supermemo.guru/wiki/Well-schooled)者的确无法理解学习的自由。他们理论上可以掌握所有[自由学习](https://supermemo.guru/wiki/Free_learning)的概念，但却无法从内心深处感受到它。就好像他们对性了如指掌，口若悬河，却从未真正体验过其极乐。要理解学习的真正极乐，就必须先经历多年的[自由学习](https://supermemo.guru/wiki/Free_learning)。一天、一周或一个月可能会让人对其滋味略懂一二，但那还不是真正的极乐。让我用[树的比喻](https://supermemo.guru/wiki/Tree_metaphor)来帮助解释**与知识交媾**的感觉。
+那些[美化学校教育](https://supermemo.guru/wiki/Glorification_of_schooling)的人常常热情地捍卫[强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling)的重要性。他们引用各种数据，说明学校使得文盲率下降、科学进步、寿命延长、犯罪率下降。当我谈论人权和解放儿童免受[学校束缚](https://supermemo.guru/wiki/End_school_slavery)的需求时，我却被视为煽动叛乱的激进分子。受过学校教育的人是否缺乏对儿童的同理心？毕竟他们也曾是儿童，而儿童会在 15 岁左右达到[厌恶学校](https://supermemo.guru/wiki/Why_kids_hate_school)的巅峰。为什么他们一成为大学生后，就开始为这个制度辩护呢？遗忘对此有一定的影响。我们很容易美化过去的经历（见：[教育同理心](https://supermemo.guru/wiki/Educational_empathy)）。大学让人重获自由，因而他们会感激高中文凭。然而，更深层次的问题是，[顺服校驯](https://supermemo.guru/wiki/Well-schooled)者的确无法理解学习的自由。他们理论上可以掌握所有[自由学习](https://supermemo.guru/wiki/Free_learning)的概念，但却无法从内心深处感受到它。就好像他们对性了如指掌，口若悬河，却从未真正体验过其极乐。要理解学习的真正极乐，就必须先经历多年的[自由学习](https://supermemo.guru/wiki/Free_learning)。一天、一周或一个月可能会让人对其滋味略懂一二，但那还不是真正的极乐。让我用[树的比喻](https://supermemo.guru/wiki/Tree_metaphor)来帮助解释**与知识交媾**的感觉。
 
 自由学习就像性一样，你需要亲身体验才能真正理解。 
 
