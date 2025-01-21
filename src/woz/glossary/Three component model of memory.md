@@ -26,7 +26,7 @@
 
 在 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 的 [SM-17 算法](https://supermemo.guru/wiki/Algorithm_SM-17)的语境下，三组分模型亦可称为 [DSR 模型](http://supermemopedia.com/wiki/DSR_model)（即难度 D、稳定性 S 和可提取性 R）。
 
-本[术语表](https://supermemo.guru/wiki/Glossary)条目用于解释《[间隔重复的历史](https://supermemo.guru/wiki/Problem_of_Schooling)》（2018 年 6 月）作者：[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)
+本[术语表](https://supermemo.guru/wiki/Glossary)条目用于解释《[间隔重复的历史](https://supermemo.guru/wiki/History_of_spaced_repetition)》（2018 年 6 月）作者：[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)
 
 [![SuperMemo: Changes in two variables of long-term memory: retrievability and stability](https://supermemo.guru/images/thumb/5/57/Memory_status.jpg/800px-Memory_status.jpg)](https://supermemo.guru/wiki/File:Memory_status.jpg)
 
