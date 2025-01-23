@@ -24,7 +24,7 @@ Alexander 在 1977 年的经典著作《[建筑模式语言：城镇·建筑·�
 
 这些模式大多源自对历史上各地的细致观察，这些地方运转良好，充满活力——Alexander 及其学生是在做一种本土民间建筑的民族志研究。
 
-书中最基本的教育模式 （[18：学习网络](https://www.iwritewordsgood.com/apl/patterns/apl018.htm)） 源自天主教神父、历史学家 [Ivan Illich](https://en.wikipedia.org/wiki/Ivan_Illich) ，他以批判体制化的看护而闻名。Illich 曾提出要彻底颠覆学校这个体制化看护及其弊病的典型，转而引入**[学习网络](http://moz-extension://ae9c387b-e35d-3243-992e-5da5b6bbcaea/pdfjs/viewer.html?file=http%3A%2F%2Flcl.media.mit.edu%2Fresources%2Freadings%2Fdeschooling-ch6.pdf)。Alexander 采纳了这一理念，并将其转化为设计模式。他的做法类似于面向对象编程中从类创建对象的过程：他通过引用数页的原文，创建了 Illich 理念的一个实例，然后着手修改。我稍后会详细讲解他是如何修改的，但首先让我们看看 Alexander 及伙伴们从 Illich 那里继承了什么。
+书中最基本的教育模式 （[18：学习网络](https://www.iwritewordsgood.com/apl/patterns/apl018.htm)） 源自天主教神父、历史学家 [Ivan Illich](https://en.wikipedia.org/wiki/Ivan_Illich) ，他以批判体制化的看护而闻名。Illich 曾提出要彻底颠覆学校这个体制化看护及其弊病的典型，转而引入[**学习网络**](http://moz-extension://ae9c387b-e35d-3243-992e-5da5b6bbcaea/pdfjs/viewer.html?file=http%3A%2F%2Flcl.media.mit.edu%2Fresources%2Freadings%2Fdeschooling-ch6.pdf)。Alexander 采纳了这一理念，并将其转化为设计模式。他的做法类似于面向对象编程中从类创建对象的过程：他通过引用数页的原文，创建了 Illich 理念的一个实例，然后着手修改。我稍后会详细讲解他是如何修改的，但首先让我们看看 Alexander 及伙伴们从 Illich 那里继承了什么。
 
 学习网络模式的基本思想源于一个重要观察：**我们所掌握的大部分知识并非通过正规教育体系**——如学校——习得，**而是简单通过生活学到的。**我们吸收周围的文化，阅读博客获取信息，观看 YouTube 的教学视频，与朋友交流来理解事物。大部分知识以这种方式传递给我们，**不是通过课程**，而是**以去中心化的网络，连接着其他人及其创造的事物**。
 

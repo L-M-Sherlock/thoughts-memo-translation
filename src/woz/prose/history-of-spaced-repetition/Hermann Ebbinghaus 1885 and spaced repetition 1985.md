@@ -34,7 +34,7 @@
 
 - 他的词表难以学习，而且[遗忘曲线](https://supermemo.guru/wiki/Forgetting_curve)下降得非常快。这对任何关心长期记忆的学生来说都是一个令人沮丧的情况
 
-- 他的词表并没有给他带来[学习的乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)。这与我在 [1985 年](https://supermemo.guru/wiki/Birthday_of_SuperMemo)的经历恰恰相反。我纸质集合中的每一项都是让我的知识提升到新高度的一小步。当我绘制出第一条[遗忘曲线](https://supermemo.guru/wiki/Forgetting_curve)后，我很想知道下一次复习会发生什么
+- 他的词表并没有给他带来[学习的乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)。这与我在 [1985 年](https://supermemo.guru/wiki/Birthday_of_SuperMemo)的经历恰恰相反。我的纸质集合中的每个条目都是让我的知识提升到新高度的一小步。当我绘制出第一条[遗忘曲线](https://supermemo.guru/wiki/Forgetting_curve)后，我很想知道下一次复习会发生什么
 
 - 艾宾浩斯专注于重新学习所需的时间或努力，而我始终主要关注[记忆保留率](https://supermemo.guru/wiki/Retention)，对于将[回忆](https://supermemo.guru/wiki/Recall)恢复到 100% 所需的时间或努力并不太在意。
 
@@ -52,16 +52,16 @@
 
 [![The very first forgetting curve for the retention of English vocabulary plotted back in 1984, just a few months before designing SuperMemo on paper](https://supermemo.guru/images/thumb/d/d0/Forgetting_curve_for_retention_of_English_vocabulary_%281984%29.jpg/600px-Forgetting_curve_for_retention_of_English_vocabulary_%281984%29.jpg)](https://supermemo.guru/wiki/File:Forgetting_curve_for_retention_of_English_vocabulary_(1984).jpg)
 
-> 图：这是[我](https://supermemo.guru/wiki/Piotr_Wozniak)在 1984 年绘制的第一条英语词汇[保留率](https://supermemo.guru/wiki/Retention)[遗忘曲线](https://supermemo.guru/wiki/Forgetting_curve)，时间上恰好是在[设计纸上 SuperMemo](https://supermemo.guru/wiki/Birth_of_SuperMemo)的几个月之前。这张图表并非出自某个正式实验，而是对我间断学习英语词汇结果的一个总体评估。绘制后不久，我就将它抛诸脑后，直到 34 年后才重新发现。当时的做法是，先记忆 49 页约 40 对英语单词，然后在不同时间间隔进行复习，记录回忆错误的数量。剔除异常值并取平均后，得出的曲线斜率远小于艾宾浩斯 1885 年的实验结果。值得注意的是，艾宾浩斯使用的是无意义音节，且采用了不同的遗忘衡量标准：重新学习时节省的时间。*
+> 图：这是[我](https://supermemo.guru/wiki/Piotr_Wozniak)在 1984 年绘制的第一条英语词汇[保留率](https://supermemo.guru/wiki/Retention)[遗忘曲线](https://supermemo.guru/wiki/Forgetting_curve)，时间上恰好是在[设计纸上 SuperMemo](https://supermemo.guru/wiki/Birth_of_SuperMemo)的几个月之前。这张图表并非出自某个正式实验，而是对我间断学习英语词汇结果的一个总体评估。绘制后不久，我就将它抛诸脑后，直到 34 年后才重新发现。当时的做法是，先记忆 49 页，每页约 40 对英语单词，然后在不同时间间隔进行复习，记录回忆错误的数量。剔除异常值并取平均后，得出的曲线斜率远小于艾宾浩斯 1885 年的实验结果。值得注意的是，艾宾浩斯使用的是无意义音节，且采用了不同的遗忘衡量标准：重新学习时节省的时间。
 
-说来惭愧，我竟然忘记了绘制这条曲线的事。我猜想，可能是因为有了 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 之后，这条曲线在我看来就不那么重要或相关了。当时的我并不执着于「记忆科学」，只是单纯地想在学习中取得好成效。显然，我并不认为绘制遗忘曲线是什么了不起的事。甚至在 2018 年重新发现时，我差点又忽略了它，因为它只是用小字标注为：**首次记忆的平均遗忘速度**。
+说来惭愧，我竟然忘记了绘制这条曲线的事。我猜想，可能是因为有了 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 之后，这条曲线在我看来就不那么重要或相关了。当时的我并不执着于「记忆的科学」，只是单纯地想在学习中取得好成效。显然，我并不认为绘制遗忘曲线是什么了不起的事。甚至在 2018 年重新发现时，我差点又忽略了它，因为它只是用小字标注为：**首次记忆的平均遗忘速度**。
 
-这个结果源自 49 张纸，每张包含 40 对单词，总计 1960 个单词（可以对比：[一个月内完成 13 年的学校教育](https://supermemo.guru/wiki/13_years_of_school_in_a_month)）。我所有的学习都是为了学习本身，而非为了进行实验。事实上，这根本算不上一个正式的实验。我所做的不过是收集实际学习过程中的数据，然后绘制成曲线。也许正是因为计算过程如此简单，我才会如此轻易地将它遗忘。
+这个结果源自 49 页纸，每页包含 40 个词对，总计 1960 个单词（可以对比：[一个月内完成 13 年的学校教育](https://supermemo.guru/wiki/13_years_of_school_in_a_month)）。我所有的学习都是为了学习本身，而非为了进行实验。事实上，这根本算不上一个正式的实验。我所做的不过是收集实际学习过程中的数据，然后绘制成曲线。也许正是因为计算过程如此简单，我才会如此轻易地将它遗忘。
 
 在 [1985 年的实验](https://supermemo.guru/wiki/Birth_of_SuperMemo)之前，我曾撰写过一些关于简单直觉的文章。从这条 1984 年的曲线来看，似乎这些直觉可能源自那个小实验。如今看来显而易见的事情，若没有那个小计算作为依据，可能并不那么明显。然而，我推测到 1985 年 2 月时，我可能已经忘记了自己的曲线，因为在[间隔重复实验](https://supermemo.guru/wiki/The_birthday_of_spaced_repetition:_July_31,_1985)中我并没有跳过 A 阶段。我的遗忘曲线与实验结果相符，第一次复习间隔确实应该是 1 天。
 
-关于 S 形曲线的错误认识肯定是后来才形成的。如今，我似乎依稀记得，最初我认为 S 形特性只有在第一次复习后才会显现。我可能永远无法准确知道当时的思维过程是怎样的。我所关注的只是[SuperMemo](https://supermemo.guru/wiki/SuperMemo)的效率。在发现 SuperMemo 的兴奋中，我整整 34 年都忘记了自己的曲线。现在，那个小图表仅仅用来说明我们是如何轻易地发现、遗忘、偏离、重新发现，然后再次重新发现最初的发现。记忆是易失的。感谢上帝赐予我们[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)。
+关于 S 形曲线的错误认识肯定是后来才形成的。如今，我似乎依稀记得，最初我认为 S 形特性只有在第一次复习后才会显现。我可能永远无法准确知道当时的思维过程是怎样的。我所关注的只是 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 的效率。在发现 SuperMemo 的兴奋中，我整整 34 年都忘记了自己的曲线。现在，那个小图表仅仅用来说明我们是如何轻易地发现、遗忘、偏离、重新发现，然后再次重新发现最初的发现。记忆是易失的。感谢上帝赐予我们[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)。
 
 [![Forgetting curve (Wozniak 1984)](https://supermemo.guru/images/thumb/d/de/Forgetting_curve_%28Wozniak_1984%29.jpg/800px-Forgetting_curve_%28Wozniak_1984%29.jpg)](https://supermemo.guru/wiki/File:Forgetting_curve_(Wozniak_1984).jpg)
 
-**图：**这是 1984 年绘制的首条英语词汇[遗忘曲线](https://supermemo.guru/wiki/Forgetting_curve)，用于展示词汇[记忆保持](https://supermemo.guru/wiki/Retention)情况（绘制时间比[SuperMemo纸上设计](https://supermemo.guru/wiki/Birth_of_SuperMemo)早几个月）。值得注意的是，这张图并非源于特定实验，而是对间歇性英语词汇学习结果的累积评估。有趣的是，这张图曾被遗忘，直到 34 年后才被重新发现。在学习过程中，研究者记忆了 49 页约 40 对英语单词，并在不同时间间隔进行复习，记录了回忆错误的数量。图中白色圆圈表示在给定时间间隔后，根据每页平均错误数计算得出的[回忆率](https://supermemo.guru/wiki/Recall)。橙色的对数回归曲线提供了最佳拟合，紧随其后的是红色幂回归曲线。这种拟合效果符合异质材料（词汇页）的特征。这一结果与艾宾浩斯（1885）的研究发现非常相似，但由于所用材料更有意义，曲线的斜率较为平缓。正如预期，白色指数回归曲线的拟合效果最差
+**图：**这是 1984 年绘制的首条英语词汇[遗忘曲线](https://supermemo.guru/wiki/Forgetting_curve)，用于展示词汇的[保留率](https://supermemo.guru/wiki/Retention)情况（绘制时间比[设计纸上的 SuperMemo](https://supermemo.guru/wiki/Birth_of_SuperMemo)早几个月）。值得注意的是，这张图并非源于特定实验，而是对间歇性英语词汇学习结果的累积评估。有趣的是，这张图曾被遗忘，直到 34 年后才被重新发现。在学习过程中，我记忆了 49 页纸，每页约 40 个词对的英语，并在不同时间间隔进行复习，记录了回忆错误的数量。图中白色圆圈表示在给定时间间隔后，根据每页平均错误数计算得出的[回忆率](https://supermemo.guru/wiki/Recall)。橙色的对数回归曲线提供了最佳拟合，紧随其后的是红色幂回归曲线。这种拟合效果符合异质材料（词汇页）的特征。这一结果与艾宾浩斯（1885）的研究发现非常相似，但由于所用材料更有意义，曲线的斜率较为平缓。正如预期，白色指数回归曲线的拟合效果最差
