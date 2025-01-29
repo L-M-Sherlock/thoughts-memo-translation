@@ -8,7 +8,7 @@
 
 2021-06-04 **完成**；[确定性](https://gwern.net/about#confidence-tags)：**记录**；[重要性](https://gwern.net/about#importance-tags)：**5**；[反向链接](https://gwern.net/note/competence#backlinks)；[相似](https://gwern.net/note/competence#similars)；[参考文献](https://gwern.net/note/competence#link-bibliography)
 
-> 一头驮过 10 次战役包袱的骡子在[尤金亲王](https://en.wikipedia.org/wiki/Prince_Eugene_of_Savoy)手下也不会因此成为更好的战术家，必须承认，这是对人性的侮辱，许多人在一个本应受人尊敬的职业中变老，却没有取得比这头骡子更大的进步。
+> 一头为 10 次战役驮过包袱的骡子在[尤金亲王](https://en.wikipedia.org/wiki/Prince_Eugene_of_Savoy)手下也不会因此成为更好的战术家，必须承认，这是对人性的侮辱，许多人在一个本应受人尊敬的职业中变老，却没有取得比这头骡子更大的进步。
 
 >
 
@@ -26,7 +26,7 @@
 
   - [《一般智力因子（*g*）为何重要：解析日常生活的复杂性》](https://gwern.net/doc/iq/ses/1997-gottfredson.pdf)，Gottfredson 1997；[《将日常生活视为智力测试：智力及其环境的影响》](https://gwern.net/doc/iq/1997-gordon.pdf)，Gordon 1997
 
-  - [《人类的愚蠢程度超乎你的想象》](https://www.overcomingbias.com/p/stupider-than-you-realizehtml)（关于美国成年人的[识字能力](https://en.wikipedia.org/wiki/Literacy_in_the_United_States)；另请参阅[《McNamara 的愚行》](https://gwern.net/review/mcnamara)）
+  - [《比你想象的还要蠢》](https://www.overcomingbias.com/p/stupider-than-you-realizehtml)（关于美国成年人的[识字能力](https://en.wikipedia.org/wiki/Literacy_in_the_United_States)；另请参阅[《McNamara 的愚行》](https://gwern.net/review/mcnamara)）
 
   - [《研究发现：普通人的人生规划仅能抵挡 25 秒的直接质疑》](https://theonion.com/study-average-person-s-life-plan-can-only-withstand-25-1819578876/)
 
@@ -34,9 +34,9 @@
 
   - [《为胜利而战》](https://www.sirlin.net/articles/playing-to-win)，Sirlin 2006
 
-  - [《超过 95% 的水平其实并不怎么样》](https://danluu.com/p95-skill/)/[《敢于看似愚蠢》](https://danluu.com/look-stupid/)，Dan Luu；[《一本书的门槛》](https://ludic.mataroa.blog/blog/you-must-read-at-least-one-book-to-ride/#ii-the-one-book-barrier)
+  - [《超过 95% 的水平其实并不怎么样》](https://danluu.com/p95-skill/)/[《愿意显得愚蠢》](https://danluu.com/look-stupid/)，Dan Luu；[《一本书的门槛》](https://ludic.mataroa.blog/blog/you-must-read-at-least-one-book-to-ride/#ii-the-one-book-barrier)
 
-  - [《更加努力谬误》](https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself#§the-try-harder-fallacy)
+  - [《加倍努力谬误》](https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself#§the-try-harder-fallacy)
 
   - 星际争霸：Gheed 的[《工人快攻：跌落青铜》](https://tl.net/blogs/271453-worker-rush-descent-to-bronze?view=all)」系列文章（[续篇二](https://tl.net/blogs/271998-worker-rush-part-2-bm-rising?view=all)/[续篇三](https://tl.net/blogs/272765-worker-rush-nuts-and-bolts?view=all)/[续篇四](https://tl.net/blogs/281817-worker-rush-part-3-a-new-approach?view=all)/[续篇五](https://tl.net/blogs/283221-worker-rush-part-4-rising-up?view=all)/[续篇六](https://tl.net/blogs/286351-worker-rush-part-5-live-to-win?view=all)/[续篇七](https://tl.net/blogs/304674-worker-rush-part-6-at-a-loss?view=all)/[续篇八](https://tl.net/blogs/308882-bronze-delving-deeper?view=all)/[续篇九](https://tl.net/blogs/313577-bronze-part-2-hell-is-other-people?view=all)/[续篇十](https://tl.net/blogs/319375-bronze-part-3-casually-cruel?view=all)/[续篇十一](https://tl.net/blogs/328804-bronze-part-4-a-legendary-league?view=all)）
 
@@ -78,11 +78,11 @@
 
   - [《可靠性、可维护性与风险》附录](https://lifetime-reliability.com/tutorials/human_error_rate_table_insights/)（工业任务中的人为失误：即便是最简单的任务，失误率似乎也难以低于 1/10,000——引用的最低失误率是 1/100,000，对应「浴缸注水过满」这一情形）
 
-- [《为何程序员……竟然不会编程？》](https://blog.codinghorror.com/why-cant-programmers-program/)，Jeff Atwood
+- [《为何程序员不会……编程？》](https://blog.codinghorror.com/why-cant-programmers-program/)，Jeff Atwood
 
-- [《用户计算机技能分布：实际情况比你想象的更糟糕》](https://www.nngroup.com/articles/computer-skill-levels/)
+- [《用户的计算机技能分布：烂出你想象》](https://www.nngroup.com/articles/computer-skill-levels/)
 
-- [《实验：优秀研究人员难觅》](https://www.lesswrong.com/posts/evyBmPw9ZnzmoFmP6/experiment-a-good-researcher-is-hard-to-find)；或者是[秘书](https://x.com/sarah_cone/status/1760688179517264307)
+- [《实验：优秀研究人员难觅》](https://www.lesswrong.com/posts/evyBmPw9ZnzmoFmP6/experiment-a-good-researcher-is-hard-to-find)；还有[秘书](https://x.com/sarah_cone/status/1760688179517264307)
 
 - [《十倍努力法则：看似残酷却卓有成效的建议》](https://www.betonit.ai/p/do-ten-times-as-much)
 
@@ -94,4 +94,4 @@
 
   - **量子力学**：[《量子力学概念调查的设计与验证》](https://journals.aps.org/prper/abstract/10.1103/PhysRevSTPER.6.020121#fulltext)，McKagan et al 2010
 
-- **另请参阅**：[《恐怖主义并非有效手段》](https://gwern.net/terrorism-is-not-effective)、[《论拥有足够的袜子》](https://gwern.net/socks)、[《局部最优与贪心选择》](https://gwern.net/note/local-optima)、[《非常规小团体的惊人效能》](https://gwern.net/note/small-groups)、[《心理深度的错觉》](https://gwern.net/doc/psychology/cognitive-bias/illusion-of-depth/index)
+- **另请参阅**：[《恐怖主义并不有效》](https://gwern.net/terrorism-is-not-effective)、[《论拥有足够的袜子》](https://gwern.net/socks)、[《局部最优与贪心选择》](https://gwern.net/note/local-optima)、[《非常规小团体的惊人效能》](https://gwern.net/note/small-groups)、[《心理深度的错觉》](https://gwern.net/doc/psychology/cognitive-bias/illusion-of-depth/index)

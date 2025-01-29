@@ -668,7 +668,7 @@
   * [没有老师，没有班级，没有作业：你会送孩子到这里来吗？](other/No%20Teachers%20No%20Class%20No%20Homework%20Would%20You%20Send%20Your%20Kids%20Here.md)
   * [鲜有人问的问题：我们的孩子在学习吗？](other/Rarely%20is%20the%20Question%20Asked%20Is%20Our%20Children%20Learning.md)
   * [学校的目标即是服从](other/School%20Is%20To%20Submit.md)
-  * [如何走出人生的泥潭](other/So%20you%20wanna%20debog%20yourself.md)
+  * [所以你想让自己摆脱人生的泥潭](other/So%20you%20wanna%20debog%20yourself.md)
   * [将教育与青少年的生物钟同步：「让青少年多睡会儿，推迟上学时间」](other/Synchronizing%20education%20to%20adolescent%20biology%20let%20teens%20sleep%20start%20school%20later.md)
   * [创造性人格与理想学生](other/The%20Creative%20Personality%20and%20the%20Ideal%20Pupil.md)
   * [摒弃应试思维](other/The%20Lesson%20to%20unlearn.md)
