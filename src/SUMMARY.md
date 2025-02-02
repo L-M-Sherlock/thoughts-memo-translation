@@ -619,7 +619,7 @@
     * [什么是证据筛选？](lesswrong/Against%20Rationalization/What%20Evidence%20Filtered%20Evidence.md)
   * [谨防它山之石](lesswrong/Beware%20of%20OtherOptimizing.md)
   * [辩论：是否应该获得大学学位？](lesswrong/Debate%20Get%20a%20college%20degree.md)
-  * [给学生 debug](lesswrong/Debugging%20the%20student.md)
+  * [调试学生](lesswrong/Debugging%20the%20student.md)
   * [学校教育的危害与希望](lesswrong/Harms%20and%20possibilities%20of%20schooling.md)
   * [如何有效教学](lesswrong/How%20to%20teach%20things%20well.md)
   * [链接总结：《行为遗传学十大可重复发现》](lesswrong/Link%20Summary%20Top%2010%20Replicated%20Findings%20from%20Behavioral%20Genetics.md)
