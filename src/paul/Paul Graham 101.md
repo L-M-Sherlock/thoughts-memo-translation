@@ -1,12 +1,12 @@
-# Paul Graham 导论
+# Paul Graham 作品导读
 
-[Paul Graham 导论](https://www.jaakkoj.com/blog/graham)
+[Paul Graham 导论](https://www.jaakkoj.com/blog/graham “接下来译者会掺点私货”)
 
-在创业领域，恐怕没有人比 Paul Graham 更有发言权了。作为创业加速器 Y Combinator 的联合创始人，他帮助过数以千计的创业公司，从他的文章中我们可以学到许多宝贵的经验。而 Graham 的智慧远不止于此；他的文章吸引了数百万读者，涵盖了教育、智力、写作、社会、人类思维等广泛话题。
+在创业领域，恐怕没有人比 Paul Graham 更有发言权了。作为创业加速器 Y Combinator 的联合创始人，他帮助过数以千计的创业公司，从他的文章中我们可以学到许多宝贵的经验。而 Graham 的智慧远不止于此；他的文章吸引了数百万读者，涵盖了教育、智力、写作、社会、人类思维等热门话题。
 
 我通读了 Paul Graham 发表的所有文章（超过 200 篇），积累的笔记足以写成一本书。本文旨在总结我认为最有洞见的部分，为 Graham 的新读者提供一个易于入门的起点。
 
-我尽可能地附上了他文章的链接，这样当你发现有趣的内容时，就可以轻松地追溯到源头。（事实上，我建议你这么做——把这篇文章当作通向精彩内容的大门，而不是把它视为全面的总结）。
+我尽可能地附上了他文章的链接，这样当你发现有趣的内容时，就可以轻松地追溯到源头。（事实上，我建议你把这篇文章当作通向精彩内容的大门，而不是把它视为全面的总结）。
 
 **如果我对 Graham 观点的描述让你感兴趣，那么他的原文肯定会让你受益匪浅。**一定要回到原文阅读，那里的思想得到了充分的阐释。这篇文章只是一个非常粗浅的概述。
 
@@ -32,23 +32,23 @@
 
 [《13 句话总结创业》](http://paulgraham.com/13sentences.html)：
 
-1. 选择好的联合创始人。
+1. 选择优秀的联合创始人。
 
 2. 快速上线。
 
-3. 让你的想法不断演变。
+3. 认知迭代。
 
-4. 了解你的用户。
+4. 了解目标用户。
 
-5. 让少数用户爱上你比让很多用户无所谓要好。
+5. 构建核心客户社群。
 
-6. 提供令人惊喜的优质客户服务。
+6. 为优质客户提供个性化服务。
 
 7. 你衡量什么就会得到什么。
 
-8. 少花钱。
+8. 降本增效。
 
-9. 达到方便面盈利水平。
+9. 节源开流。
 
 10. 避免分心。
 
@@ -56,7 +56,7 @@
 
 12. 不要放弃。
 
-13. 交易可能会失败。
+13. 交易存在失败的可能。__*译者注：其实这里我想翻译成“坦然面对失败”或者“失败乃成功之母”，但突然想起塔勒布的经济学理论，感觉这里有点概率论的意思*__
 
 想要详细了解，可以试试[《如何创办一家创业公司》](http://paulgraham.com/start.html)。
 
@@ -798,25 +798,25 @@ Graham 在他的经典之作[*What You Can't Say*](http://paulgraham.com/say.htm
 
 [生命短暂](http://paulgraham.com/vb.html)
 
-[边缘群体的力量](http://paulgraham.com/marginal.html)
+[边缘群体的力量](http://paulgraham.com/marginal.html “宣父犹能畏后生，丈夫未可轻年少”)
 
 [成瘾性的加速发展](http://paulgraham.com/addiction.html)
 
-[你不该天生就有老板](http://paulgraham.com/boss.html)
+[你不该天生就有老板](http://paulgraham.com/boss.html "将相本无种")
 
-[物质与人生](http://paulgraham.com/stuff.html)
+[物质与人生](http://paulgraham.com/stuff.html “一箪食，一瓢饮”)
 
-[如何虚度光阴和挥霍金钱](http://paulgraham.com/selfindulgence.html)
+[如何虚度光阴和挥霍金钱](http://paulgraham.com/selfindulgence.html “亡羊补牢，为时未晚”)
 
-[我们对孩子撒的谎](http://paulgraham.com/lies.html)
+[我们对孩子撒的谎](http://paulgraham.com/lies.html “今日方知我是我”)
 
-[保持身份认同的简单](http://paulgraham.com/identity.html)
+[保持身份认同的简单](http://paulgraham.com/identity.html “抱朴守拙”)
 
-[城市与抱负](http://paulgraham.com/cities.html)
+[城市与抱负](http://paulgraham.com/cities.html “孩儿立志出乡关”)
 
-[我待办清单的首要任务](http://paulgraham.com/todo.html)
+[我待办清单的首要任务](http://paulgraham.com/todo.html “安能摧眉折腰事权贵，使我不得开心颜”)
 
-### 生命短暂
+### 人生苦短
 
 「生命短暂」这句话，大多数人都会不假思索地认同。然而，Graham 对这个观点进行了更深入的探讨。
 
@@ -874,7 +874,7 @@ Graham 在他的经典之作[*What You Can't Say*](http://paulgraham.com/say.htm
 
 - 疏远朋友
 
-- 忘记为所拥有的感恩
+- 忘记为所拥有的一切感恩
 
 在[《我的待办事项清单之首》](http://paulgraham.com/todo.html)一文中，Graham 将这些遗憾反向转化为他的五条人生准则：
 
@@ -892,17 +892,17 @@ Graham 在他的经典之作[*What You Can't Say*](http://paulgraham.com/say.htm
 
 [**Paul Graham 的首选**](https://x.com/paulg/status/1207995301535080449)
 
-**我的推荐**
+**个人推荐**
 
 - [《不可言说之事》](http://paulgraham.com/say.html)
 
 - [《独立思考的艺术》](http://paulgraham.com/think.html)
 
-- [《你不该屈居人下》](http://paulgraham.com/boss.html)
+- [《你不该屈居人下》](http://paulgraham.com/boss.html “男儿当自强”)
 
--  [《财富创造之道》](http://paulgraham.com/wealth.html)
+-  [《财富创造之道》](http://paulgraham.com/wealth.html “君子爱财，取之有道”)
 
-- [《时间与金钱的消耗》](http://paulgraham.com/selfindulgence.html)
+- [《时间与金钱的消耗》](http://paulgraham.com/selfindulgence.html “一寸光阴一寸金”)
 
 ## 结语
 
