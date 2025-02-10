@@ -4,31 +4,31 @@
 
 在创业领域，恐怕没有人比 Paul Graham 更有发言权了。作为创业加速器 Y Combinator 的联合创始人，他帮助过数以千计的创业公司，从他的文章中我们可以学到许多宝贵的经验。而 Graham 的智慧远不止于此；他的文章吸引了数百万读者，涵盖了教育、智力、写作、社会、人类思维等热门话题。
 
-我通读了 Paul Graham 发表的所有文章（超过 200 篇），积累的笔记足以写成一本书。本文旨在总结我认为最有洞见的部分，为 Graham 的新读者提供一个易于入门的起点。
+我通读了 Paul Graham 发表的所有文章（超过 200 篇），积累的笔记足以写成一本书。本文旨在总结我认为最有洞见的部分，为 Graham 的新读者提供一个了解Graham 的捷径。
 
-我尽可能地附上了他文章的链接，这样当你发现有趣的内容时，就可以轻松地追溯到源头。（事实上，我建议你把这篇文章当作通向精彩内容的大门，而不是把它视为全面的总结）。
+我附上了他文章的链接，这样当你发现有趣的内容时，就可以轻松地追溯到源头。（事实上，我建议你把这篇文章当作通向精彩内容的大门，而不是把它视为全面的总结）。
 
-**如果我对 Graham 观点的描述让你感兴趣，那么他的原文肯定会让你受益匪浅。**一定要回到原文阅读，那里的思想得到了充分的阐释。这篇文章只是一个非常粗浅的概述。
+**如果我对 Graham 观点的描述引起了你的好奇，那不妨去阅读他的原文。**只有在原文中思想才能得到充分地诠释。这篇文章只是一个非常粗浅的概述。
 
-尽管如此，我希望这篇文章能激发你阅读 Graham 的文章。相信我，它们值得你投入时间。
+尽管如此，希望我的写作能激发你阅读 Graham 文章的兴趣。相信我，它们值得你投入时间。
 
 无聊的免责声明：
 
-- 我制作了这篇文章的 [Google Docs 版本](https://jaakkoj.gumroad.com/l/paulgraham)，以便更容易浏览。
+- 我制作了这篇文章的 [Google Docs 版本](https://jaakkoj.gumroad.com/l/paulgraham)，方便大家浏览。
 
-- 我包含了 2021 年 11 月之前发表的所有文章（[《超越聪明》](http://www.paulgraham.com/smart.html) 是包含的最新文章）。你可以在 [Graham 的网站](http://www.paulgraham.com/articles.html)上找到所有文章的列表。
+- 我整理了 2021 年 11 月之前发表的所有文章（截止至[《超越智慧》](http://www.paulgraham.com/smart.html) ）。你可以在 [Graham 的网站](http://www.paulgraham.com/articles.html)上找到所有对应文章的列表。
 
-- 所包含的信息是基于我在阅读这些文章时的兴趣。如果我早一年或晚一年阅读某篇文章，我可能会包含其他内容。另外，有 200 多篇文章，我肯定忽视和遗忘了一些重要内容。再次强调，我建议你自己探索这些文章。
+- 以下文章都是一些我感兴趣的内容。我只是在恰好的时间被这些文章所打动。另外，paul写了 200 篇之多的文章，我肯定会忽视或遗忘一些重要内容。虽然有点啰嗦，但我还是希望你能亲自阅读这些文章。
 
-- **这篇文章不涉及Paul Graham关于编程/编码的想法或文章。**我对这些内容既不感兴趣也不了解，所以我认为讨论这些内容不太合适。他写了很多关于编码的内容，所以如果你对此感兴趣，请自己探索他的文章。
+- **本文不涉及Paul Graham关于编程/代码的想法或文章。**我对这些内容既不感兴趣也不了解，所以我认为自己不适合在这里大放厥词。他写了很多关于代码的内容。如果你对此感兴趣，请自行探索他的文章。
 
-- 最后，如果有什么看起来不对或遗漏的地方，请告诉我，我会修正：[jaakko@jaakkoj.com](mailto:jaakko@jaakkoj.com) / [Twitter](https://twitter.com/jaakkojar)
+- 最后，如果发现谬误或遗漏，请为我斧正：[jaakko@jaakkoj.com](mailto:jaakko@jaakkoj.com) / [Twitter](https://twitter.com/jaakkojar)
 
-好的，让我们开始。
+好的，让我们进入Paul的世界。
 
 ## Paul Graham 论创业
 
-不出所料，Graham 的许多文章都与创业有关。鉴于他在这个话题上的经验，有很多内容值得深入探讨，包括一些经典文章如《方便面盈利》、《做那些不可规模化的事》和《创造者与管理者的时间表》。让我们从概述开始。
+毫无疑问，Graham 的许多文章都与创业有关。鉴于他在创业领域的经验，他的很多观点值得深入探讨，包括诸如《方便面盈利》、《做那些不可规模化的事》和《创造者与管理者的时间表》等经典文章。接下来，让我们从一篇概述开始。
 
 [《13 句话总结创业》](http://paulgraham.com/13sentences.html)：
 
@@ -56,9 +56,9 @@
 
 12. 不要放弃。
 
-13. 交易存在失败的可能。（译者注：其实这里我想翻译成“坦然面对失败”或者“失败乃成功之母”，但突然想起塔勒布的经济学理论，感觉这里有点概率论的意思）
+13. 交易存在失败的可能。（译者注：感觉这里有点概率论的意思）
 
-想要详细了解，可以试试[《如何创办一家创业公司》](http://paulgraham.com/start.html)。
+想要深入了解以上内容，可以去读[《如何创办一家创业公司》](http://paulgraham.com/start.html)。
 
 本节阐述了 Graham 关于创业的核心思想，包括前文提到的各项原则。
 
@@ -98,13 +98,13 @@
 
 [令人望而生畏的宏大创业构想](http://paulgraham.com/ambitious.html)
 
-[培育黑天鹅企业](http://paulgraham.com/swan.html)
+[培育黑天鹅企业](http://paulgraham.com/swan.html "他果然也读过塔勒布")
 
 [颠覆性的创新理念](http://www.paulgraham.com/newideas.html)
 
 [为何难现第二个谷歌](http://paulgraham.com/googles.html)
 
-[创业点子大全](http://paulgraham.com/ideas.html)
+[创业点子大全](http://paulgraham.com/ideas.html "点子这个词蛮俏皮的")
 
 [Jessica Livingston 专访](http://paulgraham.com/jessica.html)
 
@@ -134,15 +134,15 @@
 
 [应对网络喷子](http://paulgraham.com/trolls.html)
 
-[面对憎恨者](http://paulgraham.com/fh.html)
+[黑粉](http://paulgraham.com/fh.html "小黑子露出鸡脚了吧")
 
-[超越平均水平](http://paulgraham.com/avg.html)
+[精益求精](http://paulgraham.com/avg.html)
 
 [做不规模化的事情](http://paulgraham.com/ds.html)
 
 [达到最低生存盈利](http://paulgraham.com/ramenprofitable.html)
 
-[默认生存还是默认死亡？](http://www.paulgraham.com/aord.html)
+[如何判断公司的生存状态](http://www.paulgraham.com/aord.html)
 
 [创造者与管理者的时间表](http://paulgraham.com/makersschedule.html)
 
@@ -160,7 +160,7 @@
 
 [致命的财务危机](http://paulgraham.com/pinch.html)
 
-### 创业公司本质上的不同
+### 创业公司的独特性所在
 
 创业公司与普通企业有着本质的不同。正如 Paul Graham 所言，「[创业公司是一家为快速成长而设计的公司](http://www.paulgraham.com/growth.html)」，它从根本上区别于传统的餐厅或美发沙龙。创业公司的所有决策都围绕着这一成长需求展开。事实上，Graham [强调](http://www.paulgraham.com/growth.html)：「要理解创业公司，就必须理解成长」。
 
@@ -376,7 +376,7 @@ Graham 不经常谈论金钱，当他谈论时，我会有一种奇怪的感觉�
 
 [真诚的力量](http://www.paulgraham.com/earnest.html)
 
-[为什么极客不受欢迎](http://paulgraham.com/nerds.html)
+[为什么书呆子不受欢迎](http://paulgraham.com/nerds.html)（这系列的文章可以阅读《黑客与画家》）
 
 [追逐热门问题的陷阱](http://paulgraham.com/fp.html)
 
@@ -392,7 +392,7 @@ Graham 不经常谈论金钱，当他谈论时，我会有一种奇怪的感觉�
 
 [占据头脑的主导思想](http://paulgraham.com/top.html)
 
-### 追随内心的召唤
+### 听从内心的召唤
 
 当你对某事怀有强烈的内在动力时，你会对它产生无穷无尽的好奇心，并且终将在这个领域有所成就。（稍后我们将探讨好奇心如何孕育天才。）
 
@@ -456,7 +456,7 @@ Graham 在[《一个属于自己的项目》](http://paulgraham.com/own.html)」
 
 [追求智慧值得吗？](http://paulgraham.com/wisdom.html)
 
-[超越聪明](http://www.paulgraham.com/smart.html)
+[超越智慧](http://www.paulgraham.com/smart.html)
 
 [如何实现高效工作](http://www.paulgraham.com/hwh.html)
 
@@ -500,17 +500,17 @@ Graham提出了[《正统特权》](http://paulgraham.com/orth.html)的概念，
 
 **好奇心**
 
-「[真正成就伟业的人往往对某事有着难以言喻的痴迷](http://paulgraham.com/genius.html)」。无穷无尽的好奇心能引领人们做出惊人的发现，这是因为你会比常人预期的更多地思考和探索某个主题。对你而言，这些思考和探索宛如游戏（尽管在旁人眼中像是工作），因为这种痴迷的兴趣"既是能力的象征，也是毅力的替代品"。
+「[真正成就伟业的人往往对某事有着难以言喻的痴迷](http://paulgraham.com/genius.html)」。无穷无尽的好奇心总能引领人们做出惊人的发现，这是因为你会付出远超常人的努力去思考和探索某个主题。对你而言，这些思考和探索宛如游戏（尽管在旁人眼中像是工作），因为这种痴迷的兴趣「既是能力的象征，也是毅力的替代品」。
 
 **智力**
 
-[智慧与智力是有区别的](http://paulgraham.com/wisdom.html)。如果说智慧是在各种情况下都能取得较高平均成果的能力，那么智力则是在特定领域内达到卓越成就的能力。我们通常理解的"天才"更符合后者：你可能在其他方面都很平庸，但如果你发现了相对论，你就是个天才。
+[智慧与智力是有区别的](http://paulgraham.com/wisdom.html)。如果说智慧是在不同领域中表现出通才的能力，那么智力则是在特定领域内达到卓越成就的能力。我们通常理解的"天才"更符合后者：即使你在其他方面都平平无奇 ，只要你发现了像相对论这样的惊世成果，就足以被称为天才。
 
-对某个领域怀有强烈好奇心，并在该领域拥有高智力，这是一个很好的起点。但仅凭这些还不足以发现重要的新思想。正如 Graham 在[《超越聪明》](http://www.paulgraham.com/smart.html)中所阐述的，有聪明人，也有能提出重要新想法的人；「很多真正聪明的人并没有取得多大成就。」
+强烈的好奇心和卓越的天赋让你能够在相关领域如鱼得水。但仅凭这些还不足以做出创新。正如 Graham 在[《超越智慧》](http://www.paulgraham.com/smart.html)中所阐述的，聪明人并不一定能做出创新；「很多真正聪明的人并没有取得多大成就。」
 
-智力和好奇心也许是成为天才的必要条件，但还不够充分；你还需要勤奋努力以发现新思想，并有勇气去追求它们。因为开创新事物不仅会挑战你的自我，还会激怒那些墨守成规的人。
+智力和好奇心是成为天才的必要条件，但还不够充分；你还需要为求新知不懈努力的刻苦和发掘真相捍卫真理的勇气。因为创新不仅要战胜自我，还要面对腐朽者们的怒火。
 
-**努力工作和勇气**
+**勤奋和勇敢**
 
 即使你无可否认地才华横溢，你也无法避免努力工作。（事实上，仅仅知道[《如何努力工作》](http://www.paulgraham.com/hwh.html)就可以让你更接近纯粹的才华。）然而，努力工作本身并不是目标。产出才是重要的（在这个背景下，产出指的是重要的新想法）：「[如果我用牙刷给某人粉刷房子，房主不应该因为我用牙刷就多付我钱](http://paulgraham.com/gap.html)。」
 
@@ -542,9 +542,9 @@ Graham提出了[《正统特权》](http://paulgraham.com/orth.html)的概念，
 
 7. 看似简单
 
-8. 运用对称
+8. 活用对称
 
-9. 贴近自然
+9. 返璞归真
 
 10. 往往独特
 
@@ -588,7 +588,7 @@ Paul Graham 以文章清晰简洁而闻名。无论主题多么复杂，他的�
 
 [列表文章的魅力](http://paulgraham.com/nthings.html)
 
-[说服还是探索](http://paulgraham.com/discover.html)
+[论述还是发现](http://paulgraham.com/discover.html)
 
 [普遍与惊人](http://paulgraham.com/sun.html)
 
@@ -616,7 +616,7 @@ Paul Graham 以文章清晰简洁而闻名。无论主题多么复杂，他的�
 
 [如何培养独立思考能力](http://paulgraham.com/think.html)
 
-### 写作是获得、发展想法和提升思维的途径
+### 写作是获得创意、发展认知和提升思维的途径
 
 如果你读过[《写作简述》](http://paulgraham.com/writing44.html)（你应该读），你会注意到这段话：
 
@@ -890,7 +890,7 @@ Graham 在他的经典之作[*What You Can't Say*](http://paulgraham.com/say.htm
 
 ## Paul Graham 的精华文章
 
-[**Paul Graham 的首选**](https://x.com/paulg/status/1207995301535080449)
+[**Paul Graham 的挚爱之选**](https://x.com/paulg/status/1207995301535080449)
 
 **个人推荐**
 

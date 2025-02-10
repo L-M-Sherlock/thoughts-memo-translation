@@ -652,7 +652,7 @@
   * [你应该记住什么？间隔重复你的生活](nintil/What%20should%20you%20remember%20SRSing%20your%20life.md)
 * [other](other/intro.md)
   * [学校让人沾染上的其他21条恶习（作为100条的补充）](other/21%20Additional%20bad%20habits%20learned%20at%20school.md)
-  * [超过 95% 的水平其实并不怎么样](other/95ile%20isnt%20that%20good.md)
+  * [达到前 5% 的水平其实并不怎么样](other/95ile%20isnt%20that%20good.md)
   * [一位数学家的哀歌](other/A%20Mathematicians%20Lament.md)
   * [Anki 卡片设计研究：学习统计学](other/Anki%20Design%20Study%20Learning%20Statistics.md)
   * [别跟教材客气：优质（数学）书籍挑选指南](other/Be%20ruthless%20for%20textbooks%20A%20guide%20for%20finding%20a%20good%20math%20book.md)
