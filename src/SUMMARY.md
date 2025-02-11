@@ -457,7 +457,7 @@
     * [思想工具：科学、设计、艺术、工匠精神？](andy/prose/Tools%20for%20thought%20science%20design%20art%20craftsmanship.md)
     * [自上而下，再自下而上](andy/prose/Top%20to%20bottom%20bottom%20to%20top.md)
     * [在我的记忆系统研究中通过亲密性产生影响](andy/prose/Towards%20impact%20through%20intimacy%20in%20my%20memory%20system%20research.md)
-    * [迈向可扩展的闪念培养](andy/prose/Towards%20scalable%20blip%20cultivation.md)
+    * [迈向可规模化的闪念培养](andy/prose/Towards%20scalable%20blip%20cultivation.md)
     * [如果我们有了人工通用智能（AGI），还有什么东西值得学？](andy/prose/Whats%20worth%20learning%20if%20we%20have%20AGI.md)
     * [与作者一起工作：文本写作和卡片写作相互依赖](andy/prose/Working%20with%20authors%20textwriting%20requires%20promptwriting%20requires%20textwriting.md)
 * [bryan](bryan/intro.md)
