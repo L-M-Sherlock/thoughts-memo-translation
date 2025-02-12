@@ -6,7 +6,7 @@
 
 日期：2002 年 10 月
 
-这是一个更新版本。原件可以在[此](http://www.super-memory.com/articles/goodness.htm)查看
+这是一个更新版本。原文可以在[此](http://www.super-memory.com/articles/goodness.htm)查看
 
 ## 目录
 
@@ -20,7 +20,7 @@
 
 5. [何为好？](https://supermemo.guru/wiki/Goodness_of_knowledge#What_is_good.3F)-能以其内在价值作为评判吗？
 
-6. [价值体系](https://supermemo.guru/wiki/Goodness_of_knowledge#Systems_of_value)-确定内在价值的主要元伦理方法
+6. [价值体系](https://supermemo.guru/wiki/Goodness_of_knowledge#Systems_of_value)-确定内在价值的主要元伦理学方法
 
 7. [价值体系的普遍性](https://supermemo.guru/wiki/Goodness_of_knowledge#Prevalence_of_systems_of_value)-街上的人们怎么看待什么是道德？
 
@@ -36,9 +36,9 @@
 
 13. [是否可以对价值体系进行调和？](https://supermemo.guru/wiki/Goodness_of_knowledge#Can_systems_of_value_be_reconciled.3F)-即使是表面上的和解也有助于抵制邪恶
 
-14. [共同的内在价值并不保证普适的调和](https://supermemo.guru/wiki/Goodness_of_knowledge#Universal_intrinsic_value_does_not_guarantee_universal_reconciliation)-价值论的复杂性
+14. [共同的内在价值并不保证普适的和解](https://supermemo.guru/wiki/Goodness_of_knowledge#Universal_intrinsic_value_does_not_guarantee_universal_reconciliation)-价值论的复杂性
 
-15. [结论:  知识和生活感知](https://supermemo.guru/wiki/Goodness_of_knowledge#Conclusion:_knowledge_and_the_sense_of_life)
+15. [结论:  知识和生活的感知](https://supermemo.guru/wiki/Goodness_of_knowledge#Conclusion:_knowledge_and_the_sense_of_life)
 
 16. [总结](https://supermemo.guru/wiki/Goodness_of_knowledge#Summary)
 
