@@ -1,6 +1,6 @@
-# 如何独立思考
+# 独立思考的艺术
 
-[如何独立思考](https://paulgraham.com/think.html)
+原文：[How to Think for Yourself](https://paulgraham.com/think.html)
 
 2020 年 11 月
 

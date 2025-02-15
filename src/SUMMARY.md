@@ -682,7 +682,7 @@
   * [文凭的终结](paul/After%20Credentials.md)
   * [好的和坏的拖延](paul/Good%20and%20Bad%20Procrastination.md)
   * [如何做你所爱](paul/How%20to%20Do%20What%20You%20Love.md)
-  * [如何独立思考](paul/How%20to%20Think%20for%20Yourself.md)
+  * [独立思考的艺术](paul/How%20to%20Think%20for%20Yourself.md)
   * [如何努力工作](paul/How%20to%20Work%20Hard.md)
   * [Paul Graham 作品导读](paul/Paul%20Graham%20101.md)
   * [摒弃应试思维](paul/The%20Lesson%20to%20unlearn.md)

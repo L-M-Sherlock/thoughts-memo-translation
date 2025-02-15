@@ -1,6 +1,6 @@
 # 属于自己的项目
 
-[属于自己的项目](https://paulgraham.com/own.html)
+原文：[A Project of One's Own](https://paulgraham.com/own.html)
 
 2021 年 6 月
 
