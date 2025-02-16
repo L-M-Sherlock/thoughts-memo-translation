@@ -6,7 +6,7 @@
 
 无能是常态；大多数从事某项任务的人（即使有绩效激励或花费无数时间从事该任务）可能仍在犯一些基本错误，这些错误可以通过指导或刻意练习来纠正。
 
-2021-06-04 **完成**；[确定性](https://gwern.net/about#confidence-tags)：**记录**；[重要性](https://gwern.net/about#importance-tags)：**5**；[反向链接](https://gwern.net/note/competence#backlinks)；[相似](https://gwern.net/note/competence#similars)；[参考文献](https://gwern.net/note/competence#link-bibliography)
+2021-06-04 **完成**；[确定性](https://gwern.net/about#confidence-tags)：**日志**；[重要性](https://gwern.net/about#importance-tags)：**5**；[反向链接](https://gwern.net/note/competence#backlinks)；[相似内容](https://gwern.net/note/competence#similars)；[参考文献](https://gwern.net/note/competence#link-bibliography)
 
 > 一头为 10 次战役驮过包袱的骡子在[尤金亲王](https://en.wikipedia.org/wiki/Prince_Eugene_of_Savoy)手下也不会因此成为更好的战术家，必须承认，这是对人性的侮辱，许多人在一个本应受人尊敬的职业中变老，却没有取得比这头骡子更大的进步。
 
@@ -90,7 +90,7 @@
 
 - **物理学**：
 
-  - **牛顿力学**：[David Hestenes](https://en.wikipedia.org/wiki/David_Hestenes#Modeling_theory_and_instruction) 展示了[物理系学生中亚里士多德式朴素物理学观念的顽固存在](https://www.harvardmagazine.com/2012/02/twilight-of-the-lecture)，这表明他们所学到的仅仅是[《猜测教师密码》](https://www.lesswrong.com/posts/NMoLJuDJEms7Ku9XS/guessing-the-teacher-s-password)；关于使用的测试，请参见 [Halloun & Hestenes 1985](https://pdfs.semanticscholar.org/e8ab/66bb321d467e38931cd3685d241b908c752a.pdf) 和 [Hestenes et al 1992](https://pdfs.semanticscholar.org/00d3/6b267777b670abd1a3b98a21bf662245a7c4.pdf)
+  - **牛顿力学**：[David Hestenes](https://en.wikipedia.org/wiki/David_Hestenes#Modeling_theory_and_instruction) 展示了[物理系学生中亚里士多德式朴素物理学观念的顽固存在](https://www.harvardmagazine.com/2012/02/twilight-of-the-lecture)，这表明他们所学到的仅仅是[《猜老师的密码》](https://www.lesswrong.com/posts/NMoLJuDJEms7Ku9XS/guessing-the-teacher-s-password)；关于使用的测试，请参见 [Halloun & Hestenes 1985](https://pdfs.semanticscholar.org/e8ab/66bb321d467e38931cd3685d241b908c752a.pdf) 和 [Hestenes et al 1992](https://pdfs.semanticscholar.org/00d3/6b267777b670abd1a3b98a21bf662245a7c4.pdf)
 
   - **量子力学**：[《量子力学概念调查的设计与验证》](https://journals.aps.org/prper/abstract/10.1103/PhysRevSTPER.6.020121#fulltext)，McKagan et al 2010
 
