@@ -842,6 +842,7 @@
   * [提防只看一项研究的人](scott/Beware%20The%20Man%20Of%20One%20Study.md)
   * [斗争（Conflict）Vs. 错误（Mistake）](scott/Conflict%20Vs.%20Mistake.md)
   * [教育私有化真的会带来灾难吗？](scott/Contra%20Robinson%20On%20Schooling.md)
+  * [我能宽容一切，除了外群体](scott/I%20Can%20Tolerate%20Anything%20Except%20The%20Outgroup.md)
   * [大学录取竞争日益激烈：比你想知道的要多得多](scott/INCREASINGLY%20COMPETITIVE%20COLLEGE%20ADMISSIONS%20MUCH%20MORE%20THAN%20YOU%20WANTED%20TO%20KNOW.md)
   * [就算孩子缺上几年学，日后也能赶上](scott/Kids%20Can%20Recover%20From%20Missing%20Even%20Quite%20A%20Lot%20Of%20School.md)
   * [褪黑素：比你想知道的要多得多](scott/Melatonin%20Much%20More%20Than%20You%20Wanted%20To%20Know.md)
