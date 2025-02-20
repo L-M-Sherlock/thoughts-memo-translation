@@ -607,7 +607,7 @@
     * [规避你信念中的真正弱点](lesswrong/Against%20Rationalization/Avoiding%20Your%20Beliefs%20Real%20Weak%20Points.md)
     * [认识论的黑暗面](lesswrong/Against%20Rationalization/Dark%20Side%20Epistemology.md)
     * [纠缠的真理，传染的谎言](lesswrong/Against%20Rationalization/Entangled%20Truths%20Contagious%20Lies.md)
-    * [假托之辞](lesswrong/Against%20Rationalization/Fake%20Justification.md)
+    * [虚假托辞](lesswrong/Against%20Rationalization/Fake%20Justification.md)
     * [那真的是你拒绝的原因吗？](lesswrong/Against%20Rationalization/Is%20That%20Your%20True%20Rejection.md)
     * [了解偏见可能反而有害](lesswrong/Against%20Rationalization/Knowing%20About%20Biases%20Can%20Hurt%20People.md)
     * [动机性停止和动机性继续](lesswrong/Against%20Rationalization/Motivated%20Stopping%20and%20Motivating%20Continuation.md)
