@@ -210,7 +210,7 @@ Rafael 最让我吃惊的一点是，他对[汉尼拔带着象队跨越阿尔卑
 
 。我高中毕业时还是不会说英语。这不是她的错，也不是我的错。这只是大脑工作的方式。如果连最有热情的学生都难以激发，那么这种努力在其他学生身上成功的可能性有多大呢？看：
 
-[你无法从从外部激励孩子](https://supermemo.guru/wiki/You_cannot_motivate_a_child_extrinsically)
+[你无法从外部激励孩子](https://supermemo.guru/wiki/You_cannot_motivate_a_child_extrinsically)
 
 在孩子们身上灌输激情是一件崇高的任务。然而，[强制学校教育](https://supermemo.guru/wiki/Compulsory_education)本身就有很多固有的缺陷，这些缺陷极大地阻碍了这种努力。虽然解释知识的重要性非常关键，但通常这样做并不奏效。即使是最优秀的教师也经常遭遇失败。
 
