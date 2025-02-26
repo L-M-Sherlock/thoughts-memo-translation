@@ -647,6 +647,7 @@
   * [论意志的慈善](michael/On%20Volitional%20Philanthropy.md)
   * [运用记忆系统背诵文章段落](michael/Using%20memory%20systems%20to%20memorize%20text%20passages.md)
 * [nintil](nintil/intro.md)
+  * [大量输入与间隔重复](nintil/Massive%20input%20andor%20spaced%20repetition.md)
   * [《反对学校教育的依据》读书笔记](nintil/Notes%20on%20The%20Case%20Against%20Education.md)
   * [Bloom 的「两个标准差」问题：系统比较精熟学习法、一对一辅导和直接教学法的有效性](nintil/On%20Blooms%20two%20sigma%20problem%20A%20systematic%20review%20of%20the%20effectiveness%20of%20mastery%20learning%20tutoring%20and%20direct%20instruc.md)
   * [你应该记住什么？间隔重复你的生活](nintil/What%20should%20you%20remember%20SRSing%20your%20life.md)
