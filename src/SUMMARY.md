@@ -692,7 +692,7 @@
   * [Paul Graham 作品导读](paul/Paul%20Graham%20101.md)
   * [摒弃应试思维](paul/The%20Lesson%20to%20unlearn.md)
   * [主导你头脑的想法](paul/The%20Top%20Idea%20in%20Your%20Mind.md)
-  * [你将希望自己早该知道的事](paul/What%20Youll%20Wish%20Youd%20Known.md)
+  * [你后悔自己早该知道的事](paul/What%20Youll%20Wish%20Youd%20Known.md)
 * [philosophynow](philosophynow/intro.md)
   * [需要控制愤怒情绪的斯多葛学派](philosophynow/Stoics%20in%20Need%20of%20Anger%20Management.md)
 * [refold](refold/intro.md)
