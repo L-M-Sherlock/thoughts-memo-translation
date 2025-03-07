@@ -1098,6 +1098,7 @@
       * [14. 影响睡眠的因素](woz/prose/science-of-sleep/14.%20Factors%20that%20affect%20sleep.md)
       * [15. 我们应该睡多长时间？](woz/prose/science-of-sleep/15.%20How%20long%20should%20we%20sleep.md)
       * [16. 婴儿睡眠](woz/prose/science-of-sleep/16.%20Baby%20sleep.md)
+      * [17. 失眠](woz/prose/science-of-sleep/17.%20Insomnia.md)
       * [8. 双相的生活](woz/prose/science-of-sleep/8.%20Biphasic%20life.md)
       * [9. 脑力劳动的最佳时间](woz/prose/science-of-sleep/9.%20Optimum%20time%20for%20brainwork.md)
       * [瑞士奶酪模型](woz/prose/science-of-sleep/Swiss%20cheese%20model.md)
