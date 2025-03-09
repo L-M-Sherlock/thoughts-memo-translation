@@ -683,7 +683,7 @@
   * [为什么当代科学家都如此平庸乏味？浅析科学如何以牺牲智力与创造力为代价筛选毅力与合群](other/Why%20are%20modern%20scientists%20so%20dull%20How%20science%20selects%20for%20perseverance%20%20and%20sociability%20at%20the%20expense%20of%20intelligence%20and%20creativity.md)
   * [高等教育应当认真对待「信号传递批判」的理由及其潜在影响](other/Why%20higher%20education%20should%20take%20the%20signalling%20critique%20seriously%20%20and%20what%20that%20might%20look%20like.md)
 * [paul](paul/intro.md)
-  * [属于自己的项目](paul/A%20Project%20of%20Ones%20Own.md)
+  * [一个属于自己的项目](paul/A%20Project%20of%20Ones%20Own.md)
   * [文凭的终结](paul/After%20Credentials.md)
   * [好的和坏的拖延](paul/Good%20and%20Bad%20Procrastination.md)
   * [如何做你所爱](paul/How%20to%20Do%20What%20You%20Love.md)
