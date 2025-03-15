@@ -1,4 +1,4 @@
-# 更多关于教育的想法
+# 关于教育的更多想法
 
 原文：[Doing Education Right - David Friedman’s Substack](https://daviddfriedman.substack.com/p/more-on-education)
 

@@ -469,7 +469,7 @@
   * [学校是为了浪费时间和金钱](bryan/School%20Is%20for%20Wasting%20Time%20and%20Money.md)
   * [教学的艺术](bryan/Teaching%20Teaching.md)
 * [david](david/intro.md)
-  * [更多关于教育的想法](david/More%20on%20Education.md)
+  * [关于教育的更多想法](david/More%20on%20Education.md)
   * [学习的理由](david/Reasons%20to%20Learn.md)
   * [现代世界的必备技能](david/Skills%20for%20the%20Modern%20World.md)
   * [对教学的思考：1](david/Thoughts%20on%20Teaching%201.md)
