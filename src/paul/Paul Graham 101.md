@@ -1,6 +1,6 @@
 # Paul Graham 作品导读
 
-[Paul Graham 导论](https://www.jaakkoj.com/blog/graham)
+原文：[Paul Graham 101](https://www.jaakkoj.com/blog/graham)
 
 在创业领域，恐怕没有人比 Paul Graham 更有发言权了。作为创业加速器 Y Combinator 的联合创始人，他帮助过数以千计的创业公司，从他的文章中我们可以学到许多宝贵的经验。而 Graham 的智慧远不止于此；他的文章吸引了数百万读者，涵盖了教育、智力、写作、社会、人类思维等热门话题。
 
@@ -18,9 +18,9 @@
 
 - 我整理了 2021 年 11 月之前发表的所有文章（截止至[《超越智慧》](http://www.paulgraham.com/smart.html) ）。你可以在 [Graham 的网站](http://www.paulgraham.com/articles.html)上找到所有对应文章的列表。
 
-- 以下文章都是一些我感兴趣的内容。我只是在恰好的时间被这些文章所打动。另外，paul写了 200 篇之多的文章，我肯定会忽视或遗忘一些重要内容。虽然有点啰嗦，但我还是希望你能亲自阅读这些文章。
+- 以下文章都是一些我感兴趣的内容。我只是在恰好的时间被这些文章所打动。另外，paul 写了 200 篇之多的文章，我肯定会忽视或遗忘一些重要内容。虽然有点啰嗦，但我还是希望你能亲自阅读这些文章。
 
-- **本文不涉及Paul Graham关于编程/代码的想法或文章。**我对这些内容既不感兴趣也不了解，所以我认为自己不适合在这里大放厥词。他写了很多关于代码的内容。如果你对此感兴趣，请自行探索他的文章。
+- **本文不涉及 Paul Graham 关于编程/代码的想法或文章。**我对这些内容既不感兴趣也不了解，所以我认为自己不适合在这里大放厥词。他写了很多关于代码的内容。如果你对此感兴趣，请自行探索他的文章。
 
 - 最后，如果发现谬误或遗漏，请为我斧正：[jaakko@jaakkoj.com](mailto:jaakko@jaakkoj.com) / [Twitter](https://twitter.com/jaakkojar)
 
@@ -64,7 +64,7 @@
 
 **本节引用的文章：**
 
-[13句话道尽创业精髓](http://paulgraham.com/13sentences.html)
+[13 句话道尽创业精髓](http://paulgraham.com/13sentences.html)
 
 [创业入门指南](http://paulgraham.com/start.html)
 

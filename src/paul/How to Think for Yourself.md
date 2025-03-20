@@ -120,4 +120,4 @@ ___________
 
 [10] 例外：八卦。几乎所有人都对八卦充满好奇。
 
-**致谢：**感谢 Trevor Blackwell、Paul Buchheit、Patrick Collison、Jessica Livingston、Robert Morris、Harj Taggar 和 Peter Thiel 阅读本文的初稿。
+**感谢** Trevor Blackwell、Paul Buchheit、Patrick Collison、Jessica Livingston、Robert Morris、Harj Taggar 和 Peter Thiel 阅读本文的初稿。
