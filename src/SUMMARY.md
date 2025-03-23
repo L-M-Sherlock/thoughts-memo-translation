@@ -666,6 +666,7 @@
   * [学校让人沾染上的其他21条恶习（作为100条的补充）](other/21%20Additional%20bad%20habits%20learned%20at%20school.md)
   * [达到前 5% 的水平其实并不怎么样](other/95ile%20isnt%20that%20good.md)
   * [一位数学家的哀歌](other/A%20Mathematicians%20Lament.md)
+  * [技能提升指南](other/Advice%20on%20Upskilling.md)
   * [Anki 卡片设计研究：学习统计学](other/Anki%20Design%20Study%20Learning%20Statistics.md)
   * [别跟教材客气：优质（数学）书籍挑选指南](other/Be%20ruthless%20for%20textbooks%20A%20guide%20for%20finding%20a%20good%20math%20book.md)
   * [「再努力点」在某些情况下可能是个糟糕的策略](other/Certain%20ways%20that%20try%20harder%20can%20be%20a%20bad%20strategy.md)
