@@ -4,13 +4,13 @@
 
 在创业领域，恐怕没有人比 Paul Graham 更有发言权了。作为创业加速器 Y Combinator 的联合创始人，他帮助过数以千计的创业公司，从他的文章中我们可以学到许多宝贵的经验。而 Graham 的智慧远不止于此；他的文章吸引了数百万读者，涵盖了教育、智力、写作、社会、人类思维等热门话题。
 
-我通读了 Paul Graham 发表的所有文章（超过 200 篇），积累的笔记足以写成一本书。本文旨在总结我认为最有洞见的部分，为 Graham 的新读者提供一个了解Graham 的捷径。
+我通读了 Paul Graham 发表的所有文章（超过 200 篇），积累的笔记足以写成一本书。本文旨在总结我认为最有洞见的部分，为 Graham 的新读者提供一个了解 Graham 的捷径。
 
 我附上了他文章的链接，这样当你发现有趣的内容时，就可以轻松地追溯到源头。（事实上，我建议你把这篇文章当作通向精彩内容的大门，而不是把它视为全面的总结）。
 
-**如果我对 Graham 观点的描述引起了你的好奇，那不妨去阅读他的原文。**只有在原文中Graham的思想才能得到充分地诠释。这篇文章只是一个非常粗浅的概述。
+**如果我对 Graham 观点的描述引起了你的好奇，那不妨去阅读他的原文。**只有在原文中 Graham 的思想才能得到充分地诠释。这篇文章只是一个非常粗浅的概述。
 
-尽管如此，希望我的写作能激发你阅读 Graham 文章的兴趣。相信我，它们值得你投入时间。
+尽管如此，希望我的写作能激发你阅读 Graham 的文章的兴趣。相信我，它们值得你投入时间。
 
 无聊的免责声明：
 
@@ -18,19 +18,19 @@
 
 - 我整理了 2021 年 11 月之前发表的所有文章（截止至[《超越智慧》](http://www.paulgraham.com/smart.html) ）。你可以在 [Graham 的网站](http://www.paulgraham.com/articles.html)上找到所有对应文章的列表。
 
-- 以下文章都是一些我感兴趣的内容。我只是在恰好的时间被这些文章所打动。另外，paul 写了 200 篇之多的文章，我肯定会忽视或遗忘一些重要内容。虽然有点啰嗦，但我还是希望你能亲自阅读这些文章。
+- 以下文章都是一些我感兴趣的内容。我只是在恰好的时间被这些文章所打动。另外，Paul 写了 200 篇之多的文章，我肯定会忽视或遗忘一些重要内容。虽然有点啰嗦，但我还是希望你能亲自阅读这些文章。
 
 - **本文不涉及 Paul Graham 关于编程/代码的想法或文章。**我对这些内容既不感兴趣也不了解，所以我认为自己不适合在这里大放厥词。他写了很多关于代码的内容。如果你对此感兴趣，请自行探索他的文章。
 
 - 最后，如果发现谬误或遗漏，请为我斧正：[jaakko@jaakkoj.com](mailto:jaakko@jaakkoj.com) / [Twitter](https://twitter.com/jaakkojar)
 
-好的，让我们进入Paul的世界。
+好的，让我们进入 Paul 的世界。
 
 ## Paul Graham 论创业
 
-毫无疑问，Graham 的许多文章都与创业有关。鉴于他在创业领域的经验，他的很多观点值得深入探讨，包括诸如《方便面盈利》、《做那些不可规模化的事》和《创造者与管理者的时间表》等经典文章。接下来，让我们从一篇概述开始。
+毫无疑问，Graham 的许多文章都与创业有关。鉴于他在创业领域的经验，他的很多观点值得深入探讨，包括诸如《让盈利覆盖你的泡面钱》、《做那些不可规模化的事》和《创造者与管理者的时间表》等经典文章。接下来，让我们从一篇概述开始。
 
-[《13句话道尽创业精髓》](http://paulgraham.com/13sentences.html)：
+[《13 句话道尽创业精髓》](http://paulgraham.com/13sentences.html)：
 
 1. 选择优秀的联合创始人。
 
@@ -40,15 +40,15 @@
 
 4. 了解目标用户。
 
-5. 构建核心客户社群。
+5. 吸引少数忠实用户比大量暧昧用户要好
 
-6. 为优质客户提供个性化服务。
+6. 提供令人惊喜的优质客户服务。
 
 7. 你衡量什么就会得到什么。
 
 8. 降本增效。
 
-9. 节源开流。
+9. 先让利润覆盖你的泡面钱。
 
 10. 避免分心。
 
@@ -58,107 +58,107 @@
 
 13. 交易存在失败的可能。（译者注：感觉这里有点概率论的意思）
 
-想要深入了解以上内容，可以去读[《如何创办一家创业公司》](http://paulgraham.com/start.html)。
+想要深入了解以上内容，可以去读[《如何创办一家初创企业》](http://paulgraham.com/start.html)。
 
 本节阐述了 Graham 关于创业的核心思想，包括前文提到的各项原则。
 
 **本节引用的文章：**
 
-[13 句话道尽创业精髓](http://paulgraham.com/13sentences.html)
+[《13 句话道尽创业精髓》](http://paulgraham.com/13sentences.html)：
 
-[创业入门指南](http://paulgraham.com/start.html)
+[《创业入门指南》](http://paulgraham.com/start.html)
 
-[创业即增长](http://www.paulgraham.com/growth.html)
+[《创业即增长》](http://www.paulgraham.com/growth.html)
 
-[如何创造财富](http://paulgraham.com/wealth.html)
+[《如何创造财富》](http://paulgraham.com/wealth.html)
 
-[跳出学历的束缚](http://paulgraham.com/credentials.html)
+[《文凭的终结》](http://paulgraham.com/credentials.html)
 
-[亟需抛弃的固有观念](http://paulgraham.com/lesson.html)
+[《摒弃应试思维》](http://paulgraham.com/lesson.html)
 
-[边缘群体的力量](http://paulgraham.com/marginal.html)
+[《边缘群体的力量》](http://paulgraham.com/marginal.html)
 
-[创业前沿报道](http://paulgraham.com/colleges.html)
+[《创业前沿报道》](http://paulgraham.com/colleges.html)
 
-[大学生创业指南](http://paulgraham.com/mit.html)
+[《大学生创业指南》](http://paulgraham.com/mit.html)
 
-[创业的真实写照](http://paulgraham.com/really.html)
+[《创业的真实写照》](http://paulgraham.com/really.html)
 
-[创业前的准备工作](http://paulgraham.com/before.html)
+[《创业前的准备工作》](http://paulgraham.com/before.html)
 
-[招聘已是昨日黄花](http://paulgraham.com/hiring.html)
+[《招聘已是昨日黄花》](http://paulgraham.com/hiring.html)
 
-[为什么不要放弃创业](http://paulgraham.com/notnot.html)
+[《为什么不要不创业》](http://paulgraham.com/notnot.html)
 
-[创业公司最难学会的课程](http://paulgraham.com/startuplessons.html)
+[《创业公司最难学会的教训》](http://paulgraham.com/startuplessons.html)
 
-[源于生活的创业灵感](http://paulgraham.com/organic.html)
+[《源于生活的创业灵感》](http://paulgraham.com/organic.html)
 
-[创新的六大原则](http://paulgraham.com/newthings.html)
+[《创新的六大原则》](http://paulgraham.com/newthings.html)
 
-[令人望而生畏的宏大创业构想](http://paulgraham.com/ambitious.html)
+[《令人望而生畏的宏大创业构想》](http://paulgraham.com/ambitious.html)
 
-[培育黑天鹅企业](http://paulgraham.com/swan.html "他果然也读过塔勒布")
+[《培育黑天鹅企业》](http://paulgraham.com/swan.html)（译者：他果然也读过塔勒布）
 
-[颠覆性的创新理念](http://www.paulgraham.com/newideas.html)
+[《颠覆性的创新理念》](http://www.paulgraham.com/newideas.html)
 
-[为何难现第二个谷歌](http://paulgraham.com/googles.html)
+[《为什么没有第二个谷歌》](http://paulgraham.com/googles.html)
 
-[创业点子大全](http://paulgraham.com/ideas.html)
+[《创业点子大全》](http://paulgraham.com/ideas.html)
 
-[Jessica Livingston 专访](http://paulgraham.com/jessica.html)
+[《Jessica Livingston 专访》](http://paulgraham.com/jessica.html)
 
-[创业百问百答](http://paulgraham.com/startupfaq.html)
+[《创业百问百答》](http://paulgraham.com/startupfaq.html)
 
-[真诚的力量](http://paulgraham.com/earnest.html)
+[《真诚的力量》](http://paulgraham.com/earnest.html)
 
-[永不言弃，灵活应变](http://paulgraham.com/relres.html)
+[《永不言弃，灵活应变》](http://paulgraham.com/relres.html)
 
-[给善用资源者的建议](http://paulgraham.com/word.html)
+[《给善用资源者的建议》](http://paulgraham.com/word.html)
 
-[剖析决心](http://paulgraham.com/determination.html)
+[《剖析决心》](http://paulgraham.com/determination.html)
 
-[刻薄者必败](http://paulgraham.com/mean.html)
+[《刻薄者必败》](http://paulgraham.com/mean.html)
 
-[为什么创始人善良也无妨](http://paulgraham.com/safe.html)
+[《为什么创始人善良也无妨》](http://paulgraham.com/safe.html)
 
-[向善而行](http://paulgraham.com/good.html)
+[《向善而行》](http://paulgraham.com/good.html)
 
-[设计与研究](http://paulgraham.com/desres.html)
+[《设计与研究》](http://paulgraham.com/desres.html)
 
-[产品的1.0版本](http://paulgraham.com/laundry.html)
+[《产品的 1.0 版本》](http://paulgraham.com/laundry.html)
 
-[下一个 Altair Basic 是什么？](http://paulgraham.com/altair.html)
+[《下一个 Altair Basic 是什么？》](http://paulgraham.com/altair.html)
 
-[创作的早期阶段](http://paulgraham.com/early.html)
+[《项目在早期阶段》](http://paulgraham.com/early.html)
 
-[应对网络喷子](http://paulgraham.com/trolls.html)
+[《喷子》](http://paulgraham.com/trolls.html)
 
-[黑粉](http://paulgraham.com/fh.html)
+[《黑子》](http://paulgraham.com/fh.html)
 
-[精益求精](http://paulgraham.com/avg.html)
+[《击败平庸》](http://paulgraham.com/avg.html)
 
-[做那些无法规模化的事](http://paulgraham.com/ds.html)
+[《做那些无法规模化的事》](http://paulgraham.com/ds.html)
 
-[实现方便面盈利](http://paulgraham.com/ramenprofitable.html)
+[《让盈利覆盖你的泡面钱》](http://paulgraham.com/ramenprofitable.html)
 
-[如何判断公司的生存状态](http://www.paulgraham.com/aord.html)
+[《默认存活还是默认死亡？》](http://www.paulgraham.com/aord.html)
 
-[遵循创造者的时间表](http://paulgraham.com/makersschedule.html)
+[《创造者与管理者的时间表》](http://paulgraham.com/makersschedule.html)
 
-[在头脑中构建程序(http://paulgraham.com/head.html)
+[《在头脑中构建程序》](http://paulgraham.com/head.html)
 
-[创业公司如何避免失败](http://paulgraham.com/die.html)
+[《如何避免倒闭》](http://paulgraham.com/die.html)
 
 [远离干扰](http://paulgraham.com/distraction.html)
 
-[拖延的好与坏](http://paulgraham.com/procrastination.html)
+[《好拖延和坏拖延》](http://paulgraham.com/procrastination.html)
 
-[不要理会企业发展部](http://paulgraham.com/corpdev.html)
+[《不要理会企业发展部》](http://paulgraham.com/corpdev.html)
 
-[占据头脑的主导思想](http://paulgraham.com/top.html)
+[《主导你头脑的想法》](http://paulgraham.com/top.html)
 
-[致命的财务危机](http://paulgraham.com/pinch.html)
+[《致命的夹击》](http://paulgraham.com/pinch.html)
 
 ### 创业公司的独特性所在
 
@@ -170,7 +170,7 @@
 
 因此，成为一名优秀的创业者并不需要你是一个好学生。实际上，如果你的观点与商业课老师不同，[这反而可能是件好事](http://paulgraham.com/marginal.html)（毕竟，如果你的商业老师真的精通商业，他们可能已经成为创业者了）。在创业公司中，[学历和成绩单并不那么重要](http://paulgraham.com/colleges.html)——你的用户不会关心你是否毕业于斯坦福或者成绩全 A。（相关阅读：[《给学生的创业指南》](http://paulgraham.com/mit.html)）。
 
-[创办一家创业公司与普通工作有着根本的区别](http://paulgraham.com/really.html)。[在创业中，经验的作用往往被高估](http://paulgraham.com/before.html)。真正重要的是成为替你的用户解决问题的专家；其他一切都可以在创业过程中逐步摸索。「最有潜力的年轻人**总是**会被大型组织低估，因为年轻人还没有可以衡量的业绩，而对他们能力的任何估计误差都只会趋向于平均水平。」（引自[《招聘已过时》](http://paulgraham.com/hiring.html)）通过创业，你可以发现自己的真实市场价值。
+[创办一家创业公司与普通工作有着根本的区别](http://paulgraham.com/really.html)。[在创业中，经验的作用往往被高估](http://paulgraham.com/before.html)。真正重要的是成为替你的用户解决问题的专家；其他一切都可以在创业过程中逐步摸索。「最有潜力的年轻人**总是**会被大型组织低估，因为年轻人还没有可以衡量的业绩，而对他们能力的任何估计误差都只会趋向于平均水平。」（引自[《招聘已是昨日黄花》](http://paulgraham.com/hiring.html)）通过创业，你可以发现自己的真实市场价值。
 
 总的来说，创业公司与其他公司、学校和「常规工作」有着本质的不同。那么，为什么只有少数人选择创业呢？Graham 在[《为什么不要不创业》](http://paulgraham.com/notnot.html)一文中列举了人们常见的借口（以及相应的批判）。
 
@@ -190,11 +190,11 @@
 
 **可测量性：**在创业公司中，每个员工的贡献比在大型组织中更容易衡量。因此，如果你表现出色并创造了财富，你就更有可能在创业公司中获得与你的价值相称的报酬。
 
-更多详情请参阅[《生财有道》](http://paulgraham.com/wealth.html)。
+更多详情请参阅[《如何创造财富》](http://paulgraham.com/wealth.html)。
 
 ### 好的创业想法起源于个人需求，而且听起来并不令人信服
 
-尽管获得创业灵感的方式多种多样，但 Graham 观察到，大多数成功的创业公司都源于创始人的个人需求。他提议，你应该专注于为自己解决问题，而不是一开始就考虑创办公司。只要持续解决问题，你可能会在不知不觉中创立了一家公司。（出自[《有机创业想法》](http://paulgraham.com/organic.html)）
+尽管获得创业灵感的方式多种多样，但 Graham 观察到，大多数成功的创业公司都源于创始人的个人需求。他提议，你应该专注于为自己解决问题，而不是一开始就考虑创办公司。只要持续解决问题，你可能会在不知不觉中创立了一家公司。（出自[《源于生活的创业灵感》](http://paulgraham.com/organic.html)）
 
 Graham 还注意到，好的创意往往来自[边缘地带](http://paulgraham.com/marginal.html)——那些你意想不到的地方。这些想法通常非常聚焦，比如一个专门的在线书店或针对大学生的社交网站。正因为如此，它们并不轻易显露出改变世界的潜力；我们往往会忽视这些创意，直到它们的价值变得无法忽视。
 
@@ -250,7 +250,7 @@ Graham 观察到了关于应变能力的一个[规律](http://paulgraham.com/wor
 
 ### 创造人们需要的产品
 
-如果只能从Graham那里得到一条创业建议，那必然是：「创造人们需要的产品」。（你可能知道，这也是 Y Combinator 的座右铭）
+如果只能从 Graham 那里得到一条创业建议，那必然是：「创造人们需要的产品」。（你可能知道，这也是 Y Combinator 的座右铭）
 
 诚然，这看似显而易见。但它却是创业中最为关键的要素：只要你创造了人们真正需要的产品，就能自然而然地吸引用户、员工、投资者和资金。「[我们可以将创业公司创造的价值想象成一个矩形，其中一边代表用户数量，另一边代表你对用户生活的改善程度](http://paulgraham.com/13sentences.html)。」
 
@@ -304,17 +304,17 @@ Graham 观察到了关于应变能力的一个[规律](http://paulgraham.com/wor
 
 「做那些不可规模化的事」这一建议警示我们，打造一个伟大的产品只是成功等式中的一部分；无论你的产品多么出色，我们仍然需要进行大量艰苦的、无法大规模复制的工作来实现初期增长。
 
-[**实现方便面盈利**](http://paulgraham.com/ramenprofitable.html)
+[**让盈利覆盖你的泡面钱**](http://paulgraham.com/ramenprofitable.html)
 
-方便面盈利 = 创业公司刚好能赚到足以支付创始人基本生活开支的收入。
+泡面盈利 = 创业公司刚好能赚到足以支付创始人基本生活开支的收入。
 
-「方便面盈利意味着创业公司不需要通过融资来维持生存。此时主要开支仅限于创始人的基本生活费用，而这些费用现在已经可以得到覆盖（即便他们只吃得起方便面）。」
+「泡面盈利意味着创业公司不需要通过融资来维持生存。此时主要开支仅限于创始人的基本生活费用，而这些费用现在已经可以得到覆盖（即便他们只吃得起泡面。」
 
-意义：方便面盈利标志着创业公司从[默认死亡状态转变为默认存活状态](http://www.paulgraham.com/aord.html)。此时，你面临的挑战从「如何避免资金耗尽」变成了「如何避免精力耗尽」。尽管经营创业公司始终充满压力，但达到方便面盈利确实能让你稍微卸下一些心理负担。
+意义：泡面盈利标志着创业公司从[默认死亡状态转变为默认存活状态](http://www.paulgraham.com/aord.html)。此时，你面临的挑战从「如何避免资金耗尽」变成了「如何避免精力耗尽」。尽管经营创业公司始终充满压力，但达到泡面盈利确实能让你稍微卸下一些心理负担。
 
-要提高创业公司成功的概率，就要提高生存的概率；要提高生存的概率，就要达到方便面盈利。
+要提高创业公司成功的概率，就要提高生存的概率；要提高生存的概率，就要达到泡面盈利。
 
-[**遵循创造者的时间表**](http://paulgraham.com/makersschedule.html)
+[**创造者与管理者的时间表**](http://paulgraham.com/makersschedule.html)
 
 要真正进入创造和构建的状态，你需要长时间不受干扰的专注。你不可能在会议间隙的一小时内创造出优秀的产品；「那点时间连热身都不够」。想想那些给人刻板印象的程序员，他们喜欢彻夜工作，很可能是因为凌晨三点没人会来打扰他们。
 
@@ -354,11 +354,11 @@ Graham 还研究了反面情况：什么是不该做的。他将其称为「[《
 
 ### 你越关注金钱，就越难专注于产品
 
-Graham 不经常谈论金钱，当他谈论时，我会有一种奇怪的感觉。这就像「比起谈论金钱，我更愿意谈论产品。」让我解释一下:
+Graham 不经常谈论金钱，当他谈论时，我会有一种奇怪的感觉。这就像「比起谈论金钱，我更愿意谈论产品。」让我解释一下：
 
 在[《不要和公司发展部门交谈》](http://paulgraham.com/corpdev.html)中，Graham 说一个初创公司需要知道的关于并购的一切内容就是，除非你现在打算出售，否则你永远不应该和公司发展部门交谈。所以最好专注于产品，直到你绝对必须考虑并购。
 
-在[《你脑海中的最优先想法》](http://paulgraham.com/top.html)中：「一旦你开始筹集资金，筹集资金就会成为你脑海中的最优先想法」，而不是用户和产品。所以你的产品会受到影响。
+在[《主导你头脑的想法》》](http://paulgraham.com/top.html)中：「一旦你开始筹集资金，筹集资金就会成为你脑海中的最优先想法」，而不是用户和产品。所以你的产品会受到影响。
 
 [不要花光你获得的资金](http://paulgraham.com/start.html)。「[最常见的失败原因是资金耗尽](http://paulgraham.com/13sentences.html)」，你可以通过不花钱，精准且不过度的雇人来避免这种情况。
 
@@ -374,23 +374,23 @@ Graham 不经常谈论金钱，当他谈论时，我会有一种奇怪的感觉�
 
 [什么样的工作不像工作？](http://paulgraham.com/work.html)
 
-[真诚的力量](http://www.paulgraham.com/earnest.html)
+[《真诚的力量》](http://paulgraham.com/earnest.html)
 
-[为什么书呆子不受欢迎](http://paulgraham.com/nerds.html)
+[《为什么书呆子不受欢迎》](http://paulgraham.com/nerds.html)
 
-[追逐热门问题的陷阱](http://paulgraham.com/fp.html)
+[《时髦问题》](http://paulgraham.com/fp.html)
 
-[如何从事自己热爱的工作](http://paulgraham.com/love.html)
+[《如何做你所爱》](http://paulgraham.com/love.html)
 
 [你不该屈居人下](http://paulgraham.com/boss.html)
 
-[打造属于自己的项目](http://paulgraham.com/own.html)
+[《一个属于自己的项目》](http://paulgraham.com/own.html)
 
-[实现方便面盈利](http://www.paulgraham.com/ramenprofitable.html)
+[《让盈利覆盖你的泡面钱》](http://paulgraham.com/ramenprofitable.html)
 
-[卓越的黑客](http://paulgraham.com/gh.html)
+[《卓越的黑客》](http://paulgraham.com/gh.html)
 
-[占据头脑的主导思想](http://paulgraham.com/top.html)
+[《主导你头脑的想法》](http://paulgraham.com/top.html)
 
 ### 听从内心的召唤
 
@@ -402,15 +402,15 @@ Graham 不经常谈论金钱，当他谈论时，我会有一种奇怪的感觉�
 
 世界上最强大的两股力量——金钱和好奇心——正日益趋于一致。追随内心动力的最佳时机莫过于此。当下，关键的问题不在于如何赚钱，而在于要做什么。因为只要你找到了后者的答案，前者的问题就会迎刃而解。
 
-事实上，书呆子们比普通人更接近找到人生真谛。（这里的书呆子，或者说热忱之人，指的是那些纯粹为了兴趣而投入，而非为了追求名利的人）。高中时期的书呆子们[往往不受欢迎](http://paulgraham.com/nerds.html)，这并非因为他们不懂得如何讨人喜欢或操纵社交规则，而是因为他们根本不在乎自己是否受欢迎。这可能让他们的高中生活颇为艰难，但在现实世界中，他们反而能获得更多成就感：当其他人陷入追逐人气和地位的无休止竞争中，热衷于解决[*时髦问题*](http://paulgraham.com/fp.html)时，书呆子们却能自由地追随自己的好奇心，专注于他人忽视的领域，从而有机会发现新事物，最终取得成功。更可贵的是，他们在这个过程中能获得更多乐趣。
+事实上，书呆子们比普通人更接近找到人生真谛。（这里的书呆子，或者说热忱之人，指的是那些纯粹为了兴趣而投入，而非为了追求名利的人）。高中时期的书呆子们[往往不受欢迎](http://paulgraham.com/nerds.html)，这并非因为他们不懂得如何讨人喜欢或操纵社交规则，而是因为他们根本不在乎自己是否受欢迎。这可能让他们的高中生活颇为艰难，但在现实世界中，他们反而能获得更多成就感：当其他人陷入追逐人气和地位的无休止竞争中，热衷于解决[《时髦问题》](http://paulgraham.com/fp.html)时，书呆子们却能自由地追随自己的好奇心，专注于他人忽视的领域，从而有机会发现新事物，最终取得成功。更可贵的是，他们在这个过程中能获得更多乐趣。
 
 要发掘你的内在动力并确定该做什么，不妨问问自己：「在哪个领域，你是个不折不扣的书呆子？」
 
-让我们以《[如何做你热爱的事](http://paulgraham.com/love.html)》中的一个深刻而实用的洞见来结束这一部分：
+让我们以《[如何做你所爱](http://paulgraham.com/love.html)》中的一个深刻而实用的洞见来结束这一部分：
 
-「我认为，要获得幸福，你必须做一些不仅让你享受，而且让你敬佩的事情。你必须能够在完成后说，『哇，这真是太棒了。』这并不意味着你一定要创造什么。如果你学会了悬挂式滑翔，或者能流利地说一门外语，那也足以让你在相当长一段时间里感叹，『哇，这真是太棒了。』」
+「要获得真正的幸福，我认为你必须投入到既能让你享受又能让你引以为豪的事。你要能在完成后由衷地赞叹：『哇，这真是太酷了！』这并不意味着你必须创造出什么实物。即使是学会操纵三角滑翔翼，或熟练地掌握一门外语，也足以让你（至少在一段时间里）感到『哇，这真是太酷了！』」
 
-### 从心所欲
+### 你应该致力于自己的项目
 
 顺着内在动机的逻辑，我们可以得出结论：你应该去到能滋养和托举自己的地方。（你自己的项目或你处于重要地位的项目）
 
@@ -420,15 +420,15 @@ Graham 不经常谈论金钱，当他谈论时，我会有一种奇怪的感觉�
 
 Graham 在[《一个属于自己的项目》](http://paulgraham.com/own.html)」一文中进一步阐述，在小团体中工作不仅能带来更多的幸福感和自由，还是成就伟业的途径。当你感觉一个项目真正属于自己时，你会拥有其他情况下难以企及的动力和责任感。你会更乐意沉浸在细节中，孜孜不倦地追求卓越。
 
-### 心无旁骛
+### 全身心投入你热爱的事业
 
 「固守『工作/生活平衡』的教条是错误的。事实上，『工作/生活』这个说法本身就存在问题：它假定工作和生活是泾渭分明的。……我不愿从事任何不能让我全身心投入的工作。」（引自[《一个属于自己的项目》](http://paulgraham.com/own.html)）
 
-对创业者而言，创业就是他们的全部生活——几乎没有时间顾及其他，连睡眠都成了奢侈。为什么他们宁愿每周工作 80 多个小时，[以方便面果腹](http://www.paulgraham.com/ramenprofitable.html)，没有确切的经济回报，也不愿在大公司朝九晚五、享受龙虾大餐呢？这是因为创业是他们自己的事业，他们已经——希望是经过深思熟虑后——决定让它成为生命的主旋律。「[人们愿意为自己创立的公司付出任何的辛劳。](http://paulgraham.com/gh.html)」
+对创业者而言，创业就是他们的全部生活——几乎没有时间顾及其他，连睡眠都成了奢侈。为什么他们宁愿每周工作 80 多个小时，[以泡面果腹](http://www.paulgraham.com/ramenprofitable.html)，没有确切的经济回报，也不愿在大公司朝九晚五、享受龙虾大餐呢？这是因为创业是他们自己的事业，他们已经——希望是经过深思熟虑后——决定让它成为生命的主旋律。「[人们愿意为自己创立的公司付出任何的辛劳。](http://paulgraham.com/gh.html)」
 
 如何判断某事是否已经占据了你的生活？这里有个简单的测试：你是否会在淋浴时思考它？
 
-在[《主导你思维的核心观念》](http://paulgraham.com/top.html)一文中，Graham 阐述：如果某件事对你真正重要，你的大脑就会不自觉地思考它，在散步或洗澡等日常活动中，相关的想法会自然涌现。事实上，如果你**没有**经历这种状态，你就很难做出卓越的工作——这是一个信号，提示你需要重新考虑自己的工作方向。
+在[《主导你头脑的想法》》](http://paulgraham.com/top.html)一文中，Graham 阐述：如果某件事对你真正重要，你的大脑就会不自觉地思考它，在散步或洗澡等日常活动中，相关的想法会自然涌现。事实上，如果你**没有**经历这种状态，你就很难做出卓越的工作——这是一个信号，提示你需要重新考虑自己的工作方向。
 
 ## Paul Graham 对于思考和决策的思考
 
@@ -440,27 +440,27 @@ Graham 在[《一个属于自己的项目》](http://paulgraham.com/own.html)」
 
 **本节涉及的文章：**
 
-[顺从主义的四个象限](http://paulgraham.com/conformism.html)
+[《循规蹈矩的四个象限》](http://paulgraham.com/conformism.html)
 
-[温和派的两种类型](http://paulgraham.com/mod.html)
+[《温和派的两种类型》](http://paulgraham.com/mod.html)
 
-[正统的特权](http://paulgraham.com/orth.html)
+[《正统的特权》](http://paulgraham.com/orth.html)
 
-[创新与异端](http://paulgraham.com/nov.html)
+[《创新与异端》](http://paulgraham.com/nov.html)
 
 [如何有效地表达不同意见](http://paulgraham.com/disagree.html)
 
-[如何培养独立思考能力](http://paulgraham.com/think.html)
+[《独立思考的艺术》](http://paulgraham.com/think.html)
 
-[天才的公交车票理论](http://paulgraham.com/genius.html)
+[《车票理论：什么造就了天才？》](http://paulgraham.com/genius.html)
 
 [追求智慧值得吗？](http://paulgraham.com/wisdom.html)
 
-[超越智慧](http://www.paulgraham.com/smart.html)
+[《超越智慧》](http://www.paulgraham.com/smart.html)
 
-[如何实现高效工作](http://www.paulgraham.com/hwh.html)
+[《如何努力工作》](http://www.paulgraham.com/hwh.html)
 
-[关注差距](http://paulgraham.com/gap.html)
+[《关注差距》](http://paulgraham.com/gap.html)
 
 [新手心态的重要性](http://paulgraham.com/noob.html)
 
@@ -468,9 +468,9 @@ Graham 在[《一个属于自己的项目》](http://paulgraham.com/own.html)」
 
 [好艺术的标准](http://paulgraham.com/goodart.html)
 
-[创造者的品味](http://paulgraham.com/taste.html)
+[《创造者的品味》](http://paulgraham.com/taste.html)
 
-[如何从事自己热爱的工作](http://paulgraham.com/love.html)
+[《如何做你所爱》](http://paulgraham.com/love.html)
 
 [《岛屿测试》](http://paulgraham.com/island.html)
 
@@ -484,17 +484,17 @@ Graham 在[《一个属于自己的项目》](http://paulgraham.com/own.html)」
 
 你可以通过象限中的分类对循规蹈矩者进行大致辨别。他们的信念和行为与大众平均水平相符，而这个平均水平是可预测的。相反，如果某人是独立思考型的，你就难以真正了解他们；他们会自主思考问题，因此可能会得出你难以想象的结论。事实上，在某个问题上，独立思考者可能持左翼立场，而在另一个问题上又可能持右翼立场；他们[不经意间成为政治中间派](http://paulgraham.com/mod.html)。相比之下，循规蹈矩者更可能在所有问题上都坚持相同的立场。
 
-Graham提出了[《正统特权》](http://paulgraham.com/orth.html)的概念，用来描述那些思维方式传统的人。这些人认为，每个人都可以毫无顾忌地表达自己的观点，因为在他们眼中，一切都是约定俗成、毫无争议的。他们从不会因为自己的言论面临麻烦。
+Graham 提出了[《正统特权》](http://paulgraham.com/orth.html)的概念，用来描述那些思维方式传统的人。这些人认为，每个人都可以毫无顾忌地表达自己的观点，因为在他们眼中，一切都是约定俗成、毫无争议的。他们从不会因为自己的言论面临麻烦。
 
 当你向这些人表达一些具有争议性的新想法时，他们可能会将其视为不实的异端邪说。[《新颖性和异端性》](http://paulgraham.com/nov.html)往往如影随形。在这些思维传统的人看来，他们并不觉得自己思维保守，只是认为自己的观点才是正确的。对他们而言，任何非主流的观点都可能是错误的；而对独立思考者来说，过于主流的观点反而值得怀疑。因此，如果你决定公开表达自己独立的见解，最好先学习[《如何理性地表达不同意见》](http://paulgraham.com/disagree.html)。
 
-在[《如何独立思考》](http://paulgraham.com/think.html)一文中，Graham 指出，某些领域的工作只有在你的思维方式与众不同时才能做得出色：科学家致力于新发现，循规蹈矩难有作为；投资者如果思维模式与他人完全一致，就难以获利；创业者若只是重复他人的想法，就无法创造出伟大的新事物。在这些领域，只有你能诠释正确。
+在[《独立思考的艺术》](http://paulgraham.com/think.html)一文中，Graham 指出，某些领域的工作只有在你的思维方式与众不同时才能做得出色：科学家致力于新发现，循规蹈矩难有作为；投资者如果思维模式与他人完全一致，就难以获利；创业者若只是重复他人的想法，就无法创造出伟大的新事物。在这些领域，只有你能诠释正确。
 
 当然，并非所有工作都是如此。例如，做一名优秀的行政人员并不需要特立独行的思维方式；你需要做的只是执行。通常，具有独立思维的人更倾向于在那些鼓励创新的领域发展。
 
-在[《如何独立思考》](http://paulgraham.com/think.html)一文中，Graham 还分享了一些锻炼独立思考能力的方法。
+在[《独立思考的艺术》](http://paulgraham.com/think.html)一文中，Graham 还分享了一些锻炼独立思考能力的方法。
 
-### 天才源于无尽的求知欲、智慧、勤奋和勇气
+### 天才源于无尽的好奇心、智力、勤奋和勇气
 
 我们往往认为天才是上天赐予的礼物，是与生俱来的禀赋。然而，Graham 看破了这种神秘感，他认为天才是可以被培养和影响的。
 
@@ -504,9 +504,9 @@ Graham提出了[《正统特权》](http://paulgraham.com/orth.html)的概念，
 
 **智力**
 
-[智慧与智力是有区别的](http://paulgraham.com/wisdom.html)。如果说智慧是在不同领域中表现出通才的能力，那么智力则是在特定领域内达到卓越成就的能力。我们通常理解的"天才"更符合后者：即使你在其他方面都平平无奇 ，只要你发现了像相对论这样的惊世成果，就足以被称为天才。
+[智慧与智力是有区别的](http://paulgraham.com/wisdom.html)。如果说智慧是在不同领域中表现出通才的能力，那么智力则是在特定领域内达到卓越成就的能力。我们通常理解的「天才」更符合后者：即使你在其他方面都平平无奇 ，只要你发现了像相对论这样的惊世成果，就足以被称为天才。
 
-强烈的好奇心和卓越的天赋让你能够在相关领域如鱼得水。但仅凭这些还不足以做出创新。正如 Graham 在[《超越智慧》](http://www.paulgraham.com/smart.html)中所阐述的，聪明人并不一定能做出创新；「很多真正聪明的人并没有取得多大成就。」
+强烈的好奇心和卓越的智力让你能够在相关领域如鱼得水。但仅凭这些还不足以做出创新。正如 Graham 在[《超越智慧》](http://www.paulgraham.com/smart.html)中所阐述的，聪明人并不一定能做出创新；「很多真正聪明的人并没有取得多大成就。」
 
 智力和好奇心是成为天才的必要条件，但还不够充分；你还需要为求新知不懈努力的刻苦和发掘真相捍卫真理的勇气。因为创新不仅要战胜自我，还要面对腐朽者们的怒火。
 
@@ -832,7 +832,7 @@ Graham 在他的经典之作[*What You Can't Say*](http://paulgraham.com/say.htm
 
 我们容易陷入的一个陷阱是「[反测试](http://paulgraham.com/marginal.html)」。这种测试看似可以追求卓越，但实际上最明智的应对方式是完全置之不理。举例来说，你可以努力成为学校里的人气王，但其实不应该过分在意自己的受欢迎程度；你可以追求成为社会上的重要人物，获得崇高的地位，但这些同样不应该成为你的最终目标。即使你意识到存在某种评判标准，这也不意味着你就必须竭尽全力在这个标准下表现出色。
 
-对于聪明且雄心勃勃的人来说，忽视这些测试尤其困难。因为他们的雄心为他们提供了动力，智慧则为他们提供了在这些测试中脱颖而出的能力。但请努力不要陷入生活中的这些反测试；它们正是生命短暂而不该投入时间的「无谓之事」。
+对于聪明且雄心勃勃的人来说，忽视这些测试尤其困难。因为他们的雄心为他们提供了动力，智力则为他们提供了在这些测试中脱颖而出的能力。但请努力不要陷入生活中的这些反测试；它们正是生命短暂而不该投入时间的「无谓之事」。
 
 另一个可能悄然侵蚀你生活的因素是成瘾。我们都知道要谨慎对待酒精和赌博等常见的成瘾物，但更难避免的是那些人人都有的瘾，因为这些在我们看来似乎很正常。在[《上瘾性的加速》](http://paulgraham.com/addiction.html)一文中，Graham 区分了两种「正常」：统计意义上的正常（大多数人都在做的事）和实际操作中的正常（最有效的做法）。沉迷于社交媒体和智能手机在统计上可能是正常的，但从实际效果来看并不正常。"[技术往往使'正常'与'自然'脱节。](http://paulgraham.com/boss.html)"
 
