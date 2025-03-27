@@ -1,6 +1,6 @@
 # 对教学的思考：2
 
-[关于教学的思考：2 - David Friedman的Substack](https://daviddfriedman.substack.com/p/thoughts-on-teaching-2)
+原文：[Thoughts on Teaching: 2 - David Friedman’s Substack](https://daviddfriedman.substack.com/p/thoughts-on-teaching-2)
 
 作者：[David Friedman](https://substack.com/@daviddfriedman)
 
