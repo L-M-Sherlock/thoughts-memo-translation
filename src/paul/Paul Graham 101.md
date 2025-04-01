@@ -46,7 +46,7 @@
 
 7. 你衡量什么就会得到什么。
 
-8. 降本增效。
+8. 减少花销。
 
 9. 先让利润覆盖你的泡面钱。
 
@@ -56,7 +56,7 @@
 
 12. 不要放弃。
 
-13. 交易存在失败的可能。（译者注：感觉这里有点概率论的意思）
+13. 任何交易都可能失败。
 
 想要深入了解以上内容，可以去读[《如何创办一家初创企业》](http://paulgraham.com/start.html)。
 
@@ -98,7 +98,7 @@
 
 [《令人望而生畏的宏大创业构想》](http://paulgraham.com/ambitious.html)
 
-[《培育黑天鹅企业》](http://paulgraham.com/swan.html)（译者：他果然也读过塔勒布）
+[《培育黑天鹅企业》](http://paulgraham.com/swan.html)
 
 [《颠覆性的创新理念》](http://www.paulgraham.com/newideas.html)
 
@@ -150,7 +150,7 @@
 
 [《如何避免倒闭》](http://paulgraham.com/die.html)
 
-[远离干扰](http://paulgraham.com/distraction.html)
+[《远离干扰》](http://paulgraham.com/distraction.html)
 
 [《好拖延和坏拖延》](http://paulgraham.com/procrastination.html)
 
@@ -162,11 +162,11 @@
 
 ### 创业公司的独特性所在
 
-创业公司与普通企业之间存在本质上的差异。正如 Paul Graham 所言，「[创业公司是一家为快速成长而设计的公司](http://www.paulgraham.com/growth.html)」，它从根本上区别于传统的餐厅或美发沙龙。创业公司的所有决策都围绕着其成长需求展开。事实上，Graham [强调](http://www.paulgraham.com/growth.html)：「要理解创业公司，就必须理解成长这一概念」。
+创业公司与普通企业之间存在本质上的差异。正如 Paul Graham 所言，「[创业公司是一种专为快速成长而设计的公司](http://www.paulgraham.com/growth.html)」，它从根本上区别于传统的餐厅或美发沙龙。创业公司的所有决策都围绕着其成长需求展开。事实上，Graham [强调](http://www.paulgraham.com/growth.html)：「要理解创业公司，就必须理解成长这一概念」。
 
-「从经济学角度来看，创业可以被视为一种短期内高效的变现手段。与其庸庸碌碌工作四十年，不如在四年内全力以赴。尤其对于在技术领域的工作者来说，创业具有很强的变现能力」（摘自[《如何创造财富》](http://paulgraham.com/wealth.html)）
+「从经济学角度来看，创业可以被视为一种短期内高效的变现手段。与其庸庸碌碌工作四十年，不如在四年内全力以赴。尤其对深耕于技术领域的工作者来说，创业具有很强的变现能力」（摘自[《如何创造财富》](http://paulgraham.com/wealth.html)）
 
-创业不同于你的学校生涯。[在学校，你可能会找到应付考试的技巧，但在创业领域，成功是无法取巧的。](http://paulgraham.com/credentials.html)在学校里，你学会了如何在考试中脱颖而出，于是你掌握了[应对考试的诀窍](http://paulgraham.com/lesson.html)。然而，在创业世界里，你无法仅凭花言巧语就说服投资者给你投资；真正的诀窍是成为一个值得投资的对象。同样，你也不能靠花招诱导用户使用你的产品；真正的技巧是打造一个卓越的产品。真正有价值的工作是无法靠取巧来完成的。
+创业需要你摒弃学生思维。[在学校，你可能会找到应付考试的技巧，但在创业领域，成功是无法取巧的。](http://paulgraham.com/credentials.html)在学校里，你学会了如何在考试中脱颖而出，于是你掌握了[应对考试的诀窍](http://paulgraham.com/lesson.html)。然而，在创业世界里，你无法仅凭花言巧语就说服投资者给你投资；真正的诀窍是成为一个值得投资的对象。同样，你也不能耍花招诱导用户使用你的产品；真正的技巧是打造一个卓越的产品。真正有价值的工作是无法靠取巧来完成的。
 
 因此，成为一名优秀的创业者并不需要你是一个好学生。实际上，如果你的观点与商业课老师不同，[这反而可能是件好事](http://paulgraham.com/marginal.html)（毕竟，如果你的商业老师真的精通商业，他们可能已经成为创业者了）。在创业公司中，[学历和成绩单并不那么重要](http://paulgraham.com/colleges.html)——你的用户不会关心你是否毕业于斯坦福或者成绩全 A。（相关阅读：[《给学生的创业指南》](http://paulgraham.com/mit.html)）。
 
@@ -224,13 +224,13 @@ Graham 还[强调](http://paulgraham.com/start.html)创业成功的关键不在�
 
 根据 Graham 的观点，一个优秀的创始人应该是：
 
-[**真诚的力量**](http://paulgraham.com/earnest.html)
+[**《真诚的力量》**](http://paulgraham.com/earnest.html)
 
 「我们能给予创始人的最高评价就是称他们为『真诚』的人。」
 
 一个认真的人做事是出于正确的动机，并且会全力以赴。这个正确的动机通常不是为了赚大钱，而是为了解决某个问题或满足智力上的好奇心。这就是为什么找到你的内在动力或者拥抱你的极客特质如此重要（我们稍后会详细讨论这两点）。
 
-[**永不言弃，灵活应变**](http://paulgraham.com/relres.html)
+[**《永不言弃，灵活应变》**](http://paulgraham.com/relres.html)
 
 「几天前，我终于用两个词概括了优秀创业公司创始人的特质：永不言弃，灵活应变。」
 
@@ -272,7 +272,7 @@ Graham 观察到了关于应变能力的一个[规律](http://paulgraham.com/wor
 
 [「我最常强调的创业建议是：尽快推出第一个版本，然后根据用户反馈不断改进。」](http://paulgraham.com/startuplessons.html)
 
-迭代的重要性在《[1.0 版本](http://paulgraham.com/laundry.html)》、《[这是哪个微软的 Altair Basic?](http://paulgraham.com/altair.html)》和《[早期工作](http://paulgraham.com/early.html)》等文章中得到了充分强调。（如果你真正理解了迭代的重要性，那么你就会明白必须尽快推出 1.0 版本，以便更早地开始迭代过程。）
+迭代的重要性在[《1.0 版本》](http://paulgraham.com/laundry.html)、《[这是哪个微软的 Altair Basic?](http://paulgraham.com/altair.html)》和《[《早期工作》](http://paulgraham.com/early.html)》等文章中得到了充分强调。（如果你真正理解了迭代的重要性，那么你就会明白必须尽快推出 1.0 版本，以便更早地开始迭代过程。）
 
 这些文章中提出了一些重要观点：
 
@@ -282,7 +282,7 @@ Graham 观察到了关于应变能力的一个[规律](http://paulgraham.com/wor
 
 - 当感到迷茫时，问问自己：这个看似拙劣的 1.0 版本是否有可能通过不断迭代，最终成长为一部令人赞叹的杰作？
 
-度过早期的拙劣阶段并持续迭代从来都不是易事。不过，Graham 在《[早期工作](http://paulgraham.com/early.html)》一文中列出了一些帮助你调整心态的实用技巧。
+度过早期的拙劣阶段并持续迭代从来都不是易事。不过，Graham 在[《早期工作》](http://paulgraham.com/early.html)一文中列出了一些帮助你调整心态的实用技巧。
 
 ### 创业是开辟一条前所未有的道路，不过依然可以借鉴一些前人的经验
 
@@ -308,7 +308,7 @@ Graham 观察到了关于应变能力的一个[规律](http://paulgraham.com/wor
 
 泡面盈利 = 创业公司刚好能赚到足以支付创始人基本生活开支的收入。
 
-「泡面盈利意味着创业公司不需要通过融资来维持生存。此时主要开支仅限于创始人的基本生活费用，而这些费用现在已经可以得到覆盖（即便他们只吃得起泡面。」
+「泡面盈利意味着创业公司不需要通过融资来维持生存。此时主要开支仅限于创始人的基本生活费用，而这些费用现在已经可以得到覆盖（即便他们只吃得起泡面）。」
 
 意义：泡面盈利标志着创业公司从[默认死亡状态转变为默认存活状态](http://www.paulgraham.com/aord.html)。此时，你面临的挑战从「如何避免资金耗尽」变成了「如何避免精力耗尽」。尽管经营创业公司始终充满压力，但达到泡面盈利确实能让你稍微卸下一些心理负担。
 
@@ -360,7 +360,7 @@ Graham 不经常谈论金钱，当他谈论时，我会有一种奇怪的感觉�
 
 在[《主导你头脑的想法》》](http://paulgraham.com/top.html)中：「一旦你开始筹集资金，筹集资金就会成为你脑海中的最优先想法」，而不是用户和产品。所以你的产品会受到影响。
 
-[不要花光你获得的资金](http://paulgraham.com/start.html)。「[最常见的失败原因是资金耗尽](http://paulgraham.com/13sentences.html)」，你可以通过不花钱，精准且不过度的雇人来避免这种情况。
+[《不要花光你获得的资金》](http://paulgraham.com/start.html)。「[《最常见的失败原因是资金耗尽》](http://paulgraham.com/13sentences.html)」，你可以通过不花钱，精准且不过度的雇人来避免这种情况。
 
 只有一种情况需要你优先考虑赚钱：当你的初创公司处于[濒死状态](http://paulgraham.com/aord.html)——「假设公司的开支保持不变，收入增长率与过去几个月一样，公司能用剩余的钱实现盈利吗？」如果你知道你的公司处于濒死状态，你的工作重心会迅速转移到扭转局面并实现盈利；以此避免[《致命紧缩》](http://paulgraham.com/pinch.html)。
 
@@ -372,7 +372,7 @@ Graham 不经常谈论金钱，当他谈论时，我会有一种奇怪的感觉�
 
 **本节提到的文章:**
 
-[什么样的工作不像工作？](http://paulgraham.com/work.html)
+[《什么样的工作不像工作？》](http://paulgraham.com/work.html)
 
 [《真诚的力量》](http://paulgraham.com/earnest.html)
 
@@ -382,7 +382,7 @@ Graham 不经常谈论金钱，当他谈论时，我会有一种奇怪的感觉�
 
 [《如何做你所爱》](http://paulgraham.com/love.html)
 
-[你不该屈居人下](http://paulgraham.com/boss.html)
+[《你不该屈居人下》](http://paulgraham.com/boss.html)
 
 [《一个属于自己的项目》](http://paulgraham.com/own.html)
 
@@ -406,7 +406,7 @@ Graham 不经常谈论金钱，当他谈论时，我会有一种奇怪的感觉�
 
 要发掘你的内在动力并确定该做什么，不妨问问自己：「在哪个领域，你是个不折不扣的书呆子？」
 
-让我们以《[如何做你所爱](http://paulgraham.com/love.html)》中的一个深刻而实用的洞见来结束这一部分：
+让我们以[《如何做你所爱》](http://paulgraham.com/love.html)中的一个深刻而实用的洞见来结束这一部分：
 
 「要获得真正的幸福，我认为你必须投入到既能让你享受又能让你引以为豪的事。你要能在完成后由衷地赞叹：『哇，这真是太酷了！』这并不意味着你必须创造出什么实物。即使是学会操纵三角滑翔翼，或熟练地掌握一门外语，也足以让你（至少在一段时间里）感到『哇，这真是太酷了！』」
 
@@ -414,7 +414,7 @@ Graham 不经常谈论金钱，当他谈论时，我会有一种奇怪的感觉�
 
 顺着内在动机的逻辑，我们可以得出结论：你应该去到能滋养和托举自己的地方。（你自己的项目或你处于重要地位的项目）
 
-你可能已经注意到，自己真正想做的事和他人派遣给你的任务有本质的区别。这背后是有原因的：《[你本不该有老板](http://paulgraham.com/boss.html)》。
+你可能已经注意到，自己真正想做的事和他人派遣给你的任务有本质的区别。这背后是有原因的：[你不该屈居人下](http://paulgraham.com/boss.html)。
 
 在那篇文章中，Graham 提出了一个发人深省的观点：尽管如今在大型组织中工作已成为趋势，但这并非人类与生俱来的工作方式。他巧妙地将大型组织比作现代饮食——充斥着披萨、糖果等加工食品，而将小团体（如创业公司）比作狩猎采集者的饮食。前者表面上轻松、安全、诱人，但长期而言可能弊大于利；后者则看似艰难、缺乏吸引力，却更符合自然法则，从长远来看更有益处。
 
@@ -448,25 +448,25 @@ Graham 在[《一个属于自己的项目》](http://paulgraham.com/own.html)」
 
 [《创新与异端》](http://paulgraham.com/nov.html)
 
-[如何有效地表达不同意见](http://paulgraham.com/disagree.html)
+[《如何有效地表达异议》](http://paulgraham.com/disagree.html)
 
 [《独立思考的艺术》](http://paulgraham.com/think.html)
 
 [《车票理论：什么造就了天才？》](http://paulgraham.com/genius.html)
 
-[追求智慧值得吗？](http://paulgraham.com/wisdom.html)
+[《追求智慧值得吗？》](http://paulgraham.com/wisdom.html)
 
 [《超越智慧》](http://www.paulgraham.com/smart.html)
 
 [《如何努力工作》](http://www.paulgraham.com/hwh.html)
 
-[《关注差距》](http://paulgraham.com/gap.html)
+[《值得关注的差距》](http://paulgraham.com/gap.html)
 
-[新手心态的重要性](http://paulgraham.com/noob.html)
+[《新手心态的重要性》](http://paulgraham.com/noob.html)
 
-[如何在变革世界中成为专家](http://paulgraham.com/ecw.html)
+[《如何在变革世界中成为专家》](http://paulgraham.com/ecw.html)
 
-[好艺术的标准](http://paulgraham.com/goodart.html)
+[《好艺术的标准》](http://paulgraham.com/goodart.html)
 
 [《创造者的品味》](http://paulgraham.com/taste.html)
 
@@ -500,11 +500,11 @@ Graham 提出了[《正统特权》](http://paulgraham.com/orth.html)的概念�
 
 **好奇心**
 
-「[真正成就伟业的人往往对某事有着难以言喻的痴迷](http://paulgraham.com/genius.html)」。无穷无尽的好奇心总能引领人们做出惊人的发现，这是因为你会付出远超常人的努力去思考和探索某个主题。对你而言，这些思考和探索宛如游戏（尽管在旁人眼中像是工作），因为这种痴迷的兴趣「既是能力的象征，也是毅力的替代品」。
+「[真正成就伟业的人往往对某事有着难以言喻的痴迷](http://paulgraham.com/genius.html)」。无穷无尽的好奇心总能引领人们做出惊人的发现，这是因为你愿意付出远超常人的努力去思考和探索某个主题。对你而言，这些思考和探索宛如游戏（尽管在旁人眼中像是工作），因为这种痴迷的兴趣「既是能力的象征，也是毅力的体现」。
 
 **智力**
 
-[智慧与智力是有区别的](http://paulgraham.com/wisdom.html)。如果说智慧是在不同领域中表现出通才的能力，那么智力则是在特定领域内达到卓越成就的能力。我们通常理解的「天才」更符合后者：即使你在其他方面都平平无奇 ，只要你发现了像相对论这样的惊世成果，就足以被称为天才。
+[《智慧与智力是有区别的》](http://paulgraham.com/wisdom.html)。如果说智慧是在不同领域中表现出通才的能力，那么智力则是在特定领域内达到卓越成就的能力。我们通常理解的「天才」更符合后者：即使你在其他方面都平平无奇 ，只要你发现了像相对论这样的惊世成果，就足以被称为天才。
 
 强烈的好奇心和卓越的智力让你能够在相关领域如鱼得水。但仅凭这些还不足以做出创新。正如 Graham 在[《超越智慧》](http://www.paulgraham.com/smart.html)中所阐述的，聪明人并不一定能做出创新；「很多真正聪明的人并没有取得多大成就。」
 
@@ -514,7 +514,7 @@ Graham 提出了[《正统特权》](http://paulgraham.com/orth.html)的概念�
 
 即使是天才也要努力工作。（事实上，仅仅知道[《如何努力工作》](http://www.paulgraham.com/hwh.html)就可以让你提升自己的效率。）然而，努力工作本身并不是目标。产出才是重要的（在这个背景下，产出指的是重要的新想法）：「[如果我用牙刷给某人粉刷房子，房主不应该因为我用牙刷花费了更多时间就多付我钱](http://paulgraham.com/gap.html)。」
 
-初涉新领域时，你难免会经历[新手期](http://paulgraham.com/noob.html)但「局部越是青涩，全局越显从容」。正如Graham在《在变动中成为专家》中指出，即便你的观点曾经正确，也可能因世事变迁而不再适用。故而，更新观点既需智识谦卑，亦需破除成见的勇气，而非固守过往经验。
+初涉新领域时，你难免会经历[新手期](http://paulgraham.com/noob.html)但「只有承认自己的青涩才有机会成为大师」。在[《如何在变化的世界中成为专家》](http://paulgraham.com/ecw.html)中，Graham 指出，你的观点可能跟不上时代的变化。因此，你要保持谦逊并勇敢地做出改变，而不是墨守陈规。
 
 把 Graham 的想法综合起来，似乎天才并不是一种你难以触及的先天品质，而是好奇心、智力、努力工作和勇气等多种品质的有机结合。
 
@@ -540,23 +540,23 @@ Graham 提出了[《正统特权》](http://paulgraham.com/orth.html)的概念�
 
 6. 难度高
 
-7. 看似简单
+7. 看上去很简单
 
-8. 活用对称
+8. 活用对称美
 
-9. 返璞归真
+9. 贴合自然天性
 
-10. 往往独特
+10. 总是很独特
 
-11. 常常大胆
+11. 总是很大胆
 
-真正优质的作品未必是广受欢迎的；正如Graham在《艺术与错觉》中指出的那样： [某些认知偏差的破坏力如此强大，若举行公投，最终测量的不过是偏差本身]（http://paulgraham.com/goodart.html）但若能持守真知灼见深耕创作，真正杰出的作品终将在时光沉淀中焕发光彩，赢得真正的鉴赏与传承。
+真正优质的作品未必是广受欢迎的；正如 Graham 在《艺术与错觉》中指出的那样： [某些认知偏差的破坏力如此强大，若举行公投，最终测量的不过是偏差本身]（http://paulgraham.com/goodart.html）但若能持守真知灼见深耕创作，真正杰出的作品终将在时光沉淀中焕发光彩，赢得真正的鉴赏与传承。
 
 ### 你的论点是否可以验证？
 
 仔细阅读 Graham 的文章，你会发现他在提出论点时，往往会伴随着验证这个论点的方法。这体现了他科学家般的思维方式：只有可以被验证的论点才值得接受。
 
-例如，在[*How to Do What You Love*](http://paulgraham.com/love.html)一文中，他是这样论述的：
+例如，在[《如何做你热爱的事》](http://paulgraham.com/love.html)一文中，他是这样论述的：
 
 「我认为，要获得幸福，你势必付出足够的努力。你要能够在完成后由衷地说：『哇，巴适的很！』。这并不意味着你必须进行发明创造。只要你掌握了诸如滑翔之类的技能，或者一门外语，便足以让你在一段时间内感叹『哇，我真牛逼！』。关键在于必须有一个检验标准。」
 
@@ -568,11 +568,11 @@ Graham 提出了[《正统特权》](http://paulgraham.com/orth.html)的概念�
 
 有时，验证观点（并使其具有实用性）的最佳方法是设计一个测试。在[《如何创办创业公司》](http://paulgraham.com/start.html)一文中，Graham 探讨了优秀创业公司员工的特质。他本可以简单地说「他们坚定不移，义无反顾」，但这种论点既不可验证，也缺乏实用性。
 
-相反，Graham 设计了一个测试：「你能把这个人比作一种动物吗？」如果你能说「Jaakko 就是一头野兽」，而且不是在开玩笑，而是认真地这么形容，那么这就是你想要的创业公司员工。一个"野兽型"的销售人员绝不接受拒绝；一个"野兽型"的程序员会通宵达旦地编码；一个"野兽型"的公关人员会锲而不舍地向城市里的每家报社推销，直到你的创业公司登上报纸。
+相反，Graham 设计了一个测试：「你能把这个人比作一种动物吗？」如果你能说「Jaakko 就是一头野兽」，而且不是在开玩笑，而是认真地这么形容，那么这就是你想要的创业公司员工。一个「野兽型」的销售人员绝不接受拒绝；一个「野兽型」的程序员会通宵达旦地编码；一个「野兽型」的公关人员会锲而不舍地向城市里的每家报社推销，直到你的创业公司登上报纸。
 
 你可以尝试一个有趣的晚间活动：回顾你写过的文章，看看你是否还坚持过去的想法。。
 
-## Paul Graham谈写作
+## Paul Graham 谈写作
 
 Paul Graham 以文章清晰简洁而闻名。无论主题多么复杂，他的文章都通俗易懂。
 
@@ -582,39 +582,39 @@ Paul Graham 以文章清晰简洁而闻名。无论主题多么复杂，他的�
 
 **本节提到的文章：**
 
-[写作简述](http://paulgraham.com/writing44.html)
+[《写作简述》](http://paulgraham.com/writing44.html)
 
-[写作与演讲](http://paulgraham.com/speak.html)
+[《写作与演讲》](http://paulgraham.com/speak.html)
 
-[列表文章的魅力](http://paulgraham.com/nthings.html)
+[《列表文章的魅力》](http://paulgraham.com/nthings.html)
 
-[论述还是发现](http://paulgraham.com/discover.html)
+[《论述还是发现》](http://paulgraham.com/discover.html)
 
-[普遍与惊人](http://paulgraham.com/sun.html)
+[《普遍与惊人》](http://paulgraham.com/sun.html)
 
-[散文的时代](http://paulgraham.com/essay.html)
+[《散文的时代》](http://paulgraham.com/essay.html)
 
-[如何写出有价值的文章](http://paulgraham.com/useful.html)
+[《如何写出有价值的文章》](http://paulgraham.com/useful.html)
 
-[产品的1.0版本](http://paulgraham.com/laundry.html)
+[《产品的 1.0 版本》](http://paulgraham.com/laundry.html)
 
-[创作的早期阶段](http://www.paulgraham.com/early.html)
+[《创作的早期阶段》](http://www.paulgraham.com/early.html)
 
-[写作的简约之道](http://www.paulgraham.com/simply.html)
+[《写作的简约之道》](http://www.paulgraham.com/simply.html)
 
-[用对话的语气写作](http://paulgraham.com/talk.html)
+[《用对话的语气写作》](http://paulgraham.com/talk.html)
 
-[做那些无法规模化的事](http://paulgraham.com/ds.html)
+[《做那些无法规模化的事》](http://paulgraham.com/ds.html)
 
-[经济不平等](http://paulgraham.com/ineq.html)
+[《经济不平等》](http://paulgraham.com/ineq.html)
 
-[关注差距](http://paulgraham.com/gap.html)
+[《值得关注的差距》](http://paulgraham.com/gap.html)
 
-[创造者的品味](http://paulgraham.com/taste.html)
+[《创造者的品味》](http://paulgraham.com/taste.html)
 
-[如何创造财富](http://paulgraham.com/wealth.html)
+[《如何创造财富》](http://paulgraham.com/wealth.html)
 
-[如何培养独立思考能力](http://paulgraham.com/think.html)
+[《如何培养独立思考能力》](http://paulgraham.com/think.html)
 
 ### 写作是获得创意、发展认知和提升思维的途径
 
@@ -644,7 +644,7 @@ Paul Graham 是第二种写作方式——为探索而写作的支持者和实�
 
 那么，一篇文章如何才能称得上有用呢？Graham 在[《如何写出有用的文章》](http://paulgraham.com/useful.html)中提出了一些见解：
 
-- 实用性是检验正确性的标准。单纯具有说服力的论述可能是错误的。
+- 实用性是检验正确性的标准。单纯具有说服力的论述可能是错误的。「优秀的写作无疑应该具有说服力，但这种说服力应该源于你得出了正确的结论，而非源于你出色的论证技巧。」（摘自[《论文写作的时代》](http://paulgraham.com/essay.html)）
 
 - 「优秀的写作无疑应该具有说服力，但这种说服力应该源于你得出了正确的结论，而非源于你出色的论证技巧。」（摘自[《论文写作的时代》](http://paulgraham.com/essay.html)）「有价值的写作应该提出尽可能有力的观点，但又不至于失实。」
 
@@ -662,7 +662,7 @@ Paul Graham 是第二种写作方式——为探索而写作的支持者和实�
 
 ### 尽可能为你的想法找一个恰当的比喻
 
-这并非Graham直接给出的建议（尽管他确实主张写作要简洁，而还有什么比一个绝妙的比喻更简洁呢？）
+这并非 Graham 直接给出的建议（尽管他确实主张写作要简洁，而还有什么比一个绝妙的比喻更简洁呢？）
 
 相反，这是你在广泛阅读 Graham 的作品后会发现的一个特点。比喻是他常用的一种有力的写作工具。
 
@@ -672,7 +672,7 @@ Paul Graham 是第二种写作方式——为探索而写作的支持者和实�
 
 「人们往往没有意识到，伟大事物的开端通常是由零散的部分拼凑而成的。他们不自觉地用成熟企业的标准来评判处于萌芽状态的创业公司。这就像有人看着一个新生婴儿，就断定『这个小生命不可能有任何成就』。」（摘自[《做那些无法规模化的事》](http://paulgraham.com/ds.html)）
 
-「在文章体裁中，N 个要点的清单文章就像快餐界的芝士汉堡。如果你在一家你不太信任的餐厅用餐，最保险的选择就是点一个芝士汉堡。即使是烹饪技术欠佳的厨师也能做出一个还过得去的芝士汉堡。而且，芝士汉堡的制作有相当严格的规范。你可以确信厨师不会在这上面搞什么奇怪的艺术创作。同样，N 个要点的清单文章也能在一定程度上限制糟糕作者可能造成的破坏。」（摘自[《N个要点的清单》](http://paulgraham.com/nthings.html)）
+「在文章体裁中，N 个要点的清单文章就像快餐界的芝士汉堡。如果你在一家你不太信任的餐厅用餐，最保险的选择就是点一个芝士汉堡。即使是烹饪技术欠佳的厨师也能做出一个还过得去的芝士汉堡。而且，芝士汉堡的制作有相当严格的规范。你可以确信厨师不会在这上面搞什么奇怪的艺术创作。同样，N 个要点的清单文章也能在一定程度上限制糟糕作者可能造成的破坏。」（摘自[《N 个要点的清单》](http://paulgraham.com/nthings.html)）
 
 「有时候，这是因为作者只掌握了非常宏观的数据，然后就从中得出结论。这就像那个寻找钥匙的醉汉的寓言：他在路灯下找，而不是在真正丢钥匙的地方找，只因为路灯下光线更好。」（摘自[《经济不平等》](http://paulgraham.com/ineq.html)）
 
@@ -690,33 +690,33 @@ Paul Graham 是第二种写作方式——为探索而写作的支持者和实�
 
 **本节涉及的文章：**
 
-[关注差距](http://paulgraham.com/gap.html)
+[《值得关注的差距》](http://paulgraham.com/gap.html)
 
-[卓越的黑客](http://paulgraham.com/gh.html)
+[《卓越的黑客》](http://paulgraham.com/gh.html)
 
-[经济不平等](http://paulgraham.com/ineq.html)
+[《经济不平等》](http://paulgraham.com/ineq.html)
 
-[如何创造财富](http://paulgraham.com/wealth.html)
+[《如何创造财富》](http://paulgraham.com/wealth.html)
 
-[再碎片化](http://paulgraham.com/re.html)
+[《再碎片化》](http://paulgraham.com/re.html)
 
-[不平等与风险](http://paulgraham.com/inequality.html)
+[《不平等与风险》](http://paulgraham.com/inequality.html)
 
-[创造者的品味](http://paulgraham.com/taste.html)
+[《创造者的品味》](http://paulgraham.com/taste.html)
 
-[正统的特权](http://paulgraham.com/orth.html)
+[《正统的特权》](http://paulgraham.com/orth.html)
 
-[不可言说之事](http://paulgraham.com/say.html)
+[《不可言说之事》](http://paulgraham.com/say.html)
 
-### "减少财富不平等"并非听上去那么美好
+### 「减少财富不平等」并非听上去那么美好
 
-正如我们先前所述，创业公司是一台创造财富的机器。因此，当我们看到Graham讨论财富不平等的相关话题，并解释为何它并非人们所认知的那般"洪水猛兽"时，我们不应感到意外。
+正如我们先前所述，创业公司是一台创造财富的机器。因此，当我们看到 Graham 讨论财富不平等的相关话题，并解释为何它并非人们所认知的那般「洪水猛兽」时，我们不应感到意外。
 
-财富不平等是一个极具争议的话题，而我并非这方面的专家。因此，我将尽量客观地概述这个问题，避免曲解Graham的观点。如果你对这个话题感兴趣，建议你阅读相关文章的全文。
+财富不平等是一个极具争议的话题，而我并非这方面的专家。因此，我将尽量客观地概述这个问题，避免曲解 Graham 的观点。如果你对这个话题感兴趣，建议你阅读相关文章的全文。
 
 **人们普遍认为财富不平等本质上是有害的。**
 
-在[*《关注差距》*](http://paulgraham.com/gap.html)一文中，Graham 列举了三个导致我们认为财富不平等天生就是坏事的原因：
+在[《值得关注的差距》](http://paulgraham.com/gap.html)一文中，Graham 列举了三个导致我们认为财富不平等天生就是坏事的原因：
 
 1. **财富的「父亲模型」：**我们往往将财富等同于金钱，并认为财富总量是固定的。基于这种固定总量的思维，我们认为财富应该被平均分配。（然而，你现在应该明白，财富与金钱是不同的，而且财富是可以创造的；并不存在所谓的「固定总量」或「固定蛋糕」；实际上，我们可以让蛋糕变得更大）
 
@@ -728,7 +728,7 @@ Paul Graham 是第二种写作方式——为探索而写作的支持者和实�
 
 「财富的差异可能反映了生产力的差异。（在只有一个人的社会中，财富等价于生产力。）这几乎可以肯定是件好事：如果你所处的社会没有生产力的差异，这可能并不是因为每个人都是托马斯·爱迪生。更可能的情况是，你的社会根本就没有托马斯·爱迪生这样的人才。」
 
-在技术水平不高的社会里，个人生产力的差异并不显著。设想一个需要采集木柴生火的游牧部落，最擅长采集的人和最不擅长的人之间的效率差距能有多大？可能也就两倍左右吧。然而，当你把电脑这样复杂的工具交到人们手中时，他们利用这个工具所能创造的价值差异可能就是天壤之别了。（引自[《super大黑客》](http://paulgraham.com/gh.html)）
+在技术水平不高的社会里，个人生产力的差异并不显著。设想一个需要采集木柴生火的游牧部落，最擅长采集的人和最不擅长的人之间的效率差距能有多大？可能也就两倍左右吧。然而，当你把电脑这样复杂的工具交到人们手中时，他们利用这个工具所能创造的价值差异可能就是天壤之别了。（引自[《Super 大黑客》](http://paulgraham.com/gh.html)）
 
 「当你帮助创业者时，某种程度上你也在促进经济不平等。如果我们的目标是减少经济不平等，那么按理说就不应该有人去帮助创业者。不过这种论断听起来似乎有些不妥。」（引自[《经济不平等》](http://paulgraham.com/ineq.html)）
 
@@ -748,7 +748,7 @@ Paul Graham 是第二种写作方式——为探索而写作的支持者和实�
 
 如今，富人和穷人的区别主要体现在外表和品牌的档次上；而在过去，区别在于是否拥有。因此，虽然收入差距在扩大，但伴随而来的是生活质量差距的缩小。这种变化反映了社会进步和技术发展带来的普遍福利提升。
 
-「社会需要富人，与其说是希望他们通过消费创造就业机会，不如说是因为他们为致富所做的贡献。这里我并非在讨论涓滴效应。我的意思不是说，如果你让亨利·福特变得富有，他就会雇你在他的派对上当服务员。我是说，他会为你制造一台拖拉机来取代你的牛马。」（引自[*Mind the Gap*](http://paulgraham.com/gap.html)）涓滴经济学是一个站不住脚的论点，因为它没有抓住问题的痛点。我们应该关注的是财富如何被创造，而不是如何被使用。
+「社会需要富人，与其说是希望他们通过消费创造就业机会，不如说是因为他们为致富所做的贡献。这里我并非在讨论涓滴效应。我的意思不是说，如果你让亨利·福特变得富有，他就会雇你在他的派对上当服务员。我是说，他会为你制造一台拖拉机来取代你的牛马。」（引自 [*Mind the Gap*](http://paulgraham.com/gap.html)（译者：这里作者在玩梗，所以就不翻译了））涓滴经济学是一个站不住脚的论点，因为它没有抓住问题的痛点。我们应该关注的是财富如何被创造，而不是如何被使用。
 
 **Graham 的观点：**
 
@@ -756,7 +756,7 @@ Paul Graham 是第二种写作方式——为探索而写作的支持者和实�
 
 当人们被允许保有自己创造的财富时，他们就能通过创造而非掠夺来致富。如果人们在冒险成功时能够获得更多收益，他们就会更愿意承担风险。创业公司的创始人从来不会独占所有创造的财富；大部分财富都会转移给其他人，因此我们应该鼓励而不是阻碍那些想要致富的人。
 
-基于这些观点，你大概能推测出 Graham 对资本主义与共产主义的看法（他在本节链接的文章中讨论了这个话题，特别是在[《如何创造财富》](http://paulgraham.com/wealth.html)和[*Mind the Gap*](http://paulgraham.com/gap.html)中）。
+基于这些观点，你大概能推测出 Graham 对资本主义与共产主义的看法（他在本节链接的文章中讨论了这个话题，特别是在[《如何创造财富》](http://paulgraham.com/wealth.html)和 [*Mind the Gap*](http://paulgraham.com/gap.html) 中）。
 
 ### 万物皆虚，万事皆允
 
@@ -764,11 +764,11 @@ Paul Graham 是第二种写作方式——为探索而写作的支持者和实�
 
 「然而，在历史的每个时刻，总有一些真相一旦说出口就会给你带来巨大麻烦。难道我们是第一个不存在这种情况的时代吗？那将是多么不可思议的巧合啊。」（引自[《正统的特权》](http://paulgraham.com/orth.html)）
 
-** 万物皆虚，万事皆允**
+** 并非我们认为正确的一切都是正确的，也并非我们认为错误的一切都是错误的。**（译者注：万物皆虚，万事皆允）
 
 Graham 反复强调这一核心观点，尤其是在探讨独立思考和从众心理的文章中（如前所述）。这一思想也贯穿于他的创业文章；毕竟，成功的创业往往源于一个当时大多数人并不认同的未来愿景。
 
-Graham 在他的经典之作[*What You Can't Say*](http://paulgraham.com/say.html)中深入探讨了这一观点。这篇文章的思想价值极高，很难用简单的总结概括其精髓。不过，我从中得到的最重要启示是：
+Graham 在他的经典之作[《不可言说之事》](http://paulgraham.com/say.html)中深入探讨了这一观点。这篇文章的思想价值极高，很难用简单的总结概括其精髓。不过，我从中得到的最重要启示是：
 
 我们每个人都持有一些错误的观点，而且可能错得离谱。然而在我们自己看来，这些观点似乎理所当然。因此，保持开放的心态至关重要。
 
@@ -776,11 +776,11 @@ Graham 在他的经典之作[*What You Can't Say*](http://paulgraham.com/say.htm
 
 如果我们认同写作即思考（正如我们之前讨论的），那么 Graham 凭借 200 多篇文章和数十年的写作经历，无疑进行了大量深入的思考。当他分享人生智慧时，我们应当认真倾听并深入思考。
 
-[你将希望现在就知道的事](http://paulgraham.com/hs.html)可以说是 Paul Graham 给高中生的人生智慧集锦，也是他最受欢迎的文章之一。虽然强烈建议你亲自阅读全文，但以下几点是我认为特别值得注意的：
+[《你将希望现在就知道的事》](http://paulgraham.com/hs.html)可以说是 Paul Graham 给高中生的人生智慧集锦，也是他最受欢迎的文章之一。虽然强烈建议你亲自阅读全文，但以下几点是我认为特别值得注意的：
 
 - 没有明确的人生规划也无妨。事实上，年轻时不过分执着于某个特定计划可能更为有利。要致力于保持更多的可能性。当你感到迷茫时，选择那个能为你未来带来更多机会的选项。
 
-- 创造些什么。独立完成一些具有挑战性的事情，具体是什么并不重要。在这个过程中，你会深入了解自己。这是快速找到你想投身的事业的捷径，而这正是人生中的重要问题之一。「如果能重返二十岁，我会多做一件事：就是尝试将各种想法组合在一起。……我应该少一些忧虑，多一些行动。如果你不确定该做什么，那就动手创造点什么吧。」（摘自[《边缘的力量》](http://paulgraham.com/marginal.html)）
+- 创造些什么。独立完成一些具有挑战性的事情，具体是什么并不重要。在这个过程中，你会深入了解自己。这是快速找到你想投身的事业的捷径，而这正是人生中的重要问题之一。「如果能重返二十岁，我会多做一件事：就是尝试将各种想法组合在一起。……我应该少一些忧虑，多一些行动。如果你不确定该做什么，那就动手创造点什么吧。」（摘自[《边缘群体的力量》](http://paulgraham.com/marginal.html)）
 
 - 学校里的成功方式与现实生活中的成功方式大相径庭。「学校给你的一个最危险的错觉是，成就伟业需要极强的自制力。大多数学科的教学方式枯燥乏味，以至于你只能靠自律来强迫自己学习。」在学校，知识是被动灌输的；而在现实生活中，你主动发起的事情才是真正重要的，它们会塑造你的人生轨迹。
 
@@ -790,31 +790,31 @@ Graham 在他的经典之作[*What You Can't Say*](http://paulgraham.com/say.htm
 
 **本节提到的文章：**
 
-[你将希望现在就知道的事](http://paulgraham.com/hs.html)（译者注：可见本汉化组发表在知乎上的文章[未来的你，会感谢你高中时就了解这些事](https://zhuanlan.zhihu.com/p/28546299769?utm_psn=1884006316000912469)）
+[《你将希望现在就知道的事》](http://paulgraham.com/hs.html)（译者注：可见本汉化组发表在知乎上的文章[《未来的你，会感谢你高中时就了解这些事》](https://zhuanlan.zhihu.com/p/28546299769)）
 
-[边缘群体的力量](http://paulgraham.com/marginal.html)
+[《边缘群体的力量》](http://paulgraham.com/marginal.html)
 
-[创业公司最难学会的课程](http://paulgraham.com/startuplessons.html)
+[《创业公司最难学会的课程》](http://paulgraham.com/startuplessons.html)
 
-[生命短暂](http://paulgraham.com/vb.html)
+[《生命短暂》](http://paulgraham.com/vb.html)
 
-[边缘群体的力量](http://paulgraham.com/marginal.html)
+[《边缘群体的力量》](http://paulgraham.com/marginal.html)
 
-[成瘾性的加速发展](http://paulgraham.com/addiction.html)
+[《成瘾性的加速发展》](http://paulgraham.com/addiction.html)
 
-[你不该屈居人下](http://paulgraham.com/boss.html)
+[《你不该屈居人下》](http://paulgraham.com/boss.html)
 
-[物质与人生](http://paulgraham.com/stuff.html)
+[《物质与人生》](http://paulgraham.com/stuff.html)
 
-[如何虚度光阴和挥霍金钱](http://paulgraham.com/selfindulgence.html)
+[《你是怎样浪费时间和金钱的》](http://paulgraham.com/selfindulgence.html)
 
-[我们对孩子撒的谎](http://paulgraham.com/lies.html)
+[《我们对孩子撒的谎》](http://paulgraham.com/lies.html)
 
-[保持身份认同的简单](http://paulgraham.com/identity.html)
+[《保持身份认同的简单》](http://paulgraham.com/identity.html)
 
-[城市与抱负](http://paulgraham.com/cities.html)
+[《城市与抱负》](http://paulgraham.com/cities.html)
 
-[我的待办事项清单之首](http://paulgraham.com/todo.html)
+[《我的待办事项清单之首》](http://paulgraham.com/todo.html)
 
 ### 人生苦短
 
@@ -822,9 +822,9 @@ Graham 在他的经典之作[*What You Can't Say*](http://paulgraham.com/say.htm
 
 首先，创业本身就是一种珍惜短暂生命或[适应它](http://paulgraham.com/startuplessons.html)的方式。与其经历 40 年的职业生涯，不如将赚钱的时间压缩到几年的创业期，从而为生活中其他重要的事情腾出时间。随着人类平均寿命的增加和实现经济独立最短周期的减少，创业成为了最大化两者时间差的高效方式。
 
-无论你是否赞同[《生命短暂》](http://paulgraham.com/vb.html)一文中的观点，我们都存在一个共识：要让生命显得不那么短暂，可以尽量减少不重要的事情。如果你无所事事地度过 5 小时，这 5 小时会感觉漫长难熬。我们越是忙碌，生命就感觉越短暂。因此，我们应该果断削减那些我们不喜欢做的事情，那些我们认为生命太短而不值得浪费时间的事情（Graham直白地称之为「废话」）。
+无论你是否赞同[《人生苦短》](http://paulgraham.com/vb.html)一文中的观点，我们都存在一个共识：要让生命显得不那么短暂，可以尽量减少不重要的事情。如果你无所事事地度过 5 小时，这 5 小时会感觉漫长难熬。我们越是忙碌，生命就感觉越短暂。因此，我们应该果断削减那些我们不喜欢做的事情，那些我们认为生命太短而不值得浪费时间的事情（Graham直白地称之为「废话」）。
 
-如果我们换个角度思考，就会意识到我们应该为重要的事情投入更多时间。如果人际关系对你很重要，你的日程安排就应该体现这一点。当认识到生命短暂时，我们必须果断地削减不重要的事情，同时为重要的事情腾出时间。这听起来简单易懂，似乎不值一提，但 Graham 在[《生命短暂》](http://paulgraham.com/vb.html)一文中赋予了它深刻的意义。
+如果我们换个角度思考，就会意识到我们应该为重要的事情投入更多时间。如果人际关系对你很重要，你的日程安排就应该体现这一点。当认识到生命短暂时，我们必须果断地削减不重要的事情，同时为重要的事情腾出时间。这听起来简单易懂，似乎不值一提，但 Graham 在[《人生苦短》](http://paulgraham.com/vb.html)一文中赋予了它深刻的意义。
 
 ### 如果不够谨慎，浪费生命是出奇地容易
 
@@ -834,7 +834,7 @@ Graham 在他的经典之作[*What You Can't Say*](http://paulgraham.com/say.htm
 
 对于聪明且雄心勃勃的人来说，忽视这些测试尤其困难。因为他们的雄心为他们提供了动力，智力则为他们提供了在这些测试中脱颖而出的能力。但请努力不要陷入生活中的这些反测试；它们正是生命短暂而不该投入时间的「无谓之事」。
 
-另一个可能悄然侵蚀你生活的因素是成瘾。我们都知道要谨慎对待酒精和赌博等常见的成瘾物，但更难避免的是那些人人都有的瘾，因为这些在我们看来似乎很正常。在[《上瘾性的加速》](http://paulgraham.com/addiction.html)一文中，Graham 区分了两种「正常」：统计意义上的正常（大多数人都在做的事）和实际操作中的正常（最有效的做法）。沉迷于社交媒体和智能手机在统计上可能是正常的，但从实际效果来看并不正常。"[技术往往使'正常'与'自然'脱节。](http://paulgraham.com/boss.html)"
+另一个可能悄然侵蚀你生活的因素是成瘾。我们都知道要谨慎对待酒精和赌博等常见的成瘾物，但更难避免的是那些人人都有的瘾，因为这些在我们看来似乎很正常。在[《上瘾性的加速》](http://paulgraham.com/addiction.html)一文中，Graham 区分了两种「正常」：统计意义上的正常（大多数人都在做的事）和实际操作中的正常（最有效的做法）。沉迷于社交媒体和智能手机在统计上可能是正常的，但从实际效果来看并不正常。「[技术往往使『正常』与『自然』脱节。](http://paulgraham.com/boss.html)"
 
 「[从现在起，你可以把这当作一条经验法则：如果人们不觉得你很奇怪，那么你可能活得不够好。](http://paulgraham.com/addiction.html)」举例来说，如果你对待消费的态度看起来不是有点与众不同，那么你可能拥有太多[《不必要的东西》](http://paulgraham.com/stuff.html)。
 
@@ -890,7 +890,7 @@ Graham 在他的经典之作[*What You Can't Say*](http://paulgraham.com/say.htm
 
 ## Paul Graham 的精华文章
 
-[**Paul Graham 的挚爱之选**](https://x.com/paulg/status/1207995301535080449)
+[**《Paul Graham 的挚爱之选》**](https://x.com/paulg/status/1207995301535080449)
 
 **个人推荐**
 
@@ -898,19 +898,19 @@ Graham 在他的经典之作[*What You Can't Say*](http://paulgraham.com/say.htm
 
 - [《如何培养独立思考能力》](http://paulgraham.com/think.html)
 
-- [你不该屈居人下](http://paulgraham.com/boss.html)
+- [《你不该屈居人下》](http://paulgraham.com/boss.html)
 
--  [财富创造之道](http://paulgraham.com/wealth.html)
+-  [《财富创造之道》](http://paulgraham.com/wealth.html)
 
-- [如何虚度光阴和挥霍金钱](http://paulgraham.com/selfindulgence.html)
+- [《如何虚度光阴和挥霍金钱》](http://paulgraham.com/selfindulgence.html)
 
 ## 结语
 
-以上内容仅仅是 Paul Graham 思想的一个简要概览。还有许多文章、观点和话题未能在此详细介绍。敬请期待将来更全面的 PG 201 ！
+以上内容仅仅是 Paul Graham 思想的一个简要概览。还有许多文章、观点和话题未能在此详细介绍。敬请期待将来更全面的 PG 2.01 ！
 
 无论如何，我希望这能激发你自主探索这些文章的兴趣，并为你提供一个便捷的方式去找到感兴趣的内容。
 
-如果你觉得这个总结有用，欢迎与他人分享。我花了将近一年的时间阅读Graham的所有文章并将笔记整理成有用的内容，如果能让更多人了解到这些内容，那就再好不过了。
+如果你觉得这个总结有用，欢迎与他人分享。我花了将近一年的时间阅读 Graham 的所有文章并将笔记整理成有用的内容，如果能让更多人了解到这些内容，那就再好不过了。
 
 如果你有任何想要补充或修改的内容，请联系我：[jaakko@jaakkoj.com](mailto:jaakko@jaakkoj.com) / [Twitter](https://twitter.com/jaakkojar)
 

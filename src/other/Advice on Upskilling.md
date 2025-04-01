@@ -2,13 +2,13 @@
 
 原文：[Advice on Upskilling - Justin Skycak](https://www.justinmath.com/advice-on-upskilling/)
 
-作者：[Justin Skycak (@justinskycak)](https://x.com/justinskycak) 2025年1月12日
+作者：[Justin Skycak (@justinskycak)](https://x.com/justinskycak) 2025 年 1 月 12 日
 
 关于持之以恒、技能培养、自律、坚持不懈、成长历程、团队合作、使命感、动力来源以及学习方法的建议。
 
 ------
 
-自2024年夏季以来，我撰写了大量关于技能提升的零散文章。最近，我对这些内容进行了整理，将它们汇集成这本小册子。
+自 2024 年夏天以来，我撰写了大量关于技能提升的零散文章。最近，我对这些内容进行了整理，将它们汇集成这本小册子。
 
 这仍然是一个不断完善的项目，我会在今后持续扩充和优化内容，但我认为它已经较好地将之前分散的写作整合成了一个更加连贯的整体。
 
