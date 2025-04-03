@@ -665,6 +665,7 @@
   * [运用记忆系统背诵文章段落](michael/Using%20memory%20systems%20to%20memorize%20text%20passages.md)
 * [nate](nate/intro.md)
   * [Replacing guilt.md](nate/Replacing%20guilt.md)
+  * [何时「本可以」](nate/Where%20coulds%20go.md)
 * [nintil](nintil/intro.md)
   * [大量输入与间隔重复](nintil/Massive%20input%20andor%20spaced%20repetition.md)
   * [《反对学校教育的依据》读书笔记](nintil/Notes%20on%20The%20Case%20Against%20Education.md)
