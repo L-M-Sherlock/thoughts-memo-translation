@@ -122,4 +122,4 @@ Caplan似乎正巧妙地利用教育系统的缝隙，引入这种现代版的�
 
 因此，虽然我感谢Scott对这篇文章的回应，但对这一理论的反对意见在我看来都不够有力，因为这些反对要么忽略了历史细节，要么错误地假设贵族式辅导现在仍以相同频率进行（而精英阶层的导师们对此并不认同），要么假定这一论点暗示单一因果关系或普遍适用性。
 
-**这是「贵族式辅导」系列的第二部分。该系列始于第一部分：「[为什么我们不再培养爱因斯坦](https://erikhoel.substack.com/p/why-we-stopped-making-einsteins)」。第三部分「[天才过去是如何被培养的](https://erikhoel.substack.com/p/how-geniuses-used-to-be-raised)」探讨了贵族式辅导的日常安排。**
+**这是「贵族式辅导」系列的第二部分。该系列始于第一部分：「[我们为什么不再出产爱因斯坦](https://erikhoel.substack.com/p/why-we-stopped-making-einsteins)」。第三部分「[天才过去是如何被培养的](https://erikhoel.substack.com/p/how-geniuses-used-to-be-raised)」探讨了贵族式辅导的日常安排。**
