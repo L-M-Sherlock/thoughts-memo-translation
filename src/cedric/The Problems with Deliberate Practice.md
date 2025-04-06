@@ -2,7 +2,7 @@
 
 原文：[The Problems with Deliberate Practice - Commoncog](https://commoncog.com/the-problems-with-deliberate-practice/)
 
-刻意练习是指一种**特定**类型的练习方法，能够在任何可发展专业技能的领域中带来卓越表现。如果你一直关注本博客，你可能对此已有所了解；我在总结 Cal Newport 2016 年的著作[《深度工作》](https://commoncog.com/deep-work/)时曾介绍过刻意练习，并在讨论 Gary Klein 的决策训练方法时，于我的心智模型实践框架[第 5 部分](https://commoncog.com/putting-mental-models-to-practice-part-5-skill-extraction/)中再次提及它。
+刻意练习是指一种**特定**类型的练习方法，能够在任何可发展专业技能的领域中带来卓越表现。如果你一直关注本博客，你可能对此已有所了解；我在总结 Cal Newport 2016 年的著作[《深度工作》](https://commoncog.com/deep-work/)时曾介绍过刻意练习，并在讨论 Gary Klein 的决策训练方法时，于我的心智模型实践框架[第 5 部分](https://commoncog.com/putting-mental-models-to-practice-part-5-skill-extraction/)中再次提及了它。
 
 然而，我敢打赌，你很可能是在 Malcolm Gladwell 的「一万小时法则」语境下听说刻意练习的——这个误导性的观点认为，无论何人、何年龄、何种技能，只要投入一万小时的练习就能成为该领域的大师。
 

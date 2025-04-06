@@ -469,7 +469,7 @@
   * [学校是为了浪费时间和金钱](bryan/School%20Is%20for%20Wasting%20Time%20and%20Money.md)
   * [教学的艺术](bryan/Teaching%20Teaching.md)
 * [cedric](cedric/intro.md)
-  * [加速掌握专业技能](cedric/Accelerated%20Expertise.md)
+  * [加速专业技能养成](cedric/Accelerated%20Expertise.md)
   * [刻意练习的问题](cedric/The%20Problems%20with%20Deliberate%20Practice.md)
 * [david](david/intro.md)
   * [关于教育的更多想法](david/More%20on%20Education.md)
