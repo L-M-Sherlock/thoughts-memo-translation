@@ -665,6 +665,7 @@
   * [运用记忆系统背诵文章段落](michael/Using%20memory%20systems%20to%20memorize%20text%20passages.md)
 * [nate](nate/intro.md)
   * [Replacing guilt.md](nate/Replacing%20guilt.md)
+  * [The value of a life.md](nate/The%20value%20of%20a%20life.md)
   * [能去何方](nate/Where%20coulds%20go.md)
 * [nintil](nintil/intro.md)
   * [大量输入与间隔重复](nintil/Massive%20input%20andor%20spaced%20repetition.md)

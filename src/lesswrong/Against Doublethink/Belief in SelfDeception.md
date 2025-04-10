@@ -2,9 +2,9 @@
 
 原文：[Belief in Self-Deception](https://www.readthesequences.com/Belief-In-Self-Deception)
 
-我曾提到过与一位名义上的正统犹太教女士的对话。她极力维护自己相信上帝的说法，但实际上似乎根本不相信上帝。
+我曾提到过与一位名义上的正统犹太教女士的对话。她极力辩护自己相信上帝的说法，但实际上似乎根本不相信上帝。
 
-当我询问她认为相信上帝会带来什么好处时，我引用了 [Tarski 的祷文](https://www.readthesequences.com/The-Meditation-On-Curiosity)——这实际上是一系列无限的祷文，其中一个具体例子是：
+当我询问她认为相信上帝会带来什么好处时，我引用了 [Tarski 的祷文](https://www.readthesequences.com/The-Meditation-On-Curiosity)——这实际上是一系列无穷无尽的祷文，其中一个具体例子是：
 
 如果天空是蓝色的
 
@@ -22,7 +22,7 @@
 
 起初，我以为她难以想象一个没有上帝的世界，因为她深深依恋于一个存在上帝的世界。
 
-然而，现在我怀疑她之所以难以想象上帝存在与否会给**世界**带来什么不同，是因为她所有的思考都围绕着她**对上帝的信仰**，而她用来模拟世界运作的因果关系网络中并没有将上帝作为一个节点。因此，她可以轻易回答「如果我不相信上帝，世界会有什么不同？」，但无法回答「如果没有上帝，世界会有什么不同？」
+然而，现在我怀疑她之所以难以想象上帝存在与否会给**世界**带来什么不同，是因为她所有的思考都围绕着她**对上帝的信仰**，而她用来建构世界的因果关系网中并没有将上帝作为一个节点。因此，她可以轻松回答「如果我不相信上帝，世界看起来会有什么不同？」，但无法回答「如果没有上帝，世界会看起来有什么不同？」
 
 当时她没有回答那个问题。但她确实给出了一个与 Tarski 祷文**相悖的例子**：
 
@@ -46,9 +46,9 @@
 
 > —Terry Pratchett, *Maskerade*[2]
 
-我可以写下这样的话：「好吧，我猜她并不认为她的推理[在经过深思后应该保持一致](https://www.readthesequences.com/The-Lens-That-Sees-Its-Own-Flaws)，」但我仍然难以[真正理解](https://www.readthesequences.com/Think-Like-Reality)这一点。
+我可以写下这样的话：「好吧，我猜她并不认为她的推理应该[在经过深思后保持一致](https://www.readthesequences.com/The-Lens-That-Sees-Its-Own-Flaws)，」但我仍然难以[真正理解](https://www.readthesequences.com/Think-Like-Reality)这一点。
 
-我能看出她话语中的模式，但我无法在情感层面上理解她背后的思维。我可以想象自己置身于[吃婴儿的外星人](https://www.greaterwrong.com/lw/y5/the_babyeating_aliens_18/)和[第三代 Kiritsugu 夫人](https://www.greaterwrong.com/lw/y7/the_super_happy_people_38/)的处境，但我无法想象成为她是什么感觉。或者也许我只是不**愿**去想象？
+我能看出她话语中的模式，但我无法在情感层面上理解她背后的思维。我可以想象自己站在[吃婴儿的外星人]的角度上(https://www.greaterwrong.com/lw/y5/the_babyeating_aliens_18/)和[第三代 Kiritsugu 夫人](https://www.greaterwrong.com/lw/y7/the_super_happy_people_38/)的处境，但我无法想象成为她是什么感觉。或者也许我只是不**愿**去想象？
 
 这就解释了为什么聪明人只有有限的时间（以主观上花在思考宗教上的时间来衡量）来成为无神论者。如果你很聪明，花了大量时间思考和捍卫自己的宗教信仰，却仍然无法摆脱[黑暗面认识论](https://www.readthesequences.com/Dark-Side-Epistemology)的束缚，那么过了某个临界点，你的思维就会变得如同 Escher 的画作一样扭曲难解。
 
