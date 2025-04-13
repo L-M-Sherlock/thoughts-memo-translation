@@ -38,9 +38,9 @@
 
 > 或者说，当今在世者中，又有谁担得起这样的描述呢？
 
-我可以列举出一系列其他性质类似的分析（实际上是哀叹），从《自然》杂志的[《科学天才已经灭绝》](https://www.nature.com/articles/493602a)到《新政治家》的[《知识分子的衰落》](https://www.newstatesman.com/culture/books/2021/05/fall-intellectual)，再到《高等教育纪事报》的[《天才们都去哪了？》](https://www.chronicle.com/article/where-have-all-the-geniuses-gone/)，以及《连线》杂志的[《发现的困难（天才们都去哪了？》）](https://www.wired.com/2011/01/the-difficulty-of-discovery/)，哲学家埃里克·施维茨格贝尔（Eric Schwitzgebel）的[《福多尔们都在哪里？》](https://schwitzsplinters.blogspot.com/2021/11/where-have-all-fodors-gone-or-golden.html)，以及我自己关于[缺乏领军小说家的哀叹](https://erikhoel.substack.com/p/how-the-mfa-swallowed-literature?s=w)。
+我可以列举出一系列其他性质类似的分析（实际上是哀叹），从《自然》杂志的[《科学天才已经灭绝》](https://www.nature.com/articles/493602a)到《新政治家》的[《知识分子的衰落》](https://www.newstatesman.com/culture/books/2021/05/fall-intellectual)，再到《高等教育纪事报》的[《天才们都去哪了？》](https://www.chronicle.com/article/where-have-all-the-geniuses-gone/)，以及《连线》杂志的[《发现的困难（天才们都去哪了？》](https://www.wired.com/2011/01/the-difficulty-of-discovery/)，哲学家埃里克·施维茨格贝尔（Eric Schwitzgebel）的[《福多尔们都在哪里？》](https://schwitzsplinters.blogspot.com/2021/11/where-have-all-fodors-gone-or-golden.html)，以及我自己关于[缺乏领军小说家的哀叹](https://erikhoel.substack.com/p/how-the-mfa-swallowed-literature?s=w)。
 
-如果你不同意，我当然承认要为天才的衰落找到无可辩驳的证据是困难的——智力贡献极难量化，天才的定义总是存在争议，而且任何讨论都必然会回避各种观点和反驳。但至少乍看之下，数据似乎支持了这种坊间说法。以下是 *Cold Takes* 博客文章[《今天的贝多芬在哪里？？》](https://www.cold-takes.com/wheres-todays-beethoven/#books-the-longest-series-i-have)”中的一张图表。在下图中，我们可以看到备受赞誉的科学家（蓝色）和艺术家（红色）的数量，除以有效人口（指拥有教育和渠道能够为这些领域做出贡献的总人口）。
+如果你不同意，我当然承认要为天才的衰落找到无可辩驳的证据是困难的——智力贡献极难量化，天才的定义总是存在争议，而且任何讨论都必然会回避各种观点和反驳。但至少乍看之下，数据似乎支持了这种坊间说法。以下是 *Cold Takes* 博客文章[《今天的贝多芬在哪里？？》](https://www.cold-takes.com/wheres-todays-beethoven/#books-the-longest-series-i-have)中的一张图表。在下图中，我们可以看到备受赞誉的科学家（蓝色）和艺术家（红色）的数量，除以有效人口（指拥有教育和渠道能够为这些领域做出贡献的总人口）。
 
 ![img](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F72d18e1c-baab-43f6-8469-05a14851fa5b_1200x742.png)
 
@@ -108,7 +108,7 @@
 
 这最后一点揭示了一种常见的模式：父母与导师之间的界限常常是模糊的，而贵族式的家教辅导正是通过这种方式，有时也影响到了非贵族阶层的生活。卡尔·马克思（Karl Marx）的父亲（他富有到拥有自己的葡萄园）就曾私下辅导他直到 12 岁，之后他才开始接受正规的学校教育。再想想后来的汉娜·阿伦特（Hannah Arendt）的例子，她是 20 世纪哲学界的巨擘；在希特勒崛起的德国，她出身于上层中产阶级的犹太家庭，并非贵族出身，但她在年轻时期的不同阶段都接受过拉比和教授的独立辅导，而且，或许更具相关性的是，她自己的母亲就[扮演了](https://en.wikipedia.org/wiki/Hannah_Arendt#Early_education)一个典型的贵族式导师的角色[3]：
 
-> 汉娜·阿伦特的母亲自认为是思想进步的人，力求按照严格的歌德式路线来培养女儿，这其中就包括阅读歌德的全集……在当时，歌德被认为是 *Bildung*（教育，即有意识地塑造思想、身体和精神）不可或缺的导师……汉娜的成长进步（*Entwicklung*）被她母亲仔细地记录在一本名为 *Unser Kind*（我们的孩子）的书中，并根据当时所谓的 *normale Entwicklung*（"「正常发展"」）标准来衡量她的成长。
+> 汉娜·阿伦特的母亲自认为是思想进步的人，力求按照严格的歌德式路线来培养女儿，这其中就包括阅读歌德的全集……在当时，歌德被认为是 *Bildung*（教育，即有意识地塑造思想、身体和精神）不可或缺的导师……汉娜的成长进步（*Entwicklung*）被她母亲仔细地记录在一本名为 *Unser Kind*（我们的孩子）的书中，并根据当时所谓的 *normale Entwicklung*（「正常发展」）标准来衡量她的成长。
 
 ![img](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbb5e9efe-f955-47c2-8dce-d6e0d758c61a_710x849.png)
 
