@@ -10,13 +10,13 @@
 
 近来，大公司似乎特别热衷于用机器取代人类天才，但我认为，现在就对人类失去信心还为时过早。为此，我写了[《我们为什么不再出产爱因斯坦》](https://erikhoel.substack.com/p/why-we-stopped-making-einsteins?s=w)一文，探讨历史上那些天才人物往往是工匠式教育精心塑造的结果——尤其是许多贵族出身的天才，他们身边围绕着成群的家庭教师和私人导师（而这些导师本身，往往就是了不起的科学家或各自领域的顶尖专家）。
 
-这种不平等的贵族式教育显然无法匹配现代教育体系的大规模培养需求，而放弃贵族教育很可能导致了[天才和通才的减少](http://cold-takes.com/wheres-todays-beethoven/)。尽管今天的孩子们接触成年知识分子的机会更加平等，但这种接触往往变得零散而稀薄，远不如旧时特权阶层孩子所享受的那种「集中熏陶」（我必须强调，这极其不公平）。物理学家理查德·费曼在他 1961 年的讲座集《物理学之美》（Six Easy Pieces）中，[总结](https://twitter.com/erikphoel/status/1512533728144379906?s=46&t=2hI-QSJmcOCbHA5f7QPlzQ)了辅导的益处及其规模化实施的困境：
+这种不平等的贵族式教育显然无法匹配现代教育体系的大规模培养需求，而放弃贵族式辅导很可能导致了[天才和通才的减少](http://cold-takes.com/wheres-todays-beethoven/)。尽管今天的孩子们接触成年知识分子的机会更加平等，但这种接触往往变得零散而稀薄，远不如旧时特权阶层孩子所享受的那种「集中熏陶」（我必须强调，这极其不公平）。物理学家理查德·费曼在他 1961 年的讲座集《物理学之美》（Six Easy Pieces）中，[总结](https://twitter.com/erikphoel/status/1512533728144379906?s=46&t=2hI-QSJmcOCbHA5f7QPlzQ)了辅导的益处及其规模化实施的困境：
 
 > 但是，我认为，要解决教育问题，必须认识到：最好的教学，只可能发生在师生之间直接建立的个体连接中。唯有学生与良师一对一探讨观点，自由交流，探讨想法，思考问题，教育才能达到理想状态。仅仅坐在教室听讲，甚至只是完成布置的作业，能学到的东西非常有限。但在我们这个时代，学生太多了，我们不得不在这种理想状态之外，寻找一个替代方案。
 
 那么，如果能不计成本投入教育，能达到的理想状态是什么样子？什么样的日常教育方法能稳定地「出产」天才？
 
-首先说明，我研究贵族式教育，是要梳理出一套关于其结构和理念的指南，尽管比较抽象，但或许有助于复兴这种教育方式。当然，最好更加公平，比如借助新技术，让中产家庭也负担得起。一对一辅导可能永远无法普及，说实话，精英教育本就不是人人负担得起的。教育成本一路飙升，顶级私立高中一年学费高达7万美元，可统计数据却[很难证明](https://freddiedeboer.substack.com/p/education-doesnt-work?s=r)把孩子送进去就能带来什么明显的好处。学生贷款债务逼近[两万亿美元](https://www.forbes.com/advisor/student-loans/average-student-loan-statistics/?utm_source=substack&utm_medium=email)，而大学（我在里面待了快二十年，深有体会）却似乎越来越官僚化、越来越营业化，更像是给年轻人提供的服务场所，而非培养天才的殿堂。教育陷入如此困境，我们有理由憧憬一个不同的教育图景。
+首先说明，我研究贵族式辅导，是要梳理出一套关于其结构和理念的指南，尽管比较抽象，但或许有助于复兴这种教育方式。当然，最好更加公平，比如借助新技术，让中产家庭也负担得起。一对一辅导可能永远无法普及，说实话，精英教育本就不是人人负担得起的。教育成本一路飙升，顶级私立高中一年学费高达 7 万美元，可统计数据却[很难证明](https://freddiedeboer.substack.com/p/education-doesnt-work?s=r)把孩子送进去就能带来什么明显的好处。学生贷款债务逼近[两万亿美元](https://www.forbes.com/advisor/student-loans/average-student-loan-statistics/?utm_source=substack&utm_medium=email)，而大学（我在里面待了快二十年，深有体会）却似乎越来越官僚化、越来越营业化，更像是给年轻人提供的服务场所，而非培养天才的殿堂。教育陷入如此困境，我们有理由憧憬一个不同的教育图景。
 
 ![img](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fabac6fc1-df1c-443c-8dbb-4203dcc0054f_2912x332.png)
 
