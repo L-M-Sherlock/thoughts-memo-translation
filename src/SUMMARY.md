@@ -670,6 +670,7 @@
   * [运用记忆系统背诵文章段落](michael/Using%20memory%20systems%20to%20memorize%20text%20passages.md)
 * [nate](nate/intro.md)
   * [更新自我](nate/Be%20a%20new%20homunculus.md)
+  * [无法绝望](nate/Being%20unable%20to%20despair.md)
   * [Replacing guilt.md](nate/Replacing%20guilt.md)
   * [The Stamp Collector.md](nate/The%20Stamp%20Collector.md)
   * [The value of a life.md](nate/The%20value%20of%20a%20life.md)
