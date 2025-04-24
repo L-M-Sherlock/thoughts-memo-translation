@@ -609,7 +609,7 @@
   * [我们为何最终选择在家上学](henrik/Why%20we%20ended%20up%20homeschooling.md)
 * [justinmath](justinmath/intro.md)
   * [技能提升指南](justinmath/Advice%20on%20Upskilling.md)
-  * [高等数学教材与课堂教学通常与学习认知科学脱节](justinmath/Higher%20Math%20Textbooks%20and%20Classes%20are%20Typically%20Not%20Aligned%20with%20the%20Cognitive%20Science%20of%20Learning.md)
+  * [高数教材与课堂教学通常与认知科学脱节](justinmath/Higher%20Math%20Textbooks%20and%20Classes%20are%20Typically%20Not%20Aligned%20with%20the%20Cognitive%20Science%20of%20Learning.md)
   * [分层知识结构中的个人优化间隔重复](justinmath/Optimized%20Individualized%20Spaced%20Repetition%20in%20Hierarchical%20Knowledge%20Structures.md)
   * [教育的未来](justinmath/The%20Future%20of%20Education.md)
   * [为何不直接用教科书、MIT OpenCourseWare、可汗学院等资源学习？](justinmath/Why%20Not%20Just%20Learn%20from%20a%20Textbook%20MIT%20OpenCourseWare%20Khan%20Academy%20etc.md)
