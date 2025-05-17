@@ -677,6 +677,7 @@
   * [无法绝望](nate/Being%20unable%20to%20despair.md)
   * [Caring about something larger than yourself.md](nate/Caring%20about%20something%20larger%20than%20yourself.md)
   * [Choose without suffering.md](nate/Choose%20without%20suffering.md)
+  * [Dark Not Colorless.md](nate/Dark%20Not%20Colorless.md)
   * [别用内疚感操控人生](nate/Dont%20steer%20with%20guilt.md)
   * [破罐破摔](nate/Failing%20with%20Abandon.md)
   * [倾尽全力去「敷衍」](nate/Halfassing%20it%20with%20everything%20youve%20got.md)
