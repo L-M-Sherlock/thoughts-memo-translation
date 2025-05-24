@@ -1,6 +1,6 @@
-黑暗，但并非没有色彩
+# 黑暗，但并非没有色彩
 
-[Dark, Not Colorless](https://mindingourway.com/dark-not-colorless/)
+原文：[Dark, Not Colorless](https://mindingourway.com/dark-not-colorless/)
 
 2015 年 11 月 16 日
 
