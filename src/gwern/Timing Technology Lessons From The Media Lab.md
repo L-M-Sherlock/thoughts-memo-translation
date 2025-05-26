@@ -4,13 +4,13 @@
 
 [神经网络](https://gwern.net/doc/ai/nn/index), [比特币](https://gwern.net/doc/bitcoin/index), [经济](https://gwern.net/doc/economics/index), [历史](https://gwern.net/doc/history/index), [深度洞察](https://gwern.net/doc/insight-porn/index), [科技社会学](https://gwern.net/doc/sociology/technology/index), [决策理论](https://gwern.net/doc/statistics/decision/index), [虚拟现实](https://gwern.net/doc/technology/virtual-reality/index)
 
-技术发展趋势虽可预见，但这类知识在很大程度上并无用武之地，因为初创企业本身就充满风险，且极度依赖最佳时机。一种更切实际的方法是拥抱不确定性，并从强化学习的视角出发。
+技术发展趋势虽可预见，但这类知识在很大程度上并无用武之地，因为初创企业本身就存在风险，且极度依赖最佳时机。更实用的方法是从强化学习的视角出发拥抱不确定性。
 
 2012-07-12–2019-06-20 **完成** [确定性](https://gwern.net/about#confidence-tags): **有可能** [重要性](https://gwern.net/about#importance-tags): *6* [反向链接](https://gwern.net/timing#backlinks) [相似内容](https://gwern.net/timing#similars) [参考文献](https://gwern.net/timing#link-bibliography)
 
 你如何为你的初创公司把握时机？技术预测在判断某事具有可能性和可取性方面，往往惊人地具有先见之明，并且它们预测的事情最终也会发生；但它们在预测时机方面却远没有那么成功，几乎总是失之交臂，而成功（以及财富）往往花落别家。
 
-为何这些知识如此不管用？为何在科技行业，成功与失败总是如影随行？准确的入场时机无法事先精确知晓，因此任何预测尝试通常都会有数年甚至更久的偏差。对于许多创意而言，除了倾尽所有去创办一家公司，并没有其他投资方式，这便导致了结果的极端[差异性](https://en.wikipedia.org/wiki/Variance)，即便创意本身很好，且预测对（最终）结果的判断是正确的。
+为何这些知识如此不管用？为何在科技行业，成功与失败总是如影随行？准确的入场时机无法事先精确知晓，因此任何预测尝试通常都会有长达数年甚至更久的偏差。对于许多创意而言，除了倾尽所有去创办一家公司，并没有其他投资方式，这便导致了结果的极端[差异性](https://en.wikipedia.org/wiki/Variance)，即便创意本身很好，且预测对（最终）结果的判断是正确的。
 
 进步可以发生，也可以在很久以前就被预见到，但由于瓶颈因素的存在，相关的细节和确切时机却极难准确把握。启动过早意味着失败，然而采取保守策略、稍晚启动同样糟糕，因为无论预测如何，一个好的创意总会像[飞蛾扑火](https://en.wikipedia.org/wiki/Winner's_curse)一般吸引那些过度乐观的研究人员或企业家：所有人都化为灰烬，唯有那个凭着傻运气在完美瞬间触碰到火焰的人幸存并赢得一切，而到那时，所有人都会明白最佳时机已然逝去。所有重大的成功故事，都掩盖了其背后一长串做过同样事情却时运不济的先行者。历史的教训在于，每一个教训都对应着一个与之相当且截然相反的教训。因此，各种想法可以被划分为：要么是过于乐观且很可能注定失败的，要么是**已成定局**的。在个人层面上，创意是毫无价值的，因为有太多其他人也同时拥有它们——「多重独立发明」是常态，而非例外。如此说来，进步则有赖于那些「不按常理出牌的人」。
 
@@ -26,7 +26,7 @@
 
 似曾相识之感油然而生，是因为 TML 书中几乎每一页所描述的景象，在 20 世纪 90 年代和 21 世纪初都已成为显而易见的日常生活，更不用提 2010 年代了——从宽带的普及到智能手机的最终影响，莫不如此。
 
-而同情之心则源于，可悲地注意到 TML 书中提及的未来百万富翁或亿万富翁是何其之少——人们很快就会意识到，是的，某人 X 对于 Y 事件将会发生的判断百分之百正确，即便当时所有人都认为这纯属天方夜谭；只不过，X 在时机上略有偏差，早了或晚了几年，结果要么操之过急，要么错失良机，于是某个甚至从未在 TML 中出现过的 Z 最终攫取了所有的胜利果实。我阅读此书时，脑海中不断浮现这样的念头：「是的，是的，你是对的——可这对你又有什么实际好处呢！」，或者「不尽然，那玩意儿实际上还得再过十年才能**真正**行得通」。
+而可惜的是，遗的注意到 TML 书中提及的未来百万富翁或亿万富翁是何其之少——人们很快就会意识到，是的，某人 X 对于 Y 事件将会发生的判断百分之百正确，即便当时所有人都认为这纯属天方夜谭；只不过，X 在时机上略有偏差，早了或晚了几年，结果要么操之过急，要么错失良机，于是某个甚至从未在 TML 中出现过的 Z 最终攫取了所有的胜利果实。我阅读此书时，脑海中不断浮现这样的念头：「是的，是的，你是对的——可这对你又有什么实际好处呢！」，或者「不尽然，那玩意儿实际上还得再过十年才能**真正**行得通」。
 
 # 凡事皆有其时
 
@@ -48,7 +48,7 @@
 
 > 弗里德里希·尼采[2]
 
-许多初创公司的背后，都有一长串曾尝试做着大致相同事情却最终失败的先行者，他们往往与若干其他竞争者同时起步（初创公司与[一般的科学/技术领域](https://gwern.net/doc/sociology/technology/2010-kelly-whattechwants-ch7-convergence.pdf)一样，同样容易出现[「多重独立发现」](https://en.wikipedia.org/wiki/Multiple_discovery)的现象[3]）。他们之所以能够成功，是因为恰好在某些 S 型曲线或关键事件发展到恰当节点的那一刻，猛击了一下「皮纳塔」（一种墨西哥传统游戏，此处比喻抓住机遇）。[不妨看看](https://www.wired.com/2014/12/da-bom/)命运多舛的 [eToys.com](https://en.wikipedia.org/wiki/EToys.com) 或 [Pets.com](https://en.wikipedia.org/wiki/Pets.com)：当初投资者相信美国人会在网上大笔消费，例如购买玩具或狗粮，这个判断正确吗？绝对正确。亚马逊（该公司鲜有盈利，且吸纳的投资额远超 Pets.com 当年区区约 3 亿[2002年；折合 2025 年 5.58 亿]美元的规模）便是一家成功的在线零售企业，其库存的[狗粮](https://en.wikipedia.org/wiki/Dog_food)品种多达数千种，更不用提它销售的其他所有宠物相关商品了；而**主要**经营宠物食品的 [Chewy](https://en.wikipedia.org/wiki/Chewy_(company)) 公司，则凭借其数十亿美元的营收（其市值在 2021 年年中膨胀至 300 亿[2021年；折合 2025 年 370 亿]美元），于 2019 年[申请](https://www.sec.gov/Archives/edgar/data/1766502/000119312519124430/d665122ds1.htm)了数十亿美元规模的首次公开募股。但 Pets.com 的股票价值最终还是跌至了[约 0 美元](https://www.forbes.com/2000/11/16/1116simons.html)。Facebook 是有史以来最大的照片档案库，其存储需求确实堪称海量；但它能在 20 世纪 90 年代取得成功吗？[答案是否定的](https://en.wikipedia.org/wiki/Social_networking_service#History)，甚至在更晚些时候也不行，正如 [Orkut](https://en.wikipedia.org/wiki/Orkut) 和 [Friendster](https://en.wikipedia.org/wiki/Friendster) 的失败以及 MySpace 的苟延残喘直至消亡所证明的那样。20 世纪 90 年代最臭名昭著的科技商业失败案例之一是[铱星卫星星座计划](https://en.wikipedia.org/wiki/Iridium_satellite_constellation)，但该计划的失败归咎于摩托罗拉方面做出的各种离奇的、自我毁灭性的决策；当摩托罗拉最终被排除出局后，铱星计划找到了自己的市场，并且在 2017 年见证了其**第二个**卫星星座 Iridium NEXT 的发射，同时还面临着此后发射的其他卫星星座的竞争，包括 SpaceX 自己羽翼未丰的[「星链」](https://en.wikipedia.org/wiki/Starlink)（Starlink）计划（旨在提供全球宽带互联网服务），该计划仅在 2019 年 5 月就发射了不少于 60 颗卫星。再看看计算机领域：想象一下，一位苹果电脑的早期用户宣称：「每个人最终都会使用计算机！」是的，没错，但这还需要再等上几十年，而且，「从长远来看，我们都将作古」。早期个人电脑发展史中，[充斥着有先见之明者最终失败的案例](https://gwern.net/newsletter/2017/06#the-digital-antiquarian)。
+许多初创公司的背后，都有一长串曾尝试做着大致相同事情却最终失败的先行者，他们往往与若干其他竞争者同时起步（初创公司与[一般的科学/技术领域](https://gwern.net/doc/sociology/technology/2010-kelly-whattechwants-ch7-convergence.pdf)一样，同样容易出现[「多重独立发现」](https://en.wikipedia.org/wiki/Multiple_discovery)的现象[3]）。他们之所以能够成功，是因为恰好在某些 S 型曲线或关键事件发展到恰当节点的那一刻，猛击了一下「皮纳塔」（一种墨西哥传统游戏，此处比喻抓住机遇）。[不妨看看](https://www.wired.com/2014/12/da-bom/)命运多舛的 [eToys.com](https://en.wikipedia.org/wiki/EToys.com) 或 [Pets.com](https://en.wikipedia.org/wiki/Pets.com)：当初投资者相信美国人会在网上大笔消费，例如购买玩具或狗粮，这个判断正确吗？绝对正确。亚马逊（该公司鲜有盈利，且吸纳的投资额远超 Pets.com 当年区区约 3 亿[2002年；折合 2025 年 5.58 亿]美元的规模）便是一家成功的在线零售企业，其库存的[狗粮](https://en.wikipedia.org/wiki/Dog_food)品种多达数千种，更不用提它销售的其他所有宠物相关商品了；而**主要**经营宠物食品的 [Chewy](https://en.wikipedia.org/wiki/Chewy_(company)) 公司，则凭借其数十亿美元的营收（其市值在 2021 年年中膨胀至 300 亿[2021年；折合 2025 年 370 亿]美元），于 2019 年[申请](https://www.sec.gov/Archives/edgar/data/1766502/000119312519124430/d665122ds1.htm)了数十亿美元规模的首次公开募股。但 Pets.com 的股票价值最终还是跌至了[约 0 美元](https://www.forbes.com/2000/11/16/1116simons.html)。Facebook 是有史以来最大的照片档案库，其存储需求确实堪称海量；但它能在 20 世纪 90 年代取得成功吗？[答案是否定的](https://en.wikipedia.org/wiki/Social_networking_service#History)，甚至在更晚些时候也不行，正如 [Orkut](https://en.wikipedia.org/wiki/Orkut) 和 [Friendster](https://en.wikipedia.org/wiki/Friendster) 的失败以及 MySpace 的苟延残喘直至消亡所证明的那样。20 世纪 90 年代最臭名昭著的科技商业失败案例之一是[铱星卫星星座计划](https://en.wikipedia.org/wiki/Iridium_satellite_constellation)，但该计划的失败归咎于摩托罗拉方面做出的各种离奇的、自我毁灭性的决策；当摩托罗拉最终被排除出局后，铱星计划找到了自己的市场，并且在 2017 年见证了其**第二个**卫星星座 Iridium NEXT 的发射，同时还面临着此后发射的其他卫星星座的竞争，包括 SpaceX 自己羽翼未丰的[「星链」](https://en.wikipedia.org/wiki/Starlink)（Starlink）计划（旨在提供全球宽带互联网服务），该计划旨在 2019 年 5 月就发射了不少于 60 颗卫星。再看看计算机领域：想象一下，一位苹果电脑的早期用户宣称：「每个人最终都会使用计算机！」是的，没错，但这还需要再等上几十年，而且，「从长远来看，我们都将作古」。早期个人电脑发展史中，[充斥着有先见之明者最终失败的案例](https://gwern.net/newsletter/2017/06#the-digital-antiquarian)。
 
 智能手机则是一个更为显著的例证。在 20 世纪 90 年代和 21 世纪初，我常读到关于日本手机何其先进、一部优秀的智能手机将会何其神奇的论述，尽管年复一年，那些手机都形同鸡肋，几乎只用于语音通话。你可以看到智能手机在 TML 中被反复提及，因为远见卓识者们早已意识到一部可放入口袋的移动计算机会带来多么翻天覆地的变化。然而，直到 21 世纪初中期，智能手机的承诺才仿佛一夜之间得以实现，而其成功主要归功于后来者苹果和谷歌，将先前极为成功的诺基亚排挤出局，更不用说像 General Magic 那样的先行者了。（你也可以在辛勤耕耘数十年后一举成名……）2013 年对 [Eric Jackson](https://www.asymco.com/2013/09/17/an-interview-by-eric-jackson-on-blogging-apple-and-whats-next/) 的一次采访回顾了智能手机的普及率：
 
