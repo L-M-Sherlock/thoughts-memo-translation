@@ -1,4 +1,4 @@
-# 你无从确知自己为何而奋斗
+# 你无法确知自己在为了什么奋斗
 
 原文：[You don't get to know what you're fighting for](https://mindingourway.com/you-dont-get-t/)
 
