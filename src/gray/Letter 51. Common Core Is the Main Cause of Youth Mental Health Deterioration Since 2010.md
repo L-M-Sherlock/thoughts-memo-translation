@@ -52,7 +52,7 @@
 
 在审视图表时，值得注意的是，在整个研究期间，学年中急诊事件高发月份的增长幅度，要比最低谷的夏季月份更为陡峭。事实上，在这些年份里，夏季的增长几乎停滞，而学年期间的增长则相当迅猛。2021 年的例外情况，可能受到了新冠疫情的后续影响。
 
-在《科学美国人》的一篇文章中，[Tyler Black（2022）](https://www.scientificamerican.com/article/childrens-risk-of-suicide-increases-on-school-days/)展示了一张图表，对比了学龄儿童（8-17 岁）与 18-30 岁成年人每月自杀率的模式。该图表清晰地表明，只有学龄儿童——而非已过学龄的成年人——才表现出在校月份自杀率高于夏季的模式。
+在《科学美国人》的一篇文章中，[Tyler Black（2022）](https://www.scientificamerican.com/article/childrens-risk-of-suicide-increases-on-school-days/)提供了一张图表，该图表对比了学龄儿童（8 至 17岁）与 18 至 30 岁成年人群体每月的自杀率变化模式。这张图表清晰地表明，只有学龄儿童——而非学龄以上的人群——才呈现出在校期间自杀人数高于夏季的规律。
 
 ![img](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c0665bd-72a3-4159-bb7d-a60c8f0415a2_1600x1344.png)
 
@@ -60,21 +60,21 @@
 
 ### **教育工作者报告称：自「共同核心课程标准」实施伊始，学校压力便随之增加。**
 
-在[一篇硕士学位论文](https://spark.bethel.edu/cgi/viewcontent.cgi?article=1753&context=etd)中，阿比盖尔·莫福德（Abigail Morford，2021）引用了多项研究，在这些研究中，教师及其他学校工作人员均报告称，「共同核心课程标准」及其附带的标准化测试加剧了学生和教职工的焦虑情绪。其中包括以下研究：
+在[一篇硕士学位论文](https://spark.bethel.edu/cgi/viewcontent.cgi?article=1753&context=etd)中，阿比盖尔·莫福德（Abigail Morford，2021）引用了多项研究，在这些研究中，教师及其他学校工作人员均报告称，「共同核心课程标准」及其附带的标准化测试加剧了学生和教职工的焦虑情绪。这些研究包括：
 
-[Holloway, J., & Brass, J. (2018)](https://www.tandfonline.com/doi/full/10.1080/02680939.2017.1372636)。《让教师承担问责：绩效主义的恐惧与愉悦》。《教育政策期刊》（*Journal of Education Policy*），**33**(3)，361-382。这些研究人员通过访谈分析了教师们对标准化测试的看法。他们发现，教师们感到自己的专业性受到了侵犯并且焦虑不安，因为他们觉得衡量自身作为教师的价值完全取决于学生在这些测试中的表现。
+[Holloway, J., & Brass, J. (2018)](https://www.tandfonline.com/doi/full/10.1080/02680939.2017.1372636). Making accountable teachers: The terrors and pleasures of performativity. *Journal of Education Policy, 33*(3), 361-382. 这些研究人员通过访谈分析了教师们对标准化测试的看法。他们发现，教师们感到自己的专业性受到了侵犯并且焦虑不安，因为他们觉得衡量自身作为教师的价值完全取决于学生在这些测试中的表现。
 
-[Bausell, S. B., & Glazier, J. A. (2018)](https://meridian.allenpress.com/her/article-abstract/88/3/308/32284/New-Teacher-Socialization-and-the-Testing?redirectedFrom=fulltext)。《新教师的社会化与测试机制》。《哈佛教育评论》（*Harvard Educational Review*），**88**(3)，308-333。这些研究人员分析了从 2009 年到 2015 年六年间季度教师讨论小组的会议记录。……他们发现，随着标准化测试日益成为公立学校系统的重要组成部分，教育工作者们的讨论焦点从关注学生需求转向了那些用以通过「标准 6」（Standard 6）来衡量教师效能的问责措施。由于对教师效能的评判完全集中于其学生在标准化测试中的表现，工作环境因此变得日益紧张。
+[Bausell, S. B., & Glazier, J. A. (2018)](https://meridian.allenpress.com/her/article-abstract/88/3/308/32284/New-Teacher-Socialization-and-the-Testing?redirectedFrom=fulltext). New teacher socialization and the testing apparatus. *Harvard Educational Review, 88*(3), 308-333. 这些研究人员分析了从 2009 年到 2015 年六年间季度教师讨论小组的会议记录。……他们发现，随着标准化测试日益成为公立学校系统的重要组成部分，教育工作者们的讨论焦点从关注学生需求转向了那些用以通过「标准 6」（Standard 6）来衡量教师效能的问责措施。由于对教师效能的评判完全集中于其学生在标准化测试中的表现，工作环境因此变得日益紧张。
 
-[Stauffer, S. D., & Mason, E. C. M. (2013)](https://journals.sagepub.com/doi/10.1177/0013161X13482578)。《应对小学教师的职业压力源：给学校和管理者的实用建议》。《教育管理季刊》（*Educational Administration Quarterly*），**49**(5)，809-837。这些研究人员就压力问题访谈了 64 名教师。他们指出，超过 50% 的教师因压力在入职后的最初五年内便离开了教育行业。他们发现，「百分之九十一的受访者将压力归咎于政治和教育体制结构」，其中包括强制性的高风险测试。正如其中一位教师所言：「感觉好像教学生如何考好试才是一切的重中之重。」这些研究人员解释了教师们在标准化测试后果所带来的压力之下，如何可能经历巨大的心理压力，进而导致职业倦怠、抑郁症状，甚至最终可能离开教师岗位。
+[Stauffer, S. D., & Mason, E. C. M. (2013](https://journals.sagepub.com/doi/10.1177/0013161X13482578)). Addressing elementary school teachers’ professional stressors: Practical suggestions for schools and administrators. *Educational Administration Quarterly, 49*(5), 809-837. 这些研究人员就压力问题访谈了 64 名教师。他们指出，超过 50% 的教师因压力在入职后的最初五年内便离开了教育行业。他们发现，「百分之九十一的受访者将压力归咎于政治和教育体制结构」，其中包括强制性的高风险测试。正如其中一位教师所言：「感觉好像教学生如何考好试才是一切的重中之重。」这些研究人员解释了教师们在标准化测试后果所带来的压力之下，如何可能经历巨大的心理压力，进而导致职业倦怠、抑郁症状，甚至最终可能离开教师岗位。
 
-[Mitani, H. (2018)](https://journals.sagepub.com/doi/10.1177/0013161X18785874)。《NCLB问责压力下校长的工作条件、工作压力和离职行为》。《教育管理季刊》（*Educational Administration Quarterly*），**54**(5)，822-862。校长和教师一样，都感受到了《不让一个孩子掉队法案》（NCLB）问责制带来的压力。学校管理高层的焦虑情绪增加，会影响到整个学校的氛围。
+[Mitani, H. (2018)](https://journals.sagepub.com/doi/10.1177/0013161X18785874). Principals’ working conditions, job stress, and turnover behaviors under NCLB accountability pressure. *Educational Administration Quarterly, 54*(5), 822-862. 校长和教师一样，都感受到了《不让一个孩子掉队法案》（NCLB）问责制带来的压力。学校管理高层的焦虑情绪增加，会影响到整个学校的氛围。
 
 ### **进一步的思考**
 
 当谈及儿童的痛苦时，公立学校教育就如同「房间里的大象」——一个显而易见却几乎无人愿意正视的问题。然而，对于任何愿意审视的人而言，证据是确凿无疑的：学校是我们孩子焦虑、抑郁和自杀行为的一个重要诱因。随着越来越多的人意识到这一点，也有越来越多的人选择让孩子离开传统学校，转而接受在家上学或其他形式的替代性学校教育。
 
-大多数教师似乎都认识到「共同核心课程标准」的危害，但又声称对此无能为力。他们觉得，若要避免遵循这些指令，自己唯一的选择便是辞职。但其实还存在另一种选择：他们可以罢工。他们可以集体表明立场——为了孩子们的心理健康，他们将拒绝授课，直到联邦政府强制推行的州级法规被废除为止。在《不让一个孩子掉队法案》和「共同核心课程标准」出台之前，学校并非理想之地，但自那以后，情况已然恶化了许多。这些强制性规定使得教师们更难拥有调整课程以满足其班级学生真实需求的自由，并促使学校管理者取消了那些过去学校里仅存的少数有趣事物。
+大多数教师似乎都认识到「共同核心课程标准」的危害，但又声称对此无能为力。他们觉得，若要避免遵循这些命令，自己唯一的选择便是辞职。但其实还存在另一种选择：他们可以罢工。他们可以集体表明立场——为了孩子们的心理健康，他们将拒绝授课，直到联邦政府强制推行的州级法规被废除为止。在《不让一个孩子掉队法案》和「共同核心课程标准」出台之前，学校并非理想之地，但自那以后，情况已然恶化了许多。这些强制性规定使得教师们更难拥有调整课程以满足其班级学生真实需求的自由，并促使学校管理者取消了那些过去学校里仅存的少数有趣事物。
 
 这个 Substack 专栏在一定程度上也是一个供大家进行深思熟虑讨论的平台。我非常珍视读者的贡献，即便他们与我意见相左，有时甚至尤其如此。您在阅读先前信件的评论时会注意到，每个人都非常礼貌。您的提问和想法，将为我和其他读者提升这封信的价值。如果您曾亲身见证过《不让一个孩子掉队法案》（NCLB）或「共同核心课程标准」所带来的无论好坏的影响，或者有相关的问题，我和其他读者都非常乐意倾听。
 

@@ -948,6 +948,7 @@
   * [与 Anki 合作](soren/Partnering%20with%20Anki.md)
   * [设计明晰 Anki 卡片的规则](soren/Rules%20for%20Designing%20Precise%20Anki%20Cards.md)
   * [为什么你仍然需要记忆知识](soren/Why%20You%20Still%20Need%20To%20Know%20Things.md)
+* [tao](tao/intro.md)
 * [woz](woz/intro.md)
   * [faq](woz/faq/intro.md)
     * [常见问题：教育改革基本法](woz/faq/FAQ%20ABC%20Reform.md)
