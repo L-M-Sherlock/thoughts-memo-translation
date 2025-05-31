@@ -4,7 +4,7 @@
 
 2015 年 5 月 17 日
 
-我[最近](https://mindingourway.com/the-value-of-a-life/)的[一些](https://mindingourway.com/on-caring/)[文章](https://mindingourway.com/the-stamp-collector/)可能给你们造成一种印象，似乎我确切地知道自己[为何而奋斗](https://mindingourway.com/caring-about-some/)。如果有人问你：「嘿，那个叫 Nate 的家伙那么努力是想做什么？」你可能会回答诸如「增加人类生存的几率」、「终结不必要的死亡」或「减少痛苦」之类的话。
+我[最近](https://mindingourway.com/the-value-of-a-life/)的[几篇](https://mindingourway.com/on-caring/)[文章](https://mindingourway.com/the-stamp-collector/)可能给你们造成一种印象：我似乎很清楚自己在[为何而奋斗](https://mindingourway.com/caring-about-some/)。如果有人问你：「嘿，那个叫 Nate 的家伙那么拼命是要干什么？」你可能会回答诸如「增加人类生存的几率」、「终结可避免的死亡」或「减少痛苦」之类的话。
 
 但并非如此。我的意思是，我确实在做这些事，但这些都属于负面动机：我**反对**阿尔茨海默病，我**反对**人类灭绝，但我**追求**的又是什么呢？
 
