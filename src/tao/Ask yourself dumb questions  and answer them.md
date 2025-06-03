@@ -1,21 +1,21 @@
-不妨问自己一些傻问题——并尝试解答它们！
+# 不妨问自己一些傻问题——并尝试解答它们！
 
 原文：[Ask yourself dumb questions – and answer them! | What's new](https://terrytao.wordpress.com/career-advice/ask-yourself-dumb-questions-and-answer-them/)
 
-> *不要满足于仅仅阅读；要主动去钻研它！提出你自己的问题，寻找你自己的实例，发现你自己的证明。这个假设是必需的吗？它的逆命题成立吗？在经典的特殊情况下会怎样？那些退化情形呢？证明过程的哪一步运用了这个假设？（[Paul Halmos](http://en.wikipedia.org/wiki/Paul_Halmos)，“我想成为一名数学家”）
+> 不要满足于仅仅阅读；要主动去钻研它！提出你自己的问题，寻找你自己的实例，发现你自己的证明。这个假设是必需的吗？它的逆命题成立吗？在经典的特殊情况下会怎样？那些退化情形呢？证明过程的哪一步运用了这个假设？（[Paul Halmos](http://en.wikipedia.org/wiki/Paul_Halmos)，《我想成为一名数学家》）
 
 当你学习数学时，无论是通过书籍还是讲座，你通常所见的都只是最终的成果——对某个数学课题极为精炼、巧妙且优雅的呈现。
 
-然而，探索*新*数学的过程远比这要凌乱得多，充满了对各种方向的尝试，而这些方向或许曾被认为是幼稚的、徒劳无功的，甚至是索然无味的。
+然而，探索**新**数学的过程远比这要凌乱得多，充满了对各种方向的尝试，而这些方向或许曾被认为是幼稚的、徒劳无功的，甚至是索然无味的。
 
 尽管人们很容易想要忽略所有这些「失败的」探索路径，但实际上，它们对于深刻地理解某个课题至关重要，并且（通过排除法）最终帮助我们聚焦在正确的前进方向上。
 
 因此，我们应该勇于提出那些「愚蠢」的问题，敢于挑战某一学科中的传统观点；对这些问题的解答，偶尔会引出令人意外的结论，但更多时候，它们会揭示为何这些传统观点能够成立——这本身就极具了解价值。
 
-例如，对于学科中的某个标准引理，你可以探究：如果删除某项假设会怎样？或者，尝试强化其结论？如果一个简单的结论通常用X方法来证明，你可以追问：它能否用Y方法来证明呢？新的证明方法或许不如原来的那般优雅，甚至可能根本行不通，但无论如何，这个过程往往能阐明X方法与Y方法的相对效力，而这在将来需要证明不那么标准的引理时，可能会非常有用。
+例如，对于学科中的某个标准引理，你可以探究：如果删除某项假设会怎样？或者，尝试强化其结论？如果一个简单的结论通常用 X 方法来证明，你可以追问：它能否用 Y 方法来证明呢？新的证明方法或许不如原来的那般优雅，甚至可能根本行不通，但无论如何，这个过程往往能阐明 X 方法与 Y 方法的相对效力，而这在将来需要证明不那么标准的引理时，可能会非常有用。
 
-同样，在听研讨会时，为了厘清演讲中的某些基本问题，提出一些「傻气」但富有建设性的问题也是值得提倡的（比如：在论证过程中，是陈述X推导出陈述Y，还是反过来？讲者引入的某个术语，是否与你已知的某个发音极为相似的术语有所关联？诸如此类）。倘若你不提问，那么在接下来的演讲中你可能会全然不解；而通常情况下，演讲者会很感谢这样的反馈（这至少表明有听众在认真听讲！）并乐于借此机会向你及其他听众把事情解释得更清楚。不过，那些可能会打乱演讲节奏的问题，最好还是留到演讲结束之后再提出。
+同样，在听研讨会时，为了厘清演讲中的某些基本问题，提出一些「傻气」但富有建设性的问题也是值得提倡的（比如：在论证过程中，是陈述 X 推导出陈述 Y，还是反过来？讲者引入的某个术语，是否与你已知的某个发音极为相似的术语有所关联？诸如此类）。倘若你不提问，那么在接下来的演讲中你可能会全然不解；而通常情况下，演讲者会很感谢这样的反馈（这至少表明有听众在认真听讲！）并乐于借此机会向你及其他听众把事情解释得更清楚。不过，那些可能会打乱演讲节奏的问题，最好还是留到演讲结束之后再提出。
 
-另请参阅「[Learn the limitations of your tools](https://terrytao.wordpress.com/career-advice/learn-the-limitations-of-your-tools/)」和「[Be sceptical of your own work](https://terrytao.wordpress.com/career-advice/be-sceptical-of-your-own-work/)」。此外还有
+另请参阅[认识到你所用工具的局限](https://terrytao.wordpress.com/career-advice/learn-the-limitations-of-your-tools/)和[怀疑你自己的工作成果](https://terrytao.wordpress.com/career-advice/be-sceptical-of-your-own-work/)。此外还有
 
-Martin Schwartz，「[The importance of stupidity in scientific research](http://jcs.biologists.org/content/121/11/1771.full?sid=44d5ae18-0f2f-4944-b256-7d35968c9c23)」， Journal of Cell Science 2008 121: 1771.
+- Martin Schwartz, “[The importance of stupidity in scientific research](http://jcs.biologists.org/content/121/11/1771.full?sid=44d5ae18-0f2f-4944-b256-7d35968c9c23)“, Journal of Cell Science 2008 121: 1771.
