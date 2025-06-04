@@ -16,7 +16,7 @@
 
 这个整体性问题属于[强化学习](https://en.wikipedia.org/wiki/Reinforcement_learning)的范畴，其成功方法类似于汤普森采样/后验采样：即便是深思熟虑的策略也无法稳定地胜过随机探索——后者会逐渐向成功的领域倾斜，同时继续进行偶然性的长线尝试。既然人们倾向于系统性地过度利用（已知成功路径），那么这种机制是如何实现的呢？显然是通过个体在个人层面采取次优行为，但通过充当随机探索的角色，在社会层面却达到了最优效果。
 
-因此，研发的一大益处在于，在能够以先前无法预测的方式即时利用的「成熟时机」到来之前，让其暂时搁置，如同休耕的土地；应用型研发或风险投资策略应着重于保持投资的多样性，同时持续灵活地重新评估那些预测显示可能已达到「成熟时机」的过往失败案例。这在整体上平衡了对已知领域的利用和对未知领域的探索，从而尽可能快地推动进步，这表明了技术预测在全球层面上的有效性，尽管它对个体而言可能毫无用处。
+因此，研发的一大益处在于，在能够以先前无法预测的方式即时利用的「成熟时机」到来之前，让其暂时搁置，如同休耕的土地；应用型研发或风险投资策略应着重于保持投资的多样性，同时持续灵活地重新评估那些预测显示可能已达到「成熟时机」的过往失败案例。这在整体上平衡了对已知领域的利用和对未知领域的探索，从而尽可能快地推动进步，这表明了技术预测在全局层面上的有效性，尽管它对个体而言可能毫无用处。
 
 在 20 世纪 80 年代，著名的技术专家 [Stewart Brand](https://en.wikipedia.org/wiki/Stewart_Brand) 拜访了同样享有盛誉的 [MIT 媒体实验室](https://en.wikipedia.org/wiki/MIT_Media_Lab)（它或许是 [MIT 人工智能实验室](https://en.wikipedia.org/wiki/MIT_Computer_Science_and_Artificial_Intelligence_Laboratory) 最纯正的精神继承者）及其灵魂人物 [Nicholas Negroponte](https://en.wikipedia.org/wiki/Nicholas_Negroponte)，并于 1988 年出版了名为**《媒体实验室：在麻省理工学院发明未来》**([*The Media Lab: Inventing the Future at M.I.T.*](https://www.amazon.com/gp/product/0140097015/))（简称 TML）的著作。Brand 在书中总结了他在那里看到的项目以及实验室成员们用以指导其项目的对未来的推演，并加入了自己对未来的预测性思考。
 
@@ -48,7 +48,7 @@
 
 > 弗里德里希·尼采[2]
 
-许多初创公司的背后，都有一长串曾尝试做着大致相同事情却最终失败的先行者，他们往往与若干其他竞争者同时起步（初创公司与[一般的科学/技术领域](https://gwern.net/doc/sociology/technology/2010-kelly-whattechwants-ch7-convergence.pdf)一样，同样容易出现[「多重独立发现」](https://en.wikipedia.org/wiki/Multiple_discovery)的现象[3]）。他们之所以能够成功，是因为恰好在某些 S 型曲线或关键事件发展到恰当节点的那一刻，猛击了一下「皮纳塔」（一种墨西哥传统游戏，此处比喻抓住机遇）。[不妨看看](https://www.wired.com/2014/12/da-bom/)命运多舛的 [eToys.com](https://en.wikipedia.org/wiki/EToys.com) 或 [Pets.com](https://en.wikipedia.org/wiki/Pets.com)：当初投资者相信美国人会在网上大笔消费，例如购买玩具或狗粮，这个判断正确吗？绝对正确。亚马逊（该公司鲜有盈利，且吸纳的投资额远超 Pets.com 当年区区约 3 亿[2002年；折合 2025 年 5.58 亿]美元的规模）便是一家成功的在线零售企业，其库存的[狗粮](https://en.wikipedia.org/wiki/Dog_food)品种多达数千种，更不用提它销售的其他所有宠物相关商品了；而**主要**经营宠物食品的 [Chewy](https://en.wikipedia.org/wiki/Chewy_(company)) 公司，则凭借其数十亿美元的营收（其市值在 2021 年年中膨胀至 300 亿[2021年；折合 2025 年 370 亿]美元），于 2019 年[申请](https://www.sec.gov/Archives/edgar/data/1766502/000119312519124430/d665122ds1.htm)了数十亿美元规模的首次公开募股。但 Pets.com 的股票价值最终还是跌至了[约 0 美元](https://www.forbes.com/2000/11/16/1116simons.html)。Facebook 是有史以来最大的照片档案库，其存储需求确实堪称海量；但它能在 20 世纪 90 年代取得成功吗？[答案是否定的](https://en.wikipedia.org/wiki/Social_networking_service#History)，甚至在更晚些时候也不行，正如 [Orkut](https://en.wikipedia.org/wiki/Orkut) 和 [Friendster](https://en.wikipedia.org/wiki/Friendster) 的失败以及 MySpace 的苟延残喘直至消亡所证明的那样。20 世纪 90 年代最臭名昭著的科技商业失败案例之一是[铱星卫星星座计划](https://en.wikipedia.org/wiki/Iridium_satellite_constellation)，但该计划的失败归咎于摩托罗拉方面做出的各种离奇的、自我毁灭性的决策；当摩托罗拉最终被排除出局后，铱星计划找到了自己的市场，并且在 2017 年见证了其**第二个**卫星星座 Iridium NEXT 的发射，同时还面临着此后发射的其他卫星星座的竞争，包括 SpaceX 自己羽翼未丰的[「星链」](https://en.wikipedia.org/wiki/Starlink)（Starlink）计划（旨在提供全球宽带互联网服务），该计划旨在 2019 年 5 月就发射了不少于 60 颗卫星。再看看计算机领域：想象一下，一位苹果电脑的早期用户宣称：「每个人最终都会使用计算机！」是的，没错，但这还需要再等上几十年，而且，「从长远来看，我们都将作古」。早期个人电脑发展史中，[充斥着有先见之明者最终失败的案例](https://gwern.net/newsletter/2017/06#the-digital-antiquarian)。
+许多初创公司的背后，都有一长串曾尝试做着大致相同事情却最终失败的先行者，他们往往与若干其他竞争者同时起步（初创公司与[一般的科学/技术领域](https://gwern.net/doc/sociology/technology/2010-kelly-whattechwants-ch7-convergence.pdf)一样，同样容易出现[「多重独立发现」](https://en.wikipedia.org/wiki/Multiple_discovery)的现象[3]）。他们之所以能够成功，是因为恰好在某些 S 型曲线或关键事件发展到恰当节点的那一刻，猛击了一下「皮纳塔」（一种墨西哥传统游戏，此处比喻抓住机遇）。[不妨看看](https://www.wired.com/2014/12/da-bom/)命运多舛的 [eToys.com](https://en.wikipedia.org/wiki/EToys.com) 或 [Pets.com](https://en.wikipedia.org/wiki/Pets.com)：当初投资者相信美国人会在网上大笔消费，例如购买玩具或狗粮，这个判断正确吗？绝对正确。亚马逊（该公司鲜有盈利，且吸纳的投资额远超 Pets.com 当年区区约 3 亿 [2002 年；折合 2025 年 5.58 亿] 美元的规模）便是一家成功的在线零售企业，其库存的[狗粮](https://en.wikipedia.org/wiki/Dog_food)品种多达数千种，更不用提它销售的其他所有宠物相关商品了；而**主要**经营宠物食品的 [Chewy](https://en.wikipedia.org/wiki/Chewy_(company)) 公司，则凭借其数十亿美元的营收（其市值在 2021 年年中膨胀至 300 亿 [2021 年；折合 2025 年 370 亿]美元），于 2019 年[申请](https://www.sec.gov/Archives/edgar/data/1766502/000119312519124430/d665122ds1.htm)了数十亿美元规模的首次公开募股。但 Pets.com 的股票价值最终还是跌至了[约 0 美元](https://www.forbes.com/2000/11/16/1116simons.html)。Facebook 是有史以来最大的照片档案库，其存储需求确实堪称海量；但它能在 20 世纪 90 年代取得成功吗？[答案是否定的](https://en.wikipedia.org/wiki/Social_networking_service#History)，甚至在更晚些时候也不行，正如 [Orkut](https://en.wikipedia.org/wiki/Orkut) 和 [Friendster](https://en.wikipedia.org/wiki/Friendster) 的失败以及 MySpace 的苟延残喘直至消亡所证明的那样。20 世纪 90 年代最臭名昭著的科技商业失败案例之一是[铱星卫星星座计划](https://en.wikipedia.org/wiki/Iridium_satellite_constellation)，但该计划的失败归咎于摩托罗拉方面做出的各种离奇的、自我毁灭性的决策；当摩托罗拉最终被排除出局后，铱星计划找到了自己的市场，并且在 2017 年见证了其**第二个**卫星星座 Iridium NEXT 的发射，同时还面临着此后发射的其他卫星星座的竞争，包括 SpaceX 自己羽翼未丰的[「星链」](https://en.wikipedia.org/wiki/Starlink)（Starlink）计划（旨在提供全球宽带互联网服务），该计划旨在 2019 年 5 月就发射了不少于 60 颗卫星。再看看计算机领域：想象一下，一位苹果电脑的早期用户宣称：「每个人最终都会使用计算机！」是的，没错，但这还需要再等上几十年，而且，「从长远来看，我们都将作古」。早期个人电脑发展史中，[充斥着有先见之明者最终失败的案例](https://gwern.net/newsletter/2017/06#the-digital-antiquarian)。
 
 智能手机则是一个更为显著的例证。在 20 世纪 90 年代和 21 世纪初，我常读到关于日本手机何其先进、一部优秀的智能手机将会何其神奇的论述，尽管年复一年，那些手机都形同鸡肋，几乎只用于语音通话。你可以看到智能手机在 TML 中被反复提及，因为远见卓识者们早已意识到一部可放入口袋的移动计算机会带来多么翻天覆地的变化。然而，直到 21 世纪初中期，智能手机的承诺才仿佛一夜之间得以实现，而其成功主要归功于后来者苹果和谷歌，将先前极为成功的诺基亚排挤出局，更不用说像 General Magic 那样的先行者了。（你也可以在辛勤耕耘数十年后一举成名……）2013 年对 [Eric Jackson](https://www.asymco.com/2013/09/17/an-interview-by-eric-jackson-on-blogging-apple-and-whats-next/) 的一次采访回顾了智能手机的普及率：
 
@@ -128,7 +128,7 @@
 
   - [Tether](https://en.wikipedia.org/wiki/Tether_(cryptocurrency))：「既然 [Mastercoin 已经有了](https://x.com/nic__carter/status/1112481205268762629)，那我们再做一个呗。」
 
-- [Seamless](https://en.wikipedia.org/wiki/Seamless_(company))/[Grubhub](https://en.wikipedia.org/wiki/Grubhub)/Uber Eats/[DoorDash](https://en.wikipedia.org/wiki/DoorDash)/[Slice](https://en.wikipedia.org/wiki/Slice_(app)) (!)：「[CyberSlice 当初想在网上卖披萨](https://tedium.co/2019/03/07/internet-food-delivery-history/)，结果烧掉了一个多亿[2000年；折合 2025 年 2 亿]美元，但**这次**肯定不一样。」
+- [Seamless](https://en.wikipedia.org/wiki/Seamless_(company))/[Grubhub](https://en.wikipedia.org/wiki/Grubhub)/Uber Eats/[DoorDash](https://en.wikipedia.org/wiki/DoorDash)/[Slice](https://en.wikipedia.org/wiki/Slice_(app)) (!)：「[CyberSlice 当初想在网上卖披萨](https://tedium.co/2019/03/07/internet-food-delivery-history/)，结果烧掉了一个多亿 [2000 年；折合 2025 年 2 亿]美元，但**这次**肯定不一样。」
 
 - [FedEx](https://www.bloomberg.com/news/articles/2004-09-19/online-extra-fred-smith-on-the-birth-of-fedex)：「经验丰富、资金雄厚的 [Emery Air Freight](https://en.wikipedia.org/wiki/Emery_Worldwide_Airlines) 已经在尝试轴辐式空运模式并且屡屡受挫；我要倾尽我的家产去跟他们竞争，即便资金短缺到我不得不铤而走险，犯下好几桩罪行来让 FedEx 维持下去，比如如字面意义用公司的钱去拉斯维加斯赌博。」
 
@@ -156,7 +156,7 @@
 
 > [Nicolás Gómez Dávila](https://en.wikipedia.org/wiki/Nicolás_Gómez_Dávila)，*《[Nicolás Gómez Davila: An Anthology](https://archive.org/details/NGDOctober12016/page/n509)》*（原文：*《[Escolios a un Texto Implícito: Selección](https://don-colacho.blogspot.com/2011/01/2669.html)》，第 430 页*）
 
-> 没有经历大量的失败，你根本不可能让一项优秀的技术真正运转起来。这是一条普适的法则。以自行车为例，在人们找到真正实用的那款设计之前，曾有成千上万种稀奇古怪的模型被制造出来并加以尝试。你永远无法纯粹从理论上设计出一辆自行车。即便在今天，在我们已经制造自行车长达百年之后，要完全理解自行车为何能够保持平衡依然是非常困难的——甚至很难将其表述为一个数学问题。但正是通过不断的试错，我们才摸索出了制造方法，而那些错误是其中不可或缺的一环。
+> 没有经历大量的失败，你根本不可能让一项优秀的技术真正运转起来。这是一条普适的法则。以自行车为例，在人们找到真正实用的那款设计之前，曾有成千上万种稀奇古怪的模型被制造出来并加以尝试。你永远无法从纯理论上设计出一辆自行车。即便在今天，在我们已经制造自行车长达百年之后，要完全理解自行车为何能够保持平衡依然是非常困难的——甚至很难将其表述为一个数学问题。但正是通过不断的试错，我们才摸索出了制造方法，而那些错误是其中不可或缺的一环。
 
 > [Freeman Dyson](https://en.wikipedia.org/wiki/Freeman_Dyson)，[「弗里曼·戴森的大脑」](https://www.wired.com/1998/02/dyson/) 1998 年（参见[「我们为何为自行车等待了如此之久？」](https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle)）
 
@@ -168,7 +168,7 @@
 
 「谷歌凭借 [PageRank](https://en.wikipedia.org/wiki/PageRank) 以及（此处省略若干事后诸葛亮式的理论）Z、Y 等等，当然注定会取得巨大成功」——这种说法忽略了一个小问题：谷歌当初不过是众多搜索引擎中的一个，技术或许出色[11]，但并**不**盈利，也没有找到一个有利可图的商业模式，直到四年后抄袭了 Overture 的广告竞价模式——这才是它的救命稻草（**《深入 Plex：谷歌的思考、工作及塑造我们生活的方式》**([*In The Plex*](https://www.amazon.com/Plex-Google-Thinks-Works-Shapes/dp/1416596585))）——才偶然撞上了能盈利的商业模式，更不用说达到独角兽级别的模式了；在此期间，当一些微小的技术故障导致关键交易流产时，谷歌不得不签署一些[可能](https://triplebyte.com/blog/marissa-mayer-interview)[致命的](https://news.ycombinator.com/item?id=19619595)协议，否则就有耗尽最后资本的风险。毫无疑问，这正是为什么佩奇和布林早期曾试图将谷歌出售给 AltaVista、Excite 和雅虎均告失败，并且直到 2002 年还在与雅虎就可能的出售事宜进行谈判（尽管最终他们拒绝了）。在一个平行世界里，无论你多么推崇 PageRank，谷歌都很可能轻易地就销声匿迹了，因为它从未碰巧发现那些拯救了它的**广告**创新模式；任何其他说法都不过是后见之明。[FedEx](https://en.wikipedia.org/wiki/FedEx) 在早期曾发不出工资，其创始人更是以在拉斯维加斯用公司仅存的资金赌博来维持飞机运营而闻名，这只是其众多濒死经历和不法行为中的一部分——也是众多初创公司做出[极具争议行为](https://www.alexcrompton.com/blog/why-tech-companies-are-bad)的一个缩影。[12] SpaceX 和特斯拉都曾在 2008 年和 2013 年数日（甚至数小时）之内濒临破产；在前一个案例中，马斯克在连续三次火箭发射失败后，不得不向朋友借钱支付房租；而在后一个案例中，据报道马斯克甚至获得了谷歌承诺直接收购特斯拉以免其破产的保证（[Vance 2015](https://www.amazon.com/Elon-Musk-SpaceX-Fantastic-Future/dp/006230125X)）。特斯拉的种种困境更是人尽皆知（例如，在 2017 年[特斯拉 Model 3](https://en.wikipedia.org/wiki/Tesla_Model_3) 生产危机最深重、公司距离崩溃仅有数周之遥时，马斯克曾请求苹果公司收购特斯拉）。2004 年的马克·扎克伯格，一心只想以几百万美元的价格卖掉 Facebook，以便能专心开发他的 P2P 文件共享程序 [Wirehog](https://en.wikipedia.org/wiki/Wirehog)，他当时的说法是，出售价格只需要足够高，能够[「给 Wirehog 提供动力」](https://www.businessinsider.com/exclusive-the-im-conversation-in-which-19-year-old-zuckerberg-decided-to-build-facebook-this-years-100-billion-ipo-2012-1)就行。Youtube 最初是个[约会网站](https://www.theguardian.com/technology/2016/mar/16/youtube-past-video-dating-website)。[Stewart Butterfield](https://en.wikipedia.org/wiki/Stewart_Butterfield) 最初想做一款大型多人在线角色扮演游戏（MMORPG），但失败了，他能从中挽救的只有照片分享功能，这便成了 [Flickr](https://en.wikipedia.org/wiki/Flickr)；但他**仍然**非常想做 MMORPG，所以在 Flickr 之后，他又成立了一家公司来开发 MMORPG 游戏**《Glitch》**([*Glitch*](https://en.wikipedia.org/wiki/Glitch_(video_game)))，结果……又失败了。于是，在他试图关闭公司却被他的[投资者](https://jotengine.com/transcriptions/Q0I0i33TaqCa9w4In0ZQCg)[劝阻](https://www.bloomberg.com/news/articles/2019-06-21/investing-in-slack-work-made-billions-for-vc-firm-accel)[之后](https://gwern.net/doc/technology/2019-07-mastersofscale-episode13-stewartbutterfield.pdf)，他从失败的项目中挽救出了聊天功能，这便成了 [Slack](https://en.wikipedia.org/wiki/Slack_(software))。并且，与成功存在大量无法消除的偶然性因素这一观点相符的是，对初创企业的调查显示：尽管成功的几率因人而异（即所谓的「技能」差异），但任何创始人的学习曲线（「边做边学」效应）都十分有限，无论经验多寡，成功概率依然很低（[Gompers 2010](https://gwern.net/doc/economics/2010-gompers.pdf)，[Parker 2011](https://effectuation.org/hubfs/Journal Articles/2017/05/Do-serial-entrepreneurs-1.pdf)，[Gottschalk 2014](https://www.econstor.eu/bitstream/10419/90815/1/777058081.pdf)），即使是经验丰富的企业家，在预测初创企业能否最终实现商业化方面，其准确率依然不高，在「非研发密集型行业」中，其预测结果甚至接近于随机猜测（例如 [Scott 等人 2019](https://gwern.net/doc/economics/2019-scott.pdf)，[McKenzie 和 Sansone 2019](https://gwern.net/doc/economics/2019-mckenzie.pdf)）。
 
-Thiel （**[《从0到1》](https://en.wikipedia.org/wiki/Zero_to_One)**；[原文链接](https://blakemasters.tumblr.com/peter-thiels-cs183-startup)）：「商业领域的每一刻都独一无二，仅会发生一次。下一个 Bill Gates 不会再开发操作系统。下一个 Larry Page 或 Sergey Brin 不会再创造搜索引擎。而下一个 Mark Zuckerberg 也不会再创建社交网络。如果你只是模仿这些人，那你并没有从他们身上学到任何东西。」。此言不虚，但我认为这颠倒了顺序（或许是「**从N到N+1**」？）：你不会成为下一个 Bill Gates，因为 Bill Gates 并非开天辟地的第一人，也非独一无二的 Bill Gates；套用 [斯蒂格勒定律](https://en.wikipedia.org/wiki/Stigler's_law_of_eponymy) 的说法，他是**最后**一位 Bill Gates[13]；有许多人在 Gates 之前和之后都凭借操作系统积累了巨额财富——你或许忘记了 [王安](https://en.wikipedia.org/wiki/An_Wang)，但希望你还记得（之前凭借 Mac，之后凭借 NeXT 的）[Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs)。同理，Mark Zuckerberg 也不是第一个且唯一的 Zuckerberg，他是最后一个 Zuckerberg；在他之前，许多人已通过社交网络发家致富——或许 Orkut 并未给它在 Google 的发明者带来财富，但可以肯定的是，MySpace 的 DeWolfe 和 Anderson 都赚得盆满钵满。而且，成功的搜索引擎创始人也大有人在（[杨致远](https://en.wikipedia.org/wiki/Jerry_Yang) 现在还是亿万富翁吗？是的）。
+Thiel （**[《从 0 到 1》](https://en.wikipedia.org/wiki/Zero_to_One)**；[原文链接](https://blakemasters.tumblr.com/peter-thiels-cs183-startup)）：「商业领域的每一刻都独一无二，仅会发生一次。下一个 Bill Gates 不会再开发操作系统。下一个 Larry Page 或 Sergey Brin 不会再创造搜索引擎。而下一个 Mark Zuckerberg 也不会再创建社交网络。如果你只是模仿这些人，那你并没有从他们身上学到任何东西。」。此言不虚，但我认为这颠倒了顺序（或许是「**从N到N+1**」？）：你不会成为下一个 Bill Gates，因为 Bill Gates 并非开天辟地的第一人，也非独一无二的 Bill Gates；套用 [斯蒂格勒定律](https://en.wikipedia.org/wiki/Stigler's_law_of_eponymy) 的说法，他是**最后**一位 Bill Gates[13]；有许多人在 Gates 之前和之后都凭借操作系统积累了巨额财富——你或许忘记了 [王安](https://en.wikipedia.org/wiki/An_Wang)，但希望你还记得（之前凭借 Mac，之后凭借 NeXT 的）[Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs)。同理，Mark Zuckerberg 也不是第一个且唯一的 Zuckerberg，他是最后一个 Zuckerberg；在他之前，许多人已通过社交网络发家致富——或许 Orkut 并未给它在 Google 的发明者带来财富，但可以肯定的是，MySpace 的 DeWolfe 和 Anderson 都赚得盆满钵满。而且，成功的搜索引擎创始人也大有人在（[杨致远](https://en.wikipedia.org/wiki/Jerry_Yang)现在还是亿万富翁吗？是的）。
 
 然而，盖茨验证了市场的可行性，并将盖茨策略发挥到极致，这一招也就用尽了；再没有人能够通过销售操作系统外加一些商业办公软件来获取历史性的财富，因为有太多的竞争者和太多利益相关方致力于[确保不会再出现下一个盖茨](https://gwern.net/complement)，所以机会已经转向了其他领域。
 
@@ -218,7 +218,7 @@ Scott Fisher：
 
 > 我投入了大量时间进行阅读……我认为，许多人对 VR 的评价过高，只因为他们本身就是 VR 领域的研究者。你总不希望发表一篇论文，结论是：『经过研究，我们认为 VR 目前毫无用处，我们未来 20 年都该待业。』但确实有少数人基本上得出了这样的结论。他们说：『目前的 VR 设备视场角太小、延迟太高、价格太昂贵、体积太笨重，无论是消费级计算机还是专业级计算机都无法良好驱动。』结果我发现，我并非第一个意识到这些问题的人。这些问题其实早已为人所知数十年了。
 
-人工智能研究员 [Donald Michie](https://en.wikipedia.org/wiki/Donald_Michie) 在1970年时，依据 1969 年的一项调查声称，大多数人工智能研究人员估计通用人工智能（AGI）的实现需要 10 到 100 年的时间（即 1979 年至 2069 年之间），并且「学界也普遍认为，主要的障碍并非来自硬件限制。」[16] 尽管如今人工智能研究者的调查结果仍然显示，当年的预测时间范围并非完全不合理（[Gruetzemacher 等人，2019](https://gwern.net/timing#gruetzemacher-et-al-2019)），但深度学习的成功明确揭示了硬件**曾是**一个巨大的制约因素，五十年前的计算资源至少相差了 6 个数量级。Michie 接着指出，在更早的 Charles Babbage 的案例中，其工作正是因为硬件条件的限制导致「时机尚未成熟」而注定失败，代表了时间和金钱的彻底浪费[17]。可以说，Michie 本人的研究在某种程度上也是如此。
+人工智能研究员 [Donald Michie](https://en.wikipedia.org/wiki/Donald_Michie) 在 1970 年时，依据 1969 年的一项调查声称，大多数人工智能研究人员估计通用人工智能（AGI）的实现需要 10 到 100 年的时间（即 1979 年至 2069 年之间），并且「学界也普遍认为，主要的障碍并非来自硬件限制。」[16] 尽管如今人工智能研究者的调查结果仍然显示，当年的预测时间范围并非完全不合理（[Gruetzemacher 等人，2019](https://gwern.net/timing#gruetzemacher-et-al-2019)），但深度学习的成功明确揭示了硬件**曾是**一个巨大的制约因素，五十年前的计算资源至少相差了 6 个数量级。Michie 接着指出，在更早的 Charles Babbage 的案例中，其工作正是因为硬件条件的限制导致「时机尚未成熟」而注定失败，代表了时间和金钱的彻底浪费[17]。可以说，Michie 本人的研究在某种程度上也是如此。
 
 ## 智者未必富有
 
@@ -234,7 +234,7 @@ Scott Fisher：
 
 即便确切知晓未来，你仍然难以利用这些知识。例如：事后看来，我们知道人人都需要计算机、操作系统、社交网络——但这些领域的发展史却充斥着无数失败的残骸。假设你在 2000 年就以某种方式预知到「2010 年，最成功的社交网络创始人身价至少将达到 100 亿美元」；这是一个与所有传统观念相悖、可被证伪的信念，并且关乎一项让所有人都始料未及的技术。然而，这种预知**究竟**有多大用处呢？你会如何利用它？你是否有足够的资本创办自己的风险投资基金，向每一个社交媒体项目投入数百万美元，直到 2010 年你最终确定 Facebook 就是那个赢家，然后通过其首次公开募股（IPO）套现？我对此表示怀疑。
 
-投资于「计算机」、「人工智能」、「社交网络」或「虚拟现实」这类宽泛领域是很困难的；并没有针对这些领域的指数基金，而且很难想象如何才能有这样的东西存在。（你如何能迫使所有相关公司都出售可交易股份呢？正如 Yogi Berra 所问：「如果人们不想去看球赛，你又能如何阻止他们呢？」）并不存在一只方便的「计算机行业综合股」（CMPTR），让你能买入 100 股并无限期持有，以从你对计算机的乐观情绪中获得收益。IBM 和 Apple 都曾一度濒临破产，而微软的股价自 1999 年左右以来也一直停滞不前（这对长期持有者而言意味着巨大的实际损失和机会成本）。即便你确切知道 Facebook 将会如此成功，在它 IPO 之前，你究竟能投资哪些股票来从其增长中获得红利呢？记住，你对 2000 年代的科技行业格局一无所知，比如你不知道 Google 会在 IPO 后股价大涨，也不知道 Apple 会在 Jobs 的带领下复兴——你所知道的仅仅是某个社交网络将会出现并迅猛发展。谁又能想到智能手机的未来会被[「一家1980年代过气的个人电脑制造商和一家名不见经传的搜索引擎公司」](https://x.com/benedictevans/status/1106813246609084416)所主宰呢？（我能想到的最佳策略或许是，当你听说默多克新闻集团收购 MySpace 时，就抛售你持有的所有该集团股票，但我不能确定默多克的股价是否仅仅是停滞不前，而不是随着 MySpace 日益明显地成为一笔失败投资而下跌。）在假设你不知道具体是哪家公司会胜出的情况下，你可能会大量买入 Google 股票，期望 Orkut 能成为赢家，然而，尽管这本身可能是一笔不错的投资（太棒了！），但这笔收益却与 Orkut 毫无关系（哎呀）……
+投资于「计算机」、「人工智能」、「社交网络」或「虚拟现实」这类宽泛领域是很困难的；并没有针对这些领域的指数基金，而且很难想象如何才能有这样的东西存在。（你如何能迫使所有相关公司都出售可交易股份呢？正如 Yogi Berra 所问：「如果人们不想去看球赛，你又能如何阻止他们呢？」）并不存在一只方便的「计算机行业综合股」（CMPTR），让你能买入 100 股并无限期持有，以从你对计算机的乐观情绪中获得收益。IBM 和 Apple 都曾一度濒临破产，而微软的股价自 1999 年左右以来也一直停滞不前（这对长期持有者而言意味着巨大的实际损失和机会成本）。即便你确切知道 Facebook 将会如此成功，在它 IPO 之前，你究竟能投资哪些股票来从其增长中获得红利呢？记住，你对 2000 年代的科技行业格局一无所知，比如你不知道 Google 会在 IPO 后股价大涨，也不知道 Apple 会在 Jobs 的带领下复兴——你所知道的仅仅是某个社交网络将会出现并迅猛发展。谁又能想到智能手机的未来会被[「一家 1980 年代过气的个人电脑制造商和一家名不见经传的搜索引擎公司」](https://x.com/benedictevans/status/1106813246609084416)所主宰呢？（我能想到的最佳策略或许是，当你听说默多克新闻集团收购 MySpace 时，就抛售你持有的所有该集团股票，但我不能确定默多克的股价是否仅仅是停滞不前，而不是随着 MySpace 日益明显地成为一笔失败投资而下跌。）在假设你不知道具体是哪家公司会胜出的情况下，你可能会大量买入 Google 股票，期望 Orkut 能成为赢家，然而，尽管这本身可能是一笔不错的投资（太棒了！），但这笔收益却与 Orkut 毫无关系（哎呀）……
 
 即便有股票可供购买，你的收益也取决于具体情况——例如，是某只现有股票成为赢家，而不是所有持有股票都被一家新兴创业公司所吞噬。让我们设想另一种情景：你坚信家用机器人行业即将迎来爆发式增长。这真的算是什么内幕消息吗？全球经济年增长率约为 2%，劳动力成本普遍上涨，计算机和机器人技术的价格通常在下降……难道行业预测其年销售额增长会低于 25% 吗？
 
@@ -248,7 +248,7 @@ Scott Fisher：
 
 由于赢家通吃的市场动态，根本无法解决这样一个协调难题：即等到所有先决条件都成熟之后再采取行动。企业家和创始人会持续不断地涌向社交网络或虚拟现实（VR）这样的共同目标，仅仅是为了抓住那万一的机会——**或许**先决条件刚刚成熟，他们就能抢占整个市场。这或许是一种可预见的资源浪费，但激励机制就是如此运作的。从这个角度看可能有些奇怪，但我们可以想到其他一些技术领域也可能存在类似情况。
 
-比特币便是一个当前的热门例子：它仍处于早期阶段，看起来要么是一项天才般的投资，要么就是傻瓜的乐园/庞氏骗局。在我 2012 年撰写本文初稿时，我曾指出，随着比特币价格从约 0 美元飙升至 130 美元[2012 年数据；折合 2025 年为 197 美元]，我们似乎看到了比特币泡沫——然而，如果比特币**果真是**货真价实的东西，我们**本就预期**其价格会随着人们的了解而大幅上涨，其价值也会因使用增加而直接提升，其生态系统会逐步解锁那些精妙的加密功能等等。而到了 2019 年，2012 年已恍如隔世，嗯，人们大概会说出类似的话，只不过数字更大了……
+比特币便是一个当前的热门例子：它仍处于早期阶段，看起来要么是一项天才般的投资，要么就是傻瓜的乐园/庞氏骗局。在我 2012 年撰写本文初稿时，我曾指出，随着比特币价格从约 0 美元飙升至 130 美元 [2012 年数据；折合 2025 年为 197 美元]，我们似乎看到了比特币泡沫——然而，如果比特币**果真是**货真价实的东西，我们**本就预期**其价格会随着人们的了解而大幅上涨，其价值也会因使用增加而直接提升，其生态系统会逐步解锁那些精妙的加密功能等等。而到了 2019 年，2012 年已恍如隔世，嗯，人们大概会说出类似的话，只不过数字更大了……
 
 再以那些小众的、富有远见的技术为例：假如[人体冷冻技术](https://en.wikipedia.org/wiki/Cryonics)在原理上是正确的，但结果却证明，对于 2030 年前所有尝试者而言都毫无价值（原因可能是使用了错误的灌注技术或冷冻保护剂，导致某些关键的生物组织未能成功[玻璃化](https://en.wikipedia.org/wiki/Vitrification)），而比如说在 2030 年后才变得切实可行，那么它不过又是一项这样的技术——远见卓识者们最终被证明是对的，尽管曾饱受大众的否定和质疑，但从实践意义上说他们还是错了，因为他们行动过早，结果只是浪费了金钱。
 
@@ -276,7 +276,7 @@ Scott Fisher：
 
 因此，巴贝奇当初的目标不应该是制造一台能够大量产出航海表的实用型思维机器，而应该是证明**这样一种**可编程思维机器的可能性与实用性，并指出其当前受限于机械逻辑的速度和体积——如此一来，政府便可能以更高的优先级推动晶体管的研究，从而使可编程计算机能在晶体管问世后尽快被创造出来，而不是像历史上那样，巴贝奇的工作被遗忘，导致后续发展走了许多弯路，经历了反复的、带有延迟的重新发明（例如 [Konrad Zuse](https://en.wikipedia.org/wiki/Konrad_Zuse) 与 [von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) 的工作）。类似地，认真对待摩尔定律的好处在于，即便人们不确切知道它何时会（或者说是否会）持续下去，也能提前规划以利用其带来的优势[22]。
 
-这种态度类似于[DARPA（美国国防高级研究计划局）在扶持人工智能与计算技术发展时所采用的范式](https://gwern.net/review/arpa)，即一个「连接当下与未来的理性过程」，旨在「统筹推进一整套技术的发展」，其责任被分配给多位项目经理，每位经理在数年内都享有相当大的自主权。这些项目经理倾向于选择那些更具争议性、而非意见一致的项目（[Goldstein & Kearney 2017](https://gwern.net/doc/statistics/peer-review/2017-goldstein.pdf)），即那些会在评审或评论界引发分歧的项目。每一位经理都会规划、投资并致力于尽可能地将成果推向商业化，然后在计划不可避免地失败时，根据需要灵活调整方向。（[DARPA](https://en.wikipedia.org/wiki/DARPA) 确实也常将自身视为一家风险投资公司。）
+这种态度类似于 [DARPA（美国国防高级研究计划局）在扶持人工智能与计算技术发展时所采用的范式](https://gwern.net/review/arpa)，即一个「连接当下与未来的理性过程」，旨在「统筹推进一整套技术的发展」，其责任被分配给多位项目经理，每位经理在数年内都享有相当大的自主权。这些项目经理倾向于选择那些更具争议性、而非意见一致的项目（[Goldstein & Kearney 2017](https://gwern.net/doc/statistics/peer-review/2017-goldstein.pdf)），即那些会在评审或评论界引发分歧的项目。每一位经理都会规划、投资并致力于尽可能地将成果推向商业化，然后在计划不可避免地失败时，根据需要灵活调整方向。（[DARPA](https://en.wikipedia.org/wiki/DARPA) 确实也常将自身视为一家风险投资公司。）
 
 对于像 DARPA 这样的机构而言，摩尔定律这类预测的益处在于，它提供了一个固定的趋势，用以在十年左右的时间尺度内评估整体时机，并找出那些已经滞后并成为[反向突出部（即瓶颈环节）](https://gwern.net/timing#reverse-salients)的技术点[23]。而对于企业家来说，指数思维的优势则更带有一种宿命论色彩：即能够在技术刚刚可行之后、其他人随机尝试之前的那段短暂窗口期内启动项目；如果判断失误，项目本身就根本不可行，那么何时启动都无关紧要；如果是因为时机不对而判断失误，那么其选择实际上也是随机的，延迟造成的损失微乎其微。
 
@@ -302,7 +302,7 @@ Scott Fisher：
 
 >
 
-> ​                但错误要越来越少，
+> ​                但越来越少，
 
 >
 
@@ -332,7 +332,7 @@ Scott Fisher：
 
 在 DARPA 的研究资助和风险投资实践中，他们通常寻找的并非那种让每个人都觉得尚可、或挑不出什么毛病的方案，而是更接近于那种至少有**一个**人基于某种原因认为其潜力**无限**的方案。强化学习领域的另一个类比是后验采样强化学习（PSRL），它通过选定一个策略并坚持到底（无论成败）来处理更复杂的问题。一个简单的汤普森采样在处理长期问题时会表现不佳，因为它在每一步都可能「改变主意」，无法持续遵循任何一个计划足够长的时间以观察其效果；此时，进行「深度探索」变得至关重要，即便是对于一个你认为几乎肯定错误的计划，也必须坚持足够长的时间以观察其运作方式，必须做到[「即便不同意，也要承诺执行」](https://www.aboutamazon.com/news/company-news/2016-letter-to-shareholders)。多个计划的平均效果往往不如任何单个计划。最具信息价值的计划，往往是那些最具**争议性**的计划。[27]
 
-整个系统可以用强化学习的视角来审视。我在许多系统中观察到一个共同主题：它们遵循一种[多层次优化结构，其中缓慢的黑箱方法能够催生出更高效的贝叶斯推断方法。](https://gwern.net/backstop) 像[dropout](https://www.cs.ox.ac.uk/people/yarin.gal/website/blog_3d801aa532c1ce.html)这样的集成学习方法或多智能体优化也可以遵循这种模式。
+整个系统可以用强化学习的视角来审视。我在许多系统中观察到一个共同主题：它们遵循一种[多层次优化结构，其中缓慢的黑箱方法能够催生出更高效的贝叶斯推断方法。](https://gwern.net/backstop) 像 [dropout](https://www.cs.ox.ac.uk/people/yarin.gal/website/blog_3d801aa532c1ce.html) 这样的集成学习方法或多智能体优化也可以遵循这种模式。
 
 一个特别贴切的例子是 [Krafft 等人在 2016 年](https://arxiv.org/abs/1608.01987)和[2017年](https://people.csail.mit.edu/pkrafft/papers/krafft-thesis-final.pdf)的研究（相关[讨论](https://www.edge.org/conversation/alex_sandy_pentland-the-human-strategy)），该研究分析了 [eToro](https://en.wikipedia.org/wiki/EToro) 平台上在线交易者进行的大量交易数据，这些交易者能够复制更成功交易者的金融交易策略；当一些交易者发现成功的策略后，其他人会逐渐模仿他们，因此整个系统会趋向于采纳更优的策略，研究者将此过程识别为一种类似[粒子滤波器](https://en.wikipedia.org/wiki/Particle_filter)的「分布式汤普森采样」实现，并称之为「社会采样」。因此，在大多数情况下，交易者会复制流行的策略，但他们也会以一定的概率随机探索那些较为罕见、且表面上看起来不成功的策略。
 

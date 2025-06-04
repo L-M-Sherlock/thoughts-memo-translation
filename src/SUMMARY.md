@@ -953,6 +953,7 @@
 * [tao](tao/intro.md)
   * [不妨问自己一些傻问题——并尝试解答它们！](tao/Ask%20yourself%20dumb%20questions%20%20and%20answer%20them.md)
   * [认识到你所用工具的局限](tao/Learn%20the%20limitations%20of%20your%20tools.md)
+  * [论时间管理](tao/On%20time%20management.md)
   * [Theres more to mathematics than grades and exams and methods.md](tao/Theres%20more%20to%20mathematics%20than%20grades%20and%20exams%20and%20methods.md)
 * [woz](woz/intro.md)
   * [faq](woz/faq/intro.md)
