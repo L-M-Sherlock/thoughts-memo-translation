@@ -1,4 +1,4 @@
-# 认识到工具的局限
+# 认识到你所用工具的局限
 
 [Learn the limitations of your tools | What's new](https://terrytao.wordpress.com/career-advice/learn-the-limitations-of-your-tools/)
 
