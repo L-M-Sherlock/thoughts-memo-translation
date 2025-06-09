@@ -1,4 +1,4 @@
-# Math Academy 的 Eurisko 项目五年回顾：美国最顶尖高中数学/计算机科学课程体系培养的学生成就
+# Math Academy 的 Eurisko 项目五年回顾：美国最先进的高中数学/计算机科学课程体系培养的学生成就
 
 原文：[Math Academy’s Eurisko Sequence, 5 Years Later: Student Outcomes Emerging From the Most Advanced High School Math/CS Sequence in the USA - Justin Skycak](https://www.justinmath.com/math-academys-eurisko-sequence-5-years-later/)
 

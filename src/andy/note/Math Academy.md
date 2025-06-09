@@ -8,7 +8,7 @@
 
   - 将渐进式脚手架支持的（[认知脚手架](https://notes.andymatuschak.org/zWSH2QNUsrTGP4V15JBaaEv)）主动学习任务穿插融入阅读体验——也就是说，你不再是连续阅读 10-20 分钟后再做练习，而是阅读 **1 分钟**，完成一项任务，再阅读 1 分钟，如此反复。
 
-  - 在用户进行练习之前，平台总会展示有解例题（[有解例题效应](https://notes.andymatuschak.org/zD8D8PPRBDEFk3JeM2vaWrn)）。
+  - 在用户进行练习之前，平台总会展示解题示例（[解题示例效应](https://notes.andymatuschak.org/zD8D8PPRBDEFk3JeM2vaWrn)）。
 
   - 诊断功能提供了赋能的清晰度：参加一项测试，然后你会看到「好的，这些是你的知识漏洞——我们将帮助你弥补。」即便数据的可视化呈现非常糟糕，这种反馈本身也非常强大。
 
@@ -100,7 +100,7 @@
 
   - 他们提到了[刻意练习](https://notes.andymatuschak.org/zTkRoDEXnMQqwb6uDxyA8Us)。但我认为这并不完全符合「刻意练习」的定义：该定义强调针对你最感困难的部分进行集中练习（而不仅仅是学习最新的内容）。如果我对某个主题掌握不佳，系统并不会分析我具体在哪个环节遇到了困难并介入指导。我猜，它所谓的「刻意练习」大概和可汗学院的程度差不多吧。
 
-  - 他们声称运用了[有解例题效应](https://notes.andymatuschak.org/zD8D8PPRBDEFk3JeM2vaWrn)的原理。但是在要求学生做练习之前，通常只有一个解题范例——而该效应的倡导者们通常指的是那些包含许多解题范例的研究。
+  - 他们声称运用了[解题示例效应](https://notes.andymatuschak.org/zD8D8PPRBDEFk3JeM2vaWrn)的原理。但是在要求学生做练习之前，通常只有一个解题范例——而该效应的倡导者们通常指的是那些包含许多解题范例的研究。
 
 - 2024-07-04
 
