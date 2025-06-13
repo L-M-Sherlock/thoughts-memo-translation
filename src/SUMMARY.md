@@ -626,7 +626,7 @@
   * [技能提升指南](justinmath/Advice%20on%20Upskilling.md)
   * [高数教材与课堂教学通常与认知科学脱节](justinmath/Higher%20Math%20Textbooks%20and%20Classes%20are%20Typically%20Not%20Aligned%20with%20the%20Cognitive%20Science%20of%20Learning.md)
   * [当缺乏完善的自适应学习系统时，我该如何学习任意一门学科？](justinmath/How%20I%20Would%20Go%20About%20Learning%20an%20Arbitrary%20Subject%20Where%20No%20FullFledged%20Adaptive%20Learning%20System%20is%20Available.md)
-  * [Math Academy 是如何创建其知识图谱的？](justinmath/How%20Math%20Academy%20Creates%20its%20Knowledge%20Graph.md)
+  * [Math Academy 是如何构建其知识图谱的？](justinmath/How%20Math%20Academy%20Creates%20its%20Knowledge%20Graph.md)
   * [Math Academy 的 Eurisko 项目五年回顾：美国最先进的高中数学/计算机科学课程体系培养的学生成就](justinmath/Math%20Academys%20Eurisko%20Sequence%205%20Years%20Later%20Student%20Outcomes%20Emerging%20From%20the%20Most%20Advanced%20High%20School%20MathCS%20Seq.md)
   * [分层知识结构中的个人优化间隔重复](justinmath/Optimized%20Individualized%20Spaced%20Repetition%20in%20Hierarchical%20Knowledge%20Structures.md)
   * [美国教育领域亟待一场哥白尼革命](justinmath/The%20Field%20of%20Education%20is%20Due%20For%20a%20Copernican%20Revolution.md)
