@@ -763,6 +763,7 @@
   * [完善 Janki 方法](other/JANKI%20METHOD%20REFINED.md)
   * [用间隔重复软件记住一门编程语言](other/Memorizing%20a%20programming%20language%20using%20spaced%20repetition%20software.md)
   * [没有老师，没有班级，没有作业：你会送孩子到这里来吗？](other/No%20Teachers%20No%20Class%20No%20Homework%20Would%20You%20Send%20Your%20Kids%20Here.md)
+  * [关于管理注意力缺陷多动障碍 (ADHD) 的笔记](other/Notes%20on%20Managing%20ADHD.md)
   * [鲜有人问的问题：我们的孩子在学习吗？](other/Rarely%20is%20the%20Question%20Asked%20Is%20Our%20Children%20Learning.md)
   * [学校的目标即是服从](other/School%20Is%20To%20Submit.md)
   * [听说你想让自己摆脱人生的泥潭](other/So%20you%20wanna%20debog%20yourself.md)
