@@ -737,7 +737,7 @@
   * [能去何方](nate/Where%20coulds%20go.md)
   * [拼命工作并非美德](nate/Working%20yourself%20ragged%20is%20not%20a%20virtue.md)
   * [你无法确知自己在为了什么奋斗](nate/You%20dont%20get%20to%20know%20what%20youre%20fighting%20for.md)
-  * [你的「应该」并非责任](nate/Your%20shoulds%20are%20not%20a%20duty.md)
+  * [你的「应该」不是一项义务](nate/Your%20shoulds%20are%20not%20a%20duty.md)
   * [你可以为某些事而奋斗](nate/Youre%20allowed%20to%20fight%20for%20something.md)
 * [nintil](nintil/intro.md)
   * [大量输入与间隔重复](nintil/Massive%20input%20andor%20spaced%20repetition.md)
