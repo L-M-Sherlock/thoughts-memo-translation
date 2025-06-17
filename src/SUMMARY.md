@@ -717,7 +717,7 @@
   * [没有借口](nate/Have%20no%20excuses.md)
   * [我们将如何被衡量](nate/How%20we%20will%20be%20measured.md)
   * [朝着目标前进](nate/Moving%20towards%20the%20goal.md)
-  * [不是因为你「应该」](nate/Not%20because%20you%20should.md)
+  * [别因为你「应该」](nate/Not%20because%20you%20should.md)
   * [尚非神明](nate/Not%20yet%20gods.md)
   * [自我忠诚的生产力](nate/Productivity%20through%20selfloyalty.md)
   * [鲁莽](nate/Recklessness.md)
