@@ -476,6 +476,8 @@
 * [cedric](cedric/intro.md)
   * [加速专业技能养成](cedric/Accelerated%20Expertise.md)
   * [行动产生信息](cedric/Action%20Produces%20Information.md)
+  * [不要为了吸取教训而阅读历史](cedric/Dont%20Read%20History%20for%20Lessons.md)
+  * [从经验中学习，究竟难在哪里？](cedric/The%20Hard%20Thing%20About%20Learning%20From%20Experience.md)
   * [刻意练习的问题](cedric/The%20Problems%20with%20Deliberate%20Practice.md)
   * [你无法教授他们尚未准备好理解的知识](cedric/You%20Cant%20Teach%20What%20They%20Arent%20Ready%20to%20Know.md)
 * [david](david/intro.md)
