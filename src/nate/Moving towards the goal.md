@@ -1,6 +1,6 @@
 # 朝着目标前进
 
-[朝着目标前进](https://mindingourway.com/moving-towards-the-goal/)
+[Moving towards the goal](https://mindingourway.com/moving-towards-the-goal/)
 
 2014 年 12 月 7 日
 

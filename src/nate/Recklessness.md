@@ -1,6 +1,6 @@
 # 鲁莽
 
-[鲁莽](https://mindingourway.com/recklessness/)
+[Recklessness](https://mindingourway.com/recklessness/)
 
 2016 年 2 月 2 日
 
