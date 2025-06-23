@@ -6,7 +6,7 @@
 
 >
 
-> ——[《理性十二美德》](https://www.readthesequences.com/The-Twelve-Virtues-Of-Rationality)
+> ——[《理性的十二美德》](https://www.readthesequences.com/The-Twelve-Virtues-Of-Rationality)
 
 在各自的专业领域内，人们深谙聚焦特定范围的重要性；一位汽车修理工能分辨化油器与散热器的区别，绝不会将它们混淆为一堆「汽车零件」。一位狩猎采集者能区分狮子与豹子。一位清洁工也不会用玻璃清洁剂去擦地板，即便对于尚未掌握这门技艺的人来说，那些瓶子看起来或许大同小异。
 
