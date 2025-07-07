@@ -189,7 +189,7 @@
     * [软件开发和研究思维之间的转换成本很高](andy/note/Switching%20costs%20are%20high%20between%20software%20development%20and%20research%20thinking.md)
     * [标签是无效的关联结构](andy/note/Tags%20are%20an%20ineffective%20association%20structure.md)
     * [教材的习题集并不善于检测阅读理解问题](andy/note/Textbook%20problem%20sets%20arent%20great%20reading%20comprehension%20checks.md)
-    * [《反思性实践者》- Donald Schön](andy/note/The%20Reflective%20Practitioner%20%20Donald%20Schon.md)
+    * [《反思的实践者》- Donald Schön](andy/note/The%20Reflective%20Practitioner%20%20Donald%20Schon.md)
     * [最好的阅读方式是高度语境化的](andy/note/The%20best%20way%20to%20read%20is%20highly%20contextual.md)
     * [认知革命](andy/note/The%20cognitive%20revolution.md)
     * [我的生产力的关键是，我需要在早上完成高度专注的创造活动](andy/note/The%20highorder%20bit%20for%20my%20productivity%20is%20whether%20I%20complete%20a%20deeplyfocused%20morning%20creative%20block.md)
