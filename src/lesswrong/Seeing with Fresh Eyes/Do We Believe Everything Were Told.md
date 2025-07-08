@@ -1,4 +1,4 @@
-# 我们对自己听到的一切都深信不疑吗？
+# 我们会相信自己看到的一切吗？
 
 原文：[Do We Believe Everything We’re Told?](https://www.readthesequences.com/Do-We-Believe-Everything-Were-Told)
 

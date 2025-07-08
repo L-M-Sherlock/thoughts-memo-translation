@@ -1,4 +1,4 @@
-世上没有「坏人」
+# 世上没有「坏人」
 
 原文：[There are no "bad people"](https://mindingourway.com/there-are-no/)
 
