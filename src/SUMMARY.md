@@ -751,6 +751,7 @@
   * [The value of a life.md](nate/The%20value%20of%20a%20life.md)
   * [世上没有「坏人」](nate/There%20are%20no%20bad%20people.md)
   * [没有所谓的「尝试」](nate/There%20is%20no%20try.md)
+  * [Transmute guilt into resolve.md](nate/Transmute%20guilt%20into%20resolve.md)
   * [猛击后的醒悟与更新](nate/Update%20from%20the%20suckerpunch.md)
   * [能去何方](nate/Where%20coulds%20go.md)
   * [拼命工作并非美德](nate/Working%20yourself%20ragged%20is%20not%20a%20virtue.md)
