@@ -994,7 +994,7 @@
   * [解决数学问题](tao/Solving%20mathematical%20problems.md)
   * [Theres more to mathematics than grades and exams and methods.md](tao/Theres%20more%20to%20mathematics%20than%20grades%20and%20exams%20and%20methods.md)
   * [善用废纸篓](tao/Use%20the%20wastebasket.md)
-  * [刻苦钻研](tao/Work%20hard.md)
+  * [努力工作](tao/Work%20hard.md)
 * [woz](woz/intro.md)
   * [faq](woz/faq/intro.md)
     * [常见问题：教育改革基本法](woz/faq/FAQ%20ABC%20Reform.md)
