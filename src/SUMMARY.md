@@ -513,6 +513,7 @@
   * [知识的整合](georgios/Integrating%20Knowledge.md)
   * [坚韧](georgios/Resilience.md)
 * [gray](gray/intro.md)
+  * [15. 玩耍不足：导致儿童心理健康水平下降的一大原因](gray/15.%20Play%20Deficit%20as%20Cause%20of%20Decline%20in%20Childrens%20Mental%20Health.md)
   * [「不让孩子留在室内」：解决国家问题的糟糕方案](gray/22No%20Child%20Left%20Inside22%20Poor%20Solution%20to%20a%20National%20Problem.md)
   * [「为什么学生不喜欢上学？」呃，呵呵……](gray/22Why%20Dont%20Students%20Like%20School22%20Well%20Duhhhha.md)
   * [69：英国学校「改革」导致学校满意度与心理健康双双下降](gray/69.%20UK%20School%20Reform%20Led%20to%20Declines%20in%20School%20Satisfaction%20and%20Mental%20Wellbeing.md)
