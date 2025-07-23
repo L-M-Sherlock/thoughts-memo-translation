@@ -697,7 +697,7 @@
     * [我们会相信自己看到的一切吗？](lesswrong/Seeing%20with%20Fresh%20Eyes/Do%20We%20Believe%20Everything%20Were%20Told.md)
     * [暂缓提出解决方案](lesswrong/Seeing%20with%20Fresh%20Eyes/Hold%20Off%20On%20Proposing%20Solutions.md)
     * [如何显得（并真正做到）深刻](lesswrong/Seeing%20with%20Fresh%20Eyes/How%20to%20Seem%20and%20Be%20Deep.md)
-    * [第一手的观察](lesswrong/Seeing%20with%20Fresh%20Eyes/Original%20Seeing.md)
+    * [第一手观察](lesswrong/Seeing%20with%20Fresh%20Eyes/Original%20Seeing.md)
     * [启动效应与污染效应](lesswrong/Seeing%20with%20Fresh%20Eyes/Priming%20and%20Contamination.md)
     * [比历史更离奇](lesswrong/Seeing%20with%20Fresh%20Eyes/Stranger%20than%20History.md)
     * [起源谬误](lesswrong/Seeing%20with%20Fresh%20Eyes/The%20Genetic%20Fallacy.md)
