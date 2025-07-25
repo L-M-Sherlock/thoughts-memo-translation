@@ -996,7 +996,7 @@
   * [认识到你所用工具的局限](tao/Learn%20the%20limitations%20of%20your%20tools.md)
   * [论时间管理](tao/On%20time%20management.md)
   * [解决数学问题](tao/Solving%20mathematical%20problems.md)
-  * [Theres more to mathematics than grades and exams and methods.md](tao/Theres%20more%20to%20mathematics%20than%20grades%20and%20exams%20and%20methods.md)
+  * [数学不只是成绩、考试，和刷题套路](tao/Theres%20more%20to%20mathematics%20than%20grades%20and%20exams%20and%20methods.md)
   * [善用废纸篓](tao/Use%20the%20wastebasket.md)
   * [努力工作](tao/Work%20hard.md)
 * [woz](woz/intro.md)
