@@ -1,6 +1,6 @@
 # 锚定教学法
 
-[锚定教学法](https://notes.andymatuschak.org/zHZJPK2nrvAzRstzA6XdmoG)
+原文：[Anchored instruction](https://notes.andymatuschak.org/zHZJPK2nrvAzRstzA6XdmoG)
 
 「锚定教学法」是 John Bransford 同他的 Cognitive and Technology Group at Vanderbilt 于 20 世纪 90 年代推行的教学设计理念。它在哲学上深受[情境学习](https://notes.andymatuschak.org/zL7XdosCZ9qeCSSCrhcYfwY)和[建构主义](https://notes.andymatuschak.org/zWceTLNTjH3DQ7iVpy38ocq)影响；在实践中主要关注[迁移学习](https://notes.andymatuschak.org/z7ffiDfqTR9pPcEEUUbCL7C)的问题。
 

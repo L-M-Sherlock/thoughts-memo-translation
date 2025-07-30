@@ -2,7 +2,7 @@
 
 原文：[Self-signaling the ability to do what you want](https://mindingourway.com/self-signaling-the-ability-to-do-what-you-want/)
 
-2015 年 10 月 26 日
+2014 年 10 月 26 日
 
 # 1
 
