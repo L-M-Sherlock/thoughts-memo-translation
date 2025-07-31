@@ -495,7 +495,7 @@
   * [学习的理由](david/Reasons%20to%20Learn.md)
   * [卖掉学校](david/SELL%20THE%20SCHOOLS.md)
   * [现代世界的必备技能](david/Skills%20for%20the%20Modern%20World.md)
-  * [大学的不可能性](david/THE%20IMPOSSIBILITY%20OF%20A%20UNIVERSITY.md)
+  * [美国大学的悖论](david/THE%20IMPOSSIBILITY%20OF%20A%20UNIVERSITY.md)
   * [对教学的思考：1](david/Thoughts%20on%20Teaching%201.md)
   * [对教学的思考：2](david/Thoughts%20on%20Teaching%202.md)
   * [非学校教育：1](david/Unschooling%201.md)
