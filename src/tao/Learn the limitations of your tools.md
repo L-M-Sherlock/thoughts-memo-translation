@@ -1,10 +1,10 @@
 # 认识到你所用工具的局限
 
-[Learn the limitations of your tools | What's new](https://terrytao.wordpress.com/career-advice/learn-the-limitations-of-your-tools/)
+原文：[Learn the limitations of your tools | What's new](https://terrytao.wordpress.com/career-advice/learn-the-limitations-of-your-tools/)
 
 > 教育不在于你记住了多少内容，甚至也不在于你掌握了多少知识。它在于能够分辨已知与未知。([阿纳托尔·法朗士](http://en.wikipedia.org/wiki/Anatole_France))
 
-数学教育（以及研究论文）自然侧重于行之有效的方法。但同等重要的是，要认识到你手中工具的**局限**所在。这样才能避免在注定失败的战略上徒耗光阴，从而转而寻求新工具来解决难题（或另寻新题）。
+数学教育（以及研究论文）自然侧重于行之有效的方法。但同等重要的是，要认识到你手中工具的**局限**所在。这样才能避免在注定失败的战略上徒耗光阴，从而寻求新工具来解决难题（或另寻新题）。
 
 因此，掌握一系列反例或易于分析的情景模型至关重要，正如知道工具所能应对的障碍类型及其无力解决的难题一样关键。同样值得探究的是，在何种情形下可选工具能被其他方法替代，以及各种途径的相对利弊。
 
