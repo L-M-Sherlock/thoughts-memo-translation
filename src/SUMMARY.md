@@ -1267,7 +1267,7 @@
       * [17. 失眠](woz/prose/science-of-sleep/17.%20Insomnia.md)
       * [18. 睡眠惯性](woz/prose/science-of-sleep/18.%20Sleep%20inertia.md)
       * [轮班工作与时差反应](woz/prose/science-of-sleep/19.%20Shift%20work%20and%20jet%20lag.md)
-      * [21. Hypersomnia.md](woz/prose/science-of-sleep/21.%20Hypersomnia.md)
+      * [嗜睡症](woz/prose/science-of-sleep/21.%20Hypersomnia.md)
       * [睡眠相位延迟综合征](woz/prose/science-of-sleep/22.%20Delayed%20Sleep%20Phase%20Syndrome.md)
       * [8. 双相的生活](woz/prose/science-of-sleep/8.%20Biphasic%20life.md)
       * [9. 脑力劳动的最佳时间](woz/prose/science-of-sleep/9.%20Optimum%20time%20for%20brainwork.md)
