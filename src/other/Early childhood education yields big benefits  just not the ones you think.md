@@ -2,19 +2,19 @@
 
 原文：[Early childhood education yields few academic benefits — but still has lifelong effects | Vox](https://www.vox.com/future-perfect/2018/10/16/17928164/early-childhood-education-doesnt-teach-kids-fund-it)
 
-学前教育在学业上的提振效果会在几年后消退。但出人意料的是，它依然能带来终身的影响。
+学前教育在学业上的提振效果会在几年后消退。但出人意料的是，它依然能带来持续终身的影响。
 
 作者：**[Kelsey Piper](https://www.vox.com/authors/kelsey-piper)**
 
 发布于 2018 年 10 月 16 日，晚上 9:00（GMT+8）
 
-在学前教育研究领域的核心，存在一个看似诡异的悖论。一方面，大量研究表明，在 3、4 岁时接受了强化教育的孩子，在学术能力上[并不会真正领先](https://www.brookings.edu/research/new-evidence-raises-doubts-on-obamas-preschool-for-all/)。等他们上到幼儿园，大部分优势已不复存在；而[到了二年级，研究人员](https://www.acf.hhs.gov/sites/default/files/opre/hs_impact_study_final.pdf)[通常就完全观察不到任何优势了](https://www.bbntimes.com/en/global-economy/early-childhood-education-fails-another-randomized-trial)。
+在学前教育研究领域的核心，存在一个看似诡异的悖论。一方面，大量研究表明，在 3、4 岁时接受了强化教育的孩子，在学业能力上[并不会真正领先](https://www.brookings.edu/research/new-evidence-raises-doubts-on-obamas-preschool-for-all/)。等他们上到幼儿园，大部分优势已不复存在；而[到了二年级，研究人员](https://www.acf.hhs.gov/sites/default/files/opre/hs_impact_study_final.pdf)[通常就完全观察不到任何优势了](https://www.bbntimes.com/en/global-economy/early-childhood-education-fails-another-randomized-trial)。
 
-另一方面，同样有大量实质性的研究指出，学前教育能带来深刻的、终身性的益处。参加过强化型学前教育项目的孩子，成年后[被捕的概率更低，毕业的可能性更高，受药物滥用问题困扰的可能性也更低](https://www.nichd.nih.gov/newsroom/releases/031115-podcast-reynolds)。一项在该项目的学生长到 35 岁左右时进行的[后续研究](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2668645)发现，他们最终上大学并完成学业的可能性也更高。
+另一方面，同样有大量研究指出，学前教育能带来深刻的、终身的益处。参加过强化学前教育项目的孩子，成年后[被捕的概率更低，毕业的可能性更高，受药物滥用问题困扰的可能性也更低](https://www.nichd.nih.gov/newsroom/releases/031115-podcast-reynolds)。一项在该项目的学生长到 35 岁左右时进行的[后续研究](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2668645)发现，他们最终上大学并完成学业的可能性也更高。
 
 这是一个争论异常激烈——且至关重要——的研究领域。2017 年，美国在「启蒙计划」（Head Start）上投入了 90 亿美元，这是自 1970 年代起实施的旗舰级学前教育项目。倘若其中一方的研究结论是错误的，那么我们将如何使用这笔资金，就会面临截然不同的选择。
 
-在此，有一个解释能将所有这些研究整合起来：学前教育的益处，并非源于其传授给学生的学术技能。学前教育之所以有帮助，是因为它扮演了可靠的日托中心角色。
+在此，有一个解释能将所有这些研究整合起来：学前教育的益处，并非源于其传授给学生的学业技能。学前教育之所以有帮助，是因为它扮演了可靠的日托中心角色。
 
 ## 学前教育的效果会消退——但有少数例外，能持续数十年
 
