@@ -2,7 +2,7 @@
 
 原文：[Learn and relearn your field | What's new](https://terrytao.wordpress.com/career-advice/learn-and-relearn-your-field/)
 
-> 即便是相当优秀的学生，在得到问题的解法并清晰地写下论证之后，往往也会合上书本，转而他顾。他们这样做，便错失了工作中一个重要且富有教益的阶段。……一位优秀的教师应当理解并向学生们强调：任何问题都绝不会被彻底穷尽。
+> 即便是相当优秀的学生，在得到问题的解法并清晰地写下论证之后，往往也会合上书本，转而他顾。他们这样做，便错失了工作中一个重要且富有指导意义的阶段 ······ 一位优秀的教师应当理解并向学生们强调：任何问题都绝不会被彻底穷尽。
 
 > 教师的首要职责之一，便是不要给学生造成数学问题之间关联甚少，且与其他任何事物都毫无瓜葛的印象。当我们回顾一个问题的解法时，便拥有了一个探究其内在联系的天然良机。 ([George Pólya](http://en.wikipedia.org/wiki/George_Pólya)，《[怎样解题](http://en.wikipedia.org/wiki/How_to_Solve_It)》)
 
