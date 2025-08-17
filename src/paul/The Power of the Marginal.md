@@ -1,6 +1,6 @@
 # 边缘的力量
 
-[边缘的力量](https://paulgraham.com/marginal.html)
+原文：[The Power of the Marginal](https://paulgraham.com/marginal.html)
 
 2006 年 6 月
 
