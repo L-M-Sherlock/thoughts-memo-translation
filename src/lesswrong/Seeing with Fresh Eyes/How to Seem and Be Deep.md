@@ -40,4 +40,4 @@
 
 要想**显得**深刻，不妨去研究一些非主流的哲学思想。去寻找那些能让你有机会展现深刻见解的讨论话题。提前进行哲学层面的思考，这样你就能集中精力把观点解释清楚。最重要的是，要练习将自己的表达控制在「一步推断」的范围之内。
 
-要想**真正做到**深刻，就要针对那些所谓「睿智的」、重要的或充满情感张力的话题进行独立思考。独立思考不等于仅仅想出一个[与众不同的答案](https://www.readthesequences.com/The-Outside-The-Box-Box)。它意味着亲自去观察和理解，而不是任由你的大脑自动补全既定的模式。如果你能[不满足于第一个想到的答案](https://www.readthesequences.com/The-Third-Alternative)，并且勇于摒弃那些让你[隐约觉得不太满意](https://www.readthesequences.com/Your-Strength-As-A-Rationalist)的回答，久而久之，你的思想便会形成一个连贯的整体，它们源于你自身独一无二的思考，而不再是对他人结论的零散复制。
+要想**真正做到**深刻，就要针对那些所谓「睿智的」、重要的或充满情感张力的话题进行独立思考。独立思考不等于仅仅想出一个[与众不同的答案](https://www.readthesequences.com/The-Outside-The-Box-Box)。它意味着亲自去观察和理解，而不是任由你的大脑自动补全既定的模式。如果你能[不满足于第一个想到的答案](https://www.readthesequences.com/The-Third-Alternative)，并且勇于摒弃那些让你[隐约觉得不太满意](https://www.readthesequences.com/Your-Strength-As-A-Rationalist)的回答，久而久之，你的思想便会形成一个连贯的整体，它们源于你自身的思考，而不再是对他人结论的零散复制。
