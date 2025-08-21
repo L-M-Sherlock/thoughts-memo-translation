@@ -14,6 +14,16 @@
 
 - 即使过程缓慢，天才也可以通过培养建设性的怀疑精神和刻意练习来造就。
 
-法国小说家埃米尔·左拉曾有妙语「艺术家没有天赋就一无是处，但没有努力的天赋也毫无价值。」
+法国小说家埃米尔·左拉曾有妙语：「艺术家没有天赋就一无是处，但没有努力的天赋也毫无价值。」
 
 天才亦是如此，实际上，我们更应该时常强调它。
+
+# 参考文献
+
+Isaacson, Walter. *Einstein: His Life and Universe*. Simon & Schuster, 2007.
+
+Vasari, Giorgio. *The Lives of the Artists*.
+
+Bambach, Carmen C. *Leonardo da Vinci Rediscovered*. Yale University Press, 2019.
+
+Gagné, Françoys: My Convictions About the Nature of Abilities, Gifts, and Talents in Journal for the Education of the Gifted, Vol. 22, No. 2, 1999, p. 109–136
