@@ -713,6 +713,7 @@
   * [Bring up Genius.md](lesswrong/Bring%20up%20Genius.md)
   * [Death Spirals](lesswrong/Death%20Spirals/intro.md)
     * [感性死亡螺旋](lesswrong/Death%20Spirals/Affective%20Death%20Spirals.md)
+    * [当你想表达担忧时](lesswrong/Death%20Spirals/On%20Expressing%20Your%20Concerns.md)
     * [晕轮效应](lesswrong/Death%20Spirals/The%20Halo%20Effect.md)
   * [辩论：要不要拿大学学位？](lesswrong/Debate%20Get%20a%20college%20degree.md)
   * [调试学生](lesswrong/Debugging%20the%20student.md)
