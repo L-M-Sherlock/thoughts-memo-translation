@@ -8,7 +8,7 @@
 
 许多人[待己苛刻，待人却宽厚](https://mindingourway.com/self-compassion/)。这些人总会因为没能做到[心理上不可能的](https://mindingourway.com/where-coulds-go/)事而自责不已。他们为过去的过错而烦恼，把自己视为失败的上帝，而不是[志存高远的猴子](https://mindingourway.com/not-yet-gods/)。这样的自我谴责会引发强烈的内疚感，及其带来的种种负面效应。
 
-关于如何处理内疚感，我的建议大致上是：首先要[集中你的内疚感](https://mindingourway.com/shifting-guilt/)，通过摆脱那些因[没按照他人期望行事]或[虚假义务](https://mindingourway.com/not-because-you-should/)所产生的内疚，转而将所有内疚都转移到“你没能将未来变成你想要的样子”这一事实上。之后，一旦你把内疚感集中于此，也请牢记你仅是凡间的一员。
+关于如何处理内疚感，我的建议大致上是：首先要[集中你的内疚感](https://mindingourway.com/shifting-guilt/)，通过摆脱那些因[没按照他人期望行事]或[虚假义务](https://mindingourway.com/not-because-you-should/)所产生的内疚，转而将所有内疚都转移到「你没能将未来变成你想要的样子」这一事实上。之后，一旦你把内疚感集中于此，也请牢记你仅是凡间的一员。
 
 你过去没能做到自己想做的事，也没能做出当下的最佳选择。不过，这些对你下一步行动影响不大。它们确实会产生**些**影响，因为你的记忆仍留存着经验教训，能指引你如何[更好地驾驭自我，进而掌控世界](https://mindingourway.com/dont-steer-with-guilt/)，但这些错误教训[根本不能映照出你的灵魂本色](https://mindingourway.com/there-are-no/)。它们不过是你步向前方的背景知识，从此刻起，[只需着眼于未来]((https://mindingourway.com/be-a-new-homunculus/))。
 

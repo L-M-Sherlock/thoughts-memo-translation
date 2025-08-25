@@ -36,13 +36,13 @@
 
     -   [参加学术报告和会议，即便是那些与你本人工作不直接相关的](https://terrytao.wordpress.com/career-advice/attend-talks-and-conferences-even-those-not-directly-related-to-your-work/)。
 
-    -   [与你的导师交流](https://terrytao.wordpress.com/career-advice/talk-to-your-advisor/)，但也要[主动进取](https://terrytao.wordpress.com/career-advice/take-the-initiative/)。
+    -   [与你的导师交流](https://terrytao.wordpress.com/career-advice/talk-to-your-advisor/)，并且要[主动交流](https://terrytao.wordpress.com/career-advice/take-the-initiative/)。
 
     -   切勿[过早沉溺于单一的「重大难题」或「宏大理论」](https://terrytao.wordpress.com/career-advice/dont-prematurely-obsess-on-a-single-big-problem-or-big-theory/)。
 
     -   [记录下你所做的工作](https://terrytao.wordpress.com/career-advice/write-down-what-youve-done/)，并[将你的成果公之于众](https://terrytao.wordpress.com/career-advice/make-your-work-available/)。关于这一点，我有一些[关于如何撰写和提交论文的建议](https://terrytao.wordpress.com/advice-on-writing-papers/)。
 
-    -   「[一次侥幸脱险：一次近乎失败的经历如何助我成功](https://www.ams.org/journals/notices/202007/rnoti-p1007.pdf)」, T. Tao, Notices of the American Mathematical Society, August 2020. Originally contributed to “[Living proof: stories of resilience along the mathematical journey](https://www.ams.org/about-us/LivingProof.pdf)“, American Mathematical Society, 2019. Eds: Allison Henrich, Emille Lawrence, Matthew Pons, David Taylor.
+- 「[一次惊险：一次几近失败如何推动我走向成功](https://www.ams.org/journals/notices/202007/rnoti-p1007.pdf)」，T. Tao，《美国数学会会刊·通告》（*Notices of the American Mathematical Society*），2020 年 8 月。最初发表于「[活生生的证明：数学旅程中的坚韧故事](https://www.ams.org/about-us/LivingProof.pdf)」，美国数学会，2019 年。编辑：Allison Henrich、Emille Lawrence、Matthew Pons、David Taylor。
 
 -   博士后阶段
 
@@ -54,7 +54,7 @@
 
     -   若有机会，你绝对应该出行并展示你的研究成果。但务必[体谅你的听众](https://terrytao.wordpress.com/career-advice/be-considerate-of-your-audience/)；学术报告[与论文有所不同](https://terrytao.wordpress.com/career-advice/talks-are-not-the-same-as-papers/)。
 
-    -   [对你自己的工作保持审慎的态度](https://terrytao.wordpress.com/career-advice/be-sceptical-of-your-own-work/)，并且不要害怕[善用废纸篓](https://terrytao.wordpress.com/career-advice/use-the-wastebasket/)。
+    -   [对你自己的工作保持审慎的态度](https://terrytao.wordpress.com/career-advice/be-sceptical-of-your-own-work/)，并且不要害怕[使用废纸篓](https://terrytao.wordpress.com/career-advice/use-the-wastebasket/)。
 
 我亦在（缓慢地）从研究数学家的视角，整理我对时间管理的思考。
 
@@ -86,7 +86,7 @@
 
 -   J. Michael Steele 的「[给统计学研究生的建议](http://www-stat.wharton.upenn.edu/~steele/Rants/AdviceGS.html)」。
 
--   Ian Stewart 的《[给青年数学家的信](http://www.amazon.com/Letters-Young-Mathematician-Art-Mentoring/dp/0465082319/sr=8-1/qid=1170790056/ref=pd_bbs_1/002-2734562-8194451?ie=UTF8&s=books)》。
+-   Ian Stewart 的「[给青年数学家的信](http://www.amazon.com/Letters-Young-Mathematician-Art-Mentoring/dp/0465082319/sr=8-1/qid=1170790056/ref=pd_bbs_1/002-2734562-8194451?ie=UTF8&s=books)」。
 
 -   Ravi Vakil 的「[写给潜在的学生们](http://math.stanford.edu/~vakil/potentialstudents.html)」。
 
@@ -94,7 +94,7 @@
 
 -   Lauren William 的「[如何在数学领域找到博士后职位](https://math.berkeley.edu/~katrin/slides/Williams-FindingJob.pdf)」。
 
--   《[普林斯顿数学指南](http://press.princeton.edu/titles/8350.html)》中[给青年数学家的建议部分](http://press.princeton.edu/chapters/gowers/gowers_VIII_6.pdf)，撰稿人包括[迈克尔·阿蒂亚爵士（Sir Michael Atiyah）](http://en.wikipedia.org/wiki/Michael_Atiyah)、[贝拉·博洛巴斯（Béla Bollobás）](http://en.wikipedia.org/wiki/Béla_Bollobás)、[阿兰·科纳（Alain Connes）](http://en.wikipedia.org/wiki/Alain_Connes)、[杜莎·麦克杜夫（Dusa McDuff）](http://en.wikipedia.org/wiki/Dusa_McDuff)和[彼得·萨纳克（Peter Sarnak）](http://en.wikipedia.org/wiki/Peter_Sarnak)。
+- 《[普林斯顿数学指南](http://press.princeton.edu/titles/8350.html)》中[「给年轻数学家的建议」](http://press.princeton.edu/chapters/gowers/gowers_VIII_6.pdf)一节，撰稿人包括 [Michael Atiyah 爵士](http://en.wikipedia.org/wiki/Michael_Atiyah)、[Béla Bollobás](http://en.wikipedia.org/wiki/Béla_Bollobás)、[Alain Connes](http://en.wikipedia.org/wiki/Alain_Connes)、[Dusa McDuff](http://en.wikipedia.org/wiki/Dusa_McDuff) 和 [Peter Sarnak](http://en.wikipedia.org/wiki/Peter_Sarnak)。
 
 -   [《美国数学会通告》中的早期职业生涯文章](https://www.ams.org/cgi-bin/notices/nxgnotices.pl?fm=gen&cnt=career)
 

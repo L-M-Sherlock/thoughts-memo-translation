@@ -26,15 +26,15 @@
 
       - [理解概念需与其尽力较量](https://notes.andymatuschak.org/zX1WtJ4ouE8sjN1NgWHsGVg8ZnVfp5Kz74Vs)
 
-      - [写作促使人们更加深入地理解](https://notes.andymatuschak.org/z8q1K5a8i95qARkpFwS45qqtQzM8th82TkeUg)
+      - [写作迫使人们敏锐思考](https://notes.andymatuschak.org/z8q1K5a8i95qARkpFwS45qqtQzM8th82TkeUg)
 
   - [如何在阅读时整理所得](https://notes.andymatuschak.org/z71FeBJGqZdyA78UNTwXCWcMGUVCWk1XsLvPS)
 
-    - [文献笔记是次要的，分离的](https://notes.andymatuschak.org/z2Eg5jPPg8nBJWLGqJwNo5d15TAoEAXamYV7n)
+    - [文献笔记是次要的，独立的](https://notes.andymatuschak.org/z2Eg5jPPg8nBJWLGqJwNo5d15TAoEAXamYV7n)
 
   - [如何将阅读标注处理成常青笔记](https://notes.andymatuschak.org/z2PJ51tCXuPFxnfFVUxxgwjvZ1geu4YnYm7hK)
 
-    - [方便在外出时抓住灵感的口袋笔记本](https://notes.andymatuschak.org/z5FKgZAnMhS73t9kenbVUYx23CHSQAE1gKxVf)
+    - [便于在外出时捕捉灵感的口袋笔记本](https://notes.andymatuschak.org/z5FKgZAnMhS73t9kenbVUYx23CHSQAE1gKxVf)
 
   - [为临时且不完整的笔记建立写作收件箱](https://notes.andymatuschak.org/z5aJUJcSbxuQxzHr2YvaY4cX5TuvLQT7r27Dz)
 
@@ -118,7 +118,7 @@
 
   - 用纯文本 ID 来链接材料
 
-  - 在一个没有应用程序的系统中成为人类的连接器
+  - 在一个没有应用程序的系统中充当人类的连接器
 
 - 历史/社区
 
