@@ -1,6 +1,6 @@
 # 关于关怀
 
-[关于关怀](https://mindingourway.com/on-caring/)  
+原文：[On caring](https://mindingourway.com/on-caring/)
 
 2014年10月4日
 
