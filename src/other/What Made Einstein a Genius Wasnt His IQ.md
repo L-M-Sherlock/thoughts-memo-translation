@@ -1,6 +1,6 @@
 # 造就爱因斯坦天才的并非他的智商
 
-[What Made Einstein a Genius Wasn’t His IQ | Psychology Today](https://www.psychologytoday.com/us/blog/curiosity-code/202508/what-made-einstein-a-genius-wasnt-his-iq)
+原文：[What Made Einstein a Genius Wasn’t His IQ | Psychology Today](https://www.psychologytoday.com/us/blog/curiosity-code/202508/what-made-einstein-a-genius-wasnt-his-iq)
 
 ## 为什么爱因斯坦的卓越成就更多地归功于方法、好奇心和努力，而非智商。
 
