@@ -6,7 +6,7 @@
 
 # 1
 
-只要我下定决心，工作效率[可以高得惊人](http://lesswrong.com/lw/jg3/the_mechanics_of_my_recent_productivity/)。
+只要我下定决心，[工作效率可以高得惊人](http://lesswrong.com/lw/jg3/the_mechanics_of_my_recent_productivity/)。
 
 大多数人的心智模型基本按如下方式运行：我们嘴上说的「想要」只是试图控制大脑的无数声音中的一个，必须付出极大的努力才能使这些「群氓」的声音统一，去完成某些事情。很多时候，我们明明想关掉网页开始工作，手指却像被施了魔咒般继续滑动屏幕；或是明明下定决心迎接挑战，身体却像被钉在原地，只能看着机会从眼前溜走。
 
