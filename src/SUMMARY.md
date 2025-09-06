@@ -793,7 +793,7 @@
   * [立足凡间](nate/Residing%20in%20the%20mortal%20realm.md)
   * [行动中的休息（暂定）](nate/Rest%20in%20motion.md)
   * [自我关怀](nate/Self%20compassion.md)
-  * [自我暗示：你能做你想做之事](nate/Selfsignaling%20the%20ability%20to%20do%20what%20you%20want.md)
+  * [自我信号：你能做你想做之事](nate/Selfsignaling%20the%20ability%20to%20do%20what%20you%20want.md)
   * [转移内疚感](nate/Shifting%20guilt.md)
   * [「应该」一词的危害](nate/Should%20considered%20harmful.md)
   * [仅是去确认你身处何处](nate/Simply%20locate%20yourself.md)
