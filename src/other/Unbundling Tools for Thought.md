@@ -54,7 +54,7 @@
 
 - **清单：** 记录你拥有的物品、认识的人、住过的地方、教育经历、工作履历，以及生活中林林总总的杂事。电子表格处理这些绰绰有余，而且极少有真正需要从一个清单链接到另一个的需求。
 
-那还剩下什么呢？
+那还有什么呢？
 
 - **收藏管理：** 在这个领域，软件解决方案出奇地匮乏。
 
@@ -110,7 +110,7 @@ Obsidian 就是这么做的：为此它拥有大约 700 个插件。有待办事
 
 # 我目前的维基
 
-![我当前个人维基的主页](https://borretti.me/assets/content/unbundling-tools-for-thought/home.png)
+![我目前个人维基的主页](https://borretti.me/assets/content/unbundling-tools-for-thought/home.png)
 
 （图中的文字引自《[渐速：Crescendo](https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html)》。）
 
