@@ -1,6 +1,6 @@
 # 情感死亡螺旋
 
-[情感死亡螺旋](https://www.readthesequences.com/Affective-Death-Spirals)
+原文：[Affective Death Spirals](https://www.readthesequences.com/Affective-Death-Spirals)
 
 人类的推理过程中存在着[种种](https://www.greaterwrong.com/lw/il/hindsight_bias/)、[种种](https://www.readthesequences.com/Fake-Causality)、[种种](https://www.readthesequences.com/Rationalization)缺陷，这些缺陷让我们高估了自己钟爱的理论对事实的解释力。化学中的燃素理论几乎可以解释任何事情，只要无须用它进行提前的预测。我们越多地用自己喜欢的理论去解释现象，这个理论就显得越真实——它难道不是已经被这许多观察所证实了吗？随着这个理论显得愈发真实，你便越有可能去质疑那些与它相冲突的证据。随着这个备受青睐的理论显得更具普适性，你就会寻求用它来做出更多的解释。
 
