@@ -795,6 +795,7 @@
   * [超越内疚](nate/Replacing%20guilt.md)
   * [立足凡间](nate/Residing%20in%20the%20mortal%20realm.md)
   * [行动中的休息（暂定）](nate/Rest%20in%20motion.md)
+  * [直面黑暗世界](nate/See%20the%20dark%20world.md)
   * [自我关怀](nate/Self%20compassion.md)
   * [自我信号：你能做你想做之事](nate/Selfsignaling%20the%20ability%20to%20do%20what%20you%20want.md)
   * [转移内疚感](nate/Shifting%20guilt.md)

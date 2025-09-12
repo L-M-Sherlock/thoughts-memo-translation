@@ -1,14 +1,14 @@
 # 可评估性（与假期购物省钱技巧）
 
-[Evaluability (and Cheap Holiday Shopping)](https://www.readthesequences.com/Evaluability-And-Cheap-Holiday-Shopping)
+原文：[Evaluability (and Cheap Holiday Shopping)](https://www.readthesequences.com/Evaluability-And-Cheap-Holiday-Shopping)
 
 随着[「万圣感恩圣诞」季](http://www.overcomingbias.com/2007/11/merry-hallowmas.html)最**烧钱**的阶段日渐临近，一个问题想必正萦绕在我们读者的心头：
 
 > 「亲爱的 *Overcoming Bias*，有没有什么偏见可供我利用，好让我**显得**很大方，又不用**真的**花太多钱呢？」
 
-我很高兴地告诉大家，答案是肯定的！Hsee 在一篇题为「Less is better: When low-value options are valued more highly than high-value options」的论文中指出：给别人送一条价值 45 美元的围巾，会比送一件价值 55 美元的外套，更有可能让别人觉得你很慷慨。[^1]
+我很高兴地告诉大家，答案是肯定的！Hsee 在一篇题为 *Less is better: When low-value options are valued more highly than high-value options* 的论文中指出：给别人送一条价值 45 美元的围巾，会比送一件价值 55 美元的外套，更有可能让别人觉得你很慷慨。[1]
 
-这其实是一种更普遍现象下的特例。在早前的一项实验中，Hsee 曾让受试者为二手音乐词典估价：[^2]
+这其实是一种更普遍现象下的特例。在早前的一项实验中，Hsee 曾让受试者为二手音乐词典估价：[2]
 
 - 词典 *A*：1993 年出版，收录 1 万词条，品相如新。
 
@@ -20,9 +20,9 @@
 
 当然，词典的收词量要比封面破不破损重要得多，至少在你真要用它的情况下是这样的。但如果摆在你面前的只有一本收录了两万词条的词典，那么「两万」这个数本身其实并不能说明太多问题——这个数算多还是少？谁知道呢？它是**无法评估**的。而另一方面，封面破损的问题就显得尤为突出，因为它带有明确的[情感效价](https://www.readthesequences.com/The-Affect-Heuristic)——负面的那种。
 
-但当两本词典并列摆放时，词条数量就从**不可评估**变得**可评估**了，因为此时有了两个可以进行比较的同类数据。而且，词条数量一旦变得可评估，其重要性就会完全压倒封面破损的瑕疵。
+但当两本词典并列摆放时，词条数量就从**不可评估**变得**可以评估**了，因为此时有了两个可以进行比较的同类数据。而且，词条数量一旦变得可评估，其重要性就会完全压倒封面破损的瑕疵。
 
-来自 Slovic 等人的研究：你会选哪个？[^3]
+来自 Slovic 等人的研究：你会选哪个？[3]
 
 1. 有 29/36 的概率赢 2 美元。
 
