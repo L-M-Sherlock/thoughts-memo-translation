@@ -1296,7 +1296,7 @@
       * [轮班工作与时差反应](woz/prose/science-of-sleep/19.%20Shift%20work%20and%20jet%20lag.md)
       * [睡眠呼吸暂停](woz/prose/science-of-sleep/20.%20Sleep%20apnea.md)
       * [嗜睡症](woz/prose/science-of-sleep/21.%20Hypersomnia.md)
-      * [睡眠相位延迟综合征](woz/prose/science-of-sleep/22.%20Delayed%20Sleep%20Phase%20Syndrome.md)
+      * [睡眠相位后移综合征](woz/prose/science-of-sleep/22.%20Delayed%20Sleep%20Phase%20Syndrome.md)
       * [23. 睡眠相位前移综合征](woz/prose/science-of-sleep/23.%20Advanced%20Sleep%20Phase%20Syndrome.md)
       * [24. 治疗睡眠相位延迟综合征与失眠](woz/prose/science-of-sleep/24.%20Curing%20DSPS%20and%20insomnia.md)
       * [25. Charting phase shifts.md](woz/prose/science-of-sleep/25.%20Charting%20phase%20shifts.md)
