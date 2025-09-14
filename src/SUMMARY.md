@@ -718,6 +718,7 @@
     * [Aschs Conformity Experiment.md](lesswrong/Death%20Spirals/Aschs%20Conformity%20Experiment.md)
     * [邪教式反邪](lesswrong/Death%20Spirals/Cultish%20Countercultishness.md)
     * [可评估性（与假期购物省钱技巧）](lesswrong/Death%20Spirals/Evaluability%20and%20Cheap%20Holiday%20Shopping.md)
+    * [Guardians of the Gene Pool.md](lesswrong/Death%20Spirals/Guardians%20of%20the%20Gene%20Pool.md)
     * [Lonely Dissent.md](lesswrong/Death%20Spirals/Lonely%20Dissent.md)
     * [论表达顾虑](lesswrong/Death%20Spirals/On%20Expressing%20Your%20Concerns.md)
     * [抵制快乐死亡螺旋](lesswrong/Death%20Spirals/Resist%20the%20Happy%20Death%20Spiral.md)
