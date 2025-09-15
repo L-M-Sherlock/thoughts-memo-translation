@@ -501,7 +501,7 @@
   * [对教学的思考：2](david/Thoughts%20on%20Teaching%202.md)
   * [非学校教育：1](david/Unschooling%201.md)
   * [非学校教育：2](david/Unschooling%202.md)
-  * [非学校教育：一场儿童解放方式](david/Unschooling%20A%20Libertarian%20Approach%20to%20Children.md)
+  * [非学校教育：一种自由意志主义的育儿方式](david/Unschooling%20A%20Libertarian%20Approach%20to%20Children.md)
 * [erik](erik/intro.md)
   * [昔日的天才是如何培养的](erik/How%20geniuses%20used%20to%20be%20raised.md)
   * [对贵族式辅导重要性的几点反驳](erik/Objections%20to%20the%20importance%20of%20aristocratic%20tutoring.md)
