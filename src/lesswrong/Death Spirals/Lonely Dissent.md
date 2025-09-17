@@ -1,4 +1,4 @@
-孤勇的反抗
+# 孤勇的反抗
 
 原文：[Lonely Dissent](https://www.readthesequences.com/Lonely-Dissent)
 

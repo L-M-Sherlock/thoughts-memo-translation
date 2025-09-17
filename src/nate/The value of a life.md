@@ -1,8 +1,8 @@
-给生命标价
+# 给生命标价
 
-[The value of a life](https://mindingourway.com/the-value-of-a-life/)
+原文：[The value of a life](https://mindingourway.com/the-value-of-a-life/)
 
-发布日期：2015年2月16日
+2015 年 2 月 16 日
 
 你可能听说过这一点：如果一个人手头有一笔钱，而且打算用这些钱拯救生命，那么他就必须先给他打算拯救的这些生命确定一个价格（如果你没听说过的话，Scott Alexander写过一篇文章，对这个问题的解释非常好，参见 http://squid314.livejournal.com/260949.html）
 
