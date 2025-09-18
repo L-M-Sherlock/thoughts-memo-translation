@@ -6,15 +6,15 @@
 
 教育是一个复杂、多维且需悉心投入的过程，天赋异禀也并不能使其有丝毫简化。我希望提醒大家，警惕任何试图用单一「银弹」来教育天才儿童的做法，无论是特殊学校、私人辅导、在家上学、跳级，还是其他任何方式；这些都只是各有利弊的选择，需要根据孩子、家长以及学校的各种需求和偏好（无论是学术还是非学术方面）来仔细权衡。鉴于每个孩子的情况千差万别，我无法针对某个特定孩子的状况给出任何**具体的**建议。[尤其需要说明的是，由于我目前事务繁忙且收到的请求数量众多，我无法亲自回复任何有关天才教育的咨询。]
 
-尽管如此，我还是可以提供几条**普遍性的**建议。首先，我们不应过度聚焦于某个特定的人为设定的标准，比如必须在 Z 年内从 Y [名校](https://terrytao.wordpress.com/career-advice/don’t-base-career-decisions-on-glamour-or-fame/)获得 X 学位，或是在 C 岁时就在 B 考试中[取得](https://terrytao.wordpress.com/career-advice/there’s-more-to-mathematics-than-grades-and-exams-and-methods/) A 等成绩。从长远来看，这些成就并非孩子职业生涯中最重要或最具决定性的时刻；而且，为了过度追求此类标准而可能获得的任何短期优势，都很可能因为占用了孩子在社交、情感、学业、体能或心智其他方面发展的时间与精力而得不偿失。当然，我们依然应当[努力学习和工作](https://terrytao.wordpress.com/career-advice/work-hard/)，如果孩子愿意，也应该[参与竞赛](https://terrytao.wordpress.com/career-advice/advice-on-mathematics-competitions/)；但竞赛和学业成就本身不应被视为终极目标，而应作为一种发展个人才能、积累经验、增长知识以及培养学科乐趣的途径。
+尽管如此，我还是可以提供几条**普适性的**建议。首先，我们不应过度聚焦于某个特定的人为基准，比如必须在 Z 年内从 Y [名校](https://terrytao.wordpress.com/career-advice/don’t-base-career-decisions-on-glamour-or-fame/)获得 X 学位，或是 C 岁时就在 B 考试中[取得](https://terrytao.wordpress.com/career-advice/there’s-more-to-mathematics-than-grades-and-exams-and-methods/) A 等成绩。从长远来看，这些成就并非孩子职业生涯中最重要或最具决定性的时刻；而且，为了过度追求此类标准而可能获得的任何短期优势，都很可能因为占用了孩子在社交、情感、学业、体能或心智其他方面发展的时间与精力而得不偿失。当然，孩子依然应当[努力学习和工作](https://terrytao.wordpress.com/career-advice/work-hard/)，有意愿的话也应该[参与竞赛](https://terrytao.wordpress.com/career-advice/advice-on-mathematics-competitions/)；但竞赛和学业成就本身不应被视为终极目标，而应作为一种发展个人才能、积累经验、增长知识以及培养学科乐趣的途径。
 
-其次，我感到[乐在其中](https://terrytao.wordpress.com/career-advice/enjoy-your-work/)至关重要；这才是支撑和驱动一个人贯穿其整个职业生涯、并使其免于职业倦怠的动力源泉。如果一位好心的家长，因为在培养孩子某学科天赋时操之过急（或关注不足），最终无意中扑灭了孩子对该学科的热爱，那将是一场悲剧。孩子教育的步调，更应由孩子自身的渴望所驱动，而非家长的热切期望。
+其次，我认为[享受自己的工作](https://terrytao.wordpress.com/career-advice/enjoy-your-work/)至关重要；这才是支撑和驱动一个人贯穿其整个职业生涯、使其免于过劳燃尽的动力源泉。如果家长在培养孩子某学科天赋时操之过急（或关注不足），本意是好的，最后却无意中扑灭了孩子对该学科的热爱，这将是一场悲剧。孩子教育的步调，更应由孩子本身而非家长的渴望所驱动。
 
 第三点，我们应当称赞孩子的努力和成就（这些是他们能够掌控的），而非他们与生俱来的天赋（这是他们无法掌控的）。[Po Bronson 的这篇文章](http://nymag.com/news/features/27840/)出色地阐述了这一点。亦可参阅《科学美国人》杂志的文章「[培养聪明孩子的秘诀](http://www.sciam.com/article.cfm?id=the-secret-to-raising-smart-kids)」以了解类似的观点。
 
-最后一点，我们应当在目标设定上[保持灵活性](https://terrytao.wordpress.com/career-advice/be-flexible/)。一个孩子最初可能在 X 领域展现天赋，但后来决定 Y 领域更令其愉悦或更适合自身发展。这或许是更好的选择，即便 Y 领域比 X 领域「[声望较低](https://terrytao.wordpress.com/career-advice/don’t-base-career-decisions-on-glamour-or-fame/)」；有时候，在一个自己感到得心应手且舒适自在的、不那么知名的领域工作，要胜过在一个「热门」但竞争激烈、自己却感到格格不入的领域发展。（亦可参阅[李嘉图的比较优势定律](http://en.wikipedia.org/wiki/Comparative_advantage)。）
+最后，我们应当在目标设定上[保持灵活性](https://terrytao.wordpress.com/career-advice/be-flexible/)。一个孩子最初可能在 X 领域展现天赋，但后来觉得Y领域更有趣或更适合自己。这或许是更好的选择，即便 Y 领域比 X 领域「[声望较低](https://terrytao.wordpress.com/career-advice/don’t-base-career-decisions-on-glamour-or-fame/)」；有时候，在自己感到得心应手且舒适自在的、不那么知名的领域工作，要胜过在「热门」但竞争激烈、不适合自己的领域发展。（亦可参阅[李嘉图的比较优势定律](http://en.wikipedia.org/wiki/Comparative_advantage)。）
 
-关于我本人的教育经历，在下列文章中有所探讨。尽管我对自己最终的发展结果感到非常满意，但我仍需再次提醒，每个孩子的情况、优势与不足各不相同，我的经验未必是他人理想的参照模板。
+关于我本人的教育经历，在下列文章中有所探讨。尽管我对自己的成长轨迹非常满意，但我仍要再次提醒，每个孩子的情况、优势与不足各不相同，我的经历未必是他人理想的参照模板。
 
 - “[Terence Tao](https://link.springer.com/article/10.1007/BF00312075)”, Ken Clements, Educational Studies in Mathematics, August 1984, Vol. 15, No. 3, 213-238
 
@@ -24,7 +24,7 @@
 
 - “[Insights from SMPY’s greatest former child prodigies: Drs. Terence (“Terry”) Tao and Lenhard (“Lenny”) Ng reflect on their talent development](http://gcq.sagepub.com/cgi/content/abstract/50/4/307)”, Michelle Muratori, Julian Stanley, Lenhard Ng, Jack Ng, Miraca Gross, Terence Tao, Billy Tao, Gifted Child Quarterly, Fall 2006, Vol. 50, No. 4, 307-324
 
-若需天才教育方面的专业建议，我可以推荐[约翰霍普金斯大学天才青少年中心](http://cty.jhu.edu/)（Center for Talented Youth）。亦可参阅我的[职业建议页面](https://terrytao.wordpress.com/career-advice/)。
+若需天才教育方面的专业建议，我推荐[约翰霍普金斯大学天才青少年中心](http://cty.jhu.edu/)（Center for Talented Youth）。亦可参阅我的[职业建议页面](https://terrytao.wordpress.com/career-advice/)。
 
 ## 关于智商（IQ）的附录
 
