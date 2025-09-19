@@ -12,7 +12,7 @@
 
 第三点，我们应当称赞孩子的努力和成就（这些是他们能够掌控的），而非他们与生俱来的天赋（这是他们无法掌控的）。[Po Bronson 的这篇文章](http://nymag.com/news/features/27840/)出色地阐述了这一点。亦可参阅《科学美国人》杂志的文章「[培养聪明孩子的秘诀](http://www.sciam.com/article.cfm?id=the-secret-to-raising-smart-kids)」以了解类似的观点。
 
-最后，我们应当在目标设定上[保持灵活性](https://terrytao.wordpress.com/career-advice/be-flexible/)。一个孩子最初可能在 X 领域展现天赋，但后来觉得Y领域更有趣或更适合自己。这或许是更好的选择，即便 Y 领域比 X 领域「[声望较低](https://terrytao.wordpress.com/career-advice/don’t-base-career-decisions-on-glamour-or-fame/)」；有时候，在自己感到得心应手且舒适自在的、不那么知名的领域工作，要胜过在「热门」但竞争激烈、不适合自己的领域发展。（亦可参阅[李嘉图的比较优势定律](http://en.wikipedia.org/wiki/Comparative_advantage)。）
+最后，我们应当在目标设定上[保持灵活性](https://terrytao.wordpress.com/career-advice/be-flexible/)。一个孩子最初可能在 X 领域展现天赋，但后来觉得 Y 领域更有趣或更适合自己。这或许是更好的选择，即便 Y 领域比 X 领域「[声望较低](https://terrytao.wordpress.com/career-advice/don’t-base-career-decisions-on-glamour-or-fame/)」；有时候，在自己感到得心应手且舒适自在的、不那么知名的领域工作，要胜过在「热门」但竞争激烈、不适合自己的领域发展。（亦可参阅[李嘉图的比较优势定律](http://en.wikipedia.org/wiki/Comparative_advantage)。）
 
 关于我本人的教育经历，在下列文章中有所探讨。尽管我对自己的成长轨迹非常满意，但我仍要再次提醒，每个孩子的情况、优势与不足各不相同，我的经历未必是他人理想的参照模板。
 
@@ -28,8 +28,8 @@
 
 ## 关于智商（IQ）的附录
 
-互联网上存在各种声称我拥有极高智商（IQ）数值的说法。尽管大众对这一数据抱有浓厚兴趣，但实际上它在学术界（心理测量学等专业领域除外）并不扮演任何角色；例如，它在大学录取（与 SAT 或 GRE 等标准化考试不同）或求职申请中，均无任何官方或非官方的作用。尽管如此，我还是时常被问及这个数字的来源。
+网络上有各种来源声称我拥有极高的智商（IQ）数值。尽管大众对这一数据极为着迷，但实际上它在学术界（心理测量学等专业领域除外）并不扮演任何角色；例如，它在大学录取（与 SAT 或 GRE 等标准化考试不同）或求职申请中，均无任何官方或非官方的作用。尽管如此，我还是时常被问及这个数字的来源。
 
-我六岁时曾接受过斯坦福-比奈智力测验（Stanford Binet test），所得分数相当于一个普通 14 岁孩子能够达到的水平。基于此，通过简单的除法可以推断出我的智商略高于 220，但这类测试在如此高的分段上误差极大，若考虑到实际的误差范围，一个更准确的估计应为「高于 175」。此事记载于 Miraca Gross 的著作《[天赋超常的儿童们](https://books.google.com/books?id=IPPO-a_UWOIC)》（Exceptionally gifted children）一书中，我在书中使用了化名「Adrian Seng」；相关摘录可见[此处](https://terrytao.wordpress.com/wp-content/uploads/2025/03/main-qimg-d805281d403bfcd7927dcc94fd5b2e2f-pjlq.jpeg)。
+我六岁时，曾接受过斯坦福-比奈智力测验（Stanford Binet test），所得分数与一位普通 14 岁少年所能达到的水平相当。基于此，通过简单的除法可以推断出我的 IQ 略高于 220，但这类测试在如此高的分段上误差极大，若考虑到实际的误差范围，一个更准确的估计应为「高于 175」。此事记载于 Miraca Gross 的著作《[天赋超常的儿童们](https://books.google.com/books?id=IPPO-a_UWOIC)》（Exceptionally gifted children）一书中，我在书中使用了化名「Adrian Seng」；相关摘录可见[此处](https://terrytao.wordpress.com/wp-content/uploads/2025/03/main-qimg-d805281d403bfcd7927dcc94fd5b2e2f-pjlq.jpeg)。
 
 但是，没有理由认为这个比率在我之后的年龄段会持续不变；我确实在八岁时参加过其他一些认知能力测试（详见上文链接的 Clements 的文章），但此后便再未接受过此类测试。
