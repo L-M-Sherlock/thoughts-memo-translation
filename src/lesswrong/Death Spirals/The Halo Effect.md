@@ -1,6 +1,6 @@
 # 晕轮效应
 
-[The Halo Effect](https://www.readthesequences.com/The-Halo-Effect)
+原文：[The Halo Effect](https://www.readthesequences.com/The-Halo-Effect)
 
 [情感启发式](https://www.readthesequences.com/The-Affect-Heuristic)指的是，整体的好恶情绪会促成许多不同的决策和判断，无论这种影响是否合乎逻辑，也无论你是否意识到它的存在。例如，被告知核能益处的受试者，往往倾向于认为其风险更低；而证券分析师在面对不熟悉的股票时，也常会给出总体良好或总体不佳的评价——即低风险高收益，或高风险低收益——这与常规经济理论相悖，因为理论认为风险与收益应呈正相关。
 
