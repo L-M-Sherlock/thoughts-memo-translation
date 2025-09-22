@@ -728,6 +728,7 @@
     * [晕轮效应](lesswrong/Death%20Spirals/The%20Halo%20Effect.md)
     * [罗伯斯山洞实验](lesswrong/Death%20Spirals/The%20Robbers%20Cave%20Experiment.md)
     * [无界标度、陪审团巨额裁决与未来预言](lesswrong/Death%20Spirals/Unbounded%20Scales%20Huge%20Jury%20Awards%20and%20Futurism.md)
+    * [Uncritical Supercriticality.md](lesswrong/Death%20Spirals/Uncritical%20Supercriticality.md)
     * [当无人敢于呼吁克制](lesswrong/Death%20Spirals/When%20None%20Dare%20Urge%20Restraint.md)
   * [辩论：要不要拿大学学位？](lesswrong/Debate%20Get%20a%20college%20degree.md)
   * [调试学生](lesswrong/Debugging%20the%20student.md)
