@@ -1188,6 +1188,7 @@
       * [智商（IQ）对于衡量智力是低劣的标准](woz/prose/other/IQ%20is%20a%20dismal%20measure%20of%20intelligence.md)
       * [渐进生活](woz/prose/other/Incremental%20life.md)
       * [渐进式玩具赠送](woz/prose/other/Incremental%20toy%20giving.md)
+      * [不可逆的适应不良](woz/prose/other/Irreversible%20maladaptability.md)
       * [良性压力的机制](woz/prose/other/Mechanics%20of%20eustress.md)
       * [生产力的微规则](woz/prose/other/Microrules%20of%20productivity.md)
       * [斯多葛主义的现代重新诠释](woz/prose/other/Modern%20reinterpretation%20of%20stoicism.md)

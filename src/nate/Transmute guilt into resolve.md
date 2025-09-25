@@ -40,7 +40,7 @@
 
 这就是为什么数月前我的「超越内疚」系列要从解决[倦怠型内疚：无所事事引起的愧疚感](https://mindingourway.com/replacing-guilt/)开始。有时候，愧疚是一种提醒/信号，告诉/提醒你「你并没有做你认为正确的事」，而这些提醒/信号可能是有价值的。
 
-但我认识的大多数受负罪感驱动（guilt-motivated）的人，其实并不符合这种「愧疚是健康提醒?」的模式。他们中许多人毕生致力于让世界更美好，他们通过专注自身本职和保持身心健康所行的善举、所能创造的价值，远远多于担心街上的一个乞丐，或一千个他们无力拯救的挨饿家庭所带来的改善。他们却责备自己[休息太多](https://mindingourway.com/stop-before-you-drop/)，责备自己做不到[心理和生理?上不可能][psychologically impossible](https://mindingourway.com/where-coulds-go/)的事，责备自己不如周围人聪明、高效、富有或善良。
+但我认识的大多数受负罪感驱动（guilt-motivated）的人，其实并不符合这种「愧疚是健康提醒?」的模式。他们中许多人毕生致力于让世界更美好，他们通过专注于自身工作和健康所行的善举、所能创造的价值，远远多于担心街上的一个乞丐，或一千个他们无力拯救的挨饿家庭所带来的改善。他们苛责自己：责备自己[休息得太多](https://mindingourway.com/stop-before-you-drop/)，责备自己做不到[心理和生理?上不可能][psychologically impossible](https://mindingourway.com/where-coulds-go/)的事，责备自己不如周围人聪明、高效、富有或善良。
 
 我说/对此，我会说：是的，乞丐在受苦。是的，一千个家庭在挨饿。世界正在受伤。  
 
