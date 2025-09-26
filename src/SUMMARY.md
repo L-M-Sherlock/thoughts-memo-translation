@@ -719,6 +719,7 @@
     * [邪教式反邪](lesswrong/Death%20Spirals/Cultish%20Countercultishness.md)
     * [可评估性（与假期购物省钱技巧）](lesswrong/Death%20Spirals/Evaluability%20and%20Cheap%20Holiday%20Shopping.md)
     * [Every Cause Wants to Be a Cult](lesswrong/Death%20Spirals/Every%20Cause%20Wants%20to%20Be%20a%20Cult.md)
+    * [安·兰德的守护者](lesswrong/Death%20Spirals/Guardians%20of%20Ayn%20Rand.md)
     * [Guardians of the Gene Pool.md](lesswrong/Death%20Spirals/Guardians%20of%20the%20Gene%20Pool.md)
     * [孤勇的反抗](lesswrong/Death%20Spirals/Lonely%20Dissent.md)
     * [论表达顾虑](lesswrong/Death%20Spirals/On%20Expressing%20Your%20Concerns.md)
