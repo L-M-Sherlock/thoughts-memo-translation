@@ -1,1 +1,7 @@
-施工中 # Uncritical Supercriticality
+ # 盲目的超临界状态
+
+[Uncritical Supercriticality](https://www.readthesequences.com/Uncritical-Supercriticality)
+
+人们时不时会围绕无神论是否属于一种「宗教」展开争论。正如我在其他地方——例如在[目的与实用主义](https://www.greaterwrong.com/lw/lf/purpose_and_pragmatism/)一文——所谈及的，争论一个词的定义，往往意味着你已经偏离了最初问题的核心。那么，这样的争论，究竟是如何产生的呢？
+
+一无神论者滔滔不绝地指责宗教，认为其要为异端审判、十字军东征，以及与伊斯兰教有关或内部的种种冲突负责。而作为反驳方的宗教信徒则会回应：「可无神论同样是一种宗教，毕竟你也对上帝抱有信仰，只不过你相信的是上帝并不存在。」对此，无神论者会反驳：「如果无神论是一种宗教，那么不集邮也算是一种爱好了。」这类争论，便由此展开。

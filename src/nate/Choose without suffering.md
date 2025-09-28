@@ -1,4 +1,4 @@
- # 不痛苦地选择
+ # 无痛选择
 
 原文：[Choose without suffering](https://mindingourway.com/choose-without-suffering/)
 

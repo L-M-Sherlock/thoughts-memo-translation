@@ -24,7 +24,7 @@
 
     -   [切勿仅凭光环或名望做职业决定](https://terrytao.wordpress.com/career-advice/don’t-base-career-decisions-on-glamour-or-fame/)。但你应该[尝试在不同的地方求学](https://terrytao.wordpress.com/career-advice/study-at-different-places/)。
 
-    -   [在数学上取得成功一定要是天才吗？](https://terrytao.wordpress.com/career-advice/does-one-have-to-be-a-genius-to-do-maths/)
+    -   [一定要是天才才能在数学上取得成功吗？](https://terrytao.wordpress.com/career-advice/does-one-have-to-be-a-genius-to-do-maths/)
 
     -   我于 2022 年在哈维穆德学院毕业典礼上的演讲（[视频](https://www.youtube.com/watch?v=jE-vY5-3zhU&t=1768s)）。
 
