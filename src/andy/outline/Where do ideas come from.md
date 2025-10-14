@@ -26,6 +26,6 @@
 
 - Rowe, G., Hirsh, J. B., & Anderson, A. K. (2007). Positive affect increases the breadth of attentional selection. Proceedings of the National Academy of Sciences, 104(1), 383–388. https://doi.org/10.1073/pnas.0605198104
 
-  - 本研究考察这样的观点：积极情绪可能有助于扩大注意力过滤机制的允许范围，降低其选择性。
+  - 本研究考察这样的观点：积极情感可能有助于扩大注意力过滤机制的允许范围，降低其选择性。
 
   - 与积极情绪下广泛的注意力集中和增强的创造性问题解决相呼应，创造性智力的个体差异与注意力过滤的减少有关。例如，有创造力的人已被证明表现出较少的潜在抑制，这是对被认为不相关的刺激物的注意力下降的测量（54）。

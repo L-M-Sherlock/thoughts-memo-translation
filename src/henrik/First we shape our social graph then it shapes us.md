@@ -2,7 +2,7 @@
 
 原文：[First we shape our social graph; then it shapes us](https://www.henrikkarlsson.xyz/p/first-we-shape-our-social-graph-then)
 
-[Henrik Karlsson](https://substack.com/@henrikkarlsson)
+作者：[Henrik Karlsson](https://substack.com/@henrikkarlsson)
 
 2022 年 9 月 7 日
 

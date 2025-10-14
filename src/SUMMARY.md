@@ -726,7 +726,7 @@
   * [Bring up Genius.md](lesswrong/Bring%20up%20Genius.md)
   * [Death Spirals](lesswrong/Death%20Spirals/intro.md)
     * [情感死亡螺旋](lesswrong/Death%20Spirals/Affective%20Death%20Spirals.md)
-    * [Aschs Conformity Experiment.md](lesswrong/Death%20Spirals/Aschs%20Conformity%20Experiment.md)
+    * [Asch 的从众实验](lesswrong/Death%20Spirals/Aschs%20Conformity%20Experiment.md)
     * [邪教式反邪](lesswrong/Death%20Spirals/Cultish%20Countercultishness.md)
     * [可评估性（与假期购物省钱技巧）](lesswrong/Death%20Spirals/Evaluability%20and%20Cheap%20Holiday%20Shopping.md)
     * [群体信念的蒸发淬炼](lesswrong/Death%20Spirals/Evaporative%20Cooling%20of%20Group%20Beliefs.md)

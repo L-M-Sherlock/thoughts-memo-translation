@@ -1,4 +1,4 @@
-#Asch的从众实验
+# Asch 的从众实验
 
 [Asch’s Conformity Experiment](https://www.readthesequences.com/Aschs-Conformity-Experiment)
 
