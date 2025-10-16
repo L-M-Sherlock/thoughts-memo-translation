@@ -822,7 +822,7 @@
   * [自我信号：你能做你想做之事](nate/Selfsignaling%20the%20ability%20to%20do%20what%20you%20want.md)
   * [转移内疚感](nate/Shifting%20guilt.md)
   * [「应该」一词的危害](nate/Should%20considered%20harmful.md)
-  * [仅是去确认你身处何处](nate/Simply%20locate%20yourself.md)
+  * [只需为自己定位](nate/Simply%20locate%20yourself.md)
   * [停止「努力去尝试」](nate/Stop%20trying%20to%20try%20and%20try.md)
   * [回应的艺术](nate/The%20Art%20of%20Response.md)
   * [邮票收集者](nate/The%20Stamp%20Collector.md)
