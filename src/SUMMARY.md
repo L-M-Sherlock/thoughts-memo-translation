@@ -482,7 +482,7 @@
   * [甚至连日托都没有](bryan/Not%20Even%20Daycare.md)
   * [学校是为了浪费时间和金钱](bryan/School%20Is%20for%20Wasting%20Time%20and%20Money.md)
   * [教学的艺术](bryan/Teaching%20Teaching.md)
-  * [普通的孩子，远胜普通的成人](bryan/The%20Average%20Kid%20is%20Better%20Than%20the%20Average%20Adult.md)
+  * [普通的小孩，远胜普通的大人](bryan/The%20Average%20Kid%20is%20Better%20Than%20the%20Average%20Adult.md)
 * [cedric](cedric/intro.md)
   * [加速专业技能养成](cedric/Accelerated%20Expertise.md)
   * [行动产生信息](cedric/Action%20Produces%20Information.md)
