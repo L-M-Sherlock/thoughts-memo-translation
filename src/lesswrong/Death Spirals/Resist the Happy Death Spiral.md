@@ -8,11 +8,11 @@
 
 （当然，科学并非由培根一手创造，但他确实作了贡献，并且可能是第一个意识到其威力的人。）
 
-这就是问题所在：你决心不再那么强烈地去推崇任何事物——可偏偏有些想法，确实**是**如此卓越。尽管至今还没有人提出比培根更大胆且已**得到实现的**理念，至少目前尚未出现。
+这就是当你决心不再过分推崇任何事物时会遇到的问题：偏偏有些思想**就是**如此了不起。尽管没有人**实现过**比培根提出的还要大胆的构想，至少目前还没人能做到。
 
-然而，对于科学本身，我们该如何避免坠入这种[快乐死亡螺旋](https://www.readthesequences.com/Affective-Death-Spirals)？当你开始相信某个事物**如此**完美之时，这一螺旋便悄然启动——[晕轮效应](https://www.readthesequences.com/The-Halo-Effect)会让你不断注意到它**更多的**优点，而这些优点之间彼此呼应、相互增强，使你**愈发**觉得它美妙非凡。如此循环往复，最终坠入认知的深渊。但假如科学**真的**如此伟大，以至于我们无法完全认识其光辉，无法保持理性呢？——这听起来难道不令人心动吗？不好了……**它，已经开始了...**
+但如此一来，我们该如何抵挡这种针对科学本身产生的[快乐死亡螺旋](https://www.readthesequences.com/Affective-Death-Spirals)？当你开始相信某个事物**如此**美妙时，这种螺旋便悄然启动——[晕轮效应](https://www.readthesequences.com/The-Halo-Effect)会让你不断注意到它**更多的**优点，使你**愈发**觉得它美妙非凡。如此循环往复，最终坠入认知的深渊。假如科学**真的**那么有用，有用到我们无法认清它的真正光辉，无法保持理智，那会怎样呢？这听起来难道不令人心动吗？**不好它要开始了忄夬⻊包……**
 
-如果你回想那些关于**不应过分崇拜科学**这一主张的所谓[标准的](https://www.readthesequences.com/The-Outside-The-Box-Box) 、[缓存的](https://www.readthesequences.com/Cached-Thoughts)（非第一性原理获得的）[深刻知识](https://www.readthesequences.com/How-To-Seem-And-Be-Deep) ，往往会听到这样的说法：“科学既带来了空调，也制造了氢弹”，或者“科学能解释恒星和生命，却[既不能证明、也不能否定](https://www.readthesequences.com/Religions-Claim-To-Be-Non-Disprovable) [我车库里有一条看不见的龙](https://www.readthesequences.com/Belief-In-Belief)（主张者总可通过不断修正龙的理论，来‘解释’一切反例）”。然而，这些观点的**最初**提出者，其实并**非**意在抵抗对科学的快乐死亡螺旋。他们并不真正担心自己对科学的推崇会失控；更可能的是，他们不愿接受科学对自己所珍视的信念做出批判，因而试图削弱科学本身的权威。
+如果你回想那些关于**不应过分崇拜科学**这一主张的所谓[标准的](https://www.readthesequences.com/The-Outside-The-Box-Box) 、[缓存的](https://www.readthesequences.com/Cached-Thoughts)[深刻知识](https://www.readthesequences.com/How-To-Seem-And-Be-Deep) ，往往会听到这样的说法：「科学既带来了空调，也制造了氢弹」，或者「科学能解释恒星和生命，却[既不能证明、也不能否定](https://www.readthesequences.com/Religions-Claim-To-Be-Non-Disprovable) [我车库里有一条看不见的龙](https://www.readthesequences.com/Belief-In-Belief)」。然而，**最初提出**这些观点的人，其实并**非**意在抵抗对科学的快乐死亡螺旋。他们并不真正担心自己对科学的推崇会失控；更可能的是，他们不愿接受科学对自己所珍视的信念做出批判，因而试图削弱科学本身的权威。
 
 那些所谓**标准的**对科学的批评，本就难以吸引真正对科学感到欣喜的人——因为它们本就不是为这些人准备的。因此，我们必须转向其他形式的反思。
 

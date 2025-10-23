@@ -1,8 +1,8 @@
-# 谈导师
+# 论导师
 
 原文：[On mentors - by Henrik Karlsson - Escaping Flatland](https://www.henrikkarlsson.xyz/p/on-mentors)
 
-[Henrik Karlsson](https://substack.com/@henrikkarlsson)
+作者：[Henrik Karlsson](https://substack.com/@henrikkarlsson)
 
 2023 年 11 月 9 日
 
