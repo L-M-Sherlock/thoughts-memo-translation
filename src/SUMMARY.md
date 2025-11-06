@@ -798,7 +798,7 @@
   * [无法绝望](nate/Being%20unable%20to%20despair.md)
   * [关心比自己更宏大的事](nate/Caring%20about%20something%20larger%20than%20yourself.md)
   * [Choose without suffering.md](nate/Choose%20without%20suffering.md)
-  * [Come to your terms.md](nate/Come%20to%20your%20terms.md)
+  * [达成和解](nate/Come%20to%20your%20terms.md)
   * [「超越内疚」系列结语](nate/Conclusion%20of%20the%20Replacing%20Guilt%20series.md)
   * [全力阶梯覆盖式自信](nate/Confidence%20all%20the%20way%20up.md)
   * [黑暗，但并非没有色彩](nate/Dark%20Not%20Colorless.md)

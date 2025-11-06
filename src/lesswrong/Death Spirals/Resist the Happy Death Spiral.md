@@ -24,7 +24,7 @@
 
 遗憾的是，大多数试图把科学禁锢在某个精致小领域中的计划都以惨败告终。像是「嘿，科学可治不好癌症」这种常用话术根本站不住脚。「科学无法研究父母对子女的爱」——不好意思，这也是[错的](https://www.readthesequences.com/Evolutionary-Psychology)。如果执意要把科学与父母之爱这样的领域切割开来，就不只是在否定认知科学与进化心理学，更是在无视像玛蒂娜·罗斯布拉特（Martine Rothblatt）那样的人：她创立联合治疗公司（United Therapeutics），最初就是为了寻找治愈她女儿肺动脉高压的方法。（并且补充一下，她成功了。）科学早已通过这样或那样的方式，与人类生存的每一个重要维度紧密交织。
 
-好，那么关于科学的美好**误解**又有哪些呢？
+好，那么关于科学的正面但**错误**的论断又有哪些呢？
 
 在我看来，一个典型的错误观点是：科学本身如此完美，以至于科学家[甚至无需为其工作的道德后果承担责任](https://web.archive.org/web/20120617135456/http://singinst.org/blog/2007/10/21/should-ethicists-be-inside-or-outside-a-profession/)——仿佛科学自动就会导向良善的结局。在我看来，这种主张似乎误解了科学造福人类的真实过程。科学家也是人，他们与大多数人一样具有亲社会的关怀和道德意识，而这至少是科学最终利大于弊的**部分**原因。
 
@@ -36,15 +36,15 @@
 
 快乐的死亡螺旋只是一个情绪问题，它根植于一种感知问题——即晕轮效应：一旦我们接受了某个初步的积极论断，就更容易持续接纳更多的正面论断。我们无法仅凭意愿就摆脱这种效应；它始终会在某种程度上影响着我们。然而，我们可以有意识地放缓脚步，停下来，将每一个额外的美好主张都视为[需要投入精力去剖析的细节](https://www.readthesequences.com/Burdensome-Details)，将注意力聚焦于这些主张背后具体的要点。
 
-如果一个关于美好主张的具体说法虽然「无法证伪」，却存在「正反」两方面的争论，这时我们该如何看待？实际上，这类表述往往需要警惕——因为它们常常出现在人们[用既有证据进行预演](https://www.readthesequences.com/One-Argument-Against-An-Army)（目的是防御相反论点而非更新信念）或[回避真正的弱点](https://www.readthesequences.com/Avoiding-Your-Beliefs-Real-Weak-Points)（只对信念中最牢固的部分提出无法驳倒的质疑，却回避思考自身立场中最脆弱的环节）的情况下。考虑到“快乐死亡螺旋”所带来的危险，我们应尽量克制自己对**尚未验证的**主张过早感到欣喜——避免让它们成为对你已有偏好产生更多积极情感的源泉——这种做法是明智的。
+如果一个关于美好主张的具体说法虽然「无法证伪」，却存在「正反」两方面的争论，这时我们该如何看待？实际上，这类表述往往需要警惕——因为它们常常出现在人们[用既有证据进行预演](https://www.readthesequences.com/One-Argument-Against-An-Army)或[回避真正的弱点](https://www.readthesequences.com/Avoiding-Your-Beliefs-Real-Weak-Points)的情况下。考虑到快乐死亡螺旋所带来的危险，我们应尽量克制自己对**尚未验证的**主张过早感到欣喜——避免让它们成为对你已有偏好产生更多积极情感的源泉——这种做法是明智的。
 
 快乐死亡螺旋之所以会演变为**严重的**情绪问题，是因为过度积极的反馈机制——即那种让积极主张不断共振、直至突破临界点的能力。你或许无法完全消除晕轮效应，但可以借助充分的审辨思维，将其维持在亚临界状态——从而确保共振逐渐消退，而非爆发。
 
-甚至可以说，整个问题的起因在于：一旦人们接受了某个核心前提，就往往不再愿对后续每一个繁琐细节进行批判性审视（例如要求证据[强度](https://www.readthesequences.com/How-Much-Evidence-Does-It-Take) 与模型[复杂度](https://www.readthesequences.com/Occams-Razor)相匹配、[寻找被刻意过滤的](https://www.readthesequences.com/What-Evidence-Filtered-Evidence) 反例与支持信息、激发[对不确定性的好奇](https://www.readthesequences.com/The-Meditation-On-Curiosity)）。只要能做到这一点，并避免[合取谬误](https://www.greaterwrong.com/lw/ji/conjunction_fallacy/)（即错误地认为多个事件同时发生的概率高于其中任一事件单独发生的概率）——那么即便晕轮效应仍然存在，也有望阻止快乐死亡螺旋的形成。
+甚至可以说，整个问题的起因在于：一旦人们接受了某个核心前提，就往往不再愿对后续每一个繁琐细节进行批判性审视（例如要求证据[强度](https://www.readthesequences.com/How-Much-Evidence-Does-It-Take) 与模型[复杂度](https://www.readthesequences.com/Occams-Razor)相匹配、[寻找被刻意过滤的](https://www.readthesequences.com/What-Evidence-Filtered-Evidence) 反例与支持信息、激发[对不确定性的好奇](https://www.readthesequences.com/The-Meditation-On-Curiosity)）。只要能做到这一点，并避免[合取谬误](https://www.greaterwrong.com/lw/ji/conjunction_fallacy/)，那么即便晕轮效应仍然存在，也有望阻止快乐死亡螺旋的形成。
 
 即便面对宇宙间至善至美之物，一个彻底的理性主义者也会对每一个附加的（积极的）主张，都坚持要求与之相称的证据——他们不会陷入积极情感的共振循环。我们虽无法完全达到此境界，却可无限趋近理性，从而避免快乐沦为失控的螺旋。
 
-真正危险的情形是：**任何对伟大事物的积极主张提出批评，都会令人感到不适、甚至被社会排斥**。于是，[争论变成了士兵，每一条积极的主张都是我方的士兵，而对它们提出批评，则如同在背后捅刀——等同于叛国](https://www.readthesequences.com/Politics-Is-The-Mind-Killer) 。（一旦你确定了自己所属的阵营，就必须支持该阵营的一切论点，并攻击所有看似有利于敌方的论证；否则就如同从背后刺杀自己的士兵，资敌助敌。）此时，积极情感的共振反应便进入了**超**临界状态。
+真正危险的情形是：**任何对伟大事物的积极主张提出批评，都会令人感到不适、甚至被社会排斥**。于是，[争论变成了士兵，每一条积极的主张都是我方的士兵，而对它们提出批评，则如同在背后捅刀——等同于叛国](https://www.readthesequences.com/Politics-Is-The-Mind-Killer) 。此时，积极情感的共振反应便进入了**超**临界状态。
 
 斯图尔特·阿姆斯特朗（Stuart Armstrong）提出一个密切相关的建议：
 
@@ -60,7 +60,7 @@
 
 - 将伟大的想法分成几个部分；
 
-- 将每一个额外的细节都视为负担；
+- 将每一个额外的细节都视为需要投入精力去剖析的；
 
 - 思考因果链的具体细节，而不是好或坏的感觉；
 
@@ -68,7 +68,7 @@
 
 - 不从「你无法**证明**是错的」主张中增加幸福感；
 
-但**不是**通过:
+而**不是**:
 
 - 拒绝过分崇拜任何事物；
 

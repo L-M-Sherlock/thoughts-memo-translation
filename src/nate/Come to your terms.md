@@ -1,4 +1,4 @@
-达成和解
+# 达成和解
 
 原文：[Come to your terms](https://mindingourway.com/come-to-your-terms/)
 
