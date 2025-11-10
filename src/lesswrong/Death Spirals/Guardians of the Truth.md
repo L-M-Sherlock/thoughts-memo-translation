@@ -1,4 +1,4 @@
-# 真理的守护者
+校对中# 真理的守护者
 
 原文：[Guardians of the Truth](https://www.readthesequences.com/Guardians-Of-The-Truth)
 
