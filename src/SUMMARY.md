@@ -576,7 +576,7 @@
   * [有可能开展真正的教育改革吗? 如果可能，怎么办？](gray/Is%20Real%20Educational%20Reform%20Possible%20If%20So%20How.md)
   * [孩子对自己学习做主时，学数学更轻松](gray/Kids%20Learn%20Math%20Easily%20When%20They%20Control%20Their%20Own%20Learning.md)
   * [学习需要自由](gray/Learning%20Requires%20Freedom.md)
-  * [无形的绳索如何扼杀心灵](gray/Letter%2041.%20How%20the%20Leash%20Chokes%20the%20Spirit.md)
+  * [无形的拴链如何窒息心灵](gray/Letter%2041.%20How%20the%20Leash%20Chokes%20the%20Spirit.md)
   * [第 51 封信：「共同核心课程标准」是 2010 年以来美国青少年心理健康状况恶化的主因](gray/Letter%2051.%20Common%20Core%20Is%20the%20Main%20Cause%20of%20Youth%20Mental%20Health%20Deterioration%20Since%202010.md)
   * [宣言 2015 ：启动教育革命](gray/Manifesto%2015%20Triggering%20the%20Education%20Revolution.md)
   * [弥合贫富学生的学业成绩差距](gray/Mend%20the%20Gap%20Between%20Rich%20and%20Poor%20in%20School%20Achievement.md)
