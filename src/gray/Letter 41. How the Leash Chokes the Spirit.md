@@ -4,7 +4,7 @@
 
 ### **如果有人「为了你好」而对你进行持续的监视和控制，你感觉如何？**
 
-原文：[Peter Gray](https://substack.com/@petergray)
+作者：[Peter Gray](https://substack.com/@petergray)
 
 2024 年 5 月 22 日
 

@@ -524,7 +524,7 @@
   * [「为什么学生不喜欢上学？」呃，呵呵……](gray/22Why%20Dont%20Students%20Like%20School22%20Well%20Duhhhha.md)
   * [37. 学校是如何毁掉课间休息的](gray/37.%20How%20Schools%20Ruin%20Recess.md)
   * [48. 多些玩耍，少些治疗](gray/48.%20More%20Play%20Less%20Therapy.md)
-  * [**在公共空间自由出行的权利**](gray/52.%20Childrens%20Rights%20and%20Adults%20Wrongs.md)
+  * [52. 成人之失，儿童之权](gray/52.%20Childrens%20Rights%20and%20Adults%20Wrongs.md)
   * [经济不平等：高压式育儿的推手](gray/58.%20Economic%20Inequality%20as%20a%20Driver%20of%20Intensive%20Parenting.md)
   * [「成瘾」与「障碍」这两个术语，为何会干扰我们理解和处理网络滥用问题？——六大理由剖析](gray/64.%20Six%20Reasons%20Why%20the%20Terms%20Addiction%20and%20Disorder%20Interfere%20with%20Understanding%20and%20Treating%20Problematic%20Internet.md)
   * [妈妈必须成为孩子的一切吗？](gray/67.%20Must%20Moms%20Be%20Everything%20to%20Their%20Kids.md)
