@@ -735,7 +735,7 @@
     * [Asch 的从众实验](lesswrong/Death%20Spirals/Aschs%20Conformity%20Experiment.md)
     * [邪教式反邪](lesswrong/Death%20Spirals/Cultish%20Countercultishness.md)
     * [可评估性（与假期购物省钱技巧）](lesswrong/Death%20Spirals/Evaluability%20and%20Cheap%20Holiday%20Shopping.md)
-    * [群体信念的蒸发淬炼](lesswrong/Death%20Spirals/Evaporative%20Cooling%20of%20Group%20Beliefs.md)
+    * [群体信念的蒸发冷却](lesswrong/Death%20Spirals/Evaporative%20Cooling%20of%20Group%20Beliefs.md)
     * [Every Cause Wants to Be a Cult](lesswrong/Death%20Spirals/Every%20Cause%20Wants%20to%20Be%20a%20Cult.md)
     * [安·兰德的卫道士](lesswrong/Death%20Spirals/Guardians%20of%20Ayn%20Rand.md)
     * [基因池的守护者](lesswrong/Death%20Spirals/Guardians%20of%20the%20Gene%20Pool.md)
