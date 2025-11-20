@@ -4,7 +4,7 @@
 
 2016 年 2 月 28 日
 
-今天，我关于超越内疚的系列文章（[目录](https://mindingourway.com/guilt)）正式落下帷幕。
+今天，我的「超越内疚」系列（[目录](https://mindingourway.com/guilt)）正式落下帷幕。
 
 我[在本系列开篇](https://mindingourway.com/replacing-guilt/)探讨了那种「挥之不去的内疚感」——当人们内心深处某个部分认为自己没有在做重要的事情时，便会感受到这种内疚。我认为，无论虚无主义者如何说，我们都可能去[关心自身之外的事物](https://mindingourway.com/the-stamp-collector/)，以及那些[比自身更宏大的事物](https://mindingourway.com/caring-about-some/)。
 
