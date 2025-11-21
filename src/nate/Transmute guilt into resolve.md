@@ -1,4 +1,4 @@
-化内疚为决心
+# 化内疚为决心
 
 原文：[Transmute guilt into resolve](https://mindingourway.com/transmute-guilt-i/)
 
