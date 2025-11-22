@@ -18,4 +18,4 @@
 
 >
 
-> —尤金·简德林（Eugene Gendlin）
+> ——**尤金·简德林（Eugene Gendlin）**

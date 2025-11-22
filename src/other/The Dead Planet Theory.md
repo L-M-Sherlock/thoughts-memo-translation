@@ -2,25 +2,25 @@
 
 原文：[The Dead Planet Theory - a_real_society’s Substack](https://arealsociety.substack.com/p/the-dead-planet-theory)
 
-### 没人真正「做事」，门槛比你想象的低得多
+### 没人在真正「做事」，门槛比你想象的低得多
 
 作者：[a_real_society](https://substack.com/@arealsociety)
 
 2025 年 2 月 21 日
 
-人人都爱谈论[「死亡互联网理论」](https://en.wikipedia.org/wiki/Dead_Internet_theory)，但鲜有人讨论的是，在任何领域、任何平台上，真正「做事」的人是何其稀少。这一现象有许多名称，包括[幂律分布、帕累托原则和二八定律](https://dlab.berkeley.edu/news/explaining-80-20-rule-pareto-distribution#:~:text=He famously observed that 80,alpha”) and Xm.)。一个典型的例子是，[Twitter 上 10% 的用户贡献了 92% 的推文](https://thesocialshepherd.com/blog/twitter-statistics)。这种动态在人际关系、兴趣爱好和职业生涯中随处可见。你可以利用这一点迅速脱颖而出，或者仅仅是为了从日常所为中获得更多乐趣。在宏大的世界中，这一原则的影响力或许难以察觉，但一旦我们将人、事、物按类别和兴趣进行划分，它便立刻显现出来。
+人们都爱谈论[「死亡互联网理论」](https://en.wikipedia.org/wiki/Dead_Internet_theory)，但却往往很少讨论——在各个领域、平台上，真正「做事」的人是何其稀少。对于这种现象的描述，有许多众所周知的概念，包括像[幂律分布、帕累托原则和二八定律](https://dlab.berkeley.edu/news/explaining-80-20-rule-pareto-distribution#:~:text=He famously observed that 80,alpha”) and Xm.)。一个典型的例子是，[Twitter 上 10% 的用户贡献了 92% 的推文](https://thesocialshepherd.com/blog/twitter-statistics)。我们经常可以在人际关系、兴趣爱好、职业经历中观察到这种动态现象。对这一现象的利用，（往大了说）可以帮助你（在竞争中）迅速跻身前列，（往小了说）也能让你在日复一日的枯燥劳动之外，感受到更多快乐。在宏观世界层面，或许我们很难察觉这一原则的影响力，但一旦我们将人、事、物按类别和兴趣进行划分后，它的影响力便会立刻显现出来。
 
 ![img](https://substackcdn.com/image/fetch/$s_!R__-!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6804788d-0bec-481e-a064-3405d3cb219d_2364x1440.png)
 
-要想直观地感受[真正参与生活](https://arealsociety.substack.com/p/what-it-means-to-play-the-game?r=99bhj)的人有多么少，一个绝佳的方式是观察竞技游戏的段位分布。在《漫威争锋》中，所有玩家的初始段位都是青铜III。几乎所有真正玩了排位赛的玩家，无论打得多烂，段位都会上升。因此，我们可以看到，超过 30% 的玩家甚至从未玩过排位赛。**仅仅是玩上一局排位赛，你就已经超越了 30% 的玩家。** 我们可以看看其他领域，比如电影，来进一步印证这一点。
+要想直观地感受[真正参与生活](https://arealsociety.substack.com/p/what-it-means-to-play-the-game?r=99bhj)的人有多么少，一个绝佳的方式是观察竞技游戏的段位分布。在《漫威争锋》中，所有玩家的初始段位都是青铜III。几乎所有真正玩了排位赛的玩家，无论打得多烂，段位都会上升。因此，我们可以看到，超过 30% 的玩家甚至从未玩过排位赛。**仅仅是玩上一局排位赛，你就已经超越了 30% 的玩家。** 我们可以放眼观察其他领域来进一步印证这一点，比如说电影行业。
 
 ![img](https://substackcdn.com/image/fetch/$s_!XQEO!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e34fed4-221f-4d88-b3d2-c04da643ffa5_1176x516.png)
 
-在所有领域，[最优秀的人都能迅速脱颖而出](https://arealsociety.substack.com/p/how-i-learned-to-stop-worrying-and-love-the-sort?r=99bhj)，因此你不需要花很长时间就能识别出他们是谁，并发现他们在做什么。我主要关注的是旅程的起点，但如果你能展现出长期的坚持，那将是另一番天地。仅仅是「在做事」，就已值得钦佩，但**有意识的训练**，才是真正的起点。
+在任何一个领域里，[最优秀的那批人总是能迅速地脱颖而出](https://arealsociety.substack.com/p/how-i-learned-to-stop-worrying-and-love-the-sort?r=99bhj)，因此，要将他们识别出来并搞清楚他们正在做什么，其实不需要花太长时间。我通常会把注意力聚焦在起始阶段，但如果你能长期坚持，那将非同凡响。虽然仅仅是「在做事」，就已经值得钦佩了，但是**有意识的训练**，才算得上是真正的起点。
 
 ![img](https://substackcdn.com/image/fetch/$s_!NXnw!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fde3dedd0-d098-4253-a7c4-e5020266efe4_1186x376.png)
 
-[上面这条帖子](https://x.com/alz_zyd_/status/1828909458480632028?t=wqslJNqSQ4uAxLet1sx0LA&s=19)里有几个很好的例子，它们的共同点是：**许多活动，人人都在「玩」，但鲜有人在「训练」**。国际象棋就是绝佳的证明。在 chess.com 上，你只要下棋就能学会规则，因为系统不允许你走错。许多人都在下棋，但很少有人在**训练**下棋。仅仅花一个小时学习一种开局，你的棋力就能显著超过一个玩了多年却从未训练过的人。这引出了我的下一点：**没人去「读书」**。
+[上面这条帖子](https://x.com/alz_zyd_/status/1828909458480632028?t=wqslJNqSQ4uAxLet1sx0LA&s=19)里举了几个很好的例子，它们有一个共同点：**这其中的很多活动，大家都在「玩」的，但却很少有人会投入「训练」**。国际象棋就是一个绝佳的例证。在 chess.com 上，你可以通过实战来学习下棋，因为系统不会允许你走错。很多人都在玩棋，但鲜少有人在**训练**下棋。其实只要花上一小时去学习一种开局，你的棋技就能远超那些玩棋数年却从未训练的人。这就引出了我的下一个观点：**没人去「读书」**。
 
 ![img](https://substackcdn.com/image/fetch/$s_!fkf8!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4cae6365-7ffb-457a-b4bf-ce93a127bf27_1184x668.png)
 
