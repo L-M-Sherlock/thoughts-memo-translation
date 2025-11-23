@@ -1,4 +1,8 @@
-# Thoughts 汉化作品系列简介
+# Introduction
+
+汉化协作地址：[Thoughts Memo - ParaTranz](https://paratranz.cn/projects/3131)
+
+## Thoughts 汉化作品系列简介
 
 - Wozniak
   - FAQ：回答读者问题
