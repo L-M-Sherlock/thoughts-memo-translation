@@ -4,11 +4,11 @@
 
 2016 年 2 月 28 日
 
-就在今日，我的「超越内疚」系列正式落下帷幕（[目录](https://mindingourway.com/guilt)）。
+就在今日，我的「超越内疚」系列（[目录](https://mindingourway.com/guilt)）正式落下帷幕。
 
 我[在这个系列文章的开篇](https://mindingourway.com/replacing-guilt/)探讨了「躁动不安的愧疚感」——那种当人内心深处觉得自己没在做真正重要的事时，所产生的内疚情绪。我认为，无论虚无主义者如何辩解，人都有可能去[关心自身之外的事物](https://mindingourway.com/the-stamp-collector/)，以及那些[比自己更宏大的存在](https://mindingourway.com/caring-about-some/)。
 
-在本系列的第二部分，我恳请读者[抛开他们的义务感](https://mindingourway.com/should-considered-harmful/)，并反思：如果没有任何他们觉得「应该」去做的事情，他们会将精力投向何方。如果你能放下你的义务感，并且仍然能为比自身更宏大的事物[竭力关心](https://mindingourway.com/on-caring/)，那么你就已经在摆脱以内疚为基础的动机的道路上迈出了一大步。
+在本系列的第二部分，我恳请读者[抛开他们的义务感](https://mindingourway.com/should-considered-harmful/)，并反思：如果没有任何他们觉得「应该」去做的事情，他们会将精力投向何方。如果你能放下你的义务感，并且仍然能为比自身更宏大的事物[竭力关心]?(https://mindingourway.com/on-caring/)，那么你就已经在摆脱以内疚为基础的动机的道路上迈出了一大步?。
 
 在第三部分，我描述了如何在不依赖内疚鞭策的情况下，建立并维持一种强大的内在驱动力。我指出，[把自己搞得筋疲力尽并非美德](https://mindingourway.com/stop-before-you-drop/)，而那种「拼命工作然后长时间休息」的论调是一种[危险的论调](https://mindingourway.com/rest-in-motion/)。我们无法总是如愿行动：我们[终究不是神](https://mindingourway.com/not-yet-gods/)，而且，通过[实验和创造力来探索障碍](https://mindingourway.com/dont-steer-with-guilt/)，往往比试图通过斥责和内疚来强迫自己屈服更容易改变我们的行为。我呼吁[自我关怀](https://mindingourway.com/self-compassion/)，并坚信[世上没有「坏人」](https://mindingourway.com/there-are-no/)。
 

@@ -767,7 +767,7 @@
     * [关于好奇心的冥想](lesswrong/Letting%20Go/The%20Meditation%20on%20Curiosity.md)
     * [怀疑的正确用法](lesswrong/Letting%20Go/The%20Proper%20Use%20of%20Doubt.md)
     * [仪式](lesswrong/Letting%20Go/The%20Ritual.md)
-    * [你能够面对现实](lesswrong/Letting%20Go/You%20Can%20Face%20Reality.md)
+    * [你能够直面现实](lesswrong/Letting%20Go/You%20Can%20Face%20Reality.md)
   * [链接总结：《行为遗传学十大可重复发现》](lesswrong/Link%20Summary%20Top%2010%20Replicated%20Findings%20from%20Behavioral%20Genetics.md)
   * [监狱教学笔记](lesswrong/Notes%20on%20Teaching%20in%20Prison.md)
   * [Politics and Rationality](lesswrong/Politics%20and%20Rationality/intro.md)
