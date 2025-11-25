@@ -890,7 +890,7 @@
   * [听说你想让自己摆脱人生的泥潭](other/So%20you%20wanna%20debog%20yourself.md)
   * [将教育与青少年的生物钟同步：「让青少年多睡会儿，推迟上学时间」](other/Synchronizing%20education%20to%20adolescent%20biology%20let%20teens%20sleep%20start%20school%20later.md)
   * [创造性人格与理想的学生](other/The%20Creative%20Personality%20and%20the%20Ideal%20Pupil.md)
-  * [死寂星球理论](other/The%20Dead%20Planet%20Theory.md)
+  * [地球死亡论](other/The%20Dead%20Planet%20Theory.md)
   * [拆解思想工具](other/Unbundling%20Tools%20for%20Thought.md)
   * [使用抽认卡，成为更优秀的程序员：第一部分](other/Using%20flash%20cards%20to%20become%20a%20better%20programmer%20Part%201.md)
   * [造就爱因斯坦天才的，并非他的高智商](other/What%20Made%20Einstein%20a%20Genius%20Wasnt%20His%20IQ.md)
