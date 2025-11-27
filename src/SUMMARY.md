@@ -843,7 +843,7 @@
   * [停止「努力去尝试」](nate/Stop%20trying%20to%20try%20and%20try.md)
   * [回应的艺术](nate/The%20Art%20of%20Response.md)
   * [邮票收集者](nate/The%20Stamp%20Collector.md)
-  * [尽力而为](nate/The%20best%20you%20can.md)
+  * [尽你所能](nate/The%20best%20you%20can.md)
   * [生命的价值](nate/The%20value%20of%20a%20life.md)
   * [世上没有「坏人」](nate/There%20are%20no%20bad%20people.md)
   * [没有所谓的「尝试」](nate/There%20is%20no%20try.md)
