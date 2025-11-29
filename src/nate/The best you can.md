@@ -1,4 +1,4 @@
-# 尽你所能
+# 你所能做到的最好
 
 原文：[The best you can](https://mindingourway.com/best-you-can/)
 
