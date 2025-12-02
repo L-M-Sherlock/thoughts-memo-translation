@@ -4,11 +4,11 @@
 
 2015 年 11 月 16 日
 
-最近我写的一系列文章，主要讲的是怎么面对这个灰暗的世界。[不再绝望](https://mindingourway.com/being-unable-to-despair/)，学会[直面黑暗世界](https://mindingourway.com/see-the-dark-world/) 而不是退缩，学会[在差与更糟的情况间无痛选择](https://mindingourway.com/choose-without-suffering/)。学会在无情的世界里生活，而不让[自己变得无情](https://mindingourway.com/detach-the-grim-o-meter/)；学会[在听到坏消息时不让自己太痛苦](https://mindingourway.com/simply-locate-yourself/)，并且[不再需要别人来认可你的行为](https://mindingourway.com/have-no-excuses/)。[接受你可能会失败的事实](https://mindingourway.com/come-to-your-terms/)，[把黑暗当作燃料](https://mindingourway.com/transmute-guilt-i/)，并[放弃取得完全胜利的幻想](https://mindingourway.com/best-you-can/)。世界充满不确定，问题也常常比我个人更庞大。这些想法和做法，就是我用来让自己鼓起劲儿来的办法。
+最近我写的一系列文章，主要讲的是怎么面对这个灰暗的世界。[变得无法绝望](https://mindingourway.com/being-unable-to-despair/)，学会[直面黑暗世界](https://mindingourway.com/see-the-dark-world/)而不是退缩，学会[在糟与更糟的情况间无痛选择](https://mindingourway.com/choose-without-suffering/)。学会在无情的世界里生活，而不让[自己变得无情](https://mindingourway.com/detach-the-grim-o-meter/)；学会[在听到坏消息时不让自己太痛苦](https://mindingourway.com/simply-locate-yourself/)，并且[不再需要别人来认可你的行为](https://mindingourway.com/have-no-excuses/)。[接受你可能会失败的事实](https://mindingourway.com/come-to-your-terms/)，[把黑暗当作燃料](https://mindingourway.com/transmute-guilt-i/)，并[放弃取得完全胜利的幻想](https://mindingourway.com/best-you-can/)。世界充满不确定，问题也常常比我个人更庞大。这些想法和做法，就是我用来让自己鼓起劲儿来的办法。
 
 当他人目睹饱受摧残的世界，因未能倾力相助而内疚时，我眼中这受伤的世界却让我坚定自己的决心。我不会因未曾鞠躬尽瘁而感到内疚，而是认识到有些事情的[心理上的不可能性](https://mindingourway.com/stop-before-you-drop/)，然后下定决心，**在**[凡人皆有的局限](https://mindingourway.com/not-yet-gods/)下尽力而为。至少对我来说，这种发自内心的驱动力，比因为内疚而产生的动力更强大、更可靠。
 
-这就把我们带到了我好几个月前开始写的「超越内疚」系列文章的倒数第二篇章的终点，并引向了最终篇章。[第一篇章](https://mindingourway.com/replacing-guilt/)探讨了如何处理那种因为忽视了内心想做更多事情的渴望而产生的倦怠型内疚。[第二篇章](https://mindingourway.com/should-considered-harmful/) 旨在消除义务感，只为你真正关心的事情而奋斗——**仅仅因为你关心它**。[第三篇章](https://mindingourway.com/stop-before-you-drop/) 是关于接受自己的局限性，并学会在**这些局限性之内**做到最好，而不是因此感到内疚。这篇文章总结了[第四篇章](https://mindingourway.com/being-unable-to-despair/)，讲的是如何在一个黑暗的世界里生活，并激发决心来代替内疚感。
+这就把我们带到了我好几个月前开始写的「超越内疚」系列文章的倒数第二篇章的终点，并引向了最终篇章。[第一篇章](https://mindingourway.com/replacing-guilt/)探讨了如何处理那种因为忽视了内心想做更多事情的渴望而产生的倦怠型内疚。[第二篇章](https://mindingourway.com/should-considered-harmful/)旨在消除义务感，只为你真正关心的事情而奋斗——**仅仅因为你关心它**。[第三篇章](https://mindingourway.com/stop-before-you-drop/)是关于接受自己的局限性，并学会在**这些局限性之内**做到最好，而不是因此感到内疚。这篇文章总结了[第四篇章](https://mindingourway.com/being-unable-to-despair/)，讲的是如何在一个黑暗的世界里生活，并激发决心来代替内疚感。
 
 第五个阶段，也是最终篇章，是关于你接下来要做什么。一旦你不再内疚，而是靠着内心的动力去做事——这种动力，既有冷静的决心，也有想**让未来变好**的热切期盼——那么，你接下来该做什么呢？怎么想才能让人把这些感受转化为**行动**，而不是感到沮丧和无力呢？
 
@@ -20,9 +20,9 @@
 
 我见过很多朋友试图看清这个黑暗的世界，然后因为觉得自己太渺小、问题太庞大而感到绝望，进而把这份绝望感和一种**虚无感**混为一谈。
 
-（背后的逻辑常表现为：“要是宇宙真有这么庞大，那我又能算什么？要是世界真深陷如此困境，那我又能改变什么？如果这些都是真的，那一切都没有意义了。”）
+（背后的逻辑常表现为：「要是宇宙真有这么庞大，那我又能算什么？要是世界真深陷如此困境，那我又能改变什么？如果这些都是真的，那一切都没有意义了。」）
 
-所以，请把这看作一个温馨的提醒：黑暗的世界，并不等于**无望**的世界。它并非万物死寂、我们无能为力的灰暗世界，也不是冰冷空虚、无法创造任何事物的宇宙。它只是一个**受损的**世界，一个**正在承受伤痛的**世界，它之所以让人无法忍受，恰恰是因为它本可以美好得多。
+所以，请把这看作一个温馨的提醒：黑暗的世界，并不等于**无望**的世界。它并非万物死寂、我们无能为力的灰暗世界，也不是冰冷空虚、无法创造任何事物的宇宙。它只是一个**遭受破坏的**世界，一个**正在承受伤痛的**世界，它之所以让人无法忍受，恰恰是因为它本可以美好得多。
 
 如果你看到的是一个冰冷死寂、毫无价值的宇宙，那么这景象可能不会让你充满绝望——因为虽然那里没有光明，没有生活美满幸福的人们，但那里也没有所谓的黑暗：那样的宇宙只是空洞而平淡的。如果你凝视我们的宇宙并感到绝望，那么，这只能是因为有太多的事情脱离正轨，却又**本可以**变好。
 
