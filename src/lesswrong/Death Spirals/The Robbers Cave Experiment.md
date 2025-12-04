@@ -1,8 +1,8 @@
 # 罗伯斯山洞实验
 
-[罗伯斯山洞实验](https://www.readthesequences.com/The-Robbers-Cave-Experiment)
+原文：[The Robbers Cave Experiment](https://www.readthesequences.com/The-Robbers-Cave-Experiment)
 
-当你还是个孩子的时候，你有没有想过，你那无聊的「夏令营」背后是否隐藏着精心策划的秘密目的？——比如，这其实是一场科学实验，而「夏令营辅导员」实际上是观察你行为的研究人员？
+你有没有想过，你小时候参加的那无聊的「夏令营」背后是否隐藏着精心策划的秘密目的？——比如，这其实是一场科学实验，而「夏令营领队」实际上是观察你行为的研究人员？
 
 我倒是没这么想过。
 
