@@ -1,4 +1,4 @@
-# 停止「努力去尝试」
+# 停止「努力去尝试」，直接去尝试
 
 原文：[Stop trying to try and try](https://mindingourway.com/stop-trying-to-try-and-try/)
 
