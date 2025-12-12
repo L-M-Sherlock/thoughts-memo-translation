@@ -847,7 +847,7 @@
   * [你所能做到的最好](nate/The%20best%20you%20can.md)
   * [生命的价值](nate/The%20value%20of%20a%20life.md)
   * [世上没有「坏人」](nate/There%20are%20no%20bad%20people.md)
-  * [没有所谓的「尝试」](nate/There%20is%20no%20try.md)
+  * [没有「试试」一说](nate/There%20is%20no%20try.md)
   * [化内疚为决心](nate/Transmute%20guilt%20into%20resolve.md)
   * [猛击后的醒悟与更新](nate/Update%20from%20the%20suckerpunch.md)
   * [「本可以」的时机](nate/Where%20coulds%20go.md)
