@@ -1,4 +1,4 @@
-# 同行评议的兴衰
+# 同行评议的兴与衰
 
 原文：[The rise and fall of peer review - by Adam Mastroianni](https://www.experimental-history.com/p/the-rise-and-fall-of-peer-review)
 
@@ -8,7 +8,7 @@
 
 2022 年 12 月 14 日
 
-过去大约六十年，科学界一直在自身进行一场实验。实验设计算不上高明：没有随机分组，也没有对照组。确切地说，无人总揽全局，也无人系统性地测量效果。然而，这却是有史以来规模最庞大的实验，参与者囊括了地球上的每一位科学家。
+过去大约 60 年里，科学界一直在对自身进行一场实验。实验设计算不上高明：没有随机分组，也没有对照组。确切地说，无人总揽全局，也无人系统性地测量效果。然而，这却是有史以来规模最庞大的实验，参与者囊括了地球上的每一位科学家。
 
 其中大多数人，甚至未曾意识到自己身在其中。包括我在内的许多人，在实验启动时尚未出生。倘若我们当初察觉，或许会要求其至少遵循基本的科学严谨性。之所以无人反对，大概是因为那个假设看起来不言而喻：如果有人在发表前审查每一篇论文，并筛掉不合格的，科学必将变得更好。他们称之为「同行评议」。
 
@@ -16,31 +16,31 @@
 
 （顺带一提，爱因斯坦的论文中仅[一篇](https://theconversation.com/hate-the-peer-review-process-einstein-did-too-27405)接受过同行评议，他对此大为惊讶与不满，转而将论文发表在了另一家期刊。）
 
-第二次世界大战后，一切为之改变。政府将巨额资金注入研究领域，并[召集了「同行评议员」](https://physicstoday.scitation.org/doi/10.1063/PT.3.3463)，以确保钱没有浪费在愚蠢的提案上。资金催生了论文的洪流，昔日愁无米下锅的期刊，如今却要为遴选哪些文章付印而发愁。出版前审稿这一在 1960 年代前尚[颇为罕见](https://newscience.substack.com/p/scientific-styles)的做法，逐渐变得普遍，最终成为金科玉律。
+第二次世界大战后，一切为之改变。政府将巨额资金注入研究领域，并[召集了「同行评议员」](https://physicstoday.scitation.org/doi/10.1063/PT.3.3463)，以确保钱没有浪费在愚蠢的提案上。资金催生了论文的洪流，昔日愁无米下锅的期刊，如今却要为遴选哪些文章付印而发愁。出版前审稿这一在 19 世纪 60 年代前尚[颇为罕见](https://newscience.substack.com/p/scientific-styles)的做法，逐渐变得普遍，最终成为金科玉律。
 
 如今，几乎每一家期刊都依赖外部专家审查论文，无法取悦审稿人的稿件便遭拒绝。你当然仍可写信告知友人你的发现，但在招聘委员会和资助机构眼中，仿佛唯有印在同行评议期刊上的，才算是科学。这场我们已进行了六十年的宏大实验，其结局便是如此。
 
 结果现已揭晓。它失败了。
 
-# **巨大的投入，微茫的收效**
+# 巨大的投入，微茫的收效
 
 同行评议是一项规模浩大且代价高昂的干预。据估算，全球科学家每年总计耗费[相当于 1.5 万年](https://researchintegrityjournal.biomedcentral.com/articles/10.1186/s41073-021-00118-2)的时间评审论文。一篇论文可能需要数月乃至[数年](https://pubmed.ncbi.nlm.nih.gov/33735591/)才能走完评审流程，这对于致力于攻克癌症或阻止气候变化的研究者而言，是巨大的时间损耗。此外，大学每年还需支付[数百万美元](https://www.science.org/content/article/tool-saving-universities-millions-dollars-journal-subscriptions)订阅这些期刊，尽管其中大量研究由纳税人资助，而稿酬和审稿费却分文不落作者与审稿人之手。
 
 如此规模的干预，理应产生显著的效果。好比向某个学区投入一亿美元，你总期望最终能清晰看到学生因此受益。若几年后你前去询问：「嘿，我那一个亿到底起了什么作用？」得到的回答却是：「呃，我们[不太确定](https://www.chalkbeat.org/2017/10/16/21103581/the-100-million-question-did-newark-s-school-reforms-work-new-study-finds-big-declines-then-progress)它是否真起了作用，而且我们现在都很生你的气。」你定会感到无比沮丧和尴尬。同理，若同行评议真能提升科学质量，其效果应当显而易见；倘若不能，我们也理应感到同等程度的沮丧与尴尬。
 
-事实是，它未能做到。在众多不同领域，研究生产力 [数十年来停滞不前甚至下滑](https://web.stanford.edu/~chadj/IdeaPF.pdf)，同行评议似乎并未扭转这一趋势。新思想[难以撼动旧有学说](https://www.pnas.org/doi/10.1073/pnas.2021636118)。许多经同行评议的发现[无法被重复验证](https://experimentalhistory.substack.com/p/psychology-might-be-a-big-stinkin)，[其中大部分可能根本就是错误的](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124)。当请科学家评价 20 世纪那些荣获诺贝尔奖的物理学、医学和化学发现时，他们认为，在同行评议普及前诞生的成果，[与之后的成果同样优秀，甚至更胜一筹](https://www.theatlantic.com/science/archive/2018/11/diminishing-returns-science/575665/)。事实上，你甚至无法请他们评价 1990 年代和 2000 年代的诺奖级发现，因为其数量已稀少到不值一提。
+事实是，它未能做到。在众多不同领域，研究生产力[数十年来停滞不前甚至下滑](https://web.stanford.edu/~chadj/IdeaPF.pdf)，同行评议似乎并未扭转这一趋势。新思想[难以撼动旧有学说](https://www.pnas.org/doi/10.1073/pnas.2021636118)。许多经同行评议的发现[无法被重复验证](https://experimentalhistory.substack.com/p/psychology-might-be-a-big-stinkin)，[其中大部分可能根本就是错误的](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124)。当请科学家评价 20 世纪那些荣获诺贝尔奖的物理学、医学和化学发现时，他们认为，在同行评议普及前诞生的成果，[与之后的成果同样优秀，甚至更胜一筹](https://www.theatlantic.com/science/archive/2018/11/diminishing-returns-science/575665/)。事实上，你甚至无法请他们评价 19 世纪 90 年代和 20 世纪初的诺奖级发现，因为其数量已稀少到不值一提。
 
-当然，二战以来世事纷繁。我们执行这次实验的方式实在糟糕，各种因素混杂难辨。从这些宏观趋势中，我们只能断定：无从知晓同行评议是否有所助益，它或许反而有害，代价极其高昂，而当前科学文献的整体状况令人堪忧。用行话说，这纯属「翻车」。
+当然，二战以来世事纷繁。我们执行这次实验的方式实在糟糕，各种因素混杂难辨。从这些宏观趋势中，我们只能断定：无从知晓同行评议是否有所助益，它或许反而有害，代价极其高昂，而当前科学文献的整体状况令人堪忧。在这一行业中，这是彻底失败。
 
-# **事后剖析**
+# 事后剖析
 
-问题出在哪里？
+到底哪里搞错了？
 
-一个简单的问题是：同行评议是否真的履行了其本职？它能否揪出劣质研究并阻止其发表？
+一个简单的问题是：同行评议是否真的履行了其本职？它能否揪出了劣质研究并阻止其发表？
 
 答案是否定的。科学家们曾进行实验，故意在论文中植入错误，送交审稿人评审，然后统计他们发现了多少。审稿人在此方面的表现相当糟糕。[一项研究](https://www.sciencedirect.com/science/article/pii/S019606449870006X?casa_token=D5MklJnYP0MAAAAA:CzyYl8VLg-M-bvKIHxl7vWCIh8AVrkTUizQ9LZPZWh_eVT5jLf3WJlGaJQzYCsHMraF5Fh8mqw)中，审稿人仅发现 30% 的主要缺陷；[另一项](https://jamanetwork.com/journals/jama/article-abstract/187748)是 25%；[还有一项](https://journals.sagepub.com/doi/full/10.1258/jrsm.2008.080062)是 29%。这些缺陷均为关键问题，例如「论文声称是随机对照试验实则不然」、「图表清晰显示毫无效果」、「作者结论完全得不到数据支持」。审稿人多半未能察觉。
 
-事实上，我们有确凿的现实世界证据表明同行评议失灵：欺诈性论文层出不穷。若审稿人尽职尽责，我们本应常听到这类新闻：「科尼利厄斯·冯·弗劳德教授因试图向科学期刊提交伪造论文于今日被解雇。」但我们从未听闻。相反，几乎每一起学术欺诈事件都 *始于* 论文通过评审并得以发表。直到后来，才由某位好心人——常常是作者自己实验室的成员！——觉察异样并着手调查。[这篇数据明显伪造的关于‘不诚实’的论文](http://datacolada.org/98)（颇具讽刺意味）、[这些发表了数十甚至数百篇欺诈性论文的家伙](https://retractionwatch.com/the-retraction-watch-leaderboard/)，以及下面这场闹剧，无不如此：
+事实上，我们有确凿的现实世界证据表明同行评议失灵：欺诈论文层出不穷。若审稿人尽职尽责，我们本应常听到这类新闻：「科尼利厄斯·冯·弗劳德教授因试图向科学期刊提交伪造论文于今日被解雇。」但我们从未听闻。相反，几乎每一起学术欺诈事件都**始于**论文通过评审并得以发表。直到后来，才由某位好心人——常常是作者自己实验室的成员！——觉察异样并着手调查。[这篇数据明显伪造的关于「不诚实」的论文](http://datacolada.org/98)（颇具讽刺意味）、[这些发表了数十甚至数百篇欺诈性论文的家伙](https://retractionwatch.com/the-retraction-watch-leaderboard/)，以及下面这场闹剧，无不如此：
 
 ![Twitter avatar for @SeriFeliciano](https://substackcdn.com/image/twitter_name/w_96/SeriFeliciano.jpg)
 
@@ -62,7 +62,7 @@ Josemari Feliciano @SeriFeliciano
 
 同行评议的创立，甚至可能**助长**了劣质研究。假设你试图发表一篇证明看小狗视频能促使人多捐款的论文，而审稿人 2 表示：「除非看猫视频也有效，否则我难以信服。」此时你将承受巨大压力，必须让「猫视频研究」也成立。或许你会稍微「调整」数字，或剔除几个「异常值」，或测试一堆猫视频直到找到一个有效的，而对无效的绝口不提。🎶 略施小诈 // 论文发表 // 今夜狂欢 🎶
 
-# **同行评议，谁把你当真**
+# 同行评议，谁把你当真
 
 要检验同行评议是否管用，还有一个角度：它是否真的赢得了科学家们的信任？
 
@@ -78,11 +78,11 @@ Josemari Feliciano @SeriFeliciano
 
 > 我不相信同行评议，因为我认为它非常扭曲，而且说白了，这就是在向平庸的均值回归。同行评议正在阻碍科学。事实上，我认为它已彻底沦为一个腐败的体系。
 
-# **我们能修复它吗？不，不能**
+# 我们能修好它吗？不，不能
 
 我曾设想过[改进同行评议的种种方法](https://twitter.com/a_m_mastroianni/status/1480252081080619009?s=20&t=uvRaD2VPTuVqu9jyHly0fg)。审稿人应该核查原始数据！期刊应该确保论文没有造假！
 
-**想象**事情可以变得更好很容易——我的朋友 Ethan 和我甚至就此写了篇[论文](https://experimentalhistory.substack.com/p/things-could-be-better) ——但这绝不意味着**实现**改进同样容易。我对同行评议的抱怨，有点像看着每年[约 3.5 万](https://en.wikipedia.org/wiki/Motor_vehicle_fatality_rate_in_U.S._by_year)美国人死于车祸，然后说「大家开车该更小心点」。话是没错，可具体怎么做呢？
+**想象**事情可以变得怎样更好很容易——我的朋友 Ethan 和我甚至就此写了篇[论文](https://experimentalhistory.substack.com/p/things-could-be-better)——但这绝不意味着**实现**改进同样容易。我对同行评议的抱怨，有点像看着每年[约 3.5 万](https://en.wikipedia.org/wiki/Motor_vehicle_fatality_rate_in_U.S._by_year)美国人死于车祸，然后说「大家开车该更小心点」。话是没错，可具体怎么做呢？
 
 问题并非不够努力：别忘了现行体系每年耗费[相当于 1.5 万年](https://researchintegrityjournal.biomedcentral.com/articles/10.1186/s41073-021-00118-2)的劳动量，结果依然一塌糊涂。给审稿人付酬[似乎](https://pubs.aeaweb.org/doi/pdf/10.1257/jep.28.3.169)[并不能](https://www.sciencedirect.com/science/article/pii/S0048733312001230?casa_token=sRQhagBEYlwAAAAA:ExH18QeWmmMiIWVwg01aNDsxde_OatuQhzz7H3LtXtMorrhnO1HAEAV8ILdGJmaamolH99-_6w)提升质量。[培训审稿人](https://www.bmj.com/content/bmj/328/7441/673.full.pdf?casa_token=TsYmIfwardgAAAAA:idrqBHTdaMyPrrpXHFXDDQuDzcGCwPN6bKlDniPI_SgPNOc1NRYA2eps944VlfYk8nCQXklMNiKP)也收效甚微。或许我们能在边边角角做些修补，但请记住，我们现在连用大写字母「T」代替误差棒的论文都能发表，这说明前路何其漫漫。
 
@@ -96,7 +96,7 @@ Josemari Feliciano @SeriFeliciano
 
 退一万步，即便你真找到了改进同行评议且无副作用的神奇方法，你还得说服全球现存的[近 3 万家](https://www.smithsonianmag.com/smart-news/half-academic-studies-are-never-read-more-three-people-180950222/)科学期刊，将它应用到每年发表的[约 470 万篇](https://researchintegrityjournal.biomedcentral.com/articles/10.1186/s41073-021-00118-2)论文上。祝你好运！
 
-# **同行评议比没有更糟：闻一闻，不等于验过货**
+# 同行评议比没有更糟：闻一闻，不等于验过货
 
 同行评议没用，且很可能无法修复。但有点审查总比完全没有强，对吧？
 
@@ -108,19 +108,19 @@ Josemari Feliciano @SeriFeliciano
 
 在美国，销售维生素 C 片必须在标签上声明：瓶身所述功效未经食品药品监督管理局评估。或许科学期刊也该在每篇论文上印上类似警告：「本文真实性未经实质核查。据我们所知，内容可能纯属虚构。」这至少能让人们保持恰如其分的怀疑。
 
-# **科学必须是自由的**
+# 科学必须是自由的
 
 同行评议最初为何显得如此合情合理？
 
 我想，根源在于我们误解了科学的运作方式。我们曾将科学视为一个 [「弱链接」问题](https://www.pushkin.fm/podcasts/revisionist-history/my-little-hundred-million)，认为科学的进步受限于我们**最薄弱**的环节，即那些质量最差的工作。若你信奉此道，便会觉得铲除错误观念至关重要——最好能防微杜渐，直接阻止其发表。即便在此过程中误伤一些好点子，也在所不惜，毕竟清除糟粕才是头等大事。
 
-然而，科学实则是一个「强链接」问题：进步仰赖于我们**最卓越**的成果。更好的想法未必能即刻胜出，但它们终将胜出，因为它们更有用。你无法用[亚里士多德的物理学](https://en.wikipedia.org/wiki/Aristotelian_physics) 登陆月球，无法靠[自然发生说](https://en.wikipedia.org/wiki/Spontaneous_generation)把泥土变成青蛙，也无法依据[燃素论](https://en.wikipedia.org/wiki/Phlogiston_theory)制造炸弹。牛顿的物理定律流传至今；而他关于[点金石](https://www.discovermagazine.com/the-sciences/isaac-newton-worlds-most-famous-alchemist)的配方则早已被人遗忘。我们并不需要一个科学权威机构来扼杀错误思想；我们需要的是它能允许新思想挑战旧思想，剩下的，交给时间。
+然而，科学实则是一个「强链接」问题：进步仰赖于我们**最卓越**的成果。更好的想法未必能即刻胜出，但它们终将胜出，因为它们更有用。你无法用[亚里士多德的物理学](https://en.wikipedia.org/wiki/Aristotelian_physics)登陆月球，无法靠[自然发生说](https://en.wikipedia.org/wiki/Spontaneous_generation)把泥土变成青蛙，也无法依据[燃素论](https://en.wikipedia.org/wiki/Phlogiston_theory)制造炸弹。牛顿的物理定律流传至今；而他关于[点金石](https://www.discovermagazine.com/the-sciences/isaac-newton-worlds-most-famous-alchemist)的配方则早已被人遗忘。我们并不需要一个科学权威机构来扼杀错误思想；我们需要的是它能允许新思想挑战旧思想，剩下的，交给时间。
 
 若你仍怀有「弱链接」式的担忧，我完全理解。如果放任人们畅所欲言，他们有时确实会传播不实之言，这听起来令人不安。但现实是，我们目前并未真正阻止不实言论的传播；我们只是假装在阻止。更甚的是，我们偶尔还会给这些不实之言贴上「经某权威期刊审核」的闪亮标签，而这些标签极难撕下。这才更加可怕。
 
 「弱链接」思维让科学审查显得合理，但一切审查的实际效果，不过是让陈旧的思想更难被推翻。别忘了，「地心说」曾是不证自明的真理。若在哥白尼的时代便有科学期刊，信奉地心说的审稿人定会拒斥他的日心说论文，并为自己成功阻止「谬论」流传而沾沾自喜。优生学曾一度是科学界的[显学](https://experimentalhistory.substack.com/p/how-to-keep-cakes-moist-and-cause)——你认为一群种族主义者会给一篇证明黑人与白人智力无异的论文开绿灯吗？会给任何一位黑人作者的论文放行吗？（若你觉得这是陈年旧事：这种模式[至今仍在重演](https://psyarxiv.com/xk4yu)。）我们至今仍[生活在认知的黑暗时代](https://experimentalhistory.substack.com/i/74121662/i-regret-to-inform-you-that-you-are-living-in-the-dark-ages)，今日我们所深信不疑的许多观念，终有一日会被证伪。同行评议，如同任何一种审查制度，仅仅是延缓了真理浮现的进程。
 
-# **万岁，我们失败了！**
+# 好耶，我们失败了！
 
 无人主导我们这场长达六十年的同行评议实验，也便无人有责任宣告它的终结。既然无人出面，那就由我来宣布吧：
 

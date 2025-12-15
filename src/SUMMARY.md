@@ -895,7 +895,7 @@
   * [数学天花板：你的认知极限在哪里？](other/The%20Math%20Ceiling%20Wheres%20your%20cognitive%20breaking%20point.md)
   * [陷入僵局的状态](other/The%20State%20of%20Being%20Stuck.md)
   * [裸体皇帝的舞蹈](other/The%20dance%20of%20the%20naked%20emperors.md)
-  * [同行评议的兴衰](other/The%20rise%20and%20fall%20of%20peer%20review.md)
+  * [同行评议的兴与衰](other/The%20rise%20and%20fall%20of%20peer%20review.md)
   * [事情可以变得更好](other/Things%20could%20be%20better.md)
   * [拆解思想工具](other/Unbundling%20Tools%20for%20Thought.md)
   * [使用抽认卡，成为更优秀的程序员：第一部分](other/Using%20flash%20cards%20to%20become%20a%20better%20programmer%20Part%201.md)
