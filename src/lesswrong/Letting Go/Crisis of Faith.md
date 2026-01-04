@@ -1,28 +1,28 @@
-# 信仰危机
+# 信仰危机 
 
 原文：[Crisis of Faith](https://www.readthesequences.com/Crisis-Of-Faith)
 
-> 除非结局未定，同样可能倒向任何一方，否则这就不是真正的信仰危机。
+> 如果事情不是有可能朝着任何方向发展，那就不是真正的信仰危机。
 
 >
 
-> —[托尔·申克尔（Thor Shenkel）](http://forums.keenspot.com/viewtopic.php?p=1099960#p1099960)
+> —[Thor Shenkel](http://forums.keenspot.com/viewtopic.php?p=1099960#p1099960)
 
-这个世界上的许多人保留着一些信念，如果一个十岁的孩子第一次听到这些信念，也能指出其中的缺陷。我们谈论的不是微妙的错误。如果一个[无依附](https://www.readthesequences.com/Affective-Death-Spirals)的头脑能像十岁孩子那样[毫无回避](https://www.readthesequences.com/Avoiding-Your-Beliefs-Real-Weak-Points)地应用怀疑主义，放弃这些信念简直是儿戏。正如 Premise Checker 所说，「如果神的观念直到科学时代才出现，只有非常奇怪的人才会发明这样的想法，并假装它[解释](https://www.readthesequences.com/Occams-Razor)了任何东西。」
+这个世界上，许多人仍然保留着一些信念，其漏洞哪怕是一个十岁的孩子，只要是第一次听到，也能指出。我们谈论的不是细微的错误，而是不堪一击的信念——如果一个[不受牵绊](https://www.readthesequences.com/Affective-Death-Spirals)的头脑能[毫无回避](https://www.readthesequences.com/Avoiding-Your-Beliefs-Real-Weak-Points)地像十岁孩子那样运用怀疑主义的话。正如 Premise Checker 所说，「如果上帝这一观念直到科学时代才出现，只有极其怪异的人才会发明出这种想法，并假装它[解释](https://www.readthesequences.com/Occams-Razor)了什么。」
 
-然而，熟练的科学专家，甚至某个领域的主要创新者，即便就在当今这个时代，也没有成功地应用这种怀疑主义。诺贝尔奖得主罗伯特·奥曼（Robert Aumann），奥曼协议定理的提出者，是一个正统犹太教徒：我有理由相信并大胆猜测，奥曼一定在某个时刻质疑过他的信仰。然而他没有[成功地](https://www.readthesequences.com/The-Proper-Use-Of-Doubt)进行怀疑。[我们改变想法的次数比我们想象的要少。](https://www.readthesequences.com/We-Change-Our-Minds-Less-Often-Than-We-Think)
+然而，即便是技艺精湛的科学专家，即便某一领域的重大创新者，即便就在今时今日，也并未成功地运用这种怀疑精神。诺贝尔奖得主Robert Aumann，奥曼协议定理（Aumann’s Agreement Theorem）的提出者，是一个正统的犹太教徒：我相当有把握地大胆推测，Aumann在某个时刻或多个时刻，一定质疑过自己的信仰。然而他并没有[成功地](https://www.readthesequences.com/The-Proper-Use-Of-Doubt)产生怀疑。[我们改变想法的次数，比我们自以为的要少。](https://www.readthesequences.com/We-Change-Our-Minds-Less-Often-Than-We-Think)
 
-这应该把你吓到骨子里。这意味着你可以是一个世界级的科学家，**并且**精通贝叶斯数学，**却**仍然无法拒绝一个天真的十岁孩子也能看出其荒谬的信念。这表明了一个信念如果长期在你脑海中盘踞，它可以为自己建立起多么不可战胜的防御阵地。
+这应该吓得你魂飞魄散。这意味着，你可以是一个世界级的科学家，**并且**精通贝叶斯数学，**却**仍然无法拒绝一个荒谬到连初次听说的十岁孩子也能看出来的信念。这表明，如果一个信念长期在你头脑中腐烂，它就可以为自己建立起几乎不可攻破的防御阵地。
 
-要击败一个已经为自己筑起堡垒的错误，需要什么？
+那么，要击败一个已经为自己筑起堡垒的错误，需要什么？
 
-但是，当你**知道**它是一个错误时，它已经被击败了。困境不在于「我如何拒绝长期持有的错误信念 **X**？」而在于「我如何知道长期持有的信念 **X** 是否是错误的？」当我们不确定哪条路是正途时，自我诚实是最脆弱的。所以问题变成了：
+但是，当你已经**知道**它是一个错误的时候，它已经被击败了。真正的困境不是「我该如何拒绝长期持有的错误信念 **X**？」，而是「我如何知道长期持有的信念 **X** 是错误的？」当我们不确定哪条路才是正确的时候，自我诚实是最脆弱的。因此，问题就变成了：
 
-我们如何在自己内心创造一场真正的信仰危机，一场结局未定、甚至可能往反方向发展的危机？
+我们如何在自己内心制造一次真正的信仰危机，一次可能朝任何方向发展的危机？
 
-宗教是我们所有人都能想象的试金石。（出生于无神论家庭的读者错过了这一基本的人生试炼，只能将就着通过思考他们信教朋友的经历来作为糟糕的替代品。）但是如果你切断了所有的同情，并且现在认为有神论者是[邪恶的变种人](https://www.readthesequences.com/Are-Your-Enemies-Innately-Evil)，那么你将无法想象他们面对的真正内心考验。你将无法问这个问题：
+宗教信仰是我们都能想象得到的试验案例。（出生于无神论家庭的读者错过了这一关键的人生试炼，只能退而求其次，设想他们信教朋友的经历来作为糟糕的替代品。）但是，如果你切断了一切同情心，把有神论者当作[邪恶的变异体](https://www.readthesequences.com/Are-Your-Enemies-Innately-Evil)，那么你将无法想象他们真正面对的内在考验。你将无法问出这个问题：
 
-「一个宗教人士必须遵循什么总体策略才能逃离他们的宗教？」
+「一个宗教信徒，究竟需要遵循什么样的一般策略，才能逃离自己的宗教？」
 
 我确信有些人，看到这个挑战，已经在喋喋不休地列出一串标准的无神论谈话要点——「他们必须承认上帝的存在没有任何贝叶斯证据，」「他们必须看到他们在进行道德回避，以原谅圣经中上帝的行为，」「他们需要学习如何使用奥卡姆剃刀——」
 
@@ -96,7 +96,7 @@
 
 - [说「哎呀」的重要性](https://www.readthesequences.com/The-Importance-Of-Saying-Oops)—最好是在一次可怕的吞咽中吞下整个苦药丸。
 
-- [单向思维](https://www.readthesequences.com/Singlethink)—双重思维的反面。看那些你退缩的想法，它们在你拒绝思考它们之前在你脑海的角落里出现了一瞬间。如果你意识到你没有在想什么，你可以想它。
+- [单重思维](https://www.readthesequences.com/Singlethink)—双重思维的反面。看那些你退缩的想法，它们在你拒绝思考它们之前在你脑海的角落里出现了一瞬间。如果你意识到你没有在想什么，你可以想它。
 
 - [情感死亡螺旋](https://www.readthesequences.com/Affective-Death-Spirals)和[抵制快乐死亡螺旋](https://www.readthesequences.com/Resist-The-Happy-Death-Spiral)—情感死亡螺旋是错误信念的主要生成器，需要一场信仰危机才能动摇。但由于情感死亡螺旋也可以围绕真正好的真实事物开始，你不必承认你的信念是一个谎言，来试图在每一点抵制光环效应——即使对真正好的事物也拒绝虚假的赞美。[政策辩论不应该显得一边倒。](https://www.readthesequences.com/Policy-Debates-Should-Not-Appear-One-Sided)
 

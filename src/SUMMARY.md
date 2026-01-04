@@ -1,5 +1,13 @@
 # Summary
 
+* [adam](adam/intro.md)
+  * [面对现实吧：你是个疯子](adam/Face%20it%20youre%20a%20crazy%20person.md)
+  * [听说你想让自己摆脱人生的泥潭](adam/So%20you%20wanna%20debog%20yourself.md)
+  * [裸体皇帝的舞蹈](adam/The%20dance%20of%20the%20naked%20emperors.md)
+  * [同行评议的兴与衰](adam/The%20rise%20and%20fall%20of%20peer%20review.md)
+  * [人人都有立锥之地](adam/Theres%20a%20place%20for%20everyone.md)
+  * [事情可以变得更好](adam/Things%20could%20be%20better.md)
+  * [被低估的改变世界的方法](adam/Underrated%20ways%20to%20change%20the%20world.md)
 * [alfie](alfie/intro.md)
   * [教育工作者的十二条核心指南](alfie/A%20Dozen%20Essential%20Guidelines%20for%20Educators.md)
   * [标准化考试的「标准」同样值得警惕](alfie/Beware%20of%20the%20Standards%20Not%20Just%20the%20Tests.md)
@@ -761,7 +769,7 @@
   * [Letting Go](lesswrong/Letting%20Go/intro.md)
     * [信仰危机](lesswrong/Letting%20Go/Crisis%20of%20Faith.md)
     * [赶紧绝望吧](lesswrong/Letting%20Go/Just%20Lose%20Hope%20Already.md)
-    * [留一条撤退路线](lesswrong/Letting%20Go/Leave%20a%20Line%20of%20Retreat.md)
+    * [留一条退路](lesswrong/Letting%20Go/Leave%20a%20Line%20of%20Retreat.md)
     * [无人能让你豁免于理性法则](lesswrong/Letting%20Go/No%20One%20Can%20Exempt%20You%20From%20Rationalitys%20Laws.md)
     * [疯子的邀约](lesswrong/Letting%20Go/The%20Crackpot%20Offer.md)
     * [说「我去（quuuu—）」的重要性（注：这里的 “我去” 表感叹，非主谓结构）](lesswrong/Letting%20Go/The%20Importance%20of%20Saying%20Oops.md)

@@ -1,6 +1,6 @@
 # Every Cause Wants to Be a Cult
 
-[任何主义，都想自立为教](https://www.readthesequences.com/Every-Cause-Wants-To-Be-A-Cult)
+原文：[Every Cause Wants to Be a Cult](https://www.readthesequences.com/Every-Cause-Wants-To-Be-A-Cult)
 
 《The Register》的记者 Cade Metz [最近](http://www.theregister.co.uk/2007/12/04/wikipedia_secret_mailing/) [指控](http://www.theregister.co.uk/2007/12/06/wikipedia_and_overstock/)，一个由维基百科高层管理员组成的秘密邮件组，已经痴迷于封禁所有现有及潜在的批评者。指控称，他们甚至因此封禁了一位高产的用户，而原因仅仅是某位管理员——单单**因为**其贡献度高——就认定该用户是《Wikipedia Review》派来的间谍。此外，维基百科的高层们还会抱团袒护自己人。（我本人目前尚未核实这些指控。在此感谢 [Eugen Leitl](http://postbiota.org/pipermail/tt/2007-December/001947.html) 提供的线索。）
 

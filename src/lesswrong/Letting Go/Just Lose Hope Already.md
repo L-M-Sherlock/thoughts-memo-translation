@@ -6,9 +6,9 @@ Casey Serin，一位 24 岁的网页程序员，此前毫无房地产经验，�
 
 但这还不是可悲的部分。可悲的是**他至今仍未放弃**。Casey Serin 不接受失败。他拒绝宣布破产，也不愿找份工作；他[仍然认为](https://web.archive.org/web/20100426003038/http://iamfacingforeclosure.com/oldsite/147/top-5-advice-they-say-i-have-been-ignoring-2.html)自己能在房地产界大干一番。他继续把钱砸在研讨会上。他甚至试图申请第九栋房子的抵押贷款。你看，他并没有**失败**，他只是获得了一次**学习经历**。
 
-这就是当你拒绝失去希望时会发生的事。
+这就是当你拒绝绝望时会发生的事。
 
-虽然这种行为看似仅仅是愚蠢，但它也让我想起了两位诺贝尔奖得主经济学家……
+虽然这种行为看起来可能只是愚蠢，但它也让我想起了两位诺贝尔奖得主经济学家……
 
 ……也就是[长期资本管理公司](https://en.wikipedia.org/wiki/Long-Term Capital Management)（LTCM）的默顿（Merton）和斯科尔斯（Scholes）。
 
