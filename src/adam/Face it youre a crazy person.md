@@ -47,3 +47,17 @@
 如果你认为没有人会对这些问题回答「是」，那你还没明白重点：**几乎**没有人会对这些问题回答「是」，而那些（为此）感到自豪的少数者才是应该成为外科医生、演员和婚礼摄影师的人。
 
 高地位的职业是最难「拆解」的，因为优点显而易见且极具吸引力，而缺点往往被刻意隐藏，且只有极少数人能忍受。例如，大学毕业后不久，我想着要在 YouTube 上发几个搞笑视频，然后，你懂的，一夜成名[2](https://www.experimental-history.com/p/face-it-youre-a-crazy-person#footnote-2-166676460)。我基本上立刻就放弃了。我没有每周发一次视频（更不用说每天发一次）所必需的那种疯狂，我也从未想到过[把整个房子填满粘液](https://www.youtube.com/watch?v=vp5sSqyZ5Go)，或者[开着火车冲进一个大坑里](https://www.youtube.com/watch?v=fuhE6PYnRMc)，或者[为 2000 人购买假肢](https://www.youtube.com/watch?v=SM66GDRyIVY)。如果你读过由世界上最成功的 YouTuber —— Mr. Beast（野兽先生）写的[「泄露版」制作指南](https://drive.google.com/file/d/1YaG9xpu-WQKBPUi8yQ4HaDYQLUSa7Y3J/view)，你会很快发现他有多么「疯狂」（nutso）：
+
+> 如果必须的话，我愿意数到十万，把自己活埋，或者穿着世界上最大号的鞋走完马拉松。我只想做让我快乐，并最终让观众快乐的事情。这个频道是我的宝贝，我为此放弃了自己的生活。我在情感上与它联系得如此紧密，以至于有些令人难过，哈哈。
+
+（顺便说一下，这些不是假设的例子；Mr. Beast 真的做了所有这些事。）
+
+显然，[57%](https://www.cnbc.com/2024/09/14/more-than-half-of-gen-z-want-to-be-influencers-but-its-constant.html) 的 Z 世代想成为社交媒体明星，这几乎可以肯定是因为他们还没有「拆解」成功到底需要付出什么。他们中有多少人具备 Mr. Beast 那种级别的疯狂？有多少人愿意成为算法的契约佣人，围绕着算法当天所需的任何内容来规划自己的生活？百万分之一？
+
+另一个例子：很多人想当小说家，但当你「拆解」小说家实际所做的事情时，你会意识到基本上**没有人**应该当小说家。例如，**《Crave》**系列「浪漫奇幻」小说的作者 Tracy Wolff 是如何成为在世的最成功的作家之一的？嗯，[这篇**《纽约客》**文章](https://www.newyorker.com/magazine/2025/01/13/did-a-best-selling-romantasy-novelist-steal-another-writers-story)顺便提到，Wolff 在 2007 年到 2018 年之间写了**超过六十本**书。这意味着在成名之前，整整 11 年，她每年（平均）写 5.5 本小说。而且她还在继续！她现在的书多到[她的网站](https://tracywolffauthor.com/bookshelf/#guide)上都有了搜索栏。或者你可以浏览像「当代浪漫（摇滚明星/坏男孩）」、「当代情欲亿万富翁浪漫」、「当代浪漫（丑角欲望）」以及「当代新成人浪漫（滑雪板爱好者！）」之类的分类。
+
+![img](https://substackcdn.com/image/fetch/$s_!RNvy!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F188d204c-6507-4bf2-ace7-1a8308c183a1_400x600.png)
+
+你可能不喜欢，但这就是巅峰表现的样子。（[来源](https://tracywolffauthor.com/bookshelf/extreme-risk/)）
+
+Wolff 和 Mr. Beast 可能看起来很极端，但他们只是在产出方面极端，在任务投入时间方面则不然。这是你在「拆解」时会发现的**显而易见但又被忽视**的洞察：人们花了**如此多**的时间在工作上。数小时！每一天！现在是周二下午 2 点，你在做你的工作，现在是下午 3:47，你**还在**做。没有任何意志力能带你度过一辈子的周二下午。在那些小时里你应该做的任何事情，最好是你自己**想做**的。

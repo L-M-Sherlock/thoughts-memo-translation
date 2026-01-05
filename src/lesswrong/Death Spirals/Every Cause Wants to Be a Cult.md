@@ -1,10 +1,10 @@
-# Every Cause Wants to Be a Cult
+# 任何主义都想自立为教
 
 原文：[Every Cause Wants to Be a Cult](https://www.readthesequences.com/Every-Cause-Wants-To-Be-A-Cult)
 
 《The Register》的记者 Cade Metz [最近](http://www.theregister.co.uk/2007/12/04/wikipedia_secret_mailing/) [指控](http://www.theregister.co.uk/2007/12/06/wikipedia_and_overstock/)，一个由维基百科高层管理员组成的秘密邮件组，已经痴迷于封禁所有现有及潜在的批评者。指控称，他们甚至因此封禁了一位高产的用户，而原因仅仅是某位管理员——单单**因为**其贡献度高——就认定该用户是《Wikipedia Review》派来的间谍。此外，维基百科的高层们还会抱团袒护自己人。（我本人目前尚未核实这些指控。在此感谢 [Eugen Leitl](http://postbiota.org/pipermail/tt/2007-December/001947.html) 提供的线索。）
 
-将全世界的知识加以系统化，这一宏伟事业是否天生就带有某种深层的道德缺陷，并最终导致其追随者们走火入魔？又或者，只有那些骨子里就有极权主义倾向的人，才会去尝试成为一切知识的最终仲裁者——
+试图将世界知识系统化背后是否存在某种深刻的道德缺陷，令追求此道的人走火入魔？或者，只有那些骨子里就有极权主义倾向的人，才会妄图成为无所不在的主宰——
 
 警惕[对应偏误](https://www.readthesequences.com/Correspondence-Bias)！（所谓「对应偏误」，是指在观察他人的行为时，即便该行为完全可以由当时的情境所解释，我们仍会倾向于将其归因于当事人独特的性格。例如，当我们看到别人踢自动售货机，会认为他「脾气暴躁」；但当我们自己踢时，却是因为公交晚点、火车早开，而且机器还吞了我们的钱。）如果关于维基百科的那些指控属实，那么这些行为恰恰可以用**普通**的人性来解释，而无需归咎于某种**非同寻常**的人性。
 
