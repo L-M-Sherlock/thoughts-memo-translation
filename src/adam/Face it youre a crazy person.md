@@ -61,3 +61,23 @@
 你可能不喜欢，但这就是巅峰表现的样子。（[来源](https://tracywolffauthor.com/bookshelf/extreme-risk/)）
 
 Wolff 和 Mr. Beast 可能看起来很极端，但他们只是在产出方面极端，在任务投入时间方面则不然。这是你在「拆解」时会发现的**显而易见但又被忽视**的洞察：人们花了**如此多**的时间在工作上。数小时！每一天！现在是周二下午 2 点，你在做你的工作，现在是下午 3:47，你**还在**做。没有任何意志力能带你度过一辈子的周二下午。在那些小时里你应该做的任何事情，最好是你自己**想做**的。
+
+出于某种原因，人们似乎从未想到过这一点。在我成长的过程中，我是班上个子最高的孩子，年长的人经常拍拍我的背说：「你总有一天会成为一名伟大的篮球运动员！」当我畏缩时，他们会说：「你不想加入球队吗？你不想代表你的学校吗？你不想穿着校队夹克去参加地区赛吗？」但这些都是错误的问题。正确的问题，也就是「拆解」后的问题是：「你愿意每天花三小时练习篮球吗？你愿意一遍又一遍地运球和投篮吗？在周四晚上，你愿意坐在公交车上，坐在替补席上，看着你更有天赋的朋友们比赛，同时心里偷偷希望 Brent 扭伤脚踝，这样你就有机会上场了吗？」老实说，不！我不愿意！我宁愿待在家里玩《RuneScape》。（译注：RuneScape 是由英国 Jagex 公司开发的经典多人在线角色扮演游戏（MMORPG），以高自由度和长生命周期著称，2001年上线至今仍持续运营。）
+
+当你将想象力视角从默认的三万英尺高空降落时，当你罗列出未来可能的所有细节时，当你不再把生活看作一幅印象派的模糊画作，而是看作一系列具体的周二下午，其中塞满了无数个独立的瞬间，而你必须按照时间顺序，无一例外地逐一度过它们时，你才会意识到，大多数未来只对一种非常特定的人有意义。我敢说，这就是**疯子**。
+
+幸运的是，我有个好消息：**你就是个疯子**。
+
+# **你疯了**
+
+我说你疯了，并不是指你患有精神疾病，虽然也许你有。我的意思是，你在至少一个方面，甚至[可能在许多方面](https://www.experimental-history.com/p/theres-a-place-for-everyone?utm_source=publication-search)，都远超常态。
+
+![img](https://substackcdn.com/image/fetch/$s_!vywC!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7894b4db-dd72-443a-b0c1-99453e2e7f19_1740x1416.png)
+
+[来源](https://theonion.com/study-average-person-becomes-unhinged-psychotic-when-a-1819575567/)
+
+你们中有些人早上 5 点起床做杏仁牛角面包，有些人会在电视上看高尔夫比赛，还有些人愿意开着一辆装满指尖陀螺的 8 万磅半挂卡车横穿全国。世上有些人**喜欢**揉搓泡沫塑料板的声音，有些人会观看关于拜占庭帝国的 94 集 YouTube 系列视频，还有些人能在长途飞行中一直[盯着前方](https://www.bbc.com/news/articles/c5y83kj3wg2o)。难道你们没有意识到，对我以及几乎所有人来说，你们都完全是疯子吗？
+
+不，你可能没有意识到，因为我们都没有意识到。我们[往往会高估自己喜好的普遍性](https://www.sciencedirect.com/science/article/abs/pii/0022103185900204)，心理学家称这种现象为「[错误共识效应](https://en.wikipedia.org/wiki/False_consensus_effect)」[3](https://www.experimental-history.com/p/face-it-youre-a-crazy-person#footnote-3-166676460)。这可能是因为要站在别人的角度看问题[真的](https://psycnet.apa.org/buy/1995-05338-001)[非常](https://journals.sagepub.com/doi/pdf/10.1037/1089-2680.7.1.38?casa_token=9n7EGB9Cv2sAAAAA:iEc_DY--evTfisYPwag5k7-16CsDYNHy3sGQwSm0HGUOHM4XFTXVrXsM56rzWjfSVuDSazDhbIL4yQ)[非常难](https://www.proquest.com/docview/303855973?pq-origsite=gscholar&fromopenview=true) ，所以除非我们直接撞上否定性的证据，否则我们会假定自己的思维模式皆为「默认参数」。我们的特立独行甚至可能从未被自己察觉。例如，你可能一辈子都看到天上有三个月亮，却没意识到[其他人只能看到一个](https://www.reddit.com/r/AskReddit/comments/10g9cjg/comment/j53vcku/)：
+
+> 我第一次戴上眼镜看夜空时，「我」意识到实际上你可以看清月亮。我以为那些在艺术中描绘月亮的人是在进行艺术加工，因为他们出于某种原因知道月亮应该长那样，而人眼在看到月亮的同时，不可能不看到另外两个模糊的、有点重叠的月亮。
