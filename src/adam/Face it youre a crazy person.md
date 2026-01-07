@@ -81,3 +81,9 @@ Wolff 和 Mr. Beast 可能看起来很极端，但他们只是在产出方面极
 不，你可能没有意识到，因为我们都没有意识到。我们[往往会高估自己喜好的普遍性](https://www.sciencedirect.com/science/article/abs/pii/0022103185900204)，心理学家称这种现象为「[错误共识效应](https://en.wikipedia.org/wiki/False_consensus_effect)」[3](https://www.experimental-history.com/p/face-it-youre-a-crazy-person#footnote-3-166676460)。这可能是因为要站在别人的角度看问题[真的](https://psycnet.apa.org/buy/1995-05338-001)[非常](https://journals.sagepub.com/doi/pdf/10.1037/1089-2680.7.1.38?casa_token=9n7EGB9Cv2sAAAAA:iEc_DY--evTfisYPwag5k7-16CsDYNHy3sGQwSm0HGUOHM4XFTXVrXsM56rzWjfSVuDSazDhbIL4yQ)[非常难](https://www.proquest.com/docview/303855973?pq-origsite=gscholar&fromopenview=true) ，所以除非我们直接撞上否定性的证据，否则我们会假定自己的思维模式皆为「默认参数」。我们的特立独行甚至可能从未被自己察觉。例如，你可能一辈子都看到天上有三个月亮，却没意识到[其他人只能看到一个](https://www.reddit.com/r/AskReddit/comments/10g9cjg/comment/j53vcku/)：
 
 > 我第一次戴上眼镜看夜空时，「我」意识到实际上你可以看清月亮。我以为那些在艺术中描绘月亮的人是在进行艺术加工，因为他们出于某种原因知道月亮应该长那样，而人眼在看到月亮的同时，不可能不看到另外两个模糊的、有点重叠的月亮。
+
+根据我的经验，每当你「拆解」一个人时，你不可避免地会发现他们身上一些极其古怪的东西。有时你不需要挖掘太深，比如当你的朋友告诉你她喜欢「拾得」照片——即在庭院旧货拍卖或慈善商店发现的被遗弃的快照——接着又补充说[她已经收集了 20,000 张](https://dawnparsonage.substack.com/p/everything-is-fine-and-nothing-is)。但有时这种疯狂埋藏很深，通常是因为人们根本不觉得这有什么疯狂的，比如当我认识多年的一个朋友随口透露，她甩了之前所有的男朋友，因为他们不够具有「威胁性」（menacing）。
+
+# **挤痘大师现在可以接诊了**
+
+这就是为什么人们在尝试选择职业时会感到「大脑便秘」（brain-constipated），以及为什么他们经常选错：他们不了解自己能提供的疯狂，也不了解将被要求的疯狂，所以他们一辈子都在试图把「方钉」一般的自己塞进「圆孔」一样的工作中。例如，当我在学术界时，有一群奇怪的行政人员，他们觉得大学生有些令人恼火。当二年级学生在院子里堆了一个巨乳雪人时，这些严厉的行政人员会摇摇头说：「哈，大学生真是个大麻烦！」他们似乎没有意识到，他们的同事其实很「喜欢」和 18 到 22 岁的人呆在一起，而偶尔出现的丰满雪人其实正是这份工作的有趣之处。我不认为这些脾气暴躁的管理者甚至想过会有这种喜好的**可能性**。

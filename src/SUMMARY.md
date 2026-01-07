@@ -900,7 +900,7 @@
   * [创造性人格与理想的学生](other/The%20Creative%20Personality%20and%20the%20Ideal%20Pupil.md)
   * [地球死亡论](other/The%20Dead%20Planet%20Theory.md)
   * [数学天花板：你的认知极限在哪里？](other/The%20Math%20Ceiling%20Wheres%20your%20cognitive%20breaking%20point.md)
-  * [陷入僵局的状态](other/The%20State%20of%20Being%20Stuck.md)
+  * [停滞不前的状态](other/The%20State%20of%20Being%20Stuck.md)
   * [拆解思想工具](other/Unbundling%20Tools%20for%20Thought.md)
   * [使用抽认卡，成为更优秀的程序员：第一部分](other/Using%20flash%20cards%20to%20become%20a%20better%20programmer%20Part%201.md)
   * [数学不好是一种怎样的体验](other/What%20It%20Feels%20Like%20to%20Be%20Bad%20at%20Math.md)
