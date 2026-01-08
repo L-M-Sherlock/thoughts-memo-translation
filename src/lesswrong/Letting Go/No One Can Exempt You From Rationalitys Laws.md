@@ -1,4 +1,4 @@
-# 无人能让你豁免于理性法则
+# 无人能让你豁免于理性法则 
 
 原文：[No One Can Exempt You From Rationality’s Laws](https://www.readthesequences.com/No-One-Can-Exempt-You-From-Rationalitys-Laws)
 

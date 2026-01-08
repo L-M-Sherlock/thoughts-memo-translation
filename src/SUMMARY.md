@@ -706,6 +706,7 @@
   * [Math Academy 是如何构建其知识图谱的？](justinmath/How%20Math%20Academy%20Creates%20its%20Knowledge%20Graph.md)
   * [Math Academy 的 Eurisko 项目五年回顾：美国最先进的高中数学/计算机科学课程体系培养的学生成就](justinmath/Math%20Academys%20Eurisko%20Sequence%205%20Years%20Later%20Student%20Outcomes%20Emerging%20From%20the%20Most%20Advanced%20High%20School%20MathCS%20Seq.md)
   * [分层知识结构中的个人优化间隔重复](justinmath/Optimized%20Individualized%20Spaced%20Repetition%20in%20Hierarchical%20Knowledge%20Structures.md)
+  * [我的个人数学成长之路总结](justinmath/Summary%20of%20My%20Own%20Math%20Journey.md)
   * [美国教育领域亟待一场哥白尼革命](justinmath/The%20Field%20of%20Education%20is%20Due%20For%20a%20Copernican%20Revolution.md)
   * [教育的未来](justinmath/The%20Future%20of%20Education.md)
   * [Math Academy 的 Eurisko 项目的故事：美国最先进的高中数学与计算机科学课程系列](justinmath/The%20Story%20of%20Math%20Academys%20Eurisko%20Sequence%20the%20Most%20Advanced%20High%20School%20MathCS%20Sequence%20in%20the%20USA.md)
