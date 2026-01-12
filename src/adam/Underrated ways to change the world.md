@@ -85,3 +85,25 @@ Wilkins 的[维基百科页面](https://en.wikipedia.org/wiki/John_Wilkins)提�
 因此，独立研究者可以探索那些他人不敢涉足的领域。例如：
 
 - 许多人都想减肥，而且许多人对于该如何减肥有着一种毫无根据的迷之自信。这就需要一位[网络怪咖](https://www.exfatloss.com/) 来针对那些流行却未经证实的假说进行自我实验，比如「[也许我们该多喝点椰子油](https://www.exfatloss.com/p/ex150coconut1000-and-ex150_iler_valr)」或者「[也许问题在于我们每时每刻都带电](https://www.exfatloss.com/p/why-i-stopped-grounding)」。
+
+- 苏格兰护士乔伊·米尔恩（Joy Milne）[发现自己能闻出帕金森病患者身上的特殊气味](https://www.nytimes.com/2024/06/14/magazine/parkinsons-smell-disease-detection.html)。她说服了一位医学研究人员认真对待她的这项技能。如今，越来越多的研究致力于通过人体渗出的某种难闻物质来实现帕金森病的早期检测。
+
+- [Reddit 上的一位老哥](https://www.reddit.com/r/migraine/comments/1g1dxw5/wifes_migraines_reduced_by_90_and_i_feel_like_a/)声称，通过清理家里的暖通空调系统（HVAC），他治好了妻子患了 20 年的偏头痛。哪怕只有一个人能通过给通风管道清灰而治好头痛，这产生的影响力也远超一般的科学论文。
+
+(另请参阅：[加入秘密协会的邀请](https://www.experimental-history.com/p/an-invitation-to-a-secret-society))
+
+# **5. 发点好的，女王**
+
+文化就是一切。如果我们的文化认为[追着一轮奶酪冲下山坡](https://en.wikipedia.org/wiki/Cooper's_Hill_Cheese-Rolling_and_Wake)很酷，我们会照做。如果我们的文化认为[盛装打扮并把一桶桶水泼在别人身上](https://en.wikipedia.org/wiki/Śmigus-dyngus)很重要，我们也会照做。如果我们的文化认为我们应该[用黑曜石利刃将活人的心脏从胸膛中剜出并献祭给维齐洛波奇特利神](https://en.wikipedia.org/wiki/Human_sacrifice_in_Aztec_culture)，我们同样会照做。因此，塑造正确的文化至关重要。
+
+我们表现得好像文化是某种被动降临在我们身上的事，而不是我们共同创造的东西。当然，过去确实如此。当只有少数人能够读写时，他们便垄断了文化的创造权。随着识字的人越来越多，情况开始发生变化，但真正的变革发生在大多数人都能连上互联网之后。有史以来第一次，对于我们究竟是要成为滚奶酪文化，还是黑曜石利刃文化，亦或是，你懂的，其他什么样的文化，我们所有人都拥有了话语权。
+
+![img](https://substackcdn.com/image/fetch/$s_!0JM5!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5b1ad82-64bc-4f8c-b00e-9ff63089783f_766x602.png)
+
+![img](https://substackcdn.com/image/fetch/$s_!Ec1x!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7b27d9c-3269-40fe-aa43-d71edba50029_608x438.png)
+
+![img](https://substackcdn.com/image/fetch/$s_!70Hb!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F645d7cf9-4988-4c12-a30d-c30c55225a6f_608x438.png)
+
+![img](https://substackcdn.com/image/fetch/$s_!fpWx!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb2c3f57-52f5-42d0-8845-f77c2fe8b637_608x173.png)
+
+![img](https://substackcdn.com/image/fetch/$s_!yXkJ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F24a4fbcd-cf8b-4163-8a73-b0c3ba00b505_385x489.png)

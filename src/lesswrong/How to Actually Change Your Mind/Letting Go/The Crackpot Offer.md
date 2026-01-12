@@ -1,4 +1,4 @@
-# 疯子的邀约
+# 疯子的邀约 
 
 原文：[The Crackpot Offer](https://www.readthesequences.com/The-Crackpot-Offer)
 

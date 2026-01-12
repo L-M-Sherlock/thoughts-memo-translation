@@ -8,9 +8,9 @@
 
 > —Michael Shermer, [《史上最难以置信的邪教》](http://www.2think.org/02_2_she.shtml)[1](https://www.readthesequences.com/Guardians-Of-Ayn-Rand#footnote1)(The Unlikeliest Cult in History)
 
-我认为 Michael Shermer 对客观主义（Objectivism）有些过度解读了。我稍后会对此进行阐述。
+我认为 Michael Shermer 对客观主义（Objectivism）有些过度解读了。我稍后会对此进行阐述。 
 
-Ayn Rand 的小说歌颂科学技术、资本主义、个人对体制的反抗、有限政府、私有财产和[自私](https://www.readthesequences.com/Fake-Morality)。她的终极虚构英雄 John Galt <spoiler>[是一位科学家，他发明了一种新型的廉价可再生能源；但他拒绝将这项技术公之于众，因为他认为这些利润只会被窃取去维持腐败的政府](https://www.readthesequences.com/Guardians-Of-Ayn-Rand#_)。</spoiler>
+Ayn Rand 的小说歌颂科学技术、资本主义、个人对体制的反抗、有限政府、私有财产和[自私](https://www.readthesequences.com/Fake-Morality)。她的终极虚构英雄 John Galt <剧透>[是一位科学家，他发明了一种新型的廉价可再生能源；但他拒绝将这项技术公之于众，因为他认为这些利润只会被窃取去维持腐败的政府](https://www.readthesequences.com/Guardians-Of-Ayn-Rand#_)。</剧透>
 
 然而，不知怎的——这一切最终却演变成一个以 Ayn Rand 为中心的道德和哲学“封闭系统”。“封闭系统”这个词并非我的指控修辞；它是 Ayn Rand 研究所来描述客观主义的术语。
 

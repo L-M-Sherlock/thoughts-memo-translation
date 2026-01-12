@@ -1,4 +1,4 @@
-# 两则关于「邪教」的公案
+# 两则关于「邪教」的公案//KK认走啦
 
 原文：[Two Cult Koans](https://www.readthesequences.com/Two-Cult-Koans)
 
