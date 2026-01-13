@@ -822,6 +822,8 @@
   * [如何普及记忆系统？](michael/How%20to%20make%20memory%20systems%20widespread.md)
   * [论意志的慈善](michael/On%20Volitional%20Philanthropy.md)
   * [运用记忆系统背诵文章段落](michael/Using%20memory%20systems%20to%20memorize%20text%20passages.md)
+* [nanda](nanda/intro.md)
+  * [学会如何学习](nanda/Post%2034%20Learning%20how%20to%20learn.md)
 * [nate](nate/intro.md)
   * [更新自我](nate/Be%20a%20new%20homunculus.md)
   * [无法绝望](nate/Being%20unable%20to%20despair.md)
