@@ -1,4 +1,4 @@
-# 怀疑的正确用法
+# 怀疑的正确用法 
 
 原文：[The Proper Use of Doubt](https://www.readthesequences.com/The-Proper-Use-Of-Doubt)
 

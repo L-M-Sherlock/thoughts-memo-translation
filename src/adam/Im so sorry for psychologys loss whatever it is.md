@@ -1,8 +1,8 @@
-我对心理学所遭受的损失深表遗憾，无论它损失的到底是什么
+# 我对心理学界遭受的损失深表遗憾，如果真有什么损失的话
 
-[我对心理学所遭受的损失深表遗憾，如果真有什么损失的话](https://www.experimental-history.com/p/im-so-sorry-for-psychologys-loss)
+[我对心理学界遭受的损失深表遗憾，如果真有什么损失的话](https://www.experimental-history.com/p/im-so-sorry-for-psychologys-loss)
 
-### 飞机坠毁，却无人验尸
+### 飞机坠毁，却无人在意遇难名单
 
 [Adam Mastroianni](https://substack.com/@experimentalhistory)
 
@@ -10,15 +10,15 @@
 
 最近发生了一些离奇的大事：
 
-[Data Colada](http://datacolada.org/) 的博主们发布了四篇系列文章（[1](http://datacolada.org/109)，[2](http://datacolada.org/110)，[3](http://datacolada.org/111)，[4](http://datacolada.org/112)），指控哈佛商学院教授 Francesca Gino 参与合著的论文涉嫌造假。作为回应， Gino 一并[起诉](https://www.vox.com/future-perfect/2023/8/9/23825966/francesca-gino-honesty-research-scientific-fraud-defamation-harvard-university)了指控方和哈佛大学，并索赔 2500 万美元。
+[Data Colada](http://datacolada.org/) 的博主们发布了四篇系列文章（[1](http://datacolada.org/109)，[2](http://datacolada.org/110)，[3](http://datacolada.org/111)，[4](http://datacolada.org/112)），指控哈佛商学院教授 Francesca Gino 参与合著的论文涉嫌造假。作为回应， Gino 一并[起诉了](https://www.vox.com/future-perfect/2023/8/9/23825966/francesca-gino-honesty-research-scientific-fraud-defamation-harvard-university)这些博主们和哈佛大学，并索赔 2500 万美元。
 
-早些时候， Colada 的那几位老哥还[发现](https://datacolada.org/98)了杜克大学教授 Dan Ariely 参与合著的一篇论文中存在造假的证据。最精彩的部分？有一篇由 Ariely 和 Gino 共同撰写的论文，在其中的两个独立研究中他们可能**不约而同地**伪造了数据。噢，而且这篇论文的主题正是关于不诚实的。
+早些时候， Colada 的那几位老哥还[发现了](https://datacolada.org/98)证据证明杜克大学教授 Dan Ariely 参与合著的一篇论文中存在学术造假。最精彩的部分？在一篇由 Ariely 和 Gino 共同撰写的论文中，他们两人可能**不约而同地**在这同一篇文章的两项独立研究里伪造了数据。噢，而且这篇论文的主题还是关于不诚实的。
 
 此外，还有这么个「名场面」：
 
 ![img](https://substackcdn.com/image/fetch/$s_!E72P!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa9ed7ec8-549d-421a-82ba-36d72335a1fa_437x383.png)
 
-（ Ariely 和 Gino 都否认他们有任何不当行为。既然现在我们处在一个动不动就起诉博客作者的时代，那我要声明一下：我当然无从得知 Ariely 、 Gino 或其他任何人是否曾有过学术不端行为。没有任何证据能表明我有丝毫头绪！我只是一群搬运工蜜蜂！）
+（Ariely 和 Gino 都否认他们有任何不当行为。既然现在我们处在一个动不动就起诉博客作者的时代，那我要声明一下：我当然无从得知 Ariely 、 Gino 或其他任何人是否曾有过学术不端行为。没有任何证据能表明我有丝毫头绪！我只是一群搬运工蜜蜂！）
 
 现在 Gino 的合著者们正忙得不可开交：要么去核实数据是否可靠，要么去向别人打包票数据没问题。她本人带的学生们眼下正在找工作；愿上帝保佑他们。Ariely 目前还没丢饭碗，但他管理着一个大实验室，参与多家公司业务，还与许多人有合作，如果他最终真的因学术不端而倒台，势必会连累一大批人。
 
@@ -28,7 +28,7 @@
 
 这听起来也许像是在挖苦 Gino 和 Ariely，或者像是在宣称实验心理学是多么绝妙地不可撼动——很遗憾，都不是。这实际上是一个可怕的事实：你揭露了某个科学领域的大片区域全是欺诈，但这竟然无关痛痒。这也是一个机会，让我们能去看看心理学领域到底哪里出了问题，也许也能看清我们该如何纠正它。
 
-# **一段美好而充满欺诈的生活**
+# **“《美好人生》”，但充满欺诈**
 
 Gino 的著述被引用超过 [33,000 次](https://scholar.google.com/citations?user=lFzOk00AAAAJ&hl=en)，Ariely 的被引用超过 [66,000 次](https://scholar.google.com/citations?user=Z1G9Lk4AAAAJ&hl=en)。他们都获得了精英大学的终身教职。他们著书立说，其中一些还成了畅销书。在 TED 上他们畅谈分享，观众无数。按任何一种世俗的成功标准来看，他们俩简直都是「大杀四方」。
 
@@ -57,3 +57,101 @@ Gino 的情况也一样。她的不少工作也是认知偏见的那堆东西里
 据我所知，基本没有。Stapel 任职的大学发布了一份长篇[报告](https://pure.mpg.de/rest/items/item_1569964_7/component/file_1569966/content)详细列举了他所有的学术不端行为，其中「欺诈行为造成的影响」这部分（如果你正在家里跟着看的话，可以翻到第 3.7 节）细致列出了各方所遭受的*名誉*损害：学生、校方、合著者、期刊，甚至心理学学科本身，大家都因为和 Stapel 有关联而连带遭殃。但其中只字未提*科学意义上*的影响——没有提到有理论必须撤回，没有提到有模型必须被废弃，也没有提到有哪些子领域必须从零开始。回看 Stapel 被撤回的著作，原因在于根本没有什么理论、模型或子领域因为这些著作而被改变多少。那 [10,000 多次](https://scholar.google.ca/citations?user=a51g4WoAAAAJ&hl=en)对他研究论文的引用现在指向了一片虚无，但这没有造成任何影响。
 
 作为一名年轻的心理学家，这让我脊背发凉。是的，一个人完全有可能去触及科学成就的巅峰，去「高影响力」期刊上连篇累牍地发表文章、去积累数万次引用——为的是所有这些实际上*根本无关紧要*的成果。这每一个成功的标志本该告诉你「你正走在正轨上」、「你正在实打实地为科学作出贡献」——结果它们可能毫无意义。所以，呃，我到底在图什么？
+
+# **我对你的损失深表遗憾，如果真有什么损失的话**
+
+不过，嘿，这也就只涉及到三个人而已，虽然他们仨挺有名的。也许只是任何一个单一科学家的影响力从宏观角度来看都确实太微小，要是你从整个文献库中删掉*一大批*论文，*那*肯定会带来点真正的改变，我们也许就不得不把这个领域的大部分推倒重来，对吧？
+
+不，并非如此。我们确实删掉过这样大批的论文，结果却无事发生。2015 年，一个大型研究团队尝试重做 100 项心理学研究，结果其中约有 [60%](https://eprints.keele.ac.uk/id/eprint/877/1/Open Science (Science Pre-Print).pdf) 的研究无法复现。[2](https://www.experimental-history.com/p/im-so-sorry-for-psychologys-loss#footnote-2-136506668) 这一发现在当时引起了轩然大波，占据了各大头条，至今已被引用近 8,000 次。
+
+但下次如果有人提起这事儿，你可以让他们尽可能多地列出这 100 项研究的名字。我敢打赌，他们估计也就说出零个。我自己的答案基本上也是零，而这还是在我已经就那项研究写过[长篇大论](https://www.experimental-history.com/p/psychology-might-be-a-big-stinkin)的前提下。（为了防止这个结果的出现只是因为我自己特别蠢，我去问了几位同事，他们的答案分别是：0、0、0、0、1 和 3。）
+
+这真的很诡异。想象一下，如果有人告诉你，你 60% 的亲朋好友在一场空难中丧生了，你的第一反应可能是感到难以置信和恐惧——「为什么我 60% 的亲朋好友都在同一架飞机上？他们是背着我聚会去了吗？」——但紧接着你会想知道*谁*死了，因为这真的很重要！你在乎的人是替换不得的！遇难的是你妈妈、你最好的朋友，还是谁？而假如你只记住了 60% 这个数据，假如当有人问你有谁在那场可怕的空难中丧生了的时候你却回答：「呃，你知道的，我没怎么仔细看过名单。也许是，呃，弗雷德叔叔？或者是我的朋友克拉丽莎？不过反正肯定是我亲朋好友中的 60% 丧生了，不管那都是谁。」——那这简直是疯了。
+
+所以，如果你听说你所在的领域有 60% 的论文无法复现，难道你不应该非常在乎*是哪些*论文吗？为什么我和我的同事们没有立刻打开那篇论文的附录，点击那 100 个链接，检查我们最钟爱的发现中是否有哪个「阵亡」了？答案只能是：「我们根本不觉得这是一件重要的事。」我们得知了一起空难，却连伤亡名单都懒得查。这对我们这一行来说是多么严厉的控诉！
+
+（关于这一话题的更多内容，请参阅[心理学可能是一大堆发臭的胡说八道，但这也没关系](https://www.experimental-history.com/p/psychology-might-be-a-big-stinkin)）。
+
+# **别担心，我们发现了猴子卖淫现象**
+
+这一切都很让人沮丧，但如果你记得[科学是一个强链接问题](https://www.experimental-history.com/p/science-is-a-strong-link-problem)，也许会感觉好一点。这就是为什么你可以抹除一整个学术生涯的成果、可以把文献打得千疮百孔，同时却不会真正损失什么：因为学科领域里大部分都是虚胖的赘肉，所以你可能根本伤不到什么要害器官。
+
+好吧，那么心理学的「强链接」在哪里？嗯哼，今年早些时候，心理学家 Paul Bloom 在推特上问了同样的问题：
+
+![img](https://substackcdn.com/image/fetch/$s_!7idX!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fee2f9f96-39a0-40fa-a32a-47eca71437f0_603x238.png)
+
+有一群心理学家都参与了讨论，他们的[回复](https://twitter.com/paulbloomatyale/status/1619737276585758722?s=43&t=dI45tzZfqhqaAR30Pr-_uA)让我感到深深的绝望：
+
+「心理病理学症状具备小世界网络的属性」
+
+「当人们发生互动时，人的身体和大脑会进行同步」
+
+「猴子会使用金钱（并用于支付性交易费用）」
+
+听着，这不是一项系统的研究；这只是一个人在互联网上征求意见。（话虽如此，心理学界所称的系统研究，实际上大多数也就是一个人在互联网上征求意见罢了。）这些发现中许多都很有趣，有些甚至还颇有用处（尤其当你恰恰是一只富有且孤独的猴子的时候）。我认为还有一些非常棒的心理学成果没有被提到，我在[被低估的心理学观点](https://www.experimental-history.com/p/underrated-ideas-in-psychology)中重点介绍了一些。
+
+但是，这其中没有像相对论、进化论或 DNA 那样改变世界的洞见，也没有像聚合酶链式反应、CRISPR 或希格斯玻色子那样不大但仍然很酷的发现。除了「大多数心理学研究都是废话」之外，被一个以上的评论者提及的心理学发现寥寥无几。如果 Bloom 想不出最近有任何重大发现，如果他的朋友们就此也说不出任何最近的重大发现，那么也许短期内根本就*没有*任何重大发现。
+
+（我知道这话听起来可能很扫兴，但别拿报信的人撒气。再说了，要射击一群蜜蜂的话，我就祝你好运吧。）
+
+# **一对满是尘垢的范式**
+
+为什么心理学拿不出更多成果来证明自己？是什么拖了我们的后腿？
+
+每门科学都有它的[范式](https://en.wikipedia.org/wiki/Paradigm)，即关于事物如何运作以及你如何研究它们的模型。心理学并没有真正意义上的范式；要确立一种范式，我们这个学科还太年轻了。但我们确实有一套行事方式，一堆代代相传并广为流传的假设和实践方式，我们可以称之为「准范式」。目前我们卡在了两个准范式上——它们曾有用过，但现在不再是了——以及还有一个从未有用并且也永远不会有用的准范式。
+
+第一个「曾经有用」的准范式大家都很熟悉：就是这一整套对认知偏差的狂热。是的，人类并不总是遵守最佳决策规则，这一见解已经赢得了两项[诺贝尔](https://www.nobelprize.org/prizes/economic-sciences/2017/summary/)[奖](https://www.nobelprize.org/prizes/economic-sciences/2002/summary/)。这太棒了！干得好，各位。但是自 1973 年以来，我们一直在为认知偏差添砖加瓦，而我们往这座大厦里加入的最新 100 个偏见似乎没发挥什么作用，再加 100 个可能作用更小。是时候[停止堆砌](https://worksinprogress.co/issue/biases-the-wrong-model)了。
+
+第二个「曾经有用」的准范式可以大致表述为「情境很重要」。这个观点坚持认为人们所处的环境对他们的行为有着巨大的影响力，而其中最极端的版本则坚称，罪人和圣人之间唯一的区别就在于他们的处境。史上最著名的心理学研究都是这类「情境很重要」的研究：[米尔格拉姆服从实验](https://www.experimental-history.com/p/the-secret-shock-study)、[阿希从众实验](https://en.wikipedia.org/wiki/Asch_conformity_experiments)、[旁观者效应](https://en.wikipedia.org/wiki/Bystander_effect)、[斯坦福监狱实验](https://www.prisonexp.org/)（该实验后来[被揭露出](https://gwern.net/doc/psychology/2019-letexier.pdf)更像是一出按剧本演出的戏剧，而非科学研究）。如今备受嘲笑的「社会启动效应」研究，比如[这一项](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Social_Cognition/Bargh_et_al_1996_Automaticity_of_social_behavior.pdf)——当你重组关于变老的单词，你会走得更慢——也是「情境很重要」类的研究。「[助推理论](https://en.wikipedia.org/wiki/Nudge_theory#:~:text=Nudges are small changes in,salience of the desired option.)」也是如此，它认为情境中微小的变化会带来行为上巨大的改变，例如通过重新设计自助餐厅的布局以鼓励人们多吃蔬菜。
+
+这个准范式同样也已经走到尽头了。是的，情境会影响人们的行为，而且这种影响确实比我们曾预期的要大，但人类不是受环境摆布的无脑机器人。这就是为什么那些看起来最神奇的社会启动效应研究总是[无法](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0029081)被[成功](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0056515)[复现](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0072467)，包括「重组关于老年的单词会让你走得更慢」的那个，以及[那个](https://www.researchgate.net/publication/256111575_Out_Damned_Spot_Can_the_Macbeth_Effect_Be_Replicated)关于人在想到不道德行为后会更渴望使用清洁产品的研究（类似于上面的 Gino 研究 #4）。情境中的微小变化*确实可能*产生巨大的影响，但[它们通常根本没有任何作用](https://www.pnas.org/doi/full/10.1073/pnas.2200300119)（就像 Gino 研究 #4）。情境固然重要，我们要感谢这 70 年来的研究让我们明白了这一点，但它们并非*唯一*重要的因素，再做 70 年的研究也无法改变这两个事实中的任何一个。
+
+# **一个念头有多少分量？**
+
+第三个准范式至今从未产生过任何科学成果，未来也永远不会。它解释起来也稍微难一点，我们不妨称之为「挑个名词研究它」。
+
+人类非常擅长相信有用的虚构概念。例如，福特汽车公司并不像你我这样存在着，也不像木星那样存在，甚至不像一辆福特 F-150 皮卡那样存在。福特汽车公司不是指它的办公楼，不是它的 CEO，不是它的数千名员工，不是它的公司章程，也不是它的银行账户；它是所有这些东西的总和，而且还不止这些。所以，尽管「福特汽车公司」并不以常规形式存在，但相信其存在是有用处的——它让许多人能一起工作、制造汽车并获得报酬。它也让我们能轻松地说出像「福特解雇了它的 CEO」、「福特与汽车工会达成了协议」以及「福特还[欠](https://www.freep.com/story/money/cars/ford/2020/07/29/ford-government-loan-department-energy-debt/5526413002/)政府钱」这样的话。[3](https://www.experimental-history.com/p/im-so-sorry-for-psychologys-loss#footnote-3-136506668)
+
+心理学也采用了大量的虚构概念。态度、规范、抑郁、自我、刻板印象、情绪、意识形态、人格、创造力、道德、智力、压力——这些东西其实都不是真正存在的。它们只是我们用来描述人的行为以及他们头脑中发生的事情的抽象词汇。如果不使用这些词汇，就很难谈论心理学，因此我们很容易忘记它们仅仅是一些词而已。
+
+依照「挑个名词研究它」这个准范式，你可以从这些虚构概念中选一个，然后收集一些关于它的数据。比如，你可以用一千个人的职业生涯去研究像*领导力*这样的虚构概念。人们有多看重领导力？领导力能预测公司的业绩吗？领导力存在跨文化差异吗？领导力与其他虚构概念（如意识形态或创造力）有关联吗？
+
+「挑个名词研究它」这个准范式有三个致命缺陷。首先，这些虚构概念是虚构的，这本身就够棘手了。你没法直接研究领导力，所以你必须把它转化为某种你可以测量的、非虚构的东西。这样一来，「研究领导力」实际上就变成了「研究人们对俄勒冈州领导力量表（Oregon Leadership Inventory）或其他什么量表的反应」，或者是统计人们使用的「具有领导者特征」的词汇，或者是在员工给老板的评分之间寻找关联。你可以考察少儿足球队，或公司董事会会议，或地铁列车员，而所有这些都可以被塞进「研究领导力」的名号之下，尽管它们和其他任何事可能都没有任何关联。这就好比一家杂货店有一整个叫作「**商品**」的大分区。
+
+其次，「挑个名词」总能给你结果。人们有多看重领导力？毫无疑问，肯定比零多。领导力能预测公司的业绩吗？既然拥有无限的自由去定义和测量你想要的领导力，那答案当然是能。领导力存在跨文化差异吗？只要坚持找，总能发现一些。
+
+第三，「挑个名词」从不告诉你何时该停下。我们要进行多少项关于领导力的研究才能真正理解领导力？500？1,000？100 万项？我们要怎么知道？我们总是有更多关于领导力的问题可以问，有更多的虚构概念可以与之关联，有更多的方式可以定义它。这是一台永动机，一场永远不会结束的[科研游戏](https://www.theintrinsicperspective.com/p/publish-and-perish)。
+
+所以，有些虚构概念是有用的。我们知道福特汽车公司是一个有用的虚构概念，因为人们每天都在利用它制造汽车。而心理学的虚构概念，到目前为止，主要用于产出论文。
+
+# **嗡嗡嗡，各位好**
+
+在其他科学领域，当一些范式无法解释新出现的数据时，它们就会被推翻。如果你的理论没法解释为什么海王星现在在这个位置，它就会输给那些能解释这点的理论。
+
+不幸的是，「人类具有认知偏差」、「情境很重要」以及「挑个名词研究它」这三个准范式是不可证伪且取之不尽的。没有人能证明人类实际上时刻都遵守最佳的决策法则，没有人能证明情境根本无关紧要，也没有人能论证领导力、创造力或「[社会潜隐记忆](https://en.wikipedia.org/wiki/Social_cryptomnesia)」不存在。而且我们永远没法穷尽所有的认知偏差、情境或虚构概念。想想就很可怕，但这些准范式真有可能是不朽的。
+
+但不朽并不意味着无懈可击。范式消亡的另一种方式是人们单纯对它们失去了兴趣，所以我们对抗这些僵尸范式的最佳盟友就是*无聊*。而我们的无聊多的是。心理学家们已经几乎不关心自己领域的发现了；这就是为什么当我们听说另一场实验复现惨案时，我们甚至懒得去确认遭难实验的身份。我们渴望某种能让我们*有感觉*的东西。几十年后，当垂垂老矣的 Bloom 再次提出他的问题时，我们希望看到这样一个世界：人们涌入评论区，列出各种重大发现。或者，比这更好，一个答案足够显而易见所以甚至不需要 Bloom 提问的世界。（想象一下，一位计算机科学家在推特上问：「嘿伙计们，有人听说过去几十年计算机科学领域有什么重大突破吗？」）
+
+所以，是的，当我们发现我们学科中受人尊敬的成员可能编造了数据时，这确实很丢人。这很糟糕，他们不应该这样做。但抓住造假者并不能让我们的领域起死回生。只有新的理念才能做到这一点，美妙诱人的理念，真正有作用的理念，可以作为基石的理念，要是它们消失了的话真的会带走一些什么。这就是我要寻找的东西，幸运的是，我很擅长寻找甜美的东西并报告它们的位置——因为我根本不是人类，而是一群蜜蜂。
+
+（请别起诉我。）
+
+![img](https://substackcdn.com/image/fetch/$s_!I5ve!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3354dd3f-39e3-4333-86e0-da79563e3a17_800x748.png)
+
+我的日程。图片来源：[Emmanuel Boutet](https://en.wikipedia.org/wiki/Waggle_dance#/media/File:Bee_dance.svg)。
+
+*这篇文章最终引发了很多讨论。以下是部分内容：*
+
+- [Paul Bloom](https://open.substack.com/users/857572-paul-bloom?utm_source=mentions) 的回应：[心理学还能行](https://smallpotatoes.paulbloom.net/p/psychology-is-ok)
+
+- [Ethan Ludwin-Peery](https://open.substack.com/users/13990499-ethan-ludwin-peery?utm_source=mentions) 对 Paul Bloom 回应的回应：[炼金术还能行](https://www.mod171.com/p/alchemy-is-ok)
+
+- 我对 Paul 的回应：[我给 Paul Bloom 发了封邮件](https://www.experimental-history.com/p/i-sent-paul-bloom-an-email)
+
+---
+
+[1] 认知偏差经常被[过分吹捧](https://www.nowpublishers.com/article/OpenAccessDownload/RBE-0092)，并且已经恶化为一种[愚蠢的观点，即认为人就是愚蠢的](https://www.experimental-history.com/p/the-radical-idea-that-people-arent)。看待这项研究的最佳方式是：人类心智拥有一套解决难题的聪明方法，通常它的效果惊人地好，但你可以构建特定的情境让这些启发式方法出错。顺便说一句，这也是认知偏差著述的创始人 Daniel Kahneman 和 Amos Tversky 最初[介绍它](https://apps.dtic.mil/sti/pdfs/AD0767426.pdf)的方式：「总的来说，这些启发式方法相当有用，但有时它们会导致严重的系统性错误。」但这是关于你可以如何解读研究结果的，而不是研究结果本身。
+
+[2] 这一发现存在争议，我[在这里](https://www.experimental-history.com/p/psychology-might-be-a-big-stinkin)写了更多相关内容。
+
+[3] 这个观点来自《[人类简史](https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind)》一书，而如今的风气是觉得[讨厌它才算酷](https://www.currentaffairs.org/2022/07/the-dangerous-populist-science-of-yuval-noah-harari)，我提到这点只是为了表明，我，也知道讨厌什么东西才算酷。我想 Harari 在书中使用的例子实际上是关于标致汽车（Peugeot）的，我不想在这里使用它是因为打出「Peugeot」这个词太烦人了。

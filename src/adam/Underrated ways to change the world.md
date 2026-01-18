@@ -98,12 +98,54 @@ Wilkins 的[维基百科页面](https://en.wikipedia.org/wiki/John_Wilkins)提�
 
 我们表现得好像文化是某种被动降临在我们身上的事，而不是我们共同创造的东西。当然，过去确实如此。当只有少数人能够读写时，他们便垄断了文化的创造权。随着识字的人越来越多，情况开始发生变化，但真正的变革发生在大多数人都能连上互联网之后。有史以来第一次，对于我们究竟是要成为滚奶酪文化，还是黑曜石利刃文化，亦或是，你懂的，其他什么样的文化，我们所有人都拥有了话语权。
 
+然而，借用道格拉斯·亚当斯关于宇宙诞生的[那句名言](https://www.goodreads.com/quotes/1-the-story-so-far-in-the-beginning-the-universe-was)：「这让很多人感到非常愤怒，并被普遍认为是一个糟糕的决定。」大多数人都认为，社交媒体让情况变得更糟了：
+
 ![img](https://substackcdn.com/image/fetch/$s_!0JM5!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5b1ad82-64bc-4f8c-b00e-9ff63089783f_766x602.png)
+
+如果你不喜欢当前的文化走向，这其实是一个巨大的机会，因为文化即**我们**。只要出现在你喜欢的场域，发布并推广你乐见的内容，无视你不喜欢的，并果断离开你觉得糟糕的圈子，你就能推动改变。我个人就深受那些深谙此道之人的启发和影响，比如 [Visa Veerasamy](https://x.com/visakanv?lang=en)、[Alice Maz](https://twitter.com/alicemazzy?ref_src=twsrc^google|twcamp^serp|twgr^author)、[Sasha Chapin](https://sashachapin.substack.com/p/how-to-crush-it-on-twitter-when-youhttps:/en.wikipedia.org/wiki/Boaty_McBoatface)、[Aella](https://x.com/aella_girl?lang=en) 以及 [Defender of Basic](https://defenderofthebasic.substack.com/p/anatomy-of-an-internet-argument)。
 
 ![img](https://substackcdn.com/image/fetch/$s_!Ec1x!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7b27d9c-3269-40fe-aa43-d71edba50029_608x438.png)
 
+我把他们看作是那种无论派对本身质量如何，都铁了心要玩得尽兴的派对玩家。没错，有时候音乐太噪，食物难吃，啤酒也没冰镇，而且整场局都是由那些试图把你的注意力变现的亿万富翁组的。你可以选择缩在角落里，抱怨这一切是多么糟糕、愚蠢和不公。或者，你也可以加入那一小撮窝在沙发上、逗得彼此捧腹大笑的人。如果这样做的人足够多，最终，整个派对都会变成那个沙发。
+
 ![img](https://substackcdn.com/image/fetch/$s_!70Hb!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F645d7cf9-4988-4c12-a30d-c30c55225a6f_608x438.png)
+
+# **6. 走进一栋不起眼的政府大楼，把工作干好**
+
+过去，矿井塌方每年都会夺走数百名矿工的生命。如今，这个数字通常是零，这在很大程度上要归功于 [Chris Mark](https://www.washingtonpost.com/opinions/interactive/2024/michael-lewis-chris-marks-the-canary-who-is-government/) 开发的一套算法。他起初是一名工会组织者，后来成了煤矿工人，接着进修成为工程师，最终进入矿务局工作，并找到了防止煤矿坍塌的方法。
+
+事实证明，像 Chris Mark 这样的人还有很多，他们身处不起眼的政府办公室，却在坚持不懈地解决问题。比如 [Arthur Allen](https://servicetoamericamedals.org/honorees/arthur-a-allen/)，他开发了一套搜索系统，能更快地定位海上遇险人员。比如 [Pius Bannis](https://servicetoamericamedals.org/honorees/pius-bannis/)，他在 2010 年海地地震后，组织了 1,100 名孤儿的撤离与收养工作。比如 [Tony Mento, Camille Otto, 和 Hari Kalla](https://servicetoamericamedals.org/honorees/tony-mento-camille-otto-and-hari-kalla/)，他们在去年 95 号州际公路大桥坍塌后，仅用 12 天就协助恢复了通车。还有 [Darnita Trower，Wanda Brown 和 Gerald Johnson](https://servicetoamericamedals.org/honorees/darnita-s-trower-wanda-j-brown-gerald-d-johnson-and-the-paperless-processing-initiative-team/)，他们升级了政府的 IT 系统，让大家再也不用给国税局寄送纸质邮件了。
+
+在精英圈子里，只有在政府里**当领导**才算酷。所以，当个幕僚长或劳工部部长还挺风光，但要是当个什么「基础设施副署长」或者「首席地层控制专家」，就显得有点掉价了。然而，当你行驶在 95 号州际公路上，当你在矿井下或轮船上工作，当遭遇地震，或者当你只是想把那该死的税给报了的时候，你所依赖的正是这些头衔平平无奇、却做着非凡之事的人。
+
+我知道这话对美国人来说可能听着有点讽刺，毕竟我们即将上任的总统已誓言要关闭许多这样的政府机构。但如果你看看像 Chris Mark 这样的人，你会发现他的成功不仅在于他精通数学和矿业，更在于他找到了一个众人都认为值得解决的问题，因此无论政府如何换届，他都能将工作延续下去。这条路极难走通，正因如此，这些才是**被低估**的改变世界之道，而非**轻松**之道。
+
+# **7. 打造你的 RUNK**
+
+我经常想起这条推文：
 
 ![img](https://substackcdn.com/image/fetch/$s_!fpWx!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb2c3f57-52f5-42d0-8845-f77c2fe8b637_608x173.png)
 
+或者正如 XKCD [画的那样](https://xkcd.com/2347/)：
+
 ![img](https://substackcdn.com/image/fetch/$s_!yXkJ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F24a4fbcd-cf8b-4163-8a73-b0c3ba00b505_385x489.png)
+
+请注意，他们用的词都是「维护」——不是「发明」，也不是「领导」，而是**维护**。RUNK 的力量在于它能**始终如一**地运作。在数数这件事变得很酷之前，它就在那儿数了；不管这件事后来变得多酷，它还是在那儿数。这就是为什么你不必非得是个搞技术的才能打造一个 RUNK。如果你做的事情哪怕只有一点点用处，但你能**无论如何**都坚持做下去，那么人们就会意识到你会长期坚守，进而开始基于你所做的事情构建新的东西。
+
+读高中时，我身边没有 Ronald 这样的人，但确实有一位 Peggy。她负责运营休伦县（Huron County）的青年资助委员会（YGC）。这名字听起来很官方，但实际上就是 Peggy 把十几个高中生召集到教堂地下室，告诉我们应该通过洗车和举办初中舞会来筹集资金，然后再把筹到的钱捐赠出去。YGC 已经运行了二十多年，如今在俄亥俄州的农村地区，有一大批人都指望着能拿到那些青少年开出的支票。而这一切都靠 Peggy 维持运转，她拥有许多让她成为优秀 YGC 导师的美好品质，但最重要的一点在于，她**年复一年地坚守**在那里。
+
+# **上帝就是面包**
+
+有时，一想到这个世界上种种糟糕的破事，我就感到愤愤不平：怎么我来的时候，这些问题都还没解决好？我是说，真的假的？都 2024 年了？我们还在做**这种事**？
+
+但转念一想：凭什么唯独我就配生在一个好时代？难道我是宇宙中最特别的宠儿吗？我的祖先们曾在饥荒和瘟疫中死去，在暴君的统治下受苦，还在那些愚蠢的[战争](https://en.wikipedia.org/wiki/European_wars_of_religion)中丧命——而打这些仗仅仅是因为：一派人认为上帝**字面上**就是一块面包，而另一派人认为上帝只是**象征意义上**是一块面包。
+
+他们都配得上一个比当时更好的世界。我也一样。我们所有人都一样！要是能说服上帝把进度条快进到未来就好了，那里一切美好，再无苦痛。唉，可惜祂听不见我们的祈求，因为祂是一块面包。
+
+所以，这事儿还得靠我们自己。几个月前，当我写下[《每个人都有属于自己的位置》](https://www.experimental-history.com/p/theres-a-place-for-everyone)这篇文章时，收到了许多读者的留言，大意是说：「好吧，但这世上肯定没有属于**我**的位置。」这让我倍感心碎。看看这个世界！看看它的苦痛！这个世界充满了问题——我向你保证，总有一个问题是写着你的名字、等待你去解决的。
+
+如果这七条路都不适合你，也没关系；毕竟七条路也不算多！幸运的是，这份清单是无限的。（第 8 条就是「把这份清单列得更长些」。）我敢说，这些人在成长的过程中，谁也没想过自己有一天会破获历史上最大的社会保障骗局，也没想过自己会让清教徒也能接纳科学，更没想过自己会因为掰指关节或升级政府网站而闻名于世。然而，他们确实让这个世界变得美好了一点点，而且他们做到这一点，既没有依靠国王般的权力，也没有付出圣徒般的牺牲。对此，我向他们致敬，并且我想说：感谢面包，幸好有他们。
+
+---
+
+[1] 作为勇敢的代价，Griffith 和 Carver 遭到了边缘化和跟踪，最终被迫离职。事实证明，社会保障局的高层没人愿意承认自己损失了五亿美元。这也正是为什么「走进一栋不起眼的政府大楼，把工作干好」（见第 6 条）如此重要的另一个原因。如今，Griffith 和 Carver 已成为[注册舞弊审查师](https://www.fraud-magazine.com/cover-article.aspx?id=4295023239)。
