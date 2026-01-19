@@ -1,4 +1,4 @@
-# 留一条退路
+# 留条退路
 
 原文：[Leave a Line of Retreat](https://www.readthesequences.com/Leave-A-Line-Of-Retreat)
 

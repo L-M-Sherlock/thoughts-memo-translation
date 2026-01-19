@@ -4,7 +4,7 @@
 
 ### 写作即「共融」
 
-[Henrik Karlsson](https://substack.com/@henrikkarlsson)
+作者：[Henrik Karlsson](https://substack.com/@henrikkarlsson)
 
 2023 年 11 月 28 日
 
