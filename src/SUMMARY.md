@@ -6,7 +6,7 @@
   * [听说你想让自己摆脱人生的泥潭](adam/So%20you%20wanna%20debog%20yourself.md)
   * [裸体皇帝的舞蹈](adam/The%20dance%20of%20the%20naked%20emperors.md)
   * [同行评议的兴与衰](adam/The%20rise%20and%20fall%20of%20peer%20review.md)
-  * [人人都有立锥之地](adam/Theres%20a%20place%20for%20everyone.md)
+  * [每个人都有属于自己的位置（等待校对/审核的认领）](adam/Theres%20a%20place%20for%20everyone.md)
   * [事情可以变得更好](adam/Things%20could%20be%20better.md)
   * [被低估的改变世界的方法](adam/Underrated%20ways%20to%20change%20the%20world.md)
   * [为什么聪明人不会更快乐？](adam/Why%20arent%20smart%20people%20happier.md)
