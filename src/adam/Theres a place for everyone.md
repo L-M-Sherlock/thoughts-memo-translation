@@ -1,4 +1,4 @@
-# 每个人都有属于自己的位置（等待校对/审核的认领）
+# 每个人都有属于自己的位置
 
 [每个人都有属于自己的一席位置 - by Adam Mastroianni](https://www.experimental-history.com/p/theres-a-place-for-everyone)
 
