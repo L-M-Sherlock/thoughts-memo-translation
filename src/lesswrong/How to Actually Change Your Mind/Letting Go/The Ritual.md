@@ -1,4 +1,4 @@
-# 仪式 
+# 仪式
 
 原文：[The Ritual](https://www.readthesequences.com/The-Ritual)
 

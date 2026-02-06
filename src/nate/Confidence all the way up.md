@@ -54,7 +54,7 @@
 
 「全力阶梯覆盖式自信」的核心在于：充分运用你所拥有的、[认识你自身的局限性](https://mindingourway.com/not-yet-gods/)。它是在说：你要明白，没有一个模型可以完美地刻画「你所拥有的」以及「你的局限性」，但不管怎样，你都应该继续脚踏实地地逐步前进。
 
-它是在说，你要明白：总会有意料之外的难题出现，而你要相信你有应对它的能力，但有时也不尽然；当你被难题击倒后，你要相信你能重新振作，但有时也有例外；当你真的被难题击溃而绝望丧气时，你也要学着坦然接受(https://mindingourway.com/come-to-your-terms/)。
+它是在说，你要明白：总会有意料之外的难题出现，而你要相信你有应对它的能力，但有时也不尽然；当你被难题击倒后，你要相信你能重新振作，但有时也有例外；当你真的被难题击溃而绝望丧气时，你也要学着[坦然接受](https://mindingourway.com/come-to-your-terms/)。
 
 的确，我们都有局限。所有的人都有局限。总有一些关乎决策的重要事实不被我们所了解。我们使用（大脑这台）[存在缺陷的硬件](https://en.wikipedia.org/wiki/List_of_cognitive_biases)进行推理。但是，[应对不确定性的正确做法不是畏首畏尾放慢脚步](http://lesswrong.com/lw/n6a/the_correct_response_to_uncertainty_is_not/)！
 
