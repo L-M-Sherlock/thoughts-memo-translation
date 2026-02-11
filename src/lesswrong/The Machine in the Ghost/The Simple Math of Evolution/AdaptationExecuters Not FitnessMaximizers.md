@@ -2,19 +2,19 @@
 
 [Adaptation-Executers, Not Fitness-Maximizers](https://www.readthesequences.com/Adaptation-Executers-Not-Fitness-Maximizers)
 
->个体生物最好被视为“适应执行者”，而非适合度最大化者。
+> 个体生物最好被理解为**适应执行者**，而非适合度最大化者。
 
 >
 
 > —John Tooby 和 Leda Cosmides,
 
-> 《The Psychological Foundations of Culture》[1](https://www.readthesequences.com/Adaptation-Executers-Not-Fitness-Maximizers#footnote1)
+> 《文化的心理学基础》（《The Psychological Foundations of Culture》）[1](https://www.readthesequences.com/Adaptation-Executers-Not-Fitness-Maximizers#footnote1)
 
-五万年前，**智人**的味蕾引导人类寻找最稀缺、最关键的食物资源——糖与脂肪。简而言之，就是卡路里。如今味蕾的功能背景已变，味蕾本身却未改变。卡路里不仅不再稀缺（在发达国家），甚至对人体有害。绿叶和坚果中原本富含的微量营养素，在面包中并不存在，而我们的味蕾却不会提出异议。一勺冰淇淋可谓一种[超常刺激](https://www.readthesequences.com/Superstimuli-And-The-Collapse-Of-Western-Civilization)，其中糖、脂肪和盐的含量，都远超祖先环境中的任何食物。
+五万年前，**智人**的味蕾将它们的宿主引向最稀缺、最关键的食物资源——糖与脂肪，简而言之就是**卡路里**。如今，味蕾的功能背景已经改变，但味蕾本身却没有随之变化。卡路里（在发达国家）不仅不再稀缺，反而对人体有害。原本在绿叶和坚果中富含的微量营养素却在面包中缺失了，而我们的味蕾却不会提出异议。一勺冰淇淋可谓是一种[超常刺激](https://www.readthesequences.com/Superstimuli-And-The-Collapse-Of-Western-Civilization)，其中所含的糖、脂肪和盐，都远超祖先环境中的任何食物。
 
-将个体生物视为适应执行者，而非适应度最大化者，或许更为贴切。倘若有人**刻意**以最大化自身等位基因的包容性遗传适应度为目标，那么除非濒临饿死，否则绝不会去吃一块饼干。
+倘若一个人以最大化等位基因的**综合遗传适应度**为**明确**目标，那么不到饥肠辘辘的时候，他绝不会碰一块饼干。然而，将个体生物视为**适应度**最大化者，远不如将其理解为**适应执行者**更为贴切。
 
-十字螺丝刀的设计初衷虽是拧转螺丝，但它并不会为适应一字螺丝而自行改造。这些工具由我们所创造，却独立于我们而存在，也独立于我们而延续。
+一把十字螺丝刀，即便它的设计初衷是用来拧螺丝，也不会为完成其功能而自行改造以适应一字螺丝。我们创造了这些工具，但它们独立于我们而存在，也独立于我们而延续。
 
 组成螺丝刀的原子并没有标注其“目标”用途的微型 XML 标签。设计者固然有他的意图，但这不等于物体在现实中的**实际表现**。若忘记了设计者与被设计物是两个独立的实体，你可能会认为螺丝刀的目的就是拧螺丝——仿佛这是螺丝刀自身固有的明确属性，而非设计者心智状态的属性。于是，当螺丝刀无法自适应地拧动一字螺丝时，你或许会感到惊讶，毕竟按此逻辑，螺丝刀的**作用**本就是拧螺丝啊。
 

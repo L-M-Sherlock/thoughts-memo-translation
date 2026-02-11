@@ -4,7 +4,7 @@
 
 2016 年 2 月 14 日
 
-第三种有争议的美德是「反抗」。与其他[争议性](https://mindingourway.com/desperation/)[美德](https://mindingourway.com/recklessness/) 一样，它也可能给你招来麻烦。[请牢记反向建议等效定律](http://slatestarcodex.com/2014/03/24/should-you-reverse-any-advice-you-hear)。不过，倘若运用得当，「反抗」这个美德便能在一种健康、摆脱内疚感的内在动机系统中发挥重要的作用。
+第三种有争议的美德是「反抗」。与其他[有争议的](https://mindingourway.com/desperation/)[美德](https://mindingourway.com/recklessness/) 一样，它也可能给你招来麻烦。[请牢记反向建议等效定律](http://slatestarcodex.com/2014/03/24/should-you-reverse-any-advice-you-hear)。不过，倘若运用得当，「反抗」这个美德便能在一种健康、摆脱内疚感的内在动机系统中发挥重要的作用。
 
 我过去常对人讲，我做事的动力，大概有九成是靠反抗驱动的。最常听到的回应是：「哈哈，那用激将法岂不是就能轻易摆布你了？」这让我意识到，我还没能讲清楚我所说的「反抗驱动力」究竟为何物，于是索性就不再对外说出那句话了。今天，我就来试试能否把「反抗驱动力」的含义说明白。
 
