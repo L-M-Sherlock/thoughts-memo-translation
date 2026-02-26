@@ -1,6 +1,6 @@
 # 每个人都有属于自己的位置
 
-[每个人都有属于自己的一席位置 - by Adam Mastroianni](https://www.experimental-history.com/p/theres-a-place-for-everyone)
+原文：[There's a place for everyone - by Adam Mastroianni](https://www.experimental-history.com/p/theres-a-place-for-everyone)
 
 ### 或者: 神奇生态位在哪里？
 
