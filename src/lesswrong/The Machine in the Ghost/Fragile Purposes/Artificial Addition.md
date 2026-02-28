@@ -1,6 +1,6 @@
 # 人工加法
 
-[Artificial Addition](https://www.readthesequences.com/Artificial-Addition)
+[人工加法](https://www.readthesequences.com/Artificial-Addition)
 
 ❦
 
