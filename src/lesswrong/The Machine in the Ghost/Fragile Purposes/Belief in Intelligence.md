@@ -1,4 +1,4 @@
-# 对智能的信念
+# 对智能的信念（校对中）
 
 [Belief in Intelligence](https://www.readthesequences.com/Belief-In-Intelligence)
 
