@@ -721,7 +721,7 @@
   * [A Human’s Guide to Words](lesswrong/A%20Human’s%20Guide%20to%20Words/intro.md)
     * [词语出错的 37 种方式](lesswrong/A%20Human’s%20Guide%20to%20Words/37%20Ways%20That%20Words%20Can%20Be%20Wrong.md)
     * [Arguing By Definition.md](lesswrong/A%20Human’s%20Guide%20to%20Words/Arguing%20By%20Definition.md)
-    * [分类会带来后果](lesswrong/A%20Human’s%20Guide%20to%20Words/Categorizing%20Has%20Consequences.md)
+    * [分类会产生后果](lesswrong/A%20Human’s%20Guide%20to%20Words/Categorizing%20Has%20Consequences.md)
     * [条件独立与朴素贝叶斯](lesswrong/A%20Human’s%20Guide%20to%20Words/Conditional%20Independence%20And%20Naive%20Bayes.md)
     * [伪装的提问](lesswrong/A%20Human’s%20Guide%20to%20Words/Disguised%20Queries.md)
     * [争论定义](lesswrong/A%20Human’s%20Guide%20to%20Words/Disputing%20Definitions.md)
