@@ -842,7 +842,7 @@
     * [Fragile Purposes](lesswrong/The%20Machine%20in%20the%20Ghost/Fragile%20Purposes/intro.md)
       * [拟人化的乐观](lesswrong/The%20Machine%20in%20the%20Ghost/Fragile%20Purposes/Anthropomorphic%20Optimism.md)
       * [人工加法](lesswrong/The%20Machine%20in%20the%20Ghost/Fragile%20Purposes/Artificial%20Addition.md)
-      * [对智能的信念（校对中）](lesswrong/The%20Machine%20in%20the%20Ghost/Fragile%20Purposes/Belief%20in%20Intelligence.md)
+      * [对智能的信念](lesswrong/The%20Machine%20in%20the%20Ghost/Fragile%20Purposes/Belief%20in%20Intelligence.md)
       * [机器中的幽灵](lesswrong/The%20Machine%20in%20the%20Ghost/Fragile%20Purposes/Ghosts%20in%20the%20Machine.md)
       * [穿着滑稽戏服的人类](lesswrong/The%20Machine%20in%20the%20Ghost/Fragile%20Purposes/Humans%20in%20Funny%20Suits.md)
       * [渗漏的概括](lesswrong/The%20Machine%20in%20the%20Ghost/Fragile%20Purposes/Leaky%20Generalizations.md)
