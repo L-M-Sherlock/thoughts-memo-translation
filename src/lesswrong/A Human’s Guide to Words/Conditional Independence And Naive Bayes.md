@@ -1,4 +1,4 @@
-# 条件独立与朴素贝叶斯
+# 条件独立与朴素贝叶斯 
 
 [Conditional Independence And Naive Bayes](https://www.readthesequences.com/Conditional-Independence-And-Naive-Bayes)
 

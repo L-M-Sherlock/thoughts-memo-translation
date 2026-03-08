@@ -1,8 +1,8 @@
-# 超常刺激与西方文明的崩溃（已经认领）
+# 超常刺激与西方文明的崩溃（已经认领，还没细化完）
 
 [Superstimuli and the Collapse of Western Civilization](https://www.readthesequences.com/Superstimuli-And-The-Collapse-Of-Western-Civilization)
 
-至少有三人因连续多日不休不眠游玩网络游戏而丧生。有人因《魔兽世界》失去了配偶、工作与子女。倘若人们有权游玩电子游戏——很难想象还有比这更基本的权利——那么市场必将作出回应，提供所能售卖的最引人入胜的游戏，直至那些过度沉迷的消费者从基因池中被剔除。
+[至少](http://news.xinhuanet.com/english/2005-11/01/content_3714003.htm) [三](http://www.bit-tech.net/news/gaming/2007/09/18/chinese_man_days_after_3-day_gaming_session/1) [人](http://news.bbc.co.uk/2/hi/technology/4137782.stm) 因连续多日不休不眠游玩网络游戏而丧生。有人因《魔兽世界》失去了配偶、工作与子女。倘若人们有权游玩电子游戏（很难想象还有比这更基本的权利）那么[市场必将作出回应](https://www.greaterwrong.com/lw/h0/burchs_law/)，提供所能售卖的最引人入胜的游戏，直至那些过度沉迷的消费者从基因池中被剔除。
 
 一款消费品何以让人沉迷至此，以至于在使用 57 小时后，消费者宁肯再多玩一小时，也不愿进食或睡眠？（或许有人会辩称，消费者是理性地决定宁愿接下来一小时玩《星际争霸》，也不愿度过余生——但我们别往那个方向深究。拜托。）
 
