@@ -845,7 +845,7 @@
       * [对智能的信念](lesswrong/The%20Machine%20in%20the%20Ghost/Fragile%20Purposes/Belief%20in%20Intelligence.md)
       * [机器中的幽灵](lesswrong/The%20Machine%20in%20the%20Ghost/Fragile%20Purposes/Ghosts%20in%20the%20Machine.md)
       * [穿着滑稽戏服的人类](lesswrong/The%20Machine%20in%20the%20Ghost/Fragile%20Purposes/Humans%20in%20Funny%20Suits.md)
-      * [渗漏的概括](lesswrong/The%20Machine%20in%20the%20Ghost/Fragile%20Purposes/Leaky%20Generalizations.md)
+      * [有漏洞的概括](lesswrong/The%20Machine%20in%20the%20Ghost/Fragile%20Purposes/Leaky%20Generalizations.md)
       * [迷失的目的](lesswrong/The%20Machine%20in%20the%20Ghost/Fragile%20Purposes/Lost%20Purposes.md)
       * [优化与智能爆炸](lesswrong/The%20Machine%20in%20the%20Ghost/Fragile%20Purposes/Optimization%20and%20the%20Intelligence%20Explosion.md)
       * [终极价值与工具性价值](lesswrong/The%20Machine%20in%20the%20Ghost/Fragile%20Purposes/Terminal%20Values%20and%20Instrumental%20Values.md)
