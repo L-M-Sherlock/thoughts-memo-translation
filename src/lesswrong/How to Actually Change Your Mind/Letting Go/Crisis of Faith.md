@@ -8,15 +8,15 @@
 
 > ——[索尔・申克尔（Thor Shenkel）](http://forums.keenspot.com/viewtopic.php?p=1099960#p1099960)
 
-这个世界上，许多人仍然保留着一些信念，其漏洞哪怕是一个十岁的孩子，只要是第一次听到，也能指出来。我们谈论的不是细微的错误，而是不堪一击的信念——如果一个[不受牵绊](https://www.readthesequences.com/Affective-Death-Spirals)的头脑能[毫无回避](https://www.readthesequences.com/Avoiding-Your-Beliefs-Real-Weak-Points)地像十岁孩子那样运用怀疑精神的话。正如 Premise Checker 所说，「如果上帝这一观念直到科学时代才出现，只有极其怪异的人才会发明出这种想法，并假装它[解释](https://www.readthesequences.com/Occams-Razor)了什么。」
+这个世界上，许多人仍然保留着一些信念，其漏洞哪怕是一个 10 岁的孩子，只要是第一次听到，也能指出来。我们谈论的不是细微的错误，而是不堪一击的信念——如果一个[不受牵绊](https://www.readthesequences.com/Affective-Death-Spirals)的头脑能[毫无回避](https://www.readthesequences.com/Avoiding-Your-Beliefs-Real-Weak-Points)地像十岁孩子那样运用怀疑精神的话。正如 Premise Checker 所说，「如果上帝这一观念直到科学时代才出现，只有极其怪异的人才会发明出这种想法，并假装它[解释](https://www.readthesequences.com/Occams-Razor)了什么。」
 
-然而，即便是技艺精湛的科学专家，即便某一领域的重大创新者，即便就在今时今日，也并未成功地运用这种怀疑精神。诺贝尔奖得主Robert Aumann，奥曼协议定理（Aumann’s Agreement Theorem）的提出者，是一个正统的犹太教徒。我相当有把握地大胆推测，Aumann在某个时刻，一定质疑过自己的信仰。然而他的质疑并没有[成功](https://www.readthesequences.com/The-Proper-Use-Of-Doubt)。[我们改变想法的次数，比我们自以为的要少。](https://www.readthesequences.com/We-Change-Our-Minds-Less-Often-Than-We-Think)
+然而，即便是技艺精湛的科学专家，即便某一领域的重大创新者，即便就在今时今日，也并未成功地运用这种怀疑精神。诺贝尔奖得主Robert Aumann，奥曼协议定理（Aumann’s Agreement Theorem）的提出者，是一个正统的犹太教徒。我相当有把握地大胆推测，Aumann 在某个时刻，一定质疑过自己的信仰。然而他的质疑并没有[成功](https://www.readthesequences.com/The-Proper-Use-Of-Doubt)。[我们改变想法的次数，比我们自以为的要少。](https://www.readthesequences.com/We-Change-Our-Minds-Less-Often-Than-We-Think)
 
-你应该被此吓得魂飞魄散。这意味着，你可以是一个世界级的科学家，**并且**精通贝叶斯数学，**却**仍然无法拒绝一个荒谬到连初次听说的十岁孩子也能发现的信念。这表明，如果一个信念长期在你头脑中腐烂，它就可以为自己建立起几乎不可攻破的防御阵地。
+你应该被此吓得魂飞魄散。这意味着，你可以是一个世界级的科学家，**并且**精通贝叶斯数学，**却**仍然无法拒绝一个荒谬到连初次听说的 10 岁孩子也能发现的信念。这表明，如果一个信念长期在你头脑中腐烂，它就可以为自己建立起几乎不可攻破的防御阵地。
 
 那么，要击败一个已经为自己筑起堡垒的错误，需要付出什么？
 
-但是，当你**知道**它是一个错误的时候，它就已经被击败了。真正的困境不是「我该怎么拒绝长期持有的错误信念 **X**？」，而是「我怎么知道长期持有的信念 **X** 是错误的？」当我们不确定哪条路才是正确的时候，自我诚实是最脆弱的。因此，问题就变成了：
+但是，当你**知道**它是一个错误的时候，它就已经被击败了。真正的困境不是「我该怎么拒绝长期持有的错误信念 **X**？」，而是「我怎么知道长期持有的信念 **X** 是错误的？」当我们不确定哪条路才是正确的时候，对自己诚实是最脆弱的。因此，问题就变成了：
 
 我们如何在自己内心制造一场真正的信仰危机，一场可能朝任何方向发展的危机？
 
@@ -50,9 +50,9 @@
 
 因为，如果你**没有**竭尽全力，那么——就**你**所知——你的脑袋里可能塞满了像宗教一样荒谬的胡言乱语。
 
-如果没有那种狂暴的、撕裂般的力求理性的努力，那种摆脱宗教所需的努力——那么，当Robert Aumann都相信上帝的时候，你又怎么敢确信任何事？
+如果没有那种狂暴的、撕裂般的力求理性的努力，那种摆脱宗教所需的努力——那么，当 Robert Aumann 都相信上帝的时候，你又怎么敢确信任何事？
 
-曾有人（我忘了是谁）观察到，人们只有在某个年龄之前，才能背弃自己的宗教信仰。之后就为时已晚，他们会对所有的反对意见都准备好现成的答案。你必须超越的，正是那样一种存在状态。这是对你作为理性主义者力量的严酷考验；若无法通过，你将比一个十岁的孩子还要软弱。
+曾有人（我忘了是谁）观察到，人们只有在某个年龄之前，才能背弃自己的宗教信仰。之后就为时已晚，他们会对所有的反对意见都准备好现成的答案。你必须超越的，正是那样一种存在状态。这是对你作为理性主义者力量的严酷考验；若无法通过，你将比一个 10 岁的孩子还要软弱。
 
 但再次强调：当你知道某个信念是错误的时候，它就已经被击败了。所以，我们谈论的并不是在**你**认定你的宗教是错误的之后，去[消除宗教教养的影响](https://www.readthesequences.com/The-Genetic-Fallacy)的那种竭尽全力，而是你用来**弄清楚**自己究竟是该挣脱枷锁还是继续戴着的那种竭尽全力。当我们不**知道**应走哪条路时，自我诚实最为脆弱——因为正是在这种时候，自我合理化尚不**明显**是罪过。
 
@@ -72,7 +72,7 @@
 
 当然，我强调这一点，是为了让你能对自己承认，「我的信念具备这些警告信号，」而不必对自己说，「我的信念是错的。」
 
-这些警告信号**真正**标记的，是一个需要**付出超乎寻常的努力才能有效质疑**的信念。这样才能保证，如果它确实是错的，你能真正否定它。而在你不能有效质疑的时候，你就是盲目的，因为你的大脑会[无条件地](https://www.readthesequences.com/The-Bottom-Line)持有该信念。当视网膜无论接收到什么光子，都发送相同的信号时，[我们称那只眼睛是盲的](https://www.readthesequences.com/What-Is-Evidence)。
+这些警告信号**真正**标记的，是一个需要**付出超乎寻常的努力才能有效质疑**的信念。这样才能保证，如果它确实是错的，你能真正否定它。而在你不能有效质疑的时候，你就是盲目的，因为你的大脑会[无条件地](https://www.readthesequences.com/The-Bottom-Line)持有该信念。当视网膜无论接收到什么光子，都发送相同的信号时，[我们称那只眼睛是瞎的](https://www.readthesequences.com/What-Is-Evidence)。
 
 那么，你应该什么时候发动一场信仰危机呢？
 
@@ -82,33 +82,33 @@
 
 有关信仰危机技巧的基本要素，已经发布在了许多文章之中：
 
-- [回避你信念真正的弱点](https://www.readthesequences.com/Avoiding-Your-Beliefs-Real-Weak-Points)——在信仰危机中，最初的诱惑之一，是去质疑你信念中最强的部分，这样你就可以[复述](https://www.readthesequences.com/One-Argument-Against-An-Army)现成的答案。你需要寻找真正的痛点，而不是去考虑那些最令人安心的论证。
+- [回避你信念中真正的弱点](https://www.readthesequences.com/Avoiding-Your-Beliefs-Real-Weak-Points)——在信仰危机中，最初的诱惑之一，是去质疑你信念中最强的部分，这样你就可以[复述](https://www.readthesequences.com/One-Argument-Against-An-Army)现成的答案。你需要寻找真正的痛点，而不是去考虑那些最令人安心的论证。
 
 - [关于好奇心的冥想](https://www.readthesequences.com/The-Meditation-On-Curiosity)——Roger Zelazny 曾经区分过「想成为作家」与「想要去写作」，同样地，「想完成调查」和「想要去调查」之间也有区别。仅仅说「对自身信念的批判是我的责任」是不够的。你必须保持好奇，而只有不确定性才能孕育好奇。牢记[预期证据守恒](https://www.readthesequences.com/Conservation-Of-Expected-Evidence)可能有助于你[渐进式地自我更新](https://www.readthesequences.com/Update-Yourself-Incrementally)：对于你考虑的每**一**个观点，新论点和新证据的每一个部分，都不要预期自己的信念（平均而言）会在某一方向上偏移得更多——如此你才能每次都真正好奇结果会如何。
 
-- [原创性的观察](https://www.readthesequences.com/Original-Seeing)—运用 Pirsig 的方法来防止[缓存的标准思想](https://www.readthesequences.com/CachedThoughts)抢先完成思维定势。
+- [第一手观察(https://www.readthesequences.com/Original-Seeing)——运用 Pirsig 的方法来防止[缓存的标准思想](https://www.readthesequences.com/CachedThoughts)抢先完成思维定势。
 
-- [Gendlin 祷文](https://www.readthesequences.com/You-Can-Face-Reality)和[ Tarski 祷文](https://www.readthesequences.com/The-Meditation-On-Curiosity)——人们能够忍受真实，因为他们早已在承受它。如果一个信念是真的，相信它会对你更有利，如果它是假的，拒绝它对你更有利。你会建议宗教信徒试着充分和深入地想象一个没有上帝的世界，并且，不找任何借口地充分理解：**如果**世界上没有上帝，**那么**他们相信没有上帝的存在会过得更好。如果一个人不能从情感深处接受这一点，他将无法发动一场信仰危机。所以，你应该真心实意地努力去想象你信念的**其他可能**，就像最优秀的怀疑论者会希望你去做的那样。设想一下，一个宗教信徒需要付出多大的努力，才能毫不扭曲、不为自我安慰地想象一个无神论者眼中的宇宙。
+- [简德林祷文](https://www.readthesequences.com/You-Can-Face-Reality)和[塔斯基祷文](https://www.readthesequences.com/The-Meditation-On-Curiosity)——人们能够忍受真实，因为他们早已在承受它。如果一个信念是真的，相信它会对你更有利，如果它是假的，拒绝它对你更有利。你会建议宗教信徒试着充分和深入地想象一个没有上帝的世界，并且，不找任何借口地充分理解：**如果**世界上没有上帝，**那么**他们相信没有上帝的存在会过得更好。如果一个人不能从情感深处接受这一点，他将无法发动一场信仰危机。所以，你应该真心实意地努力去想象你信念的**其他可能**，就像最优秀的怀疑论者会希望你去做的那样。设想一下，一个宗教信徒需要付出多大的努力，才能毫不扭曲、不为自我安慰地想象一个无神论者眼中的宇宙。
 
-- [付出非凡的努力](https://www.readthesequences.com/Make-An-Extraordinary-Effort)——正如** isshokenmei（一所悬命）**这一概念：那种为了变得理性而拼尽全力、呕心沥血的努力，足以超越 Robert Aumann 以及历史上所有未曾放弃宗教的伟大科学家。
+- [付出非凡的努力](https://www.readthesequences.com/Make-An-Extraordinary-Effort)——正如** isshokenmei（一生懸命）**这一概念：那种为了变得理性而拼尽全力、呕心沥血的努力，足以超越 Robert Aumann 以及历史上所有未曾放弃宗教的伟大科学家。
 
 - [遗传启发式](https://www.readthesequences.com/The-Genetic-Fallacy)——如果你发现自己有很多想法来自一个你现在已经知道不可信的来源，但天哪它们似乎恰巧最后都是对的，那么你应该高度警惕。（例如，有些人承认《圣经》出自人手，但仍坚信其蕴含着[不可或缺的伦理智慧](https://www.readthesequences.com/Religions-Claim-To-Be-Non-Disprovable)。）
 
-- [说出「哎呀」的重要性](https://www.readthesequences.com/The-Importance-Of-Saying-Oops)——一口气咽下苦果真的没那么痛苦。
+- [说「糟了！」的重要性](https://www.readthesequences.com/The-Importance-Of-Saying-Oops)——一口气咽下苦果真的没那么痛苦。
 
-- [单重思维](https://www.readthesequences.com/Singlethink)——双重思维的对立面。留意那些你下意识回避的念头，那些在被拒绝思考前仅在脑海角落一闪而过的想法。一旦你意识到自己没有在思考什么，你就能去思考它。
+- [单重思想](https://www.readthesequences.com/Singlethink)——双重思想的对立面。留意那些你下意识回避的念头，那些在被拒绝思考前仅在脑海角落一闪而过的想法。一旦你意识到自己没有在思考什么，你就能去思考它。
 
-- [情感死亡螺旋](https://www.readthesequences.com/Affective-Death-Spirals)和[抵制快乐死亡螺旋](https://www.readthesequences.com/Resist-The-Happy-Death-Spiral)——情感死亡螺旋是催生错误信念的首要源头，而要松动这些信念，往往需要一次信仰危机。但由于情感死亡螺旋也可以围绕真实且美好的事物形成，你无需认定你的信念是谎言，也能在每一处尝试抵制晕轮效应——你只需拒绝虚假的赞美，即便面对真正美好的事物。[政策辩论不应呈现单边倒。](https://www.readthesequences.com/Policy-Debates-Should-Not-Appear-One-Sided)
+- [情感死亡螺旋](https://www.readthesequences.com/Affective-Death-Spirals)和[抵制快乐死亡螺旋](https://www.readthesequences.com/Resist-The-Happy-Death-Spiral)——情感死亡螺旋是催生错误信念的首要源头，而要松动这些信念，往往需要一次信仰危机。但由于情感死亡螺旋也可以围绕真实且美好的事物形成，你无需认定你的信念是谎言，也能在每一处尝试抵制晕轮效应——你只需拒绝虚假的赞美，即便面对真正美好的事物。[政策辩论不应一边倒](https://www.readthesequences.com/Policy-Debates-Should-Not-Appear-One-Sided)。
 
-- [推迟提出解决方案](https://www.readthesequences.com/Hold-Off-On-Proposing-Solutions)——在问题被尽可能彻底地讨论之前，不要提出任何解决方案。让你的思维[悬置，不要急于得出答案](https://www.readthesequences.com/We-Change-Our-Minds-Less-Often-Than-We-Think)。并[在放弃之前再尝试五分钟](https://www.readthesequences.com/Use-The-Try-Harder-Luke)——无论是一般情形，还是尤其当你尝试从最不利于自身立场的角度进行思考时。
+- [暂缓提出解决方案](https://www.readthesequences.com/Hold-Off-On-Proposing-Solutions)——在问题被尽可能彻底地讨论之前，不要提出任何解决方案。让你的思维[悬置，不要急于得出答案](https://www.readthesequences.com/We-Change-Our-Minds-Less-Often-Than-We-Think)。并[在放弃之前再尝试 5 分钟](https://www.readthesequences.com/Use-The-Try-Harder-Luke)——无论是一般情形，还是尤其当你尝试从最不利于自身立场的角度进行思考时。
 
 此外，以下的标准方法尤为相关：
 
 - 关于[最终结论](https://www.readthesequences.com/The-Bottom-Line)和[合理化](https://www.readthesequences.com/Rationalization)的文章，解释了为何选择性地为一方辩护永远是错误的。
 
-- [积极偏见](https://www.readthesequences.com/Positive-Bias-Look-Into-The-Dark)和[动机性怀疑](https://www.readthesequences.com/Knowing-About-Biases-Can-Hurt-People)和[动机性止步](https://www.readthesequences.com/Motivated-Stopping-And-Motivated-Continuation)，以避免你选择性地寻找支持，选择性地寻找反驳的反驳，并选择性地在论证变得危险前停止。[缺失的备选方案](https://www.readthesequences.com/The-Third-Alternative)是止步的一个特例。动机性怀疑的一个特例是[虚假的谦卑](https://www.readthesequences.com/The-Proper-Use-Of-Humility)——你谦逊地声称某些你不愿知道的事情[没人能知道](https://www.greaterwrong.com/lw/kj/no_one_knows_what_science_doesnt_know/)。不要选择性地对反驳意见要求[太多权威性](https://www.readthesequences.com/Absolute-Authority)。
+- [积极偏见](https://www.readthesequences.com/Positive-Bias-Look-Into-The-Dark)和[动机性怀疑](https://www.readthesequences.com/Knowing-About-Biases-Can-Hurt-People)和[动机性止步](https://www.readthesequences.com/Motivated-Stopping-And-Motivated-Continuation)，以避免你选择性地寻找支持，选择性地寻找反驳的反驳，并选择性地在论证变得危险前停止。[缺失的备选方案](https://www.readthesequences.com/The-Third-Alternative)是止步的一个特例。动机性怀疑的一个特例是[虚假的谦逊](https://www.readthesequences.com/The-Proper-Use-Of-Humility)——你谦逊地声称某些你不愿知道的事情[没人能知道](https://www.greaterwrong.com/lw/kj/no_one_knows_what_science_doesnt_know/)。不要选择性地对反驳意见要求[太多权威性](https://www.readthesequences.com/Absolute-Authority)。
 
-- 警惕[语义停止信号](https://www.readthesequences.com/Semantic-Stopsigns)，[掌声灯](https://www.readthesequences.com/Applause-Lights)，以及你选择去[解释/崇拜/忽略？](https://www.readthesequences.com/Explain-Worship-Ignore)的。
+- 警惕[语义停止信号](https://www.readthesequences.com/Semantic-Stopsigns)，[掌声提示灯](https://www.readthesequences.com/Applause-Lights)，以及你选择去[解释/崇拜/忽略？](https://www.readthesequences.com/Explain-Worship-Ignore)的。
 
 - 感受[繁重细节](https://www.readthesequences.com/Burdensome-Details)的重量；每一个细节都是一个单独的负担，一个潜在的危机点。
 
