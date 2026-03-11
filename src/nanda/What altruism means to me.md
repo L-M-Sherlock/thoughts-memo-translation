@@ -2,9 +2,9 @@
 
 原文：[Mini Blog Post 8: What altruism means to me — Neel Nanda](https://www.neelnanda.io/blog/8-altruism)
 
-6月17日
+6 月 17 日
 
-[Neel Nanda](https://www.neelnanda.io/?author=5ed927247689ec0247c03233) 著
+作者：[Neel Nanda](https://www.neelnanda.io/?author=5ed927247689ec0247c03233)
 
 这篇文章与我此前的风格迥异。本文旨在阐述我个人的道德观、其来源，以及这些观念如何影响我的生活。道德如此复杂又充满细微差别，我不可能在一篇短博文里说尽全部想法。所以我会着重勾勒自己的总体看法以及那些对我最重要的部分，同时跳过很多复杂的边缘议题（比如让人头疼的人口伦理）。我也认为，道德**高度**主观，很多人会不同意我的观点，但我希望这篇文章能引发一些思考，并与部分读者产生共鸣。
 

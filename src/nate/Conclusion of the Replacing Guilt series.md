@@ -12,6 +12,9 @@
 
 在第三部分中，我阐述了如何培养并保持一种强大的内在驱动力，而无需依赖内疚感来自我鞭策。我指出，[把自己搞得筋疲力尽并非美德](https://mindingourway.com/stop-before-you-drop/)，而「过劳工作—长期休息」的模式是一种[危险的思维误区](https://mindingourway.com/rest-in-motion/)。我们并不总能按照自己理想中的方式行动：毕竟，我们[尚未成神](https://mindingourway.com/not-yet-gods/)；与其试图通过责骂和内疚迫使自己屈服，不如通过[以实验和创造力探索障碍](https://mindingourway.com/dont-steer-with-guilt/)来改变行为，这往往更为有效。我呼吁人们[自我关怀](https://mindingourway.com/self-compassion/)，并坚信[世上没有「坏人」](https://mindingourway.com/there-are-no/)。
 
+在第四部分，我阐述了如何从「周遭世界已然千疮百孔」这一现实中汲取力量，化作你内在驱动力的燃料。如果必须在「糟糕」与「更糟」之间选择，你能够选择「糟糕」而内心不受折磨；如果你能坦然接受自己的博弈结果，同时不为失败找借口和解释，而从中学习，全力以赴去赢，并且你能理性思考你可能失败的事实并与它们达成和解，那么
+
+
 在[第四部分](https://mindingourway.com/being-unable-to-despair/)，我阐述了如何将你周遭世界支离破碎？的现实转化为你内在驱动力的燃料。如果必须在「糟糕」与「更糟」之间选择，你能够?[选择「糟糕」而内心不受折磨](https://mindingourway.com/choose-without-suffering/)；如果你能在冒险?中[保持内心的平静](https://mindingourway.com/simply-locate-yourself/)，同时[不找任何借口](https://mindingourway.com/have-no-excuses/)并[坦然接受你可能会失败的事实](https://mindingourway.com/come-to-your-terms/)，那么，你就能轻易地[将内疚感升华为决心](https://mindingourway.com/transmute-guilt-i/)，并努力奋斗?，让未来尽可能地光明？。
 
 在第四部分（详见链接：https://mindingourway.com/being-unable-to-despair/）中，我阐述了如何利用 “周遭世界仍存有缺憾” 这一现实，为自身的内在动力提供燃料。**倘若你在面临 “糟糕” 与 “更糟” 的抉择时，能够坦然选择 “糟糕” 而不陷入痛苦（详见链接：https://mindingourway.com/choose-without-suffering/）；

@@ -86,7 +86,7 @@
 
 - [关于好奇心的冥想](https://www.readthesequences.com/The-Meditation-On-Curiosity)——Roger Zelazny 曾经区分过「想成为作家」与「想要去写作」，同样地，「想完成调查」和「想要去调查」之间也有区别。仅仅说「对自身信念的批判是我的责任」是不够的。你必须保持好奇，而只有不确定性才能孕育好奇。牢记[预期证据守恒](https://www.readthesequences.com/Conservation-Of-Expected-Evidence)可能有助于你[渐进式地自我更新](https://www.readthesequences.com/Update-Yourself-Incrementally)：对于你考虑的每**一**个观点，新论点和新证据的每一个部分，都不要预期自己的信念（平均而言）会在某一方向上偏移得更多——如此你才能每次都真正好奇结果会如何。
 
-- [第一手观察(https://www.readthesequences.com/Original-Seeing)——运用 Pirsig 的方法来防止[缓存的标准思想](https://www.readthesequences.com/CachedThoughts)抢先完成思维定势。
+- [第一手观察](https://www.readthesequences.com/Original-Seeing)——运用 Pirsig 的方法来防止[缓存的标准思想](https://www.readthesequences.com/CachedThoughts)抢先完成思维定势。
 
 - [简德林祷文](https://www.readthesequences.com/You-Can-Face-Reality)和[塔斯基祷文](https://www.readthesequences.com/The-Meditation-On-Curiosity)——人们能够忍受真实，因为他们早已在承受它。如果一个信念是真的，相信它会对你更有利，如果它是假的，拒绝它对你更有利。你会建议宗教信徒试着充分和深入地想象一个没有上帝的世界，并且，不找任何借口地充分理解：**如果**世界上没有上帝，**那么**他们相信没有上帝的存在会过得更好。如果一个人不能从情感深处接受这一点，他将无法发动一场信仰危机。所以，你应该真心实意地努力去想象你信念的**其他可能**，就像最优秀的怀疑论者会希望你去做的那样。设想一下，一个宗教信徒需要付出多大的努力，才能毫不扭曲、不为自我安慰地想象一个无神论者眼中的宇宙。
 
