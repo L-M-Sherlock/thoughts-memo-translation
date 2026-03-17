@@ -24,7 +24,7 @@
 
 父母关爱孩子，**并非**为了孩子所能带来的生殖贡献。父母是为了孩子本身而关爱他们；而这种[心智之所以首先存在于宇宙中](https://www.readthesequences.com/TheGiftWeGiveToTomorrow)，其**非认知的**、**进化史上的**原因在于，孩子携带着父母的基因。
 
-事实上，进化正是宇宙中存在心智的根本原因。所以你能明白，为何我要在我对[隐秘动机的冷嘲热讽](https://www.greaterwrong.com/lw/yh/cynicism_in_evpsych_and_econ/) 中，于 [「进化」与「认知」的边界](https://www.greaterwrong.com/lw/yi/the_evolutionarycognitive_boundary/)划下一条清晰的界线；否则，我大可以在超市收银台前站起来说：「嘿！你在我装袋时正确处理视觉信息，不过是为了最大化你的包容性遗传适应度罢了！」
+事实上，进化正是宇宙中存在心智的根本原因。所以你能明白，为何我要在我对[隐秘动机的冷嘲热讽](https://www.greaterwrong.com/lw/yh/cynicism_in_evpsych_and_econ/) 中，于 [「进化」与「认知」的边界](https://www.greaterwrong.com/lw/yi/the_evolutionarycognitive_boundary/)划下一条清晰的界线；否则，我大可以在超市收银台前站起来说：「嘿！你在我装袋时正确处理视觉信息，不过是为了最大化你的广义适合度罢了！」
 
 **（1）** 我认为 0.92 是我在任何进化心理学实验中见过的最高相关性，事实上，也是我在任何心理学实验中见过的最高相关性之一。（尽管我见过例如，在询问一组受试者[「**A** 与 **B** 有多相似？」](https://www.readthesequences.com/BurdensomeDetails)和另一组「在给定 **B** 的情况下，**A** 的概率是多少？」时，报告的相关性高达 0.98——问题诸如「你从这个装有 800 个红球和 200 个白球的桶中，抽出 60 个红球和 40 个白球的可能性有多大？」——换句话说，这些问题被简单地当作同一个问题来处理了。）
 

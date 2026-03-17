@@ -66,7 +66,7 @@
 
 如果你母亲的脚被一根燃烧的横梁压碎，把她剩下的部分救出来还值得吗？如果她的头被砸碎，只剩下身体呢？如果她的身体被砸碎，只剩下头呢？如果外面有一支冷冻保存团队等着，准备把头冷冻起来呢？一颗冷冻的头算是一个人吗？Terry Schiavo 算是一个人吗？一只黑猩猩值多少？
 
-你的大脑并非无限复杂；存在一个有限的 [Kolmogorov 复杂度 / 信息长度](https://www.readthesequences.com/OccamsRazor)，足以描述你会做出的所有判断。但仅仅因为这种复杂度是有限的，**并不**意味着它很小。我们[重视许多东西](https://www.readthesequences.com/ThouArtGodshatter)，而且它们并不能被化约为[重视幸福](https://www.readthesequences.com/NotForTheSakeOfHappinessAlone)或[重视繁殖适应度](https://www.readthesequences.com/EvolutionaryPsychology)。
+你的大脑并非无限复杂；存在一个有限的 [Kolmogorov 复杂度 / 信息长度](https://www.readthesequences.com/OccamsRazor)，足以描述你会做出的所有判断。但仅仅因为这种复杂度是有限的，**并不**意味着它很小。我们[重视许多东西](https://www.readthesequences.com/ThouArtGodshatter)，而且它们并不能被化约为[重视幸福](https://www.readthesequences.com/NotForTheSakeOfHappinessAlone)或[重视繁殖适合度](https://www.readthesequences.com/EvolutionaryPsychology)。
 
 没有任何一种安全的愿望，会小于一整套人类道德。时间中可能的路径实在太多。你无法想象所有通向你交给精灵的目的地的道路。「最大化你母亲与建筑中心的距离」可以通过引爆核武器更有效地做到。或者，在更强大的精灵之下，把她的身体抛出太阳系。或者，在更聪明的精灵之下，做出某种你我都想不到的事——就像黑猩猩想不到引爆核武器一样。你无法可视化所有时间路径，就像你无法靠为每一个可能的棋盘局面硬编码一步棋来编程一个会下棋的机器。
 
