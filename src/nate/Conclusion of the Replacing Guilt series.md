@@ -14,6 +14,8 @@
 
 在[第四部分](https://mindingourway.com/being-unable-to-despair/)，我阐述了如何从「周遭世界已然千疮百孔」这一现实中汲取力量，化作你内在驱动力的燃料。如果必须在「糟糕」与「更糟」之间选择，你能够[选择「糟糕」而内心不受折磨](https://mindingourway.com/choose-without-suffering/)；如果你能[坦然接受自己的博弈结果](https://mindingourway.com/simply-locate-yourself/) ，同时[不找任何借口](https://mindingourway.com/have-no-excuses/)，并能[与「你可能失败」的事实达成和解](https://mindingourway.com/come-to-your-terms/)，那么，你就能轻松地[将内疚转化为决心](https://mindingourway.com/transmute-guilt-i/)，全力以赴去创造一个尽可能光明的未来。
 
+在第五部分，也是最后一部分，
+
 在[第五个?也是最后一部分](https://mindingourway.com/stop-trying-to-try-and-try/)，我描述了一些特定的心态和精神境界?，在这些境界中，内疚感仿佛是一种陌生的概念?。其中最主要的是「[全程自信?](https://mindingourway.com/confidence-all-the-way-up/)」——这是一种既相信自身能力又不对任何事物抱持过度肯定的技巧?；以及[绝望](https://mindingourway.com/desperation/)[鲁莽](https://mindingourway.com/recklessness/)[反抗](https://mindingourway.com/defiance/)——这三者?是那些拥有强大内在驱动力的人所具备的、颇具争议的三种品格。
 
 在第五即最终篇章中，我描述了几种让内疚感显得格格不入的思维模式和心智立场。其中最主要的两个是：「贯穿始终的自信」——这是一种既相信自身能力，又不对任何事物过度确信的技巧；以及孤注一掷、不计后果与反抗精神——这三者是那些拥有强大内在驱动力的人所具备的、颇有争议的三种品格。
