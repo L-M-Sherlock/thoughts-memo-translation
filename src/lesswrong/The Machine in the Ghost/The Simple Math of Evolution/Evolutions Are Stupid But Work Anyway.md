@@ -1,4 +1,4 @@
-# 演化很蠢（但确实有效）
+# 进化很蠢（但确实有效）
 
 原文：[Evolutions Are Stupid (But Work Anyway)](https://www.readthesequences.com/Evolutions-Are-Stupid-But-Work-Anyway)
 

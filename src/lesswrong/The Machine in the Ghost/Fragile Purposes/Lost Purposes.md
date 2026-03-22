@@ -1,4 +1,4 @@
-# 迷失的目的
+# 丢失的目的
 
 [Lost Purposes](https://www.readthesequences.com/Lost-Purposes)
 
@@ -22,9 +22,9 @@
 
 但当激励必须穿过大型组织——更糟的是，穿过许多不同组织与利益集团，其中一些还是政府机构——事情就完全不同了。于是你会看到，一些行为要是出自单一心智，简直就是字面意义上的精神错乱。有人每打开一次车门就拿一次钱，因为这件事可量化。此人也并不关心抵达超市的司机是不是拿到了钱，更不用说买家是否真的买到了巧克力，吃东西的人到底吃没吃着。
 
-**从贝叶斯**的视角看，[子目标是条件概率函数的副现象](https://www.readthesequences.com/TerminalValuesAndInstrumentalValues)。没有效用，就没有期望效用。认为工具价值能以某种数学意义上的方式自发生命，把最终价值甩在尘土里，这是多么可笑？按决策理论的理性标准来看，这一点也不理性。
+从贝叶斯的视角看，[子目标是条件概率函数的副现象](https://www.readthesequences.com/TerminalValuesAndInstrumentalValues)。没有效用，就没有期望效用。认为工具性价值能以某种**数学意义**上的方式自发生命，把终极价值甩在尘土里，这是多么可笑？按决策理论的理性标准来看，这一点也不理性。
 
-**想想** No Child Left Behind Act。政客想让自己看起来在为教育困难做点什么，就必须让选民在「今年」看到他们很忙，而不是在 15 年后孩子们找工作时才看到。政客不是教育的消费者。官僚必须展示进展，这意味着他们只关心那些今年就能被测量出来的进展，最终对科学一无所知的人也不是他们。委托负责教材的出版社，以及购买教材的委员会，也不用坐在教室里无聊到发疯。
+想想 No Child Left Behind Act（译注：不让一个孩子掉队法案，美国教育政策）。政客想让自己看起来在为教育困难做点什么，就必须让选民在「今年」看到他们很忙，而不是在 15 年后孩子们找工作时才看到。政客不是教育的消费者。官僚必须展示进展，这意味着他们只关心那些今年就能被测量出来的进展，最终对科学一无所知的人也不是他们。委托负责教材的出版社，以及购买教材的委员会，也不用坐在教室里无聊到发疯。
 
 知识的真正消费者是孩子——他们付不了钱、投不了票、坐不上委员会。他们的父母关心他们，却不会亲自坐在课堂里，只能根据诸如「对教育强硬」之类的表象来追责政客。政客忙着连任，没空自己研读全部数据，不得不依赖于官僚看起来很忙、以及「委托研究」之类的表象。这些做法也许完全帮不到任何孩子，但确实能让政客看起来很有爱心。官僚不指望自己会用教材，所以不在乎教材读起来有多难受，只要教材采购流程表面上看起来体面即可。教材出版商没有动机去做烂教材，但他们知道教材采购委员会会按「覆盖了多少不同主题」来比较教材；而且四年级采购委员会与三年级采购委员会并不协调，所以他们会把尽可能多的主题塞进一本教材。老师在一年结束前连四分之一都讲不完，而第二年的老师又会从头开始。老师也许会抱怨，但他们不是决策者；归根结底，他们自己的未来也并不押在这上面，这在很大程度上限制了他们愿意投入的无偿利他努力……
 
@@ -40,7 +40,7 @@
 
 （**我真希望**我生活在一个时代：我只管告诉读者「你们必须彻底研究这个」，而不会显得是在侮辱人。）
 
-为什么任何个体都可能会在一场剑斗中迷失自己的目的？如果是别人教他们战斗，而并非从自身内部[生成**整套**招式](https://www.readthesequences.com/TrulyPartOfYou)，他们也许不理解为什么此刻要格挡、彼刻要腾跃，也许意识不到[规则何时会有例外](https://www.readthesequences.com/LeakyGeneralizations)，看不见那些惯常方法无法斩断真相的时刻。
+为什么任何个体都可能会在一场剑斗中丢失自己的目的？如果是别人教他们战斗，而并非从自身内部[生成**整套**招式](https://www.readthesequences.com/TrulyPartOfYou)，他们也许不理解为什么此刻要格挡、彼刻要腾跃，也许意识不到[规则何时会有例外](https://www.readthesequences.com/LeakyGeneralizations)，看不见那些惯常方法无法斩断真相的时刻。
 
 认识理性的要点在于，理解每一条规则如何在同一个动作中贯穿到真相。与之对应，实践理性的要点——决策理论相对于概率理论——在于始终看见每一个期望效用如何贯穿到效用。你必须彻底研究这一点。
 
@@ -48,14 +48,14 @@ C. J. Cherryh 说过：[2](#footnote2)
 
 > 你的剑没有剑刃。它只有你的意图。当意图偏离时，你便没有武器。
 
-**我见过很**多人在向一个想象中的 AI 的[精灵许愿](https://www.readthesequences.com/TheHiddenComplexityOfWishes)时迷失方向：他们一个接一个地做出看起来对他们很好的愿望；有时带着许多补丁，有时甚至连那点谨慎的装样子都没有。而他们并不会跳到元层级。他们没有本能地回看目的——这种本能让我在 5 岁时开始走上无神论的道路。他们不会像我那样反射性地问：「[我为什么认为](https://www.readthesequences.com/ArtificialAddition)这个愿望是个好主意？精灵会[同样判断](https://www.readthesequences.com/TrulyPartOfYou)吗？」他们看不见：判断的源头悬浮在判断之后，作为其生成器。他们丢了球；他们知道球弹了一下，但他们没有本能地回头去看球是从哪里弹起来的——生成其判断的标准。
+我见过很多人在向一个想象中的 AI 的[精灵许愿](https://www.readthesequences.com/TheHiddenComplexityOfWishes)时迷失方向：他们一个接一个地许下看起来对他们很好的愿望，有时巨细无遗，有时甚至连谨慎的装样子都没有。因而他们并不会跳到元层级。他们没有本能地回看目的，这种本能让我在 5 岁时开始走上无神论的道路。他们不会像我那样反射性地问：「[我为什么认为](https://www.readthesequences.com/ArtificialAddition)这个愿望是个好主意？精灵会[照样这么判断](https://www.readthesequences.com/TrulyPartOfYou)吗？」他们**看不见**判断的源头，它悬浮在判断背后作为发生因。他们失去了对球的追踪，知道球弹了一下，但没有本能地回头去看球弹起来的地方，即生成其判断的标准。
 
 同样地，人们也不会自动[注意到](https://www.readthesequences.com/FakeMorality)：所谓自私的人会给出支持自私的利他论证，或所谓利他的人会给出支持利他的自私论证。
 
-**当一切都**发生在自己脑子里、并且没有精灵、官僚体系或哲学介入时，人们能很好地追踪「开车去超市」这种目标。但麻烦在于：真实文明的复杂程度远不止如此。几十个组织、几十年时间，横亘在课堂里受苦的孩子，与刚刚毕业却不太胜任工作的大学应届生之间。（但面试官或经理会注意到毕业生是不是擅长表现得很忙吗？）在行动与结果之间每多一环链接，意图就多一次偏离的机会；每多一环链接，信息就会丢失一次，激励就会丢失一次。而这件事，大多数人远不如我一样困扰，否则，为什么我的同学都愿意在不知道意思的情况下照念祷文？他们没有同样的本能去[回顾原因](https://www.readthesequences.com/TrulyPartOfYou)。
+当一切都发生在自己脑子里、并且没有精灵、官僚体系或哲学介入时，人们能很好地追踪「开车去超市」这种目标。但麻烦在于：真实文明的复杂程度远不止如此。几十个组织、几十年时间，横亘在课堂里受苦的孩子，与刚刚毕业却不太胜任工作的大学应届生之间。（但面试官或经理会注意到毕业生是不是擅长表现得很忙吗？）在行动与结果之间每多一环链接，意图就多一次偏离的机会；每多一环链接，信息就会丢失一次，激励就会丢失一次。而这件事，大多数人远不如我一样困扰，否则，为什么我的同学都愿意在不知道意思的情况下照念祷文？他们没有同样的本能去[回顾发生因](https://www.readthesequences.com/TrulyPartOfYou)。
 
-**人们能学**会盯紧球吗？能学会不让意图偏离吗？能学会在每一次腾跃、劈砍或触碰之前，都知道自己将在同一个动作中完成的更高目标吗？在其他条件相同的情况下，人们确实经常想把工作做好。会存在理性的公司吗？甚至理性的文明吗？那只是遥远的梦想，但这正是我在[所有](https://www.readthesequences.com/FakeJustification)[这些](https://www.readthesequences.com/FakeSelfishness)[关于](https://www.readthesequences.com/FakeMorality)[文章](https://www.readthesequences.com/TheTragedyOfGroupSelectionism)[中](https://www.readthesequences.com/FakeOptimizationCriteria)[谈到](https://www.readthesequences.com/TerminalValuesAndInstrumentalValues)[的](https://www.readthesequences.com/ArtificialAddition)[意图](https://www.readthesequences.com/LeakyGeneralizations)[流动](https://www.readthesequences.com/TrulyPartOfYou)（也即 expected utility，也即 instrumental value）如何[不](https://www.readthesequences.com/NotForTheSakeOfHappinessAlone)[丢失](https://www.readthesequences.com/TheHiddenComplexityOfWishes)[目的](https://www.readthesequences.com/EvolutionaryPsychology)（也即 utility，也即 terminal value）时一直想表达的。人们能学会感受父目标与子目标的流动吗？能在显式层面也在隐式层面知道期望效用与效用之间的区分吗？
+人们能学会盯紧球吗？能学会不让意图偏离吗？能学会在每一次腾跃、劈砍或触碰之前，都知道自己将在同一个动作中完成的更高目标吗？在其他条件相同的情况下，人们**确实**经常想把工作做好。会存在理性的公司吗？甚至理性的文明吗？那只是遥远的梦想，但这正是我在[所有](https://www.readthesequences.com/FakeJustification)[这些](https://www.readthesequences.com/FakeSelfishness)[关于](https://www.readthesequences.com/FakeMorality)[意图](https://www.readthesequences.com/LeakyGeneralizations)[流动](https://www.readthesequences.com/TrulyPartOfYou)（也即期望效用或工具性价值）如何[不](https://www.readthesequences.com/NotForTheSakeOfHappinessAlone)[丢失](https://www.readthesequences.com/TheHiddenComplexityOfWishes)[目的](https://www.readthesequences.com/EvolutionaryPsychology)（也即效用或终极价值）[的文章](https://www.readthesequences.com/TheTragedyOfGroupSelectionism)[中](https://www.readthesequences.com/FakeOptimizationCriteria)[一直想表达](https://www.readthesequences.com/TerminalValuesAndInstrumentalValues)[的](https://www.readthesequences.com/ArtificialAddition)。人们能学会感受父目标与子目标的流动吗？能在显式层面与隐式层面知道期望效用与效用之间的区分吗？
 
 你关心你的文明所面临的威胁吗？对复杂文明而言，最糟糕的元威胁是它自身的复杂性，因为这种复杂会导致许多目的的丢失。
 
-回首过往，我看到：最重要的是，我的人生被一种异常强烈的、对「目的迷失」的厌恶所驱动。我希望它能被转化为一种可学习的技能。
+回首过往，我看到：最重要的是，我的人生被一种异常强烈的、对「目的丢失」的厌恶所驱动。我希望它能被转化为一种可学习的技能。
