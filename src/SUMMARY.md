@@ -3,7 +3,7 @@
 * [adam](adam/intro.md)
   * [面对现实吧：你是个疯子](adam/Face%20it%20youre%20a%20crazy%20person.md)
   * [我对心理学界遭受的损失深表遗憾，如果真有什么损失的话](adam/Im%20so%20sorry%20for%20psychologys%20loss%20whatever%20it%20is.md)
-  * [心理学没准就是一大堆发臭的胡说八道，不过倒也无伤大雅](adam/Psychology%20might%20be%20a%20big%20stinkin%20load%20of%20hogwash%20and%20thats%20just%20fine.md)
+  * [心理学没准就是放狗屁，不过倒也无妨](adam/Psychology%20might%20be%20a%20big%20stinkin%20load%20of%20hogwash%20and%20thats%20just%20fine.md)
   * [听说你想让自己摆脱人生的泥潭](adam/So%20you%20wanna%20debog%20yourself.md)
   * [裸体皇帝的舞蹈](adam/The%20dance%20of%20the%20naked%20emperors.md)
   * [同行评议的兴与衰](adam/The%20rise%20and%20fall%20of%20peer%20review.md)
