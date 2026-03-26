@@ -1,4 +1,4 @@
-# 尔为神碎（等待校对）
+# 尔为神碎
 
 [Thou Art Godshatter](https://www.readthesequences.com/Thou-Art-Godshatter)
 
