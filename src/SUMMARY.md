@@ -1107,6 +1107,7 @@
   * [The world is full of wasted motion.md](nanda/The%20world%20is%20full%20of%20wasted%20motion.md)
   * [利他主义于我何意味](nanda/What%20altruism%20means%20to%20me.md)
   * [What it means to optimise.md](nanda/What%20it%20means%20to%20optimise.md)
+  * [你的标准太高了](nanda/Your%20Standards%20are%20Too%20High.md)
 * [nate](nate/intro.md)
   * [更新自我](nate/Be%20a%20new%20homunculus.md)
   * [无法绝望](nate/Being%20unable%20to%20despair.md)

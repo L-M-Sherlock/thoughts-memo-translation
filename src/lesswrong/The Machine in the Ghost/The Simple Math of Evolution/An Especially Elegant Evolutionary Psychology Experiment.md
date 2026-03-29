@@ -1,18 +1,18 @@
 # 一项尤为优雅的进化心理学实验
 
-[An Especially Elegant Evolutionary Psychology Experiment](https://www.readthesequences.com/An-Especially-Elegant-Evolutionary-Psychology-Experiment)
+原文：[An Especially Elegant Evolutionary Psychology Experiment](https://www.readthesequences.com/An-Especially-Elegant-Evolutionary-Psychology-Experiment)
 
 > 在一项 1989 年的加拿大研究中，一些成年人被要求想象不同年龄段孩子的死亡，并估计哪些死亡会给父母带来最强烈的丧失感。结果绘制成图后显示，悲伤感在青春期前夕达到顶峰，随后开始下降。当将这条曲线与反映生命周期中生殖潜力变化的曲线（一种根据加拿大人口数据计算出的曲线）进行比较时，相关性相当强。但相关性更强的，事实上近乎完美的——是现代加拿大人的悲伤曲线与一个狩猎采集族群（非洲的 !Kung 人）的生殖潜力曲线之间的关联。换言之，考虑到祖先环境的人口现实，悲伤程度的变化模式几乎完全符合达尔文主义者的预测。
 
 >
 
-> ——Robert Wright,《道德动物》,
+> ——Robert Wright,《道德动物》，
 
-> 总结自 Crawford 等人。[1](https://www.readthesequences.com/An-Especially-Elegant-Evolutionary-Psychology-Experiment#footnote1)
+> 总结自 Crawford 等人。[1]
 
 第一次的相关性是 0.64，第二次则高达 0.92（样本数 **N** = 221）。如所述，这项研究最明显的不完美之处在于，它是通过让成年人想象父母的悲伤来进行的，而非询问拥有特定年龄孩子的真实父母。（推测这样做成本更低/能纳入更多受试者。）不过，这一发现，与其他那些更贴近现实、旨在探索诸如“父母悲伤与孩子年龄”等关联的研究数据是一致的。
 
-话虽如此，让我们看看这个实验一些优雅之处：
+话虽如此，让我们看看这个实验的一些优雅之处：
 
 1. 相关性高达 0.92（！）——这听起来或许令人难以置信：进化真能进行如此精确的调节吗？然而，当你意识到这股选择压力不仅足以**微调**这种悲伤，甚至**最初就是它将该情感塑造出来的**，便会豁然开朗。
 

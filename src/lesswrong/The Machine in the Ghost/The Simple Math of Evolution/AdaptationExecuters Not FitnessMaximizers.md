@@ -1,6 +1,6 @@
 # 适者生存，而非“最”者生存
 
-[Adaptation-Executers, Not Fitness-Maximizers](https://www.readthesequences.com/Adaptation-Executers-Not-Fitness-Maximizers)
+原文：[Adaptation-Executers, Not Fitness-Maximizers](https://www.readthesequences.com/Adaptation-Executers-Not-Fitness-Maximizers)
 
 > 个体生物最好被理解为**适应执行者**，而非适合度最大化者。
 
@@ -8,7 +8,7 @@
 
 > —John Tooby 和 Leda Cosmides,
 
-> 《文化的心理学基础》（《The Psychological Foundations of Culture》）[1](https://www.readthesequences.com/Adaptation-Executers-Not-Fitness-Maximizers#footnote1)
+> 《文化的心理学基础》（《The Psychological Foundations of Culture》）[1]
 
 五万年前，智人的味蕾将它们的宿主引向最稀缺、最关键的食物资源——糖与脂肪，简而言之就是**卡路里**。如今，味蕾的功能背景已经改变，但味蕾本身却没有随之变化。卡路里（在发达国家）不仅不再稀缺，反而对人体有害。原本在绿叶和坚果中富含的微量营养素在面包中缺失了，而我们的味蕾却不会提出异议。一勺冰淇淋可谓是一种[超常刺激](https://www.readthesequences.com/Superstimuli-And-The-Collapse-Of-Western-Civilization)，其中所含的糖、脂肪和盐，都远超祖先环境中的任何食物。
 
@@ -24,9 +24,9 @@
 
 至于螺丝刀的**意义**——哦，它存在于使用者的头脑中，而非刻在螺丝刀原子的标签上。设计者或许想用它拧螺丝，杀人犯可能买来当作凶器，不慎掉落后被孩子捡到，又成了玩具凿子。
 
-因此，螺丝刀的**存在原因**、**物理形状**、**使用后果**以及它的各种**意义**，都是不同的概念。而其中只有**一**个（译者注：物理形状），存在于螺丝刀本身。
+因此，螺丝刀的**存在原因**、**物理形状**、**使用后果**以及它的各种**意义**，都是不同的概念。而其中只有**一**个（译注：物理形状），存在于螺丝刀本身。
 
-味蕾从何而来？它并非源于某个预见了后果的智能设计者，而是来自一段定格了的祖先历史：亚当嗜糖而食苹果，得以繁衍；芭芭拉嗜糖而食苹果，得以繁衍；查理嗜糖而食苹果，得以繁衍……如此延续了[ 2763 代后](https://www.readthesequences.com/Evolutions-Are-Stupid-But-Work-Anyway)，这个等位基因便在种群中「固定」下来。为便于思考，我们有时将这段漫长的历史压缩为一句话：「这是进化的结果。」这便是味蕾存在的**客观原因**，尽管它并不像人类设计螺丝刀那般快速、局部。
+味蕾从何而来？它并非源于某个预见了后果的智能设计者，而是来自一段定格了的祖先历史：亚当嗜糖而食苹果，得以繁衍；芭芭拉嗜糖而食苹果，得以繁衍；查理嗜糖而食苹果，得以繁衍……如此延续了 [2763 代后](https://www.readthesequences.com/Evolutions-Are-Stupid-But-Work-Anyway)，这个等位基因便在种群中「固定」下来。为便于思考，我们有时将这段漫长的历史压缩为一句话：「这是进化的结果。」这便是味蕾存在的**客观原因**，尽管它并不像人类设计螺丝刀那般快速、局部。
 
 味蕾的**客观形状**究竟是什么？从技术角度看，它是一个连接强化回路的分子传感器。这增添了一层间接性——味蕾并不直接获取食物，而是影响生物体的心智，使其倾向于选择与先前相似的食物。
 
