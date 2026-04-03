@@ -8,7 +8,7 @@
 
 > —John Tooby 和 Leda Cosmides,
 
-> 《文化的心理学基础》（《The Psychological Foundations of Culture》）[1]
+> 《文化的心理学基础》（The Psychological Foundations of Culture）[1]
 
 五万年前，智人的味蕾将它们的宿主引向最稀缺、最关键的食物资源——糖与脂肪，简而言之就是**卡路里**。如今，味蕾的功能背景已经改变，但味蕾本身却没有随之变化。卡路里（在发达国家）不仅不再稀缺，反而对人体有害。原本在绿叶和坚果中富含的微量营养素在面包中缺失了，而我们的味蕾却不会提出异议。一勺冰淇淋可谓是一种[超常刺激](https://www.readthesequences.com/Superstimuli-And-The-Collapse-Of-Western-Civilization)，其中所含的糖、脂肪和盐，都远超祖先环境中的任何食物。
 
