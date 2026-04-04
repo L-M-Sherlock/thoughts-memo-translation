@@ -1076,7 +1076,7 @@
       * [进化心理学](lesswrong/The%20Machine%20in%20the%20Ghost/The%20Simple%20Math%20of%20Evolution/Evolutionary%20Psychology.md)
       * [进化很蠢（但确实有效）](lesswrong/The%20Machine%20in%20the%20Ghost/The%20Simple%20Math%20of%20Evolution/Evolutions%20Are%20Stupid%20But%20Work%20Anyway.md)
       * [进化之路，通向灭绝](lesswrong/The%20Machine%20in%20the%20Ghost/The%20Simple%20Math%20of%20Evolution/Evolving%20to%20Extinction.md)
-      * [虚假的优化标准（等待校对）](lesswrong/The%20Machine%20in%20the%20Ghost/The%20Simple%20Math%20of%20Evolution/Fake%20Optimization%20Criteria.md)
+      * [虚假的优化标准](lesswrong/The%20Machine%20in%20the%20Ghost/The%20Simple%20Math%20of%20Evolution/Fake%20Optimization%20Criteria.md)
       * [公司与纳米器件不会进化](lesswrong/The%20Machine%20in%20the%20Ghost/The%20Simple%20Math%20of%20Evolution/No%20Evolutions%20for%20Corporations%20or%20Nanodevices.md)
       * [超常刺激与西方文明的崩溃](lesswrong/The%20Machine%20in%20the%20Ghost/The%20Simple%20Math%20of%20Evolution/Superstimuli%20and%20the%20Collapse%20of%20Western%20Civilization.md)
       * [群体选择主义的悲剧](lesswrong/The%20Machine%20in%20the%20Ghost/The%20Simple%20Math%20of%20Evolution/The%20Tragedy%20of%20Group%20Selectionism.md)
