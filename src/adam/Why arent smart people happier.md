@@ -14,7 +14,7 @@
 
 智力听上去确实很诱人。谁不想“领会过来”并“搞明白”呢？说实话，“弄清楚”该怎么做，几乎就是人生的全部了！
 
-照理说，拥有更多这种脑力资本的人，生活理应更为幸福。遇到难题时，他们本应凭借更强的解题能力将其化解。更聪明的人本应更擅长筹谋规划、更善于达成所愿；也应从过失中汲取更多教训，从而此后少犯同类错误。凡此种种叠加起来，本应汇成一种人生，让聪明人不禁感叹：「这样的日子，才叫人生。」
+按理说，拥有更多这种心智能力的人，理应过得更幸福。当他们遇到问题时，应该能够运用自己更强的解决问题能力把它解决掉。更聪明的人应该更善于制定计划、得到自己想要的东西，也应该更能从错误中吸取教训，并且之后犯更少的错。所有这些加起来，本应让聪明人过上一种会让他们感叹“这人生太棒了！”的生活。
 
 所以，更聪明的人理应更幸福，对吗？
 
@@ -24,7 +24,7 @@
 
 # **这是怎么回事？**
 
-也许我们的测验本身就有问题。对智力的心理学研究有一段 [漫长而灰暗的历史]（https://en.wikipedia.org/wiki/Intelligence_quotient#IQ_testing_and_the_eugenics_movement_in_the_United_States ），其中充斥着种族歧视以及对贫困群体的偏见（“[三代低能儿就足够了]（https://education.blogs.archives.gov/2017/05/02/buck-v-bell/ ）”），因此我们自一开始便应心存怀疑。长期以来，心理学家一直在 [尝试]（https://psycnet.apa.org/doiLanding?doi=10.1037%2Ft14354-000 ）建构无偏向的测验，但 [要做到这一点]（https://journals.sagepub.com/doi/pdf/10.1177/014662168100500309?casa_token=S8S8hrFW2KUAAAAA:83m3hcMT0tNAftX9MYadXlVzz8MZ-FB5Z2KQugTwdB1XQmyTgVHv7SlkYWF1HqZCls0lxlim1InXHQ ） [十分困难]（https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1744-6570.1972.tb00828.x?casa_token=hB0TdBnzAPsAAAAA%3A86panrQGOHm7h5yVMGPXruRPJgJUROsXJvlcw40jEBJeYZ68Ni_Rn_pHyCPZUMoNnxqETeGihvjWc8wZ ）。再者，当你 [按表现向受试者付酬]（https://www.pnas.org/doi/full/10.1073/pnas.1018601108#sec-7 ）时，人们在智商测验上的得分会更高；由此看来，表面上的“智力测验”，在某种程度上或许也是在测你究竟愿意下多大功夫。
+也许我们的测验本身就有问题自由。对智力的心理学研究有一段 [漫长而灰暗的历史]（https://en.wikipedia.org/wiki/Intelligence_quotient#IQ_testing_and_the_eugenics_movement_in_the_United_States ），其中充斥着种族歧视以及对贫困群体的偏见（“[三代低能儿就足够了]（https://education.blogs.archives.gov/2017/05/02/buck-v-bell/ ）”），因此我们自一开始便应心存怀疑。长期以来，心理学家一直在 [尝试]（https://psycnet.apa.org/doiLanding?doi=10.1037%2Ft14354-000 ）建构无情感偏向的测验，但 [要做到这一点]（https://journals.sagepub.com/doi/pdf/10.1177/014662168100500309?casa_token=S8S8hrFW2KUAAAAA:83m3hcMT0tNAftX9MYadXlVzz8MZ-FB5Z2KQugTwdB1XQmyTgVHv7SlkYWF1HqZCls0lxlim1InXHQ ） [十分困难]（https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1744-6570.1972.tb00828.x?casa_token=hB0TdBnzAPsAAAAA%3A86panrQGOHm7h5yVMGPXruRPJgJUROsXJvlcw40jEBJeYZ68Ni_Rn_pHyCPZUMoNnxqETeGihvjWc8wZ ）。再者，当你 [按表现向受试者付酬]（https://www.pnas.org/doi/full/10.1073/pnas.1018601108#sec-7 ）时，人们在智商测验上的得分会更高；由此看来，表面上的“智力测验”，在某种程度上或许也是在测你究竟愿意下多大功夫。
 
 但即便智力测验衡量的大致不过是诸如“在一个不公平的社会里获得成功的能力”或“愿意努力付出”之类的东西，这也只会使问题更显扑朔迷离：无论这种不公平令人多么难以接受，那些人难道不该拥有更幸福的人生吗？
 

@@ -995,7 +995,7 @@
       * [你即物理](lesswrong/Mere%20Reality/Quantum%20Physics%20and%20Many%20Worlds/Thou%20Art%20Physics.md)
       * [哲学与科学相遇之处](lesswrong/Mere%20Reality/Quantum%20Physics%20and%20Many%20Worlds/Where%20Philosophy%20Meets%20Science.md)
     * [Reductionism 101](lesswrong/Mere%20Reality/Reductionism%20101/intro.md)
-      * [混沌倒置](lesswrong/Mere%20Reality/Reductionism%20101/Chaotic%20Inversion.md)
+      * [关于混沌的倒置思考](lesswrong/Mere%20Reality/Reductionism%20101/Chaotic%20Inversion.md)
       * [消解问题](lesswrong/Mere%20Reality/Reductionism%20101/Dissolving%20the%20Question.md)
       * [解释与解释掉](lesswrong/Mere%20Reality/Reductionism%20101/Explaining%20vs.%20Explaining%20Away.md)
       * [伪还原论](lesswrong/Mere%20Reality/Reductionism%20101/Fake%20Reductionism.md)

@@ -1,6 +1,6 @@
-# 混沌倒置
+# 关于混沌的倒置思考
 
-[Chaotic Inversion](https://www.readthesequences.com/Chaotic-Inversion)
+原文：[Chaotic Inversion](https://www.readthesequences.com/Chaotic-Inversion)
 
 ❦ 
 
