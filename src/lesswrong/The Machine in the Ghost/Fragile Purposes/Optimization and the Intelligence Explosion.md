@@ -1,4 +1,4 @@
-# 优化与智能爆炸
+# 优化与智能爆炸 
 
 [Optimization and the Intelligence Explosion](https://www.readthesequences.com/Optimization-And-The-Intelligence-Explosion)
 

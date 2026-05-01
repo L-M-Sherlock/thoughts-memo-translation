@@ -10,7 +10,7 @@
   * [每个人都有属于自己的位置](adam/Theres%20a%20place%20for%20everyone.md)
   * [事情可以变得更好](adam/Things%20could%20be%20better.md)
   * [被低估的改变世界的方法](adam/Underrated%20ways%20to%20change%20the%20world.md)
-  * [为什么聪明人不会更快乐？](adam/Why%20arent%20smart%20people%20happier.md)
+  * [为什么聪明人没有更幸福？](adam/Why%20arent%20smart%20people%20happier.md)
 * [alfie](alfie/intro.md)
   * [教育工作者的十二条核心指南](alfie/A%20Dozen%20Essential%20Guidelines%20for%20Educators.md)
   * [标准化考试的「标准」同样值得警惕](alfie/Beware%20of%20the%20Standards%20Not%20Just%20the%20Tests.md)
