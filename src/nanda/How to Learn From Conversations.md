@@ -1,10 +1,10 @@
 # 如何从对话中学习
 
-[Mini Blog Post 5: How to Learn From Conversations — Neel Nanda](https://www.neelnanda.io/blog/mini-blog-post-5-how-to-learn-from-conversations)
+原文：[Mini Blog Post 5: How to Learn From Conversations — Neel Nanda](https://www.neelnanda.io/blog/mini-blog-post-5-how-to-learn-from-conversations)
 
-6月14日
+6 月 14 日
 
-[Neel Nanda]著(https://www.neelnanda.io/?author=5ed927247689ec0247c03233)
+作者：[Neel Nanda](https://www.neelnanda.io/?author=5ed927247689ec0247c03233)
 
 我目前正参加一个[虚拟会议](https://www.eaglobal.org/events/eagxvirtual2020/)，所以我脑子里一直思考的一件事就是：如何从那些比我涉猎更广的人身上获得最大的收获。如何尽可能多地获取信息，如何高效获取，以及如何确保我真正理解并记住了这些信息！我认为这是一种非常可以习得的技能，也是我在过去 3 年里重点培养的一项技能。与有趣的人进行迷人的对话是我人生的一大乐事，我非常看重能否把这件事做好！在这篇文章中，我将尝试分享一些我开发的核心工具！
 

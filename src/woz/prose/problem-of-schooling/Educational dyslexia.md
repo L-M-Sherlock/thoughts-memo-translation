@@ -16,9 +16,9 @@
 
 - 所有知识片段都像拼图一样被最佳地拼接在一起（参见：[拼图隐喻](https://supermemo.guru/wiki/Jigsaw_puzzle_metaphor)）
 
-- 这个拼图的关键部分是[估值](https://supermemo.guru/wiki/Valuation)（参见：[知识估值网络](https://supermemo.guru/wiki/Knowledge_valuation_network)）和[语义距离](https://supermemo.guru/wiki/Semantic_distance)（即大脑连接知识片段所需 travers 的语义通路长度）
+- 这个拼图的关键部分是[估值](https://supermemo.guru/wiki/Valuation)（参见：[知识估值网络](https://supermemo.guru/wiki/Knowledge_valuation_network)）和[语义距离](https://supermemo.guru/wiki/Semantic_distance)（即大脑连接知识片段所需要跨越的语义通路长度）
 
-- 衡量学习最优性一个简单可靠的指标是[学习的愉悦感](https://supermemo.guru/wiki/Pleasure_of_learning)
+- 衡量学习最优性一个简单可靠的指标是[学习的乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)
 
 - [非学校教育者](https://supermemo.guru/wiki/Free_learning)在构建阅读知识的拼图
 
@@ -38,7 +38,7 @@
 
 - 如果阅读激活了大量[毒性记忆](https://supermemo.guru/wiki/Toxic_memories)，可能会触发防御机制（例如逃避阅读、学校、朋友等）。进一步的学习变得不可能
 
-另请参阅：[学校是阅读障碍流行的推手](https://supermemo.guru/wiki/Schools_contribute_to_the_dyslexia_epidemic) 和 [阅读障碍阴谋](https://supermemo.guru/wiki/Dyslexia_Conspiracy)
+另请参阅：[学校是阅读障碍流行的推手](https://supermemo.guru/wiki/Schools_contribute_to_the_dyslexia_epidemic)和[阅读障碍阴谋](https://supermemo.guru/wiki/Dyslexia_Conspiracy)
 
 ## 补救措施
 
