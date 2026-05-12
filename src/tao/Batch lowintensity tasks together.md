@@ -1,10 +1,10 @@
-集中处理低强度任务
+# 集中处理低强度任务
 
-[集中处理低强度任务 | 最新动态](https://terrytao.wordpress.com/career-advice/batch-low-intensity-tasks-together/)
+原文：[Batch low-intensity tasks together | What's new](https://terrytao.wordpress.com/career-advice/batch-low-intensity-tasks-together/)
 
 > **尝试涉猎诸多领域，远比将所有精力集中于一件事要容易得多。** ([昆提利安](http://en.wikipedia.org/wiki/Quintilian))
 
-工作中面对的任务，大致可以分为两类
+工作中面对的任务，大致可以分为两类：
 
 1. 「高强度」任务：这类任务较为复杂，需要全神贯注、集中精力（例如撰写研究论文；备课或准备学术报告；起草一封冗长、详尽且严谨的电子邮件；思考数学问题；阅读研究论文或专著），以及
 
@@ -22,7 +22,7 @@
 
 至于电子邮件，流水线作业法似乎非常高效：先积攒起来，然后（a）过第一遍：删掉垃圾邮件；（b）再过一遍：处理那些容易应对的邮件（只需读一次即可删除或归档的，只需三言两语就能回复的，或是可以移入某个「待处理」文件夹的）；然后（c）如果你觉得时机合适，再处理一封或多封需要长篇回复的邮件。
 
-如果你习惯在一天中浏览多个网站，我建议使用[内容聚合器](http://en.wikipedia.org/wiki/Aggregator)（我曾用[Google Reader](http://www.google.com/reader/view/)来做这件事，直至它停止服务），这样你就可以将浏览活动集中起来一次完成，避免它们不时分散你在其他事务上的注意力。
+如果你习惯在一天中浏览多个网站，我建议使用[内容聚合器](http://en.wikipedia.org/wiki/Aggregator)（我曾用 [Google Reader](http://www.google.com/reader/view/) 来做这件事，直至它停止服务），这样你就可以将浏览活动集中起来一次完成，避免它们不时分散你在其他事务上的注意力。
 
 如果手头有一批低强度、低优先级的任务，那不妨先将其搁置，等到真正被高强度的工作耗得需要喘口气时，再处理。比如，当我在研究中遇到瓶颈，感到特别沮丧时，我就觉得这是个好时机，可以去办攒下来的杂务，处理积压的文书工作，哪怕只是补看邮件、浏览网页也好。身边备着这类轻松的任务，正好可以在创造力恢复之前，以一种还算有成效的方式打发时间。
 

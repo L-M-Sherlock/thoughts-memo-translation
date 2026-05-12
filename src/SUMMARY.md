@@ -1394,7 +1394,7 @@
 * [tao](tao/intro.md)
   * [关于天才教育的建议](tao/Advice%20on%20gifted%20education.md)
   * [不妨问自己一些傻问题——并尝试解答它们！](tao/Ask%20yourself%20dumb%20questions%20%20and%20answer%20them.md)
-  * [Batch lowintensity tasks together.md](tao/Batch%20lowintensity%20tasks%20together.md)
+  * [集中处理低强度任务](tao/Batch%20lowintensity%20tasks%20together.md)
   * [保持灵活性](tao/Be%20flexible.md)
   * [保持耐心](tao/Be%20patient.md)
   * [职业建议](tao/Career%20advice.md)
