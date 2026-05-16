@@ -1,4 +1,4 @@
-# 论系统——零意志力的生活
+# 论系统——零意志力的生活（已认领）
 
 [Mini Blog Post 19: On systems - Living a life of zero willpower — Neel Nanda](https://www.neelnanda.io/blog/mini-blog-post-19-on-systems-living-a-life-of-zero-willpower)
 
@@ -6,7 +6,7 @@
 
 Written By [Neel Nanda](https://www.neelnanda.io/?author=5ed927247689ec0247c03233)
 
-**（这篇文章探讨的是用系统和惯例来思考的心态。这篇文章主要基于我个人的视角，但这种方法相当主观。我还写了一份[教案](https://docs.google.com/document/d/1n5D8oPJZRoZm8eL7a90EOxOk23sGLh3u_P45IDMA8yo/edit)，更侧重于教授如何为你自己的问题找到系统的工具。）**
+**（这篇文章探讨的是用系统和习惯来思考的思维模式。这篇文章主要基于我个人的视角，但这种方法相当主观（译注：疑为笔误，方法相当客观）。我还写了一份[教案](https://docs.google.com/document/d/1n5D8oPJZRoZm8eL7a90EOxOk23sGLh3u_P45IDMA8yo/edit)，更侧重于教授如何为你自己的问题找到系统的工具。）**
 
 ## 引言
 

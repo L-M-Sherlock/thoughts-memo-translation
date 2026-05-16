@@ -1,4 +1,4 @@
-# 愿望的隐秘复杂性
+# 愿望的隐秘复杂性 
 
 [The Hidden Complexity of Wishes](https://www.readthesequences.com/The-Hidden-Complexity-Of-Wishes)
 

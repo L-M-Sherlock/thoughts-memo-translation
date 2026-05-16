@@ -21,3 +21,9 @@ ciallo~KK认走啦
 需要说明的是，我提出的观点，远比这条原则字面上的含义要宽得多。这条原则仅仅表明了还有大量的，被大多数人忽略的价值尚未被发掘。而我断言的是：只要付出足够的努力并掌握相应的技巧，你就*能够*找到这些价值。并且，这是一个基于真实世界世界的经验公式，而不是仅凭逻辑推演就能得出的结论。我对此深信不疑，因为它在我身上得到了验证。而这篇文章的目的，就是要概述这种现象通常以哪些形式呈现，从内部视角来看这种心态是怎样的，以及它可能会在哪些方面出现偏差。
 
 这是我此前许多文章背后的关键性底层逻辑——去发现那些在世界常态下，徒劳无功的内耗，并去克服它们。
+
+勇于实践并踏出舒适圈(https://www.neelnanda.io/blog/the-value-of-experiments)，重视信息的价值。这能帮你离开不是我们所想要的局部最优。
+
+以结果为导向[深思熟虑](https://www.neelnanda.io/blog/be-deliberate)，时刻牢记目标。建立[系统](https://www.neelnanda.io/blog/mini-blog-post-19-on-systems-living-a-life-of-zero-willpower)去采取正确而不费力的行动。停止[浅尝辄止](https://www.neelnanda.io/blog/mini-blog-post-6-stop-pressing-the-try-harder-button)，而马上行动。并学习[什么是取得最优的真正含义](https://www.neelnanda.io/blog/mini-blog-post-9-what-it-means-to-optimise)
+
+-优先考虑：[找到你真正的目标](https://www.neelnanda.io/blog/prioritisation)并[采取最有利于它们的行动](https://www.neelnanda.io/blog/2glo4ww7hd035m56cc5l7zq9r7bxhc)-若非如此，你就只是随世界默认轨迹随波逐流，你的生活将会充满徒劳无功。

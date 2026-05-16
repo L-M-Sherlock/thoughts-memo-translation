@@ -1101,7 +1101,7 @@
   * [论拖延——塑造你未来行动的艺术](nanda/On%20Procrastination%20%20The%20art%20of%20shaping%20your%20future%20actions.md)
   * [事后思考](nanda/On%20Reflection.md)
   * [关于「余裕」——给兴奋留出空间](nanda/On%20Slack%20%20Having%20room%20to%20be%20excited.md)
-  * [论系统——零意志力的生活](nanda/On%20systems%20%20Living%20a%20life%20of%20zero%20willpower.md)
+  * [论系统——零意志力的生活（已认领）](nanda/On%20systems%20%20Living%20a%20life%20of%20zero%20willpower.md)
   * [学会如何学习](nanda/Post%2034%20Learning%20how%20to%20learn.md)
   * [寻求上行风险](nanda/Seek%20Upside%20Risk.md)
   * [The world is full of wasted motion.md](nanda/The%20world%20is%20full%20of%20wasted%20motion.md)
