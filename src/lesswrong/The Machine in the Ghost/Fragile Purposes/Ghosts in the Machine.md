@@ -1,6 +1,6 @@
 # 机器中的幽灵
 
-[Ghosts in the Machine](https://www.readthesequences.com/Ghosts-In-The-Machine)
+原文：[Ghosts in the Machine](https://www.readthesequences.com/Ghosts-In-The-Machine)
 
 ❦
 

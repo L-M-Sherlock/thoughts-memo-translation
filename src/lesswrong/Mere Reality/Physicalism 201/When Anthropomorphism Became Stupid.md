@@ -1,4 +1,4 @@
-# 当拟人化变得愚蠢
+认领# 当拟人化变得愚蠢
 
 [When Anthropomorphism Became Stupid](https://www.readthesequences.com/When-Anthropomorphism-Became-Stupid)
 
