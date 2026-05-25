@@ -1,16 +1,16 @@
-# 愿望的隐秘复杂性 
+# 愿望的隐秘复杂性
 
 [The Hidden Complexity of Wishes](https://www.readthesequences.com/The-Hidden-Complexity-Of-Wishes)
 
 ❦
 
-> 我希望以我选择的地点生活在一个身体健康、无伤无损、看起来正常的「当前身体版本」中；这个身体包含我当前的精神状态；在我可获得的医疗技术条件下，它从所有伤害中恢复的速度要比平均水平快 3 个标准差；并且，它将免受任何会造成残疾、疼痛或功能下降的疾病、伤害或病症的侵害；无论是哪一种感觉、器官或身体功能，都不会因此连续超过 10 天、或在一年内累计超过 15 天受到影响……
+> 我希望能够生活在由我自行选择的地点，拥有一个身强体健、无伤无损、外观正常、包含我当前心智状态的、当前版本的身体。在我可获得的医疗技术条件下，这个身体的损伤愈合速度要比平均水平快三个标准差，并且能够抵御任何导致残疾、疼痛、功能退化、或任何感官、器官或身体机能受损超过连续十天或任何一年内总计超过十五天的疾病、损伤或疾患……
 
 >
 
-> —[The Open-Source Wish Project, Wish For Immortality 1.1](https://web.archive.org/web/20111217210507/http://homeonthestrange.com/phpBB2/viewtopic.php?t=95)
+> —[开源愿望项目，永生愿望 1.1](https://web.archive.org/web/20111217210507/http://homeonthestrange.com/phpBB2/viewtopic.php?t=95)
 
-精灵分三类：你可以安全地对其说「我希望你去做我应该希望你做的事」的精灵；**没有**任何愿望是安全的精灵；以及[不太强大或不太聪明的精灵](https://www.greaterwrong.com/lw/l8/conjuring_an_evolution_to_serve_you/)。
+世上有三类精灵：一类你可以放心地对它说，「我希望你做我应该希望你做的事」，一类则**没有**任何愿望是安全，还有一类，[不太强大也不太聪明](https://www.greaterwrong.com/lw/l8/conjuring_an_evolution_to_serve_you/)。
 
 假设你年迈的母亲被困在一栋着火的建筑里，而你碰巧坐在轮椅上；你无法自己冲进去。你可以大喊：「把我妈妈从那栋楼里救出来！」但不会有人听见。
 

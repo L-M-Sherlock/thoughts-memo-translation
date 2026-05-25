@@ -1,6 +1,6 @@
 # 事后思考
 
-[Post 39: On Reflection — Neel Nanda](https://www.neelnanda.io/blog/39-reflection)
+原文：[Post 39: On Reflection — Neel Nanda](https://www.neelnanda.io/blog/39-reflection)
 
 12月14日
 
