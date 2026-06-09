@@ -532,7 +532,7 @@
 * [gray](gray/intro.md)
   * [103. Are Schools Destroying the Joy of Reading.md](gray/103.%20Are%20Schools%20Destroying%20the%20Joy%20of%20Reading.md)
   * [15. 缺少玩耍造成儿童心理健康恶化](gray/15.%20Play%20Deficit%20as%20Cause%20of%20Decline%20in%20Childrens%20Mental%20Health.md)
-  * [2. 玩耍究竟是什么？【校对中】](gray/2.%20What%20Exactly%20Is%20Play.md)
+  * [2. 玩耍究竟是什么？](gray/2.%20What%20Exactly%20Is%20Play.md)
   * [「不让孩子留在室内」：解决国家问题的糟糕方案](gray/22No%20Child%20Left%20Inside22%20Poor%20Solution%20to%20a%20National%20Problem.md)
   * [「为什么学生不喜欢上学？」呃，呵呵……](gray/22Why%20Dont%20Students%20Like%20School22%20Well%20Duhhhha.md)
   * [3. 我们为什么要玩耍？](gray/3.%20Why%20Do%20We%20Play.md)
