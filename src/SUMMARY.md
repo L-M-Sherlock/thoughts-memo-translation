@@ -1013,7 +1013,7 @@
       * [事物空间中的互信息与密度](lesswrong/The%20Machine%20in%20the%20Ghost/A%20Human’s%20Guide%20to%20Words/Mutual%20Information%20And%20Density%20In%20Thingspace.md)
       * [神经类别](lesswrong/The%20Machine%20in%20the%20Ghost/A%20Human’s%20Guide%20to%20Words/Neural%20Categories.md)
       * [用实质替换符号](lesswrong/The%20Machine%20in%20the%20Ghost/A%20Human’s%20Guide%20to%20Words/Replace%20the%20Symbol%20with%20the%20Substance.md)
-      * [相似性簇](lesswrong/The%20Machine%20in%20the%20Ghost/A%20Human’s%20Guide%20to%20Words/Similarity%20Clusters.md)
+      * [相似性聚类](lesswrong/The%20Machine%20in%20the%20Ghost/A%20Human’s%20Guide%20to%20Words/Similarity%20Clusters.md)
       * [偷偷塞进联想义](lesswrong/The%20Machine%20in%20the%20Ghost/A%20Human’s%20Guide%20to%20Words/Sneaking%20in%20Connotations.md)
       * [超指数式概念空间（Conceptspace）与简单词语](lesswrong/The%20Machine%20in%20the%20Ghost/A%20Human’s%20Guide%20to%20Words/Superexponential%20Conceptspace%20And%20Simple%20Words.md)
       * [禁用你的词语](lesswrong/The%20Machine%20in%20the%20Ghost/A%20Human’s%20Guide%20to%20Words/Taboo%20Your%20Words.md)
