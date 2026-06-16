@@ -1018,7 +1018,7 @@
       * [超指数式概念空间（Conceptspace）与简单词语](lesswrong/The%20Machine%20in%20the%20Ghost/A%20Human’s%20Guide%20to%20Words/Superexponential%20Conceptspace%20And%20Simple%20Words.md)
       * [禁用你的词语](lesswrong/The%20Machine%20in%20the%20Ghost/A%20Human’s%20Guide%20to%20Words/Taboo%20Your%20Words.md)
       * [诉诸常见用法的论证](lesswrong/The%20Machine%20in%20the%20Ghost/A%20Human’s%20Guide%20to%20Words/The%20Argument%20from%20Common%20Usage.md)
-      * [事物空间（Thingspace）的簇状结构](lesswrong/The%20Machine%20in%20the%20Ghost/A%20Human’s%20Guide%20to%20Words/The%20Cluster%20Structure%20of%20Thingspace.md)
+      * [事物空间（Thingspace）的聚类结构](lesswrong/The%20Machine%20in%20the%20Ghost/A%20Human’s%20Guide%20to%20Words/The%20Cluster%20Structure%20of%20Thingspace.md)
       * [毒芹的寓言](lesswrong/The%20Machine%20in%20the%20Ghost/A%20Human’s%20Guide%20to%20Words/The%20Parable%20of%20Hemlock.md)
       * [匕首的寓言](lesswrong/The%20Machine%20in%20the%20Ghost/A%20Human’s%20Guide%20to%20Words/The%20Parable%20of%20the%20Dagger.md)
       * [典型性与不对称相似性](lesswrong/The%20Machine%20in%20the%20Ghost/A%20Human’s%20Guide%20to%20Words/Typicality%20and%20Asymmetrical%20Similarity.md)
