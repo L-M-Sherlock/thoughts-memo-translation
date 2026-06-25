@@ -1,6 +1,6 @@
 # 伪装的提问
 
-[Disguised Queries](https://www.readthesequences.com/Disguised-Queries)
+原文：[Disguised Queries](https://www.readthesequences.com/Disguised-Queries)
 
 ❦
 
