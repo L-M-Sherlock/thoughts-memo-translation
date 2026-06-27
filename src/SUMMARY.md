@@ -544,7 +544,7 @@
   * [52. 儿童之权，成人之失](gray/52.%20Childrens%20Rights%20and%20Adults%20Wrongs.md)
   * [55. 以自主教育为中心的学生是怎样利用智能手机的？](gray/55.%20What%20Do%20Kids%20at%20a%20Center%20for%20SelfDirected%20Education%20Do%20on%20Their%20Smartphones.md)
   * [经济不平等：高压式育儿的推手](gray/58.%20Economic%20Inequality%20as%20a%20Driver%20of%20Intensive%20Parenting.md)
-  * [6. 使玩耍成为习得技能理想途径的特质](gray/6.%20Qualities%20of%20Play%20that%20Make%20It%20Ideal%20for%20Acquiring%20Skills.md)
+  * [6. 让玩耍成为掌握技能之理想途径的特质](gray/6.%20Qualities%20of%20Play%20that%20Make%20It%20Ideal%20for%20Acquiring%20Skills.md)
   * [62. 关于儿童及其娱乐媒介、社交媒体的道德恐慌简史](gray/62.%20A%20Brief%20History%20of%20Moral%20Panics%20Concerning%20Kids%20and%20Their%20Chosen%20Media.md)
   * [63. 关于道德恐慌的更多讨论，以及我对何时该禁用智能手机的一些想法](gray/63.%20More%20on%20Moral%20Panics%20and%20Thoughts%20About%20When%20to%20Ban%20Smartphones.md)
   * [「成瘾」与「障碍」这两个术语，为何会干扰我们理解和处理网络滥用问题？——六大理由剖析](gray/64.%20Six%20Reasons%20Why%20the%20Terms%20Addiction%20and%20Disorder%20Interfere%20with%20Understanding%20and%20Treating%20Problematic%20Internet.md)
