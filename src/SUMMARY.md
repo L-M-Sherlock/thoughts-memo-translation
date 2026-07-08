@@ -555,7 +555,7 @@
   * [7. 超越 Groos：教育的生物学理论](gray/7.%20Beyond%20Groos%20A%20Biological%20Theory%20of%20Education.md)
   * [第 70 封信：更多证据表明：政府强加的学校「改革」加剧了学生的痛苦——以瑞典为例](gray/70.%20More%20Evidence%20that%20GovernmentImposed%20School%20Reforms%20Increase%20Student%20Suffering%20The%20Case%20of%20Sweden.md)
   * [第 71 封信：对学校教育和考试分数的执念所引发的心理健康恶果：以韩国为例](gray/71.%20Mental%20Health%20Consequences%20of%20an%20Obsession%20with%20Schooling%20and%20Test%20Scores%20The%20Case%20of%20South%20Korea.md)
-  * [8. 冒险性玩耍：儿童为何追求它，也为何需要它](gray/8.%20Risky%20Play%20Why%20Children%20Seek%20It%20and%20Need%20It.md)
+  * [8. 冒险玩耍：为何儿童追求它，也需要它](gray/8.%20Risky%20Play%20Why%20Children%20Seek%20It%20and%20Need%20It.md)
   * [85. 课间休息有何益处？](gray/85.%20What%20Good%20is%20Recess.md)
   * [儿童的玩耍权](gray/86.%20The%20Childs%20Right%20to%20Play.md)
   * [论如何成为一位信任并支持孩子自主的父母](gray/89.%20On%20Being%20a%20Trustful%20AutonomySupportive%20Parent.md)

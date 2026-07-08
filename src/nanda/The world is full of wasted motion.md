@@ -27,3 +27,25 @@ ciallo~KK认走啦
 以结果为导向[深思熟虑](https://www.neelnanda.io/blog/be-deliberate)，时刻牢记目标。建立[系统](https://www.neelnanda.io/blog/mini-blog-post-19-on-systems-living-a-life-of-zero-willpower)去采取正确而不费力的行动。停止[浅尝辄止](https://www.neelnanda.io/blog/mini-blog-post-6-stop-pressing-the-try-harder-button)，而马上行动。并学习[什么是取得最优的真正含义](https://www.neelnanda.io/blog/mini-blog-post-9-what-it-means-to-optimise)
 
 -优先考虑：[找到你真正的目标](https://www.neelnanda.io/blog/prioritisation)并[采取最有利于它们的行动](https://www.neelnanda.io/blog/2glo4ww7hd035m56cc5l7zq9r7bxhc)-若非如此，你就只是随世界默认轨迹随波逐流，你的生活将会充满徒劳无功。
+
+-有一个导致徒劳无功的原因——被动。培养[主观能动性](https://www.neelnanda.io/blog/become-a-person-who-actually-does-things)，克服[无所事事的幻觉](https://www.neelnanda.io/blog/mini-blog-post-15-the-illusion-of-doing-nothing)学习如何[迈出第一步](https://www.neelnanda.io/blog/mini-blog-post-21-taking-the-first-step)
+
+-注意你对生活中的问题无能为力的时候，并提醒自己[问题丞待解决](https://www.neelnanda.io/blog/mini-blog-post-7-problems-are-for-fixing)
+
+-[社交技能](https://www.neelnanda.io/blog/mini-blog-post-5-how-to-learn-from-conversations)
+
+-[同理心](https://www.neelnanda.io/blog/mini-blog-post-14-minds-should-make-sense)
+
+-[为人师](https://www.neelnanda.io/blog/mini-blog-post-18-how-to-teach-things-well)
+
+-[做一个好人](https://www.neelnanda.io/blog/mini-blog-post-10-seek-positive-externalities)
+
+-[内在动机](https://www.neelnanda.io/blog/mini-blog-post-11-live-a-life-you-feel-excited-about)
+
+-[真实信仰](https://www.neelnanda.io/blog/mini-blog-post-13-beliefs-are-for-true-things)
+
+-如果你想[改善这个世界](https://www.neelnanda.io/blog/mini-blog-post-8-what-altruism-means-to-me)，你得学会克服这些无用功
+
+学习
+
+于我而言，一个非常突出的例子是学习，尤其是数学。此间的诀窍是**学习是一个信息压缩的过程**。
