@@ -1,15 +1,16 @@
 # 贝叶斯定理的直观解释
 
-[An Intuitive Explanation Of Bayess Theorem](https://www.readthesequences.com/An-Intuitive-Explanation-Of-Bayess-Theorem)
+原文：[An Intuitive Explanation Of Bayess Theorem](https://www.readthesequences.com/An-Intuitive-Explanation-Of-Bayess-Theorem)
 
 # 贝叶斯定理的
+
 # 直观解释
 
 ❦ 
 
-[**编者按：** 本文是该随笔[原文](http://yudkowsky.net/rational/bayes)版本的节编，原版包含许多交互元素。] 
+[**编者按**：本文是[原版](http://yudkowsky.net/rational/bayes)文章的删节版，原版含有许多交互元素。] 
 
-你的朋友和同事们正在谈论某种叫作「贝叶斯理论」或「贝叶斯法则」的东西，或者某种叫作贝叶斯推理的东西。而且他们谈起来还特别兴奋，于是你去 Google 一下，找到了一个讲贝叶斯定理的网页，然后……
+你的朋友和同事都在谈论一种叫「贝叶斯定理」或「贝叶斯法则」的东西，又或者一种叫贝叶斯推理的方法。听他们的口气，还真是兴奋得不得了，于是你上网一搜，找到一个介绍贝叶斯定理的网页，然后……
 
 它就是这个方程。就这些。只有一个方程。你找到的页面给了它一个定义，但并没有告诉你它**是什么**，或者它为什么有用，或者你的朋友们为什么会对它感兴趣。它看上去像是某种莫名其妙的统计学工具。
 
